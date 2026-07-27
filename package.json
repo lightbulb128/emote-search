@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "PWA for browsing and sharing anime character emotes (GIFs)",
   "scripts": {
-    "dev": "npm run generate && astro dev",
+    "dev": "npm run generate && astro dev --host 0.0.0.0",
     "generate": "node scripts/generate-manifest.js",
     "prebuild": "node scripts/generate-icons.js && node scripts/generate-manifest.js",
     "build": "npm run prebuild && astro build",
