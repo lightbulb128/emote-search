@@ -51,15 +51,7 @@ function resolveUrl(url: string): string {
     background: var(--color-surface);
     border-radius: 0.75rem;
     overflow: hidden;
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
-    cursor: pointer;
     border: 1px solid var(--color-border);
-  }
-
-  .card:hover,
-  .card:active {
-    transform: scale(1.03);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
   }
 
   .card-image {
@@ -135,15 +127,8 @@ function resolveUrl(url: string): string {
     gap: 0.5rem;
     padding: 0.5rem 0.7rem;
     border-radius: 0.5rem;
-    cursor: pointer;
-    transition: background 0.12s;
     font-size: 0.82rem;
     color: var(--color-text);
-  }
-
-  .compact-row:hover,
-  .compact-row:active {
-    background: var(--color-surface);
   }
 
   .compact-row-char {
@@ -163,11 +148,7 @@ function resolveUrl(url: string): string {
     white-space: nowrap;
   }
 
-  .compact-row-share {
-    font-size: 0.7rem;
-    color: var(--color-accent);
-    flex-shrink: 0;
-  }
+
 
   @media (max-width: 400px) {
     .grid {
@@ -183,114 +164,7 @@ function resolveUrl(url: string): string {
     }
   }
 
-  /* Share dialog — centered overlay */
-  :global(.share-dialog) {
-    position: fixed;
-    inset: 0;
-    z-index: 10000;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    pointer-events: none;
-    opacity: 0;
-    transition: opacity 0.2s;
-  }
 
-  :global(.share-dialog.open) {
-    pointer-events: auto;
-    opacity: 1;
-  }
-
-  :global(.share-backdrop) {
-    position: absolute;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.55);
-    backdrop-filter: blur(3px);
-    -webkit-backdrop-filter: blur(3px);
-  }
-
-  :global(.share-panel) {
-    position: relative;
-    width: calc(100% - 2rem);
-    max-width: 360px;
-    background: var(--color-surface);
-    border: 1px solid var(--color-border);
-    border-radius: 1.25rem;
-    padding: 1.5rem 1.25rem;
-    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
-    transform: scale(0.92);
-    transition: transform 0.2s ease;
-  }
-
-  :global(.share-dialog.open .share-panel) {
-    transform: scale(1);
-  }
-
-  :global(.share-panel-header) {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 1rem;
-  }
-
-  :global(.share-panel-title) {
-    font-size: 1.05rem;
-    font-weight: 700;
-    color: var(--color-text);
-  }
-
-  :global(.share-panel-close) {
-    background: none;
-    border: none;
-    color: var(--color-text-muted);
-    font-size: 1.5rem;
-    cursor: pointer;
-    line-height: 1;
-    padding: 0 0.25rem;
-    border-radius: 0.5rem;
-    transition: color 0.15s, background 0.15s;
-  }
-
-  :global(.share-panel-close:hover) {
-    color: var(--color-text);
-    background: var(--color-bg);
-  }
-
-  :global(.share-panel-body) {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-
-  :global(.share-btn) {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 0.85rem 1rem;
-    border: 1px solid var(--color-border);
-    border-radius: 0.75rem;
-    background: var(--color-bg);
-    color: var(--color-text);
-    font-size: 0.95rem;
-    cursor: pointer;
-    transition: all 0.15s;
-    width: 100%;
-  }
-
-  :global(.share-btn:hover),
-  :global(.share-btn:active) {
-    background: var(--color-border);
-    border-color: var(--color-accent);
-  }
-
-  :global(.share-btn-icon) {
-    font-size: 1.3rem;
-    flex-shrink: 0;
-  }
-
-  :global(.share-btn-label) {
-    font-weight: 500;
-  }
 </style>
 
 <script>
@@ -346,236 +220,6 @@ function resolveUrl(url: string): string {
 
   let activeQuery = "";
 
-  // --- Share helper ---
-  function buildUrl(emote: EmoteEntry): string {
-    const r2Base = (import.meta.env.PUBLIC_EMOTE_BASE_URL as string) || "";
-    if (r2Base) return r2Base + emote.url.replace(/^\/emotes/, "");
-    const base = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/");
-    return location.origin + base + emote.url.replace(/^\//, "");
-  }
-
-  /** Fetch a GIF and return it as a File for sharing. */
-  async function fetchGifAsFile(url: string, name: string): Promise<File | null> {
-    try {
-      const resp = await fetch(url);
-      if (!resp.ok) return null;
-      const blob = await resp.blob();
-      const filename = name.replace(/[^a-zA-Z0-9_\- ]/g, "") + ".gif";
-      return new File([blob], filename, { type: "image/gif" });
-    } catch {
-      return null;
-    }
-  }
-
-  // --- Share dialog ---
-  let currentShareEmote: EmoteEntry | null = null;
-
-  const shareDialog = document.createElement("div");
-  shareDialog.className = "share-dialog";
-  shareDialog.innerHTML = `
-    <div class="share-backdrop"></div>
-    <div class="share-panel" role="dialog" aria-modal="true" aria-label="Share emote">
-      <div class="share-panel-header">
-        <span class="share-panel-title">Share Emote</span>
-        <button class="share-panel-close" aria-label="Close">&times;</button>
-      </div>
-      <div class="share-panel-body">
-        <button class="share-btn" data-action="copy">
-          <span class="share-btn-icon">📋</span>
-          <span class="share-btn-label">Copy Link</span>
-        </button>
-        <button class="share-btn" data-action="qq">
-          <span class="share-btn-icon">🐧</span>
-          <span class="share-btn-label">Share to QQ</span>
-        </button>
-        <button class="share-btn" data-action="native-share" style="display:none">
-          <span class="share-btn-icon">📤</span>
-          <span class="share-btn-label">Share…</span>
-        </button>
-        <button class="share-btn" data-action="gif-share" style="display:none">
-          <span class="share-btn-icon">🎞️</span>
-          <span class="share-btn-label">Share as GIF</span>
-        </button>
-      </div>
-    </div>
-  `;
-  document.body.appendChild(shareDialog);
-
-  // Toggle native share button visibility
-  const nativeShareBtn = shareDialog.querySelector('[data-action="native-share"]') as HTMLButtonElement | null;
-  const gifShareBtn = shareDialog.querySelector('[data-action="gif-share"]') as HTMLButtonElement | null;
-  if (nativeShareBtn && navigator.share) {
-    nativeShareBtn.style.display = "";
-  }
-  if (gifShareBtn && navigator.canShare && navigator.canShare({ files: [] })) {
-    gifShareBtn.style.display = "";
-  }
-
-  function openShareDialog(emote: EmoteEntry) {
-    currentShareEmote = emote;
-    shareDialog.classList.add("open");
-    document.body.style.overflow = "hidden";
-  }
-
-  function closeShareDialog() {
-    shareDialog.classList.remove("open");
-    currentShareEmote = null;
-    document.body.style.overflow = "";
-  }
-
-  shareDialog.querySelector(".share-backdrop")?.addEventListener("click", closeShareDialog);
-  shareDialog.querySelector(".share-panel-close")?.addEventListener("click", closeShareDialog);
-  shareDialog.addEventListener("click", (e) => {
-    const target = e.target as HTMLElement;
-    if (!target.closest(".share-panel")) {
-      closeShareDialog();
-    }
-  });
-
-  shareDialog.addEventListener("click", async (e) => {
-    const btn = (e.target as HTMLElement).closest("[data-action]") as HTMLElement | null;
-    if (!btn || !currentShareEmote) return;
-
-    const action = btn.dataset.action;
-    const emote = currentShareEmote;
-    const url = buildUrl(emote);
-    const name = emote.name;
-
-    closeShareDialog();
-
-    switch (action) {
-      case "copy":
-        copyToClipboard(url, name);
-        break;
-      case "qq":
-        shareToQQ(url, name);
-        break;
-      case "native-share":
-        try {
-          await navigator.share({ title: name, text: `${name} - EmoteLab`, url });
-        } catch { /* cancelled */ }
-        break;
-      case "gif-share":
-        showToast("⏳ Preparing GIF...");
-        const file = await fetchGifAsFile(url, name);
-        if (file) {
-          try {
-            await navigator.share({ files: [file], title: name });
-          } catch { /* cancelled or failed */ }
-        } else {
-          copyToClipboard(url, name);
-        }
-        break;
-    }
-  });
-
-  // ESC key to close
-  document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape" && shareDialog.classList.contains("open")) {
-      closeShareDialog();
-    }
-  });
-
-  function buildQqWebShareUrl(url: string, title: string): string {
-    const shareUrl = new URL("https://connect.qq.com/widget/shareqq/index.html");
-    shareUrl.searchParams.set("url", url);
-    shareUrl.searchParams.set("title", title);
-    shareUrl.searchParams.set("desc", `${title} - EmoteLab`);
-    shareUrl.searchParams.set("summary", "Check out this anime emote!");
-    shareUrl.searchParams.set("pics", url);
-    shareUrl.searchParams.set("site", "EmoteLab");
-    return shareUrl.toString();
-  }
-
-  function openQqWebFallback(shareUrl: string) {
-    const width = 700;
-    const height = 520;
-    const left = (screen.width - width) / 2;
-    const top = (screen.height - height) / 2;
-    const features = `width=${width},height=${height},left=${left},top=${top},toolbar=no,menubar=no,scrollbars=yes`;
-
-    const popup = window.open(shareUrl, "share-qq", features);
-    if (!popup) {
-      window.location.href = shareUrl;
-    }
-  }
-
-  /**
-   * Try opening QQ app directly (receiver picker), then fall back to QQ web share page.
-   * Note: browsers may block deep links on some platforms.
-   */
-  function shareToQQ(url: string, title: string) {
-    const webShareUrl = buildQqWebShareUrl(url, title);
-    const description = `${title} - EmoteLab`;
-    const params = new URLSearchParams({
-      src_type: "web",
-      version: "1",
-      file_type: "img",
-      title,
-      description,
-      url: "www.baidu.com",
-      thirdAppDisplayName: "EmoteLab",
-    });
-
-    const mobileScheme = `mqqapi://share/to_fri?${params.toString()}`;
-    console.log(mobileScheme)
-    const desktopScheme = `tencent.mobileqq://share/to_fri?${params.toString()}`;
-
-    let appOpened = false;
-    const onVisibility = () => {
-      if (document.hidden) appOpened = true;
-    };
-    document.addEventListener("visibilitychange", onVisibility, { once: true });
-
-    // Attempt deep link first in user-gesture context.
-    const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-    if (isMobile) {
-      window.location.href = mobileScheme;
-    } else {
-      const iframe = document.createElement("iframe");
-      iframe.style.display = "none";
-      iframe.src = desktopScheme;
-      document.body.appendChild(iframe);
-      setTimeout(() => iframe.remove(), 800);
-    }
-
-    // If app did not open, fall back to the web share page.
-    setTimeout(() => {
-      if (!appOpened) {
-        openQqWebFallback(webShareUrl);
-      }
-    }, 1200);
-  }
-
-  async function copyToClipboard(url: string, name: string) {
-    try {
-      await navigator.clipboard.writeText(url);
-      showToast(`📋 Copied link for "${name}"`);
-    } catch {
-      const input = document.createElement("input");
-      input.value = url;
-      document.body.appendChild(input);
-      input.select();
-      document.execCommand("copy");
-      document.body.removeChild(input);
-      showToast(`📋 Copied link for "${name}"`);
-    }
-  }
-
-  function showToast(message: string) {
-    const existing = document.querySelector(".toast");
-    if (existing) existing.remove();
-    const toast = document.createElement("div");
-    toast.className = "toast";
-    toast.textContent = message;
-    document.body.appendChild(toast);
-    setTimeout(() => toast.classList.add("show"), 10);
-    setTimeout(() => {
-      toast.classList.remove("show");
-      setTimeout(() => toast.remove(), 300);
-    }, 2000);
-  }
-
   // --- Render compact overflow list ---
   function renderCompactList(overflowEmotes: EmoteEntry[]) {
     if (!compactList) return;
@@ -599,12 +243,7 @@ function resolveUrl(url: string): string {
       row.innerHTML = `
         <span class="compact-row-char">${emote.character}</span>
         <span class="compact-row-name">${emote.name}</span>
-        <span class="compact-row-share">↗</span>
       `;
-      row.addEventListener("click", (e) => {
-        e.stopPropagation();
-        openShareDialog(emote);
-      });
       compactList.appendChild(row);
     });
   }
@@ -682,19 +321,7 @@ function resolveUrl(url: string): string {
     });
   });
 
-  // --- Share on card click ---
-  // Build a lookup from id → EmoteEntry for quick access
-  const emoteById = new Map(emotesData.map((e) => [e.id, e]));
 
-  grid?.addEventListener("click", (e) => {
-    const card = (e.target as HTMLElement).closest(".card") as HTMLElement | null;
-    if (!card || card.classList.contains("hidden") || card.classList.contains("compact-hidden")) return;
-
-    const id = card.dataset.id || "";
-    const emote = emoteById.get(id);
-    if (!emote) return;
-    openShareDialog(emote);
-  });
 
   // --- Keyboard shortcut: Ctrl+K / Cmd+K to focus search ---
   document.addEventListener("keydown", (e) => {

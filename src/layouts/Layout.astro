@@ -37,7 +37,6 @@ const BASE = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/");
         --color-text-muted: #8888aa;
         --color-accent: #7c5cfc;
         --color-accent-hover: #9b7eff;
-        --color-toast-bg: #2a2a4a;
       }
 
       *,
@@ -59,29 +58,6 @@ const BASE = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/");
         background: var(--color-bg);
         color: var(--color-text);
         min-height: 100dvh;
-      }
-
-      /* Toast notification */
-      .toast {
-        position: fixed;
-        bottom: 1.5rem;
-        left: 50%;
-        transform: translateX(-50%) translateY(1rem);
-        background: var(--color-toast-bg);
-        color: var(--color-text);
-        padding: 0.7rem 1.2rem;
-        border-radius: 2rem;
-        font-size: 0.85rem;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
-        opacity: 0;
-        transition: opacity 0.2s, transform 0.2s;
-        z-index: 9999;
-        pointer-events: none;
-      }
-
-      .toast.show {
-        opacity: 1;
-        transform: translateX(-50%) translateY(0);
       }
 
       /* Scrollbar */
