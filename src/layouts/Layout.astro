@@ -1,0 +1,117 @@
+---
+import type { EmoteEntry } from "../lib/types";
+
+export interface Props {
+  title: string;
+  description: string;
+  emotes: EmoteEntry[];
+}
+
+const { title, description, emotes } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#1a1a2e" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="EmoteLab" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icon-192.png" />
+    <link rel="manifest" href="/manifest.json" />
+
+    <title>{title}</title>
+
+    <style is:global>
+      :root {
+        --color-bg: #0f0f1a;
+        --color-surface: #1a1a2e;
+        --color-border: #2a2a4a;
+        --color-text: #e8e8f0;
+        --color-text-muted: #8888aa;
+        --color-accent: #7c5cfc;
+        --color-accent-hover: #9b7eff;
+        --color-toast-bg: #2a2a4a;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      html {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+          Arial, "Noto Sans", sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      body {
+        background: var(--color-bg);
+        color: var(--color-text);
+        min-height: 100dvh;
+      }
+
+      /* Toast notification */
+      .toast {
+        position: fixed;
+        bottom: 1.5rem;
+        left: 50%;
+        transform: translateX(-50%) translateY(1rem);
+        background: var(--color-toast-bg);
+        color: var(--color-text);
+        padding: 0.7rem 1.2rem;
+        border-radius: 2rem;
+        font-size: 0.85rem;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+        opacity: 0;
+        transition: opacity 0.2s, transform 0.2s;
+        z-index: 9999;
+        pointer-events: none;
+      }
+
+      .toast.show {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+      }
+
+      /* Scrollbar */
+      ::-webkit-scrollbar {
+        width: 6px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: var(--color-border);
+        border-radius: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Pass emote data as JSON for client-side search -->
+    <script id="emote-data" type="application/json" set:html={JSON.stringify(emotes)}></script>
+
+    <slot />
+
+    <!-- Register service worker -->
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          const base = import.meta.env.BASE_URL || "/";
+          navigator.serviceWorker.register(base + "sw.js").catch(() => {
+            // Service worker registration failed — non-critical
+          });
+        });
+      }
+    </script>
+  </body>
+</html>

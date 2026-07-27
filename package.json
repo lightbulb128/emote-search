@@ -1,0 +1,21 @@
+{
+  "name": "emotelab-query",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "PWA for browsing and sharing anime character emotes (GIFs)",
+  "scripts": {
+    "dev": "astro dev",
+    "prebuild": "node scripts/generate-icons.js && node scripts/generate-manifest.js",
+    "build": "npm run prebuild && astro build",
+    "preview": "astro preview",
+    "generate": "node scripts/generate-manifest.js",
+    "icons": "node scripts/generate-icons.js"
+  },
+  "dependencies": {
+    "astro": "^7.1.4",
+    "fuse.js": "^7.5.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.3"
+  }
+}

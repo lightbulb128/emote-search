@@ -1,0 +1,147 @@
+---
+const characters = [
+  { key: "alice", label: "Alice" },
+  { key: "shinki", label: "Shinki" },
+];
+---
+
+<div class="filter-bar">
+  <div class="search-wrapper">
+    <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="8"/>
+      <path d="m21 21-4.35-4.35"/>
+    </svg>
+    <input
+      type="text"
+      id="search-input"
+      placeholder="Search emotes... (Ctrl+K)"
+      autocomplete="off"
+    />
+  </div>
+  <div class="char-filter">
+    {characters.map(({ key, label }) => (
+      <button
+        class="char-btn"
+        data-char={key}
+      >
+        {label}
+      </button>
+    ))}
+    <button class="compact-toggle" id="compact-toggle" title="Toggle compact overflow mode">
+      <span class="toggle-icon">📦</span>
+      <span class="toggle-label">Compact</span>
+    </button>
+  </div>
+</div>
+
+<style>
+  .filter-bar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--color-bg);
+    padding: 0.75rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    border-bottom: 1px solid var(--color-border);
+    backdrop-filter: blur(10px);
+  }
+
+  .search-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 0.75rem;
+    width: 1.1rem;
+    height: 1.1rem;
+    color: var(--color-text-muted);
+    pointer-events: none;
+  }
+
+  #search-input {
+    width: 100%;
+    padding: 0.7rem 1rem 0.7rem 2.5rem;
+    border: 1px solid var(--color-border);
+    border-radius: 0.75rem;
+    background: var(--color-surface);
+    color: var(--color-text);
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  #search-input:focus {
+    border-color: var(--color-accent);
+  }
+
+  #search-input::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  .char-filter {
+    display: flex;
+    gap: 0.4rem;
+  }
+
+  .char-btn {
+    padding: 0.4rem 0.9rem;
+    border: 1px solid var(--color-border);
+    border-radius: 1.5rem;
+    background: var(--color-surface);
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-transform: capitalize;
+  }
+
+  .char-btn:hover {
+    color: var(--color-text);
+    border-color: var(--color-text-muted);
+  }
+
+  .char-btn.active {
+    background: var(--color-accent);
+    color: white;
+    border-color: var(--color-accent);
+  }
+
+  .compact-toggle {
+    margin-left: auto;
+    padding: 0.4rem 0.7rem;
+    border: 1px solid var(--color-border);
+    border-radius: 1.5rem;
+    background: var(--color-surface);
+    color: var(--color-text-muted);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .compact-toggle:hover {
+    color: var(--color-text);
+    border-color: var(--color-text-muted);
+  }
+
+  .compact-toggle.on {
+    background: var(--color-accent);
+    color: white;
+    border-color: var(--color-accent);
+  }
+
+  .toggle-icon {
+    font-size: 0.9rem;
+  }
+
+  .toggle-label {
+    font-size: 0.78rem;
+  }
+</style>

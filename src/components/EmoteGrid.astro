@@ -1,0 +1,402 @@
+---
+import type { EmoteEntry } from "../lib/types";
+
+interface Props {
+  character: string;
+  emotes: EmoteEntry[];
+}
+
+const { character, emotes } = Astro.props;
+// Show all cards in HTML; client-side JS handles filtering + compact overflow
+const BASE = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/");
+---
+
+<div id="emote-grid" class="grid">
+  {emotes.map((emote) => (
+    <div class="card" data-id={emote.id} data-tags={emote.tags.join(" ")} data-character={emote.character}>
+      <div class="card-image">
+        <img
+          src={`${BASE}${emote.url.replace(/^\//, "")}`}
+          alt={emote.name}
+          loading="lazy"
+          width="300"
+          height="300"
+        />
+      </div>
+      <div class="card-info">
+        <span class="card-name">{emote.name}</span>
+        <span class="card-character">{emote.character}</span>
+      </div>
+    </div>
+  ))}
+</div>
+<div id="compact-list" class="compact-list hidden"></div>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 0.75rem;
+    padding: 0.5rem;
+  }
+
+  .card {
+    background: var(--color-surface);
+    border-radius: 0.75rem;
+    overflow: hidden;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    cursor: pointer;
+    border: 1px solid var(--color-border);
+  }
+
+  .card:hover,
+  .card:active {
+    transform: scale(1.03);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .card-image {
+    aspect-ratio: 1;
+    overflow: hidden;
+    background: var(--color-bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .card-info {
+    padding: 0.5rem 0.6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  .card-name {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-text);
+    line-height: 1.2;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-character {
+    font-size: 0.68rem;
+    color: var(--color-text-muted);
+    text-transform: capitalize;
+  }
+
+  .card.hidden {
+    display: none;
+  }
+
+  .card.compact-hidden {
+    display: none;
+  }
+
+  /* Compact text-only list for overflow results */
+  .compact-list {
+    padding: 0 0.5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .compact-list.hidden {
+    display: none;
+  }
+
+  .compact-list-header {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    padding: 0.5rem 0.7rem 0.3rem;
+    border-top: 1px solid var(--color-border);
+    margin-top: 0.3rem;
+  }
+
+  .compact-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0.7rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: background 0.12s;
+    font-size: 0.82rem;
+    color: var(--color-text);
+  }
+
+  .compact-row:hover,
+  .compact-row:active {
+    background: var(--color-surface);
+  }
+
+  .compact-row-char {
+    font-size: 0.65rem;
+    color: var(--color-text-muted);
+    text-transform: capitalize;
+    background: var(--color-border);
+    padding: 0.12rem 0.4rem;
+    border-radius: 0.25rem;
+    flex-shrink: 0;
+  }
+
+  .compact-row-name {
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .compact-row-share {
+    font-size: 0.7rem;
+    color: var(--color-accent);
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 400px) {
+    .grid {
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 0.5rem;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .grid {
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 1rem;
+    }
+  }
+</style>
+
+<script>
+  import { search, createSearchIndex, getAllEmotes } from "../lib/search";
+  import type { EmoteEntry } from "../lib/types";
+
+  const MAX_VISIBLE_CARDS = 9;
+  const STORAGE_KEY = "emotelab-char";
+  const COMPACT_KEY = "emotelab-compact";
+
+  // Initialize Fuse.js with all emotes
+  const emotesData: EmoteEntry[] = JSON.parse(
+    document.getElementById("emote-data")?.textContent || "[]"
+  );
+  createSearchIndex(emotesData);
+
+  // --- Compact toggle ---
+  let compactMode = localStorage.getItem(COMPACT_KEY) !== "false"; // default ON
+
+  const compactToggle = document.getElementById("compact-toggle") as HTMLButtonElement | null;
+  function updateCompactButton() {
+    if (!compactToggle) return;
+    compactToggle.classList.toggle("on", compactMode);
+    const icon = compactToggle.querySelector(".toggle-icon");
+    const label = compactToggle.querySelector(".toggle-label");
+    if (icon) icon.textContent = compactMode ? "📦" : "🖼️";
+    if (label) label.textContent = compactMode ? "Compact" : "Full";
+  }
+  updateCompactButton();
+
+  compactToggle?.addEventListener("click", () => {
+    compactMode = !compactMode;
+    localStorage.setItem(COMPACT_KEY, String(compactMode));
+    updateCompactButton();
+    updateDisplay();
+  });
+
+  // --- Character persistence ---
+  const searchInput = document.getElementById("search-input") as HTMLInputElement | null;
+  const grid = document.getElementById("emote-grid") as HTMLElement | null;
+  const compactList = document.getElementById("compact-list") as HTMLElement | null;
+  const charButtons = document.querySelectorAll<HTMLButtonElement>(".char-btn");
+
+  // Read saved character or default to "alice"
+  let activeCharacter = localStorage.getItem(STORAGE_KEY) || "alice";
+
+  // Activate the correct button
+  charButtons.forEach((btn) => {
+    if (btn.dataset.char === activeCharacter) {
+      btn.classList.add("active");
+    }
+  });
+
+  let activeQuery = "";
+
+  // --- Share helper ---
+  function buildUrl(emote: EmoteEntry): string {
+    const base = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/");
+    return location.origin + base + emote.url.replace(/^\//, "");
+  }
+
+  async function shareEmote(url: string, name: string) {
+    if (navigator.share) {
+      navigator.share({ title: name, text: `${name} - EmoteLab`, url })
+        .catch(() => copyToClipboard(url, name));
+    } else {
+      copyToClipboard(url, name);
+    }
+  }
+
+  async function copyToClipboard(url: string, name: string) {
+    try {
+      await navigator.clipboard.writeText(url);
+      showToast(`📋 Copied link for "${name}"`);
+    } catch {
+      const input = document.createElement("input");
+      input.value = url;
+      document.body.appendChild(input);
+      input.select();
+      document.execCommand("copy");
+      document.body.removeChild(input);
+      showToast(`📋 Copied link for "${name}"`);
+    }
+  }
+
+  function showToast(message: string) {
+    const existing = document.querySelector(".toast");
+    if (existing) existing.remove();
+    const toast = document.createElement("div");
+    toast.className = "toast";
+    toast.textContent = message;
+    document.body.appendChild(toast);
+    setTimeout(() => toast.classList.add("show"), 10);
+    setTimeout(() => {
+      toast.classList.remove("show");
+      setTimeout(() => toast.remove(), 300);
+    }, 2000);
+  }
+
+  // --- Render compact overflow list ---
+  function renderCompactList(overflowEmotes: EmoteEntry[]) {
+    if (!compactList) return;
+    compactList.innerHTML = "";
+
+    if (overflowEmotes.length === 0) {
+      compactList.classList.add("hidden");
+      return;
+    }
+
+    compactList.classList.remove("hidden");
+
+    const header = document.createElement("div");
+    header.className = "compact-list-header";
+    header.textContent = `+ ${overflowEmotes.length} more result${overflowEmotes.length > 1 ? "s" : ""}`;
+    compactList.appendChild(header);
+
+    overflowEmotes.forEach((emote) => {
+      const row = document.createElement("div");
+      row.className = "compact-row";
+      row.innerHTML = `
+        <span class="compact-row-char">${emote.character}</span>
+        <span class="compact-row-name">${emote.name}</span>
+        <span class="compact-row-share">↗</span>
+      `;
+      row.addEventListener("click", (e) => {
+        e.stopPropagation();
+        shareEmote(buildUrl(emote), emote.name);
+      });
+      compactList.appendChild(row);
+    });
+  }
+
+  // --- Update display ---
+  function updateDisplay() {
+    if (!grid) return;
+    const cards = grid.querySelectorAll<HTMLElement>(".card");
+
+    // Build a lookup: id → DOM card element
+    const cardById = new Map<string, HTMLElement>();
+    cards.forEach((card) => {
+      cardById.set(card.dataset.id || "", card);
+    });
+
+    // Determine matching results (already in Fuse score order when searching)
+    let results: EmoteEntry[] = [];
+    if (activeQuery) {
+      results = search(activeQuery);
+    } else {
+      // No query: show all for the active character, alphabetical
+      results = getAllEmotes().filter((e) => e.character === activeCharacter);
+    }
+
+    const allResultIds = new Set(results.map((r) => r.id));
+
+    // Show/hide cards and reorder by search ranking
+    cards.forEach((card) => {
+      const id = card.dataset.id || "";
+      const shouldShow = allResultIds.has(id);
+      card.classList.toggle("hidden", !shouldShow);
+      card.classList.remove("compact-hidden");
+      card.style.order = ""; // reset
+    });
+
+    // Assign CSS order to visible cards so they appear in search-result order
+    results.forEach((emote, i) => {
+      const card = cardById.get(emote.id);
+      if (card) {
+        card.style.order = String(i);
+      }
+    });
+
+    // Only use compact overflow when enabled AND actively searching (> 3 results)
+    if (compactMode && activeQuery && results.length > MAX_VISIBLE_CARDS) {
+      // Hide cards beyond the top MAX_VISIBLE_CARDS
+      for (let i = MAX_VISIBLE_CARDS; i < results.length; i++) {
+        const card = cardById.get(results[i].id);
+        if (card) {
+          card.classList.add("compact-hidden");
+        }
+      }
+      renderCompactList(results.slice(MAX_VISIBLE_CARDS));
+    } else {
+      renderCompactList([]);
+    }
+  }
+
+  // --- Event listeners ---
+  searchInput?.addEventListener("input", () => {
+    activeQuery = searchInput.value;
+    updateDisplay();
+  });
+
+  charButtons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      charButtons.forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+      activeCharacter = btn.dataset.char || "alice";
+      localStorage.setItem(STORAGE_KEY, activeCharacter);
+      updateDisplay();
+    });
+  });
+
+  // --- Share on card click ---
+  grid?.addEventListener("click", (e) => {
+    const card = (e.target as HTMLElement).closest(".card") as HTMLElement | null;
+    if (!card || card.classList.contains("hidden") || card.classList.contains("compact-hidden")) return;
+
+    const img = card.querySelector("img") as HTMLImageElement | null;
+    const url = img?.src;
+    const name = card.querySelector(".card-name")?.textContent || "emote";
+    if (!url) return;
+    shareEmote(url, name);
+  });
+
+  // --- Keyboard shortcut: Ctrl+K / Cmd+K to focus search ---
+  document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === "k") {
+      e.preventDefault();
+      searchInput?.focus();
+    }
+  });
+
+  // --- Initial display ---
+  updateDisplay();
+</script>
