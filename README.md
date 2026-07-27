@@ -123,7 +123,3 @@ emotelab-query/
 - [Fuse.js](https://fusejs.io/) — client-side fuzzy search
 - [Sharp](https://sharp.pixelplumbing.com/) — PWA icon generation
 - GitHub Pages + GitHub Actions — free hosting & CI/CD
-
-## License
-
-MIT
