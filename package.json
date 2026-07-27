@@ -8,7 +8,6 @@
     "generate": "node scripts/generate-manifest.js",
     "prebuild": "node scripts/generate-icons.js && node scripts/generate-manifest.js",
     "build": "npm run prebuild && astro build",
-    "build:prod": "cross-env EMOTE_BASE_URL=$EMOTE_BASE_URL npm run build",
     "preview": "astro preview",
     "icons": "node scripts/generate-icons.js",
     "upload": "node scripts/upload-to-r2.js"

@@ -17,11 +17,11 @@ A Progressive Web App for browsing, searching, and sharing anime character emote
 # Install dependencies
 npm install
 
-# Generate PWA icons + emote manifest, then start dev server
+# Drop your GIFs into public/emotes/<character>/, then:
 npm run dev
 ```
 
-Open `http://localhost:4321/emotelab-query` in your browser.
+Open `http://localhost:4321/emote-search` in your browser.
 
 ## Adding New Emotes
 
@@ -29,33 +29,66 @@ Open `http://localhost:4321/emotelab-query` in your browser.
 2. Run `npm run generate` to rebuild the searchable manifest
 3. Optionally add tag enrichment in `scripts/generate-manifest.js` → `TAG_ENRICHMENT`
 
-## Deployment (GitHub Pages)
+## Deployment
 
-### 1. Update config
+### Architecture
 
-Edit `astro.config.mjs` and replace `YOUR_USERNAME` with your GitHub username:
+GIFs are too large for GitHub (500MB+). They're stored on **Cloudflare R2** (10GB free tier). The site itself is a static PWA hosted on GitHub Pages.
 
-```js
-site: "https://YOUR_USERNAME.github.io",
-```
+- **Local dev**: GIFs served from `public/emotes/` (kept locally, gitignored)
+- **Production**: GIFs served from R2. The build reads `PUBLIC_EMOTE_BASE_URL` env var and rewrites image URLs to R2.
 
-### 2. Push to GitHub
+### 1. Set up Cloudflare R2
+
+1. Create an R2 bucket at [dash.cloudflare.com](https://dash.cloudflare.com) → R2
+2. Create an API token with **Object Read & Write** permission
+3. Enable public access for your bucket under **Settings** → **Public Access** → allow `r2.dev` subdomain
+4. Note your public URL (e.g. `https://pub-xxxxxxxxxxxxxxxxxxxxx.r2.dev`)
+
+### 2. Upload GIFs to R2
+
+Copy `.env.example` to `.env` and fill in your R2 credentials, then:
 
 ```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/emotelab-query.git
+npm run upload
+```
+
+This uploads all GIFs from `public/emotes/` to R2 with `Cache-Control: public, max-age=31536000, immutable`.
+
+### 3. Configure GitHub
+
+Add these secrets in your repo → **Settings** → **Secrets and variables** → **Actions**:
+
+| Secret | Value |
+|---|---|
+| `PUBLIC_EMOTE_BASE_URL` | Your R2 public URL (e.g. `https://pub-xxx.r2.dev`) |
+
+### 4. Push to GitHub
+
+```bash
+git remote add origin git@github.com:lightbulb128/emote-search.git
 git push -u origin main
 ```
 
-### 3. Enable GitHub Pages
+### 5. Enable GitHub Pages
 
-Go to your repo on GitHub → **Settings** → **Pages** → set **Source** to **GitHub Actions**.
+Repo → **Settings** → **Pages** → Source: **GitHub Actions**.
 
-The deploy workflow (`.github/workflows/deploy.yml`) will automatically build and deploy on every push to `main`.
+Your site will be live at `https://lightbulb128.github.io/emote-search/`.
 
-Your site will be live at `https://YOUR_USERNAME.github.io/emotelab-query/`.
+### Adding new characters/emotes
+
+```bash
+# 1. Drop new GIFs into public/emotes/<new-character>/
+# 2. Upload to R2
+npm run upload
+# 3. Regenerate manifest
+npm run generate
+# 4. Commit & push (GIFs are gitignored, only the manifest changes)
+git add src/data/ scripts/generate-manifest.js
+git commit -m "Add <character> emotes"
+git push
+```
 
 ## Project Structure
 
