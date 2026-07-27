@@ -2,7 +2,7 @@
 // Caches essential assets for offline use and fast loading
 
 const CACHE_NAME = "emotelab-v1";
-const BASE_PATH = "/emotelab-query";
+const BASE_PATH = "/emote-search";
 
 const PRECACHE_URLS = [
   `${BASE_PATH}/`,

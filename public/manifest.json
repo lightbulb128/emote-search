@@ -2,32 +2,32 @@
   "name": "EmoteLab - Anime Emote Browser",
   "short_name": "EmoteLab",
   "description": "Browse, search, and share anime character emotes (GIFs)",
-  "start_url": "/emotelab-query/",
-  "scope": "/emotelab-query/",
+  "start_url": "/emote-search/",
+  "scope": "/emote-search/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#0f0f1a",
   "theme_color": "#7c5cfc",
   "icons": [
     {
-      "src": "/emotelab-query/icon-192.png",
+      "src": "/emote-search/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/emotelab-query/icon-512.png",
+      "src": "/emote-search/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/emotelab-query/icon-512.png",
+      "src": "/emote-search/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     }
   ],
   "share_target": {
-    "action": "/emotelab-query/",
+    "action": "/emote-search/",
     "method": "GET",
     "enctype": "application/x-www-form-urlencoded",
     "params": {
