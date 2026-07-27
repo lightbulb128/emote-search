@@ -370,8 +370,11 @@ function resolveUrl(url: string): string {
       results = search(activeQuery);
     } else {
       // No query: show all for the active character, alphabetical
-      results = getAllEmotes().filter((e) => e.character === activeCharacter);
+      results = getAllEmotes();
     }
+
+    // Always filter by the selected character
+    results = results.filter((e) => e.character === activeCharacter);
 
     const allResultIds = new Set(results.map((r) => r.id));
 
