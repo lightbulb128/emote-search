@@ -19,7 +19,12 @@ const OUTPUT_FILE = join(__dirname, "..", "src", "data", "manifest.json");
  * @property {string} url
  */
 
-const CHARACTERS = ["alice", "shinki", "rin", "sanae"];
+// Auto-discover character folders from public/emotes/
+const CHARACTERS = existsSync(EMOTES_DIR)
+  ? readdirSync(EMOTES_DIR, { withFileTypes: true })
+      .filter((d) => d.isDirectory())
+      .map((d) => d.name)
+  : [];
 
 /**
  * Parse a filename like "Eat (Donut).gif" into { action: "Eat", variant: "Donut" }
