@@ -245,13 +245,50 @@ function resolveUrl(url: string): string {
     return location.origin + base + emote.url.replace(/^\//, "");
   }
 
-  async function shareEmote(url: string, name: string) {
-    if (navigator.share) {
-      navigator.share({ title: name, text: `${name} - EmoteLab`, url })
-        .catch(() => copyToClipboard(url, name));
-    } else {
-      copyToClipboard(url, name);
+  /** Fetch a GIF and return it as a File for sharing. */
+  async function fetchGifAsFile(url: string, name: string): Promise<File | null> {
+    try {
+      const resp = await fetch(url);
+      if (!resp.ok) return null;
+      const blob = await resp.blob();
+      const filename = name.replace(/[^a-zA-Z0-9_\- ]/g, "") + ".gif";
+      return new File([blob], filename, { type: "image/gif" });
+    } catch {
+      return null;
     }
+  }
+
+  /** Share an emote: try file (GIF) first, fall back to URL, then clipboard. */
+  async function shareEmote(emote: EmoteEntry) {
+    const url = buildUrl(emote);
+    const name = emote.name;
+
+    // Try sharing as an actual GIF file (best for chat apps)
+    if (navigator.canShare && navigator.canShare({ files: [] })) {
+      showToast("⏳ Preparing GIF...");
+      const file = await fetchGifAsFile(url, name);
+      if (file) {
+        try {
+          await navigator.share({ files: [file], title: name });
+          return; // success!
+        } catch (err) {
+          // User cancelled or file sharing failed — fall through to URL
+        }
+      }
+    }
+
+    // Fallback: share as URL
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: name, text: `${name} - EmoteLab`, url });
+        return;
+      } catch {
+        // User cancelled — fall through to clipboard
+      }
+    }
+
+    // Last resort: copy URL
+    copyToClipboard(url, name);
   }
 
   async function copyToClipboard(url: string, name: string) {
@@ -310,7 +347,7 @@ function resolveUrl(url: string): string {
       `;
       row.addEventListener("click", (e) => {
         e.stopPropagation();
-        shareEmote(buildUrl(emote), emote.name);
+        shareEmote(emote);
       });
       compactList.appendChild(row);
     });
@@ -387,15 +424,17 @@ function resolveUrl(url: string): string {
   });
 
   // --- Share on card click ---
+  // Build a lookup from id → EmoteEntry for quick access
+  const emoteById = new Map(emotesData.map((e) => [e.id, e]));
+
   grid?.addEventListener("click", (e) => {
     const card = (e.target as HTMLElement).closest(".card") as HTMLElement | null;
     if (!card || card.classList.contains("hidden") || card.classList.contains("compact-hidden")) return;
 
-    const img = card.querySelector("img") as HTMLImageElement | null;
-    const url = img?.src;
-    const name = card.querySelector(".card-name")?.textContent || "emote";
-    if (!url) return;
-    shareEmote(url, name);
+    const id = card.dataset.id || "";
+    const emote = emoteById.get(id);
+    if (!emote) return;
+    shareEmote(emote);
   });
 
   // --- Keyboard shortcut: Ctrl+K / Cmd+K to focus search ---
