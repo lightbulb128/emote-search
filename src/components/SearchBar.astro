@@ -1,8 +1,9 @@
 ---
-const characters = [
-  { key: "alice", label: "Alice" },
-  { key: "shinki", label: "Shinki" },
-];
+interface Props {
+  characters: string[];
+}
+
+const { characters } = Astro.props;
 ---
 
 <div class="filter-bar">
@@ -19,12 +20,12 @@ const characters = [
     />
   </div>
   <div class="char-filter">
-    {characters.map(({ key, label }) => (
+    {characters.map((key) => (
       <button
         class="char-btn"
         data-char={key}
       >
-        {label}
+        {key.charAt(0).toUpperCase() + key.slice(1)}
       </button>
     ))}
     <button class="compact-toggle" id="compact-toggle" title="Toggle compact overflow mode">

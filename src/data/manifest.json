@@ -7286,34 +7286,6 @@
     "localUrl": "/emotes/sanae/Work%20Tired.gif"
   },
   {
-    "id": "shinki-v1-button-2026-07-28-00-26-10",
-    "character": "shinki",
-    "name": "神绮v1_Button_2026-07-28-00-26-10",
-    "action": "神绮v1_Button_2026-07-28-00-26-10",
-    "variant": "",
-    "tags": [
-      "神绮v1_button_2026-07-28-00-26-10"
-    ],
-    "filename": "神绮v1_Button_2026-07-28-00-26-10.gif",
-    "url": "/emotes/shinki/%E7%A5%9E%E7%BB%AEv1_Button_2026-07-28-00-26-10.gif",
-    "localUrl": "/emotes/shinki/%E7%A5%9E%E7%BB%AEv1_Button_2026-07-28-00-26-10.gif"
-  },
-  {
-    "id": "shinki-v1-dance-low-cortisol-2026-07-28-00-27-21",
-    "character": "shinki",
-    "name": "神绮v1_Dance (Low Cortisol)_2026-07-28-00-27-21",
-    "action": "神绮v1_Dance (Low Cortisol)_2026-07-28-00-27-21",
-    "variant": "",
-    "tags": [
-      "神绮v1_dance",
-      "(low",
-      "cortisol)_2026-07-28-00-27-21"
-    ],
-    "filename": "神绮v1_Dance (Low Cortisol)_2026-07-28-00-27-21.gif",
-    "url": "/emotes/shinki/%E7%A5%9E%E7%BB%AEv1_Dance%20(Low%20Cortisol)_2026-07-28-00-27-21.gif",
-    "localUrl": "/emotes/shinki/%E7%A5%9E%E7%BB%AEv1_Dance%20(Low%20Cortisol)_2026-07-28-00-27-21.gif"
-  },
-  {
     "id": "shinki-alert-bits",
     "character": "shinki",
     "name": "Alert Bits",
@@ -7528,6 +7500,20 @@
     "filename": "Button.gif",
     "url": "/emotes/shinki/Button.gif",
     "localUrl": "/emotes/shinki/Button.gif"
+  },
+  {
+    "id": "shinki-button-fast",
+    "character": "shinki",
+    "name": "Button Fast",
+    "action": "Button Fast",
+    "variant": "",
+    "tags": [
+      "button",
+      "fast"
+    ],
+    "filename": "Button Fast.gif",
+    "url": "/emotes/shinki/Button%20Fast.gif",
+    "localUrl": "/emotes/shinki/Button%20Fast.gif"
   },
   {
     "id": "shinki-cake",

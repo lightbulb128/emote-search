@@ -6,6 +6,12 @@ import manifest from "../data/manifest.json";
 
 const siteTitle = "EmoteLab — Anime Emote Browser";
 const siteDescription = "Browse, search, and share anime character emotes (GIFs)";
+
+// Derive unique characters from the manifest (in order of first appearance)
+const seen = new Set<string>();
+const characters = manifest
+  .map((e) => e.character)
+  .filter((c) => (seen.has(c) ? false : (seen.add(c), true)));
 ---
 
 <Layout title={siteTitle} description={siteDescription} emotes={manifest}>
@@ -14,8 +20,8 @@ const siteDescription = "Browse, search, and share anime character emotes (GIFs)
     <span class="count">{manifest.length} emotes</span>
   </header>
 
-  <SearchBar />
-  <EmoteGrid character="alice" emotes={manifest} />
+  <SearchBar characters={characters} />
+  <EmoteGrid character={characters[0]} emotes={manifest} />
 
   <footer class="app-footer">
     <p>Tap any emote to share it • <kbd>Ctrl+K</kbd> to search</p>
