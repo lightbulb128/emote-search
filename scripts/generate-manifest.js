@@ -189,6 +189,12 @@ const TAG_ENRICHMENT = {
 };
 
 function main() {
+  // In CI (no GIFs checked in), skip generation and keep committed manifest
+  if (!existsSync(EMOTES_DIR)) {
+    console.log("⚠ public/emotes/ not found — skipping manifest generation (using committed version)");
+    return;
+  }
+
   /** @type {EmoteEntry[]} */
   const entries = [];
 
@@ -223,6 +229,9 @@ function main() {
         .replace(/[^a-z0-9]+/g, "-")
         .replace(/^-|-$/g, "");
 
+      // Always use local path; R2 URL substitution happens at Astro build time
+      const urlPath = `${character}/${encodeURI(file)}`;
+
       entries.push({
         id: slug,
         character,
@@ -231,7 +240,8 @@ function main() {
         variant: variant || "",
         tags,
         filename: file,
-        url: `/emotes/${character}/${encodeURI(file)}`,
+        url: `/emotes/${urlPath}`,
+        localUrl: `/emotes/${urlPath}`,
       });
     }
   }

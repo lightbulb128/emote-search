@@ -12,7 +12,8 @@
       "streaming"
     ],
     "filename": "Alert Bits.gif",
-    "url": "/emotes/alice/Alert%20Bits.gif"
+    "url": "/emotes/alice/Alert%20Bits.gif",
+    "localUrl": "/emotes/alice/Alert%20Bits.gif"
   },
   {
     "id": "alice-alert-donation",
@@ -28,7 +29,8 @@
       "streaming"
     ],
     "filename": "Alert Donation.gif",
-    "url": "/emotes/alice/Alert%20Donation.gif"
+    "url": "/emotes/alice/Alert%20Donation.gif",
+    "localUrl": "/emotes/alice/Alert%20Donation.gif"
   },
   {
     "id": "alice-alert-heart",
@@ -44,7 +46,8 @@
       "streaming"
     ],
     "filename": "Alert Heart.gif",
-    "url": "/emotes/alice/Alert%20Heart.gif"
+    "url": "/emotes/alice/Alert%20Heart.gif",
+    "localUrl": "/emotes/alice/Alert%20Heart.gif"
   },
   {
     "id": "alice-alert-like",
@@ -59,7 +62,8 @@
       "streaming"
     ],
     "filename": "Alert Like.gif",
-    "url": "/emotes/alice/Alert%20Like.gif"
+    "url": "/emotes/alice/Alert%20Like.gif",
+    "localUrl": "/emotes/alice/Alert%20Like.gif"
   },
   {
     "id": "alice-alert-star",
@@ -74,7 +78,8 @@
       "streaming"
     ],
     "filename": "Alert Star.gif",
-    "url": "/emotes/alice/Alert%20Star.gif"
+    "url": "/emotes/alice/Alert%20Star.gif",
+    "localUrl": "/emotes/alice/Alert%20Star.gif"
   },
   {
     "id": "alice-angry",
@@ -90,7 +95,8 @@
       "furious"
     ],
     "filename": "Angry.gif",
-    "url": "/emotes/alice/Angry.gif"
+    "url": "/emotes/alice/Angry.gif",
+    "localUrl": "/emotes/alice/Angry.gif"
   },
   {
     "id": "alice-arrive-with-chopstick",
@@ -108,7 +114,8 @@
       "hello"
     ],
     "filename": "Arrive (with Chopstick).gif",
-    "url": "/emotes/alice/Arrive%20(with%20Chopstick).gif"
+    "url": "/emotes/alice/Arrive%20(with%20Chopstick).gif",
+    "localUrl": "/emotes/alice/Arrive%20(with%20Chopstick).gif"
   },
   {
     "id": "alice-arrive-with-spoon",
@@ -126,7 +133,8 @@
       "hello"
     ],
     "filename": "Arrive (with Spoon).gif",
-    "url": "/emotes/alice/Arrive%20(with%20Spoon).gif"
+    "url": "/emotes/alice/Arrive%20(with%20Spoon).gif",
+    "localUrl": "/emotes/alice/Arrive%20(with%20Spoon).gif"
   },
   {
     "id": "alice-arrive",
@@ -142,7 +150,8 @@
       "hello"
     ],
     "filename": "Arrive.gif",
-    "url": "/emotes/alice/Arrive.gif"
+    "url": "/emotes/alice/Arrive.gif",
+    "localUrl": "/emotes/alice/Arrive.gif"
   },
   {
     "id": "alice-bell",
@@ -156,7 +165,8 @@
       "notification"
     ],
     "filename": "Bell.gif",
-    "url": "/emotes/alice/Bell.gif"
+    "url": "/emotes/alice/Bell.gif",
+    "localUrl": "/emotes/alice/Bell.gif"
   },
   {
     "id": "alice-bonk",
@@ -170,7 +180,8 @@
       "joke"
     ],
     "filename": "Bonk.gif",
-    "url": "/emotes/alice/Bonk.gif"
+    "url": "/emotes/alice/Bonk.gif",
+    "localUrl": "/emotes/alice/Bonk.gif"
   },
   {
     "id": "alice-bug",
@@ -185,7 +196,8 @@
       "insect"
     ],
     "filename": "Bug.gif",
-    "url": "/emotes/alice/Bug.gif"
+    "url": "/emotes/alice/Bug.gif",
+    "localUrl": "/emotes/alice/Bug.gif"
   },
   {
     "id": "alice-button",
@@ -200,7 +212,8 @@
       "interact"
     ],
     "filename": "Button.gif",
-    "url": "/emotes/alice/Button.gif"
+    "url": "/emotes/alice/Button.gif",
+    "localUrl": "/emotes/alice/Button.gif"
   },
   {
     "id": "alice-button-fast",
@@ -213,7 +226,8 @@
       "fast"
     ],
     "filename": "Button Fast.gif",
-    "url": "/emotes/alice/Button%20Fast.gif"
+    "url": "/emotes/alice/Button%20Fast.gif",
+    "localUrl": "/emotes/alice/Button%20Fast.gif"
   },
   {
     "id": "alice-cake",
@@ -228,7 +242,8 @@
       "food"
     ],
     "filename": "Cake.gif",
-    "url": "/emotes/alice/Cake.gif"
+    "url": "/emotes/alice/Cake.gif",
+    "localUrl": "/emotes/alice/Cake.gif"
   },
   {
     "id": "alice-card-swipe",
@@ -243,7 +258,8 @@
       "payment"
     ],
     "filename": "Card Swipe.gif",
-    "url": "/emotes/alice/Card%20Swipe.gif"
+    "url": "/emotes/alice/Card%20Swipe.gif",
+    "localUrl": "/emotes/alice/Card%20Swipe.gif"
   },
   {
     "id": "alice-caught-in-4k-phone",
@@ -261,7 +277,8 @@
       "evidence"
     ],
     "filename": "Caught in 4K (Phone).gif",
-    "url": "/emotes/alice/Caught%20in%204K%20(Phone).gif"
+    "url": "/emotes/alice/Caught%20in%204K%20(Phone).gif",
+    "localUrl": "/emotes/alice/Caught%20in%204K%20(Phone).gif"
   },
   {
     "id": "alice-caught-in-4k-video-camera",
@@ -279,7 +296,8 @@
       "evidence"
     ],
     "filename": "Caught in 4K (Video Camera).gif",
-    "url": "/emotes/alice/Caught%20in%204K%20(Video%20Camera).gif"
+    "url": "/emotes/alice/Caught%20in%204K%20(Video%20Camera).gif",
+    "localUrl": "/emotes/alice/Caught%20in%204K%20(Video%20Camera).gif"
   },
   {
     "id": "alice-celebration",
@@ -295,7 +313,8 @@
       "confetti"
     ],
     "filename": "Celebration.gif",
-    "url": "/emotes/alice/Celebration.gif"
+    "url": "/emotes/alice/Celebration.gif",
+    "localUrl": "/emotes/alice/Celebration.gif"
   },
   {
     "id": "alice-cheer",
@@ -310,7 +329,8 @@
       "happy"
     ],
     "filename": "Cheer.gif",
-    "url": "/emotes/alice/Cheer.gif"
+    "url": "/emotes/alice/Cheer.gif",
+    "localUrl": "/emotes/alice/Cheer.gif"
   },
   {
     "id": "alice-cheers",
@@ -325,7 +345,8 @@
       "celebrate"
     ],
     "filename": "Cheers.gif",
-    "url": "/emotes/alice/Cheers.gif"
+    "url": "/emotes/alice/Cheers.gif",
+    "localUrl": "/emotes/alice/Cheers.gif"
   },
   {
     "id": "alice-cheese-slap",
@@ -339,7 +360,8 @@
       "funny"
     ],
     "filename": "Cheese Slap.gif",
-    "url": "/emotes/alice/Cheese%20Slap.gif"
+    "url": "/emotes/alice/Cheese%20Slap.gif",
+    "localUrl": "/emotes/alice/Cheese%20Slap.gif"
   },
   {
     "id": "alice-clown-1",
@@ -355,7 +377,8 @@
       "circus"
     ],
     "filename": "Clown 1.gif",
-    "url": "/emotes/alice/Clown%201.gif"
+    "url": "/emotes/alice/Clown%201.gif",
+    "localUrl": "/emotes/alice/Clown%201.gif"
   },
   {
     "id": "alice-clown-2",
@@ -371,7 +394,8 @@
       "circus"
     ],
     "filename": "Clown 2.gif",
-    "url": "/emotes/alice/Clown%202.gif"
+    "url": "/emotes/alice/Clown%202.gif",
+    "localUrl": "/emotes/alice/Clown%202.gif"
   },
   {
     "id": "alice-coke-shake",
@@ -387,7 +411,8 @@
       "funny"
     ],
     "filename": "Coke Shake.gif",
-    "url": "/emotes/alice/Coke%20Shake.gif"
+    "url": "/emotes/alice/Coke%20Shake.gif",
+    "localUrl": "/emotes/alice/Coke%20Shake.gif"
   },
   {
     "id": "alice-coke-shake-fast",
@@ -401,7 +426,8 @@
       "fast"
     ],
     "filename": "Coke Shake Fast.gif",
-    "url": "/emotes/alice/Coke%20Shake%20Fast.gif"
+    "url": "/emotes/alice/Coke%20Shake%20Fast.gif",
+    "localUrl": "/emotes/alice/Coke%20Shake%20Fast.gif"
   },
   {
     "id": "alice-copium",
@@ -417,7 +443,8 @@
       "denial"
     ],
     "filename": "Copium.gif",
-    "url": "/emotes/alice/Copium.gif"
+    "url": "/emotes/alice/Copium.gif",
+    "localUrl": "/emotes/alice/Copium.gif"
   },
   {
     "id": "alice-crowbar-1",
@@ -433,7 +460,8 @@
       "bonk"
     ],
     "filename": "Crowbar 1.gif",
-    "url": "/emotes/alice/Crowbar%201.gif"
+    "url": "/emotes/alice/Crowbar%201.gif",
+    "localUrl": "/emotes/alice/Crowbar%201.gif"
   },
   {
     "id": "alice-crowbar-2",
@@ -449,7 +477,8 @@
       "bonk"
     ],
     "filename": "Crowbar 2.gif",
-    "url": "/emotes/alice/Crowbar%202.gif"
+    "url": "/emotes/alice/Crowbar%202.gif",
+    "localUrl": "/emotes/alice/Crowbar%202.gif"
   },
   {
     "id": "alice-crowbar-3",
@@ -465,7 +494,8 @@
       "bonk"
     ],
     "filename": "Crowbar 3.gif",
-    "url": "/emotes/alice/Crowbar%203.gif"
+    "url": "/emotes/alice/Crowbar%203.gif",
+    "localUrl": "/emotes/alice/Crowbar%203.gif"
   },
   {
     "id": "alice-cry-1",
@@ -481,7 +511,8 @@
       "upset"
     ],
     "filename": "Cry 1.gif",
-    "url": "/emotes/alice/Cry%201.gif"
+    "url": "/emotes/alice/Cry%201.gif",
+    "localUrl": "/emotes/alice/Cry%201.gif"
   },
   {
     "id": "alice-cry-2",
@@ -497,7 +528,8 @@
       "upset"
     ],
     "filename": "Cry 2.gif",
-    "url": "/emotes/alice/Cry%202.gif"
+    "url": "/emotes/alice/Cry%202.gif",
+    "localUrl": "/emotes/alice/Cry%202.gif"
   },
   {
     "id": "alice-cry-3",
@@ -513,7 +545,8 @@
       "upset"
     ],
     "filename": "Cry 3.gif",
-    "url": "/emotes/alice/Cry%203.gif"
+    "url": "/emotes/alice/Cry%203.gif",
+    "localUrl": "/emotes/alice/Cry%203.gif"
   },
   {
     "id": "alice-dance-caramelldansen",
@@ -529,7 +562,8 @@
       "fun"
     ],
     "filename": "Dance (Caramelldansen).gif",
-    "url": "/emotes/alice/Dance%20(Caramelldansen).gif"
+    "url": "/emotes/alice/Dance%20(Caramelldansen).gif",
+    "localUrl": "/emotes/alice/Dance%20(Caramelldansen).gif"
   },
   {
     "id": "alice-dance-helltaker",
@@ -545,7 +579,8 @@
       "fun"
     ],
     "filename": "Dance (Helltaker).gif",
-    "url": "/emotes/alice/Dance%20(Helltaker).gif"
+    "url": "/emotes/alice/Dance%20(Helltaker).gif",
+    "localUrl": "/emotes/alice/Dance%20(Helltaker).gif"
   },
   {
     "id": "alice-dance-low-cortisol",
@@ -562,7 +597,8 @@
       "fun"
     ],
     "filename": "Dance (Low Cortisol).gif",
-    "url": "/emotes/alice/Dance%20(Low%20Cortisol).gif"
+    "url": "/emotes/alice/Dance%20(Low%20Cortisol).gif",
+    "localUrl": "/emotes/alice/Dance%20(Low%20Cortisol).gif"
   },
   {
     "id": "alice-dance-scuba",
@@ -578,7 +614,8 @@
       "fun"
     ],
     "filename": "Dance (Scuba).gif",
-    "url": "/emotes/alice/Dance%20(Scuba).gif"
+    "url": "/emotes/alice/Dance%20(Scuba).gif",
+    "localUrl": "/emotes/alice/Dance%20(Scuba).gif"
   },
   {
     "id": "alice-dance-1",
@@ -594,7 +631,8 @@
       "fun"
     ],
     "filename": "Dance 1.gif",
-    "url": "/emotes/alice/Dance%201.gif"
+    "url": "/emotes/alice/Dance%201.gif",
+    "localUrl": "/emotes/alice/Dance%201.gif"
   },
   {
     "id": "alice-dead",
@@ -609,7 +647,8 @@
       "ded"
     ],
     "filename": "Dead.gif",
-    "url": "/emotes/alice/Dead.gif"
+    "url": "/emotes/alice/Dead.gif",
+    "localUrl": "/emotes/alice/Dead.gif"
   },
   {
     "id": "alice-dizzy",
@@ -623,7 +662,8 @@
       "spin"
     ],
     "filename": "Dizzy.gif",
-    "url": "/emotes/alice/Dizzy.gif"
+    "url": "/emotes/alice/Dizzy.gif",
+    "localUrl": "/emotes/alice/Dizzy.gif"
   },
   {
     "id": "alice-drink-beverage-cup-coffee",
@@ -638,7 +678,8 @@
       "coffee"
     ],
     "filename": "Drink (Beverage Cup) Coffee.gif",
-    "url": "/emotes/alice/Drink%20(Beverage%20Cup)%20Coffee.gif"
+    "url": "/emotes/alice/Drink%20(Beverage%20Cup)%20Coffee.gif",
+    "localUrl": "/emotes/alice/Drink%20(Beverage%20Cup)%20Coffee.gif"
   },
   {
     "id": "alice-drink-beverage-cup-milk",
@@ -653,7 +694,8 @@
       "milk"
     ],
     "filename": "Drink (Beverage Cup) Milk.gif",
-    "url": "/emotes/alice/Drink%20(Beverage%20Cup)%20Milk.gif"
+    "url": "/emotes/alice/Drink%20(Beverage%20Cup)%20Milk.gif",
+    "localUrl": "/emotes/alice/Drink%20(Beverage%20Cup)%20Milk.gif"
   },
   {
     "id": "alice-drink-beverage-cup-orange",
@@ -668,7 +710,8 @@
       "orange"
     ],
     "filename": "Drink (Beverage Cup) Orange.gif",
-    "url": "/emotes/alice/Drink%20(Beverage%20Cup)%20Orange.gif"
+    "url": "/emotes/alice/Drink%20(Beverage%20Cup)%20Orange.gif",
+    "localUrl": "/emotes/alice/Drink%20(Beverage%20Cup)%20Orange.gif"
   },
   {
     "id": "alice-drive",
@@ -682,7 +725,8 @@
       "driving"
     ],
     "filename": "Drive.gif",
-    "url": "/emotes/alice/Drive.gif"
+    "url": "/emotes/alice/Drive.gif",
+    "localUrl": "/emotes/alice/Drive.gif"
   },
   {
     "id": "alice-drooling-chopstick",
@@ -699,7 +743,8 @@
       "want"
     ],
     "filename": "Drooling (Chopstick).gif",
-    "url": "/emotes/alice/Drooling%20(Chopstick).gif"
+    "url": "/emotes/alice/Drooling%20(Chopstick).gif",
+    "localUrl": "/emotes/alice/Drooling%20(Chopstick).gif"
   },
   {
     "id": "alice-drooling-fork-knife",
@@ -716,7 +761,8 @@
       "want"
     ],
     "filename": "Drooling (Fork&Knife).gif",
-    "url": "/emotes/alice/Drooling%20(Fork&Knife).gif"
+    "url": "/emotes/alice/Drooling%20(Fork&Knife).gif",
+    "localUrl": "/emotes/alice/Drooling%20(Fork&Knife).gif"
   },
   {
     "id": "alice-dum-1",
@@ -733,7 +779,8 @@
       "funny"
     ],
     "filename": "Dum 1.gif",
-    "url": "/emotes/alice/Dum%201.gif"
+    "url": "/emotes/alice/Dum%201.gif",
+    "localUrl": "/emotes/alice/Dum%201.gif"
   },
   {
     "id": "alice-dum-2",
@@ -750,7 +797,8 @@
       "funny"
     ],
     "filename": "Dum 2.gif",
-    "url": "/emotes/alice/Dum%202.gif"
+    "url": "/emotes/alice/Dum%202.gif",
+    "localUrl": "/emotes/alice/Dum%202.gif"
   },
   {
     "id": "alice-dum-3",
@@ -767,7 +815,8 @@
       "funny"
     ],
     "filename": "Dum 3.gif",
-    "url": "/emotes/alice/Dum%203.gif"
+    "url": "/emotes/alice/Dum%203.gif",
+    "localUrl": "/emotes/alice/Dum%203.gif"
   },
   {
     "id": "alice-dum-sticker-1",
@@ -781,7 +830,8 @@
       "1"
     ],
     "filename": "Dum Sticker 1.gif",
-    "url": "/emotes/alice/Dum%20Sticker%201.gif"
+    "url": "/emotes/alice/Dum%20Sticker%201.gif",
+    "localUrl": "/emotes/alice/Dum%20Sticker%201.gif"
   },
   {
     "id": "alice-dum-sticker-2",
@@ -795,7 +845,8 @@
       "2"
     ],
     "filename": "Dum Sticker 2.gif",
-    "url": "/emotes/alice/Dum%20Sticker%202.gif"
+    "url": "/emotes/alice/Dum%20Sticker%202.gif",
+    "localUrl": "/emotes/alice/Dum%20Sticker%202.gif"
   },
   {
     "id": "alice-dum-sticker-3",
@@ -809,7 +860,8 @@
       "3"
     ],
     "filename": "Dum Sticker 3.gif",
-    "url": "/emotes/alice/Dum%20Sticker%203.gif"
+    "url": "/emotes/alice/Dum%20Sticker%203.gif",
+    "localUrl": "/emotes/alice/Dum%20Sticker%203.gif"
   },
   {
     "id": "alice-easter",
@@ -823,7 +875,8 @@
       "holiday"
     ],
     "filename": "Easter.gif",
-    "url": "/emotes/alice/Easter.gif"
+    "url": "/emotes/alice/Easter.gif",
+    "localUrl": "/emotes/alice/Easter.gif"
   },
   {
     "id": "alice-eat-donut",
@@ -839,7 +892,8 @@
       "nom"
     ],
     "filename": "Eat (Donut).gif",
-    "url": "/emotes/alice/Eat%20(Donut).gif"
+    "url": "/emotes/alice/Eat%20(Donut).gif",
+    "localUrl": "/emotes/alice/Eat%20(Donut).gif"
   },
   {
     "id": "alice-eat-popcorn",
@@ -855,7 +909,8 @@
       "nom"
     ],
     "filename": "Eat (Popcorn).gif",
-    "url": "/emotes/alice/Eat%20(Popcorn).gif"
+    "url": "/emotes/alice/Eat%20(Popcorn).gif",
+    "localUrl": "/emotes/alice/Eat%20(Popcorn).gif"
   },
   {
     "id": "alice-eat-watermelon",
@@ -871,7 +926,8 @@
       "nom"
     ],
     "filename": "Eat (Watermelon).gif",
-    "url": "/emotes/alice/Eat%20(Watermelon).gif"
+    "url": "/emotes/alice/Eat%20(Watermelon).gif",
+    "localUrl": "/emotes/alice/Eat%20(Watermelon).gif"
   },
   {
     "id": "alice-electric-fan-1",
@@ -886,7 +942,8 @@
       "cool"
     ],
     "filename": "Electric Fan 1.gif",
-    "url": "/emotes/alice/Electric%20Fan%201.gif"
+    "url": "/emotes/alice/Electric%20Fan%201.gif",
+    "localUrl": "/emotes/alice/Electric%20Fan%201.gif"
   },
   {
     "id": "alice-electric-fan-2",
@@ -901,7 +958,8 @@
       "cool"
     ],
     "filename": "Electric Fan 2.gif",
-    "url": "/emotes/alice/Electric%20Fan%202.gif"
+    "url": "/emotes/alice/Electric%20Fan%202.gif",
+    "localUrl": "/emotes/alice/Electric%20Fan%202.gif"
   },
   {
     "id": "alice-exclamation",
@@ -916,7 +974,8 @@
       "notice"
     ],
     "filename": "Exclamation.gif",
-    "url": "/emotes/alice/Exclamation.gif"
+    "url": "/emotes/alice/Exclamation.gif",
+    "localUrl": "/emotes/alice/Exclamation.gif"
   },
   {
     "id": "alice-fire-1",
@@ -932,7 +991,8 @@
       "lit"
     ],
     "filename": "Fire 1.gif",
-    "url": "/emotes/alice/Fire%201.gif"
+    "url": "/emotes/alice/Fire%201.gif",
+    "localUrl": "/emotes/alice/Fire%201.gif"
   },
   {
     "id": "alice-fire-2",
@@ -948,7 +1008,8 @@
       "lit"
     ],
     "filename": "Fire 2.gif",
-    "url": "/emotes/alice/Fire%202.gif"
+    "url": "/emotes/alice/Fire%202.gif",
+    "localUrl": "/emotes/alice/Fire%202.gif"
   },
   {
     "id": "alice-folding-fans",
@@ -963,7 +1024,8 @@
       "traditional"
     ],
     "filename": "Folding Fans.gif",
-    "url": "/emotes/alice/Folding%20Fans.gif"
+    "url": "/emotes/alice/Folding%20Fans.gif",
+    "localUrl": "/emotes/alice/Folding%20Fans.gif"
   },
   {
     "id": "alice-game",
@@ -977,7 +1039,8 @@
       "play"
     ],
     "filename": "Game.gif",
-    "url": "/emotes/alice/Game.gif"
+    "url": "/emotes/alice/Game.gif",
+    "localUrl": "/emotes/alice/Game.gif"
   },
   {
     "id": "alice-get-hit-bits",
@@ -994,7 +1057,8 @@
       "hurt"
     ],
     "filename": "Get Hit (Bits).gif",
-    "url": "/emotes/alice/Get%20Hit%20(Bits).gif"
+    "url": "/emotes/alice/Get%20Hit%20(Bits).gif",
+    "localUrl": "/emotes/alice/Get%20Hit%20(Bits).gif"
   },
   {
     "id": "alice-get-hit-coin",
@@ -1011,7 +1075,8 @@
       "hurt"
     ],
     "filename": "Get Hit (Coin).gif",
-    "url": "/emotes/alice/Get%20Hit%20(Coin).gif"
+    "url": "/emotes/alice/Get%20Hit%20(Coin).gif",
+    "localUrl": "/emotes/alice/Get%20Hit%20(Coin).gif"
   },
   {
     "id": "alice-get-hit-custom",
@@ -1028,7 +1093,8 @@
       "hurt"
     ],
     "filename": "Get Hit (Custom).gif",
-    "url": "/emotes/alice/Get%20Hit%20(Custom).gif"
+    "url": "/emotes/alice/Get%20Hit%20(Custom).gif",
+    "localUrl": "/emotes/alice/Get%20Hit%20(Custom).gif"
   },
   {
     "id": "alice-get-hit-heart",
@@ -1045,7 +1111,8 @@
       "hurt"
     ],
     "filename": "Get Hit (Heart).gif",
-    "url": "/emotes/alice/Get%20Hit%20(Heart).gif"
+    "url": "/emotes/alice/Get%20Hit%20(Heart).gif",
+    "localUrl": "/emotes/alice/Get%20Hit%20(Heart).gif"
   },
   {
     "id": "alice-get-hit-slipper",
@@ -1062,7 +1129,8 @@
       "hurt"
     ],
     "filename": "Get Hit (Slipper).gif",
-    "url": "/emotes/alice/Get%20Hit%20(Slipper).gif"
+    "url": "/emotes/alice/Get%20Hit%20(Slipper).gif",
+    "localUrl": "/emotes/alice/Get%20Hit%20(Slipper).gif"
   },
   {
     "id": "alice-gift-1",
@@ -1077,7 +1145,8 @@
       "give"
     ],
     "filename": "Gift 1.gif",
-    "url": "/emotes/alice/Gift%201.gif"
+    "url": "/emotes/alice/Gift%201.gif",
+    "localUrl": "/emotes/alice/Gift%201.gif"
   },
   {
     "id": "alice-gift-2",
@@ -1092,7 +1161,8 @@
       "give"
     ],
     "filename": "Gift 2.gif",
-    "url": "/emotes/alice/Gift%202.gif"
+    "url": "/emotes/alice/Gift%202.gif",
+    "localUrl": "/emotes/alice/Gift%202.gif"
   },
   {
     "id": "alice-greeting-1",
@@ -1108,7 +1178,8 @@
       "welcome"
     ],
     "filename": "Greeting 1.gif",
-    "url": "/emotes/alice/Greeting%201.gif"
+    "url": "/emotes/alice/Greeting%201.gif",
+    "localUrl": "/emotes/alice/Greeting%201.gif"
   },
   {
     "id": "alice-greeting-2",
@@ -1124,7 +1195,8 @@
       "welcome"
     ],
     "filename": "Greeting 2.gif",
-    "url": "/emotes/alice/Greeting%202.gif"
+    "url": "/emotes/alice/Greeting%202.gif",
+    "localUrl": "/emotes/alice/Greeting%202.gif"
   },
   {
     "id": "alice-guitar",
@@ -1138,7 +1210,8 @@
       "play"
     ],
     "filename": "Guitar.gif",
-    "url": "/emotes/alice/Guitar.gif"
+    "url": "/emotes/alice/Guitar.gif",
+    "localUrl": "/emotes/alice/Guitar.gif"
   },
   {
     "id": "alice-gun",
@@ -1153,7 +1226,8 @@
       "pew"
     ],
     "filename": "Gun.gif",
-    "url": "/emotes/alice/Gun.gif"
+    "url": "/emotes/alice/Gun.gif",
+    "localUrl": "/emotes/alice/Gun.gif"
   },
   {
     "id": "alice-head-nod",
@@ -1168,7 +1242,8 @@
       "agree"
     ],
     "filename": "Head Nod.gif",
-    "url": "/emotes/alice/Head%20Nod.gif"
+    "url": "/emotes/alice/Head%20Nod.gif",
+    "localUrl": "/emotes/alice/Head%20Nod.gif"
   },
   {
     "id": "alice-head-shake",
@@ -1184,7 +1259,8 @@
       "deny"
     ],
     "filename": "Head Shake.gif",
-    "url": "/emotes/alice/Head%20Shake.gif"
+    "url": "/emotes/alice/Head%20Shake.gif",
+    "localUrl": "/emotes/alice/Head%20Shake.gif"
   },
   {
     "id": "alice-hypnosis-2",
@@ -1200,7 +1276,8 @@
       "mesmerize"
     ],
     "filename": "Hypnosis 2.gif",
-    "url": "/emotes/alice/Hypnosis%202.gif"
+    "url": "/emotes/alice/Hypnosis%202.gif",
+    "localUrl": "/emotes/alice/Hypnosis%202.gif"
   },
   {
     "id": "alice-hypnosis",
@@ -1215,7 +1292,8 @@
       "mesmerize"
     ],
     "filename": "Hypnosis.gif",
-    "url": "/emotes/alice/Hypnosis.gif"
+    "url": "/emotes/alice/Hypnosis.gif",
+    "localUrl": "/emotes/alice/Hypnosis.gif"
   },
   {
     "id": "alice-idea",
@@ -1230,7 +1308,8 @@
       "eureka"
     ],
     "filename": "Idea.gif",
-    "url": "/emotes/alice/Idea.gif"
+    "url": "/emotes/alice/Idea.gif",
+    "localUrl": "/emotes/alice/Idea.gif"
   },
   {
     "id": "alice-jail-1",
@@ -1246,7 +1325,8 @@
       "cell"
     ],
     "filename": "Jail 1.gif",
-    "url": "/emotes/alice/Jail%201.gif"
+    "url": "/emotes/alice/Jail%201.gif",
+    "localUrl": "/emotes/alice/Jail%201.gif"
   },
   {
     "id": "alice-jail-2",
@@ -1262,7 +1342,8 @@
       "cell"
     ],
     "filename": "Jail 2.gif",
-    "url": "/emotes/alice/Jail%202.gif"
+    "url": "/emotes/alice/Jail%202.gif",
+    "localUrl": "/emotes/alice/Jail%202.gif"
   },
   {
     "id": "alice-knife-1",
@@ -1277,7 +1358,8 @@
       "weapon"
     ],
     "filename": "Knife 1.gif",
-    "url": "/emotes/alice/Knife%201.gif"
+    "url": "/emotes/alice/Knife%201.gif",
+    "localUrl": "/emotes/alice/Knife%201.gif"
   },
   {
     "id": "alice-knife-2",
@@ -1292,7 +1374,8 @@
       "weapon"
     ],
     "filename": "Knife 2.gif",
-    "url": "/emotes/alice/Knife%202.gif"
+    "url": "/emotes/alice/Knife%202.gif",
+    "localUrl": "/emotes/alice/Knife%202.gif"
   },
   {
     "id": "alice-laugh-point",
@@ -1308,7 +1391,8 @@
       "lol"
     ],
     "filename": "Laugh (Point).gif",
-    "url": "/emotes/alice/Laugh%20(Point).gif"
+    "url": "/emotes/alice/Laugh%20(Point).gif",
+    "localUrl": "/emotes/alice/Laugh%20(Point).gif"
   },
   {
     "id": "alice-laugh",
@@ -1323,7 +1407,8 @@
       "lol"
     ],
     "filename": "Laugh.gif",
-    "url": "/emotes/alice/Laugh.gif"
+    "url": "/emotes/alice/Laugh.gif",
+    "localUrl": "/emotes/alice/Laugh.gif"
   },
   {
     "id": "alice-lick",
@@ -1337,7 +1422,8 @@
       "tongue"
     ],
     "filename": "Lick.gif",
-    "url": "/emotes/alice/Lick.gif"
+    "url": "/emotes/alice/Lick.gif",
+    "localUrl": "/emotes/alice/Lick.gif"
   },
   {
     "id": "alice-lightstick-1",
@@ -1353,7 +1439,8 @@
       "fan"
     ],
     "filename": "Lightstick 1.gif",
-    "url": "/emotes/alice/Lightstick%201.gif"
+    "url": "/emotes/alice/Lightstick%201.gif",
+    "localUrl": "/emotes/alice/Lightstick%201.gif"
   },
   {
     "id": "alice-lightstick-2",
@@ -1369,7 +1456,8 @@
       "fan"
     ],
     "filename": "Lightstick 2.gif",
-    "url": "/emotes/alice/Lightstick%202.gif"
+    "url": "/emotes/alice/Lightstick%202.gif",
+    "localUrl": "/emotes/alice/Lightstick%202.gif"
   },
   {
     "id": "alice-love-letter",
@@ -1384,7 +1472,8 @@
       "mail"
     ],
     "filename": "Love Letter.gif",
-    "url": "/emotes/alice/Love%20Letter.gif"
+    "url": "/emotes/alice/Love%20Letter.gif",
+    "localUrl": "/emotes/alice/Love%20Letter.gif"
   },
   {
     "id": "alice-lurk-1",
@@ -1400,7 +1489,8 @@
       "peek"
     ],
     "filename": "Lurk 1.gif",
-    "url": "/emotes/alice/Lurk%201.gif"
+    "url": "/emotes/alice/Lurk%201.gif",
+    "localUrl": "/emotes/alice/Lurk%201.gif"
   },
   {
     "id": "alice-lurk-2",
@@ -1416,7 +1506,8 @@
       "peek"
     ],
     "filename": "Lurk 2.gif",
-    "url": "/emotes/alice/Lurk%202.gif"
+    "url": "/emotes/alice/Lurk%202.gif",
+    "localUrl": "/emotes/alice/Lurk%202.gif"
   },
   {
     "id": "alice-luv-1",
@@ -1432,7 +1523,8 @@
       "like"
     ],
     "filename": "Luv 1.gif",
-    "url": "/emotes/alice/Luv%201.gif"
+    "url": "/emotes/alice/Luv%201.gif",
+    "localUrl": "/emotes/alice/Luv%201.gif"
   },
   {
     "id": "alice-luv-2",
@@ -1448,7 +1540,8 @@
       "like"
     ],
     "filename": "Luv 2.gif",
-    "url": "/emotes/alice/Luv%202.gif"
+    "url": "/emotes/alice/Luv%202.gif",
+    "localUrl": "/emotes/alice/Luv%202.gif"
   },
   {
     "id": "alice-luv-3",
@@ -1464,7 +1557,8 @@
       "like"
     ],
     "filename": "Luv 3.gif",
-    "url": "/emotes/alice/Luv%203.gif"
+    "url": "/emotes/alice/Luv%203.gif",
+    "localUrl": "/emotes/alice/Luv%203.gif"
   },
   {
     "id": "alice-magic",
@@ -1478,7 +1572,8 @@
       "wizard"
     ],
     "filename": "Magic.gif",
-    "url": "/emotes/alice/Magic.gif"
+    "url": "/emotes/alice/Magic.gif",
+    "localUrl": "/emotes/alice/Magic.gif"
   },
   {
     "id": "alice-megaphone",
@@ -1493,7 +1588,8 @@
       "announce"
     ],
     "filename": "Megaphone.gif",
-    "url": "/emotes/alice/Megaphone.gif"
+    "url": "/emotes/alice/Megaphone.gif",
+    "localUrl": "/emotes/alice/Megaphone.gif"
   },
   {
     "id": "alice-money",
@@ -1508,7 +1604,8 @@
       "dollar"
     ],
     "filename": "Money.gif",
-    "url": "/emotes/alice/Money.gif"
+    "url": "/emotes/alice/Money.gif",
+    "localUrl": "/emotes/alice/Money.gif"
   },
   {
     "id": "alice-mute-1",
@@ -1524,7 +1621,8 @@
       "shh"
     ],
     "filename": "Mute 1.gif",
-    "url": "/emotes/alice/Mute%201.gif"
+    "url": "/emotes/alice/Mute%201.gif",
+    "localUrl": "/emotes/alice/Mute%201.gif"
   },
   {
     "id": "alice-mute-2",
@@ -1540,7 +1638,8 @@
       "shh"
     ],
     "filename": "Mute 2.gif",
-    "url": "/emotes/alice/Mute%202.gif"
+    "url": "/emotes/alice/Mute%202.gif",
+    "localUrl": "/emotes/alice/Mute%202.gif"
   },
   {
     "id": "alice-need-food",
@@ -1555,7 +1654,8 @@
       "starving"
     ],
     "filename": "Need Food.gif",
-    "url": "/emotes/alice/Need%20Food.gif"
+    "url": "/emotes/alice/Need%20Food.gif",
+    "localUrl": "/emotes/alice/Need%20Food.gif"
   },
   {
     "id": "alice-nervous-1",
@@ -1571,7 +1671,8 @@
       "worry"
     ],
     "filename": "Nervous 1.gif",
-    "url": "/emotes/alice/Nervous%201.gif"
+    "url": "/emotes/alice/Nervous%201.gif",
+    "localUrl": "/emotes/alice/Nervous%201.gif"
   },
   {
     "id": "alice-nervous-2",
@@ -1587,7 +1688,8 @@
       "worry"
     ],
     "filename": "Nervous 2.gif",
-    "url": "/emotes/alice/Nervous%202.gif"
+    "url": "/emotes/alice/Nervous%202.gif",
+    "localUrl": "/emotes/alice/Nervous%202.gif"
   },
   {
     "id": "alice-noted-1",
@@ -1603,7 +1705,8 @@
       "ok"
     ],
     "filename": "Noted 1.gif",
-    "url": "/emotes/alice/Noted%201.gif"
+    "url": "/emotes/alice/Noted%201.gif",
+    "localUrl": "/emotes/alice/Noted%201.gif"
   },
   {
     "id": "alice-noted-2",
@@ -1619,7 +1722,8 @@
       "ok"
     ],
     "filename": "Noted 2.gif",
-    "url": "/emotes/alice/Noted%202.gif"
+    "url": "/emotes/alice/Noted%202.gif",
+    "localUrl": "/emotes/alice/Noted%202.gif"
   },
   {
     "id": "alice-paid-break-easy-mode",
@@ -1636,7 +1740,8 @@
       "vacation"
     ],
     "filename": "Paid Break (Easy Mode).gif",
-    "url": "/emotes/alice/Paid%20Break%20(Easy%20Mode).gif"
+    "url": "/emotes/alice/Paid%20Break%20(Easy%20Mode).gif",
+    "localUrl": "/emotes/alice/Paid%20Break%20(Easy%20Mode).gif"
   },
   {
     "id": "alice-paid-break-hard-mode",
@@ -1653,7 +1758,8 @@
       "vacation"
     ],
     "filename": "Paid Break (Hard Mode).gif",
-    "url": "/emotes/alice/Paid%20Break%20(Hard%20Mode).gif"
+    "url": "/emotes/alice/Paid%20Break%20(Hard%20Mode).gif",
+    "localUrl": "/emotes/alice/Paid%20Break%20(Hard%20Mode).gif"
   },
   {
     "id": "alice-pat",
@@ -1668,7 +1774,8 @@
       "cute"
     ],
     "filename": "Pat.gif",
-    "url": "/emotes/alice/Pat.gif"
+    "url": "/emotes/alice/Pat.gif",
+    "localUrl": "/emotes/alice/Pat.gif"
   },
   {
     "id": "alice-pngtuber-idle-2",
@@ -1683,7 +1790,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Idle 2.gif",
-    "url": "/emotes/alice/PNGTuber%20Idle%202.gif"
+    "url": "/emotes/alice/PNGTuber%20Idle%202.gif",
+    "localUrl": "/emotes/alice/PNGTuber%20Idle%202.gif"
   },
   {
     "id": "alice-pngtuber-idle",
@@ -1697,7 +1805,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Idle.gif",
-    "url": "/emotes/alice/PNGTuber%20Idle.gif"
+    "url": "/emotes/alice/PNGTuber%20Idle.gif",
+    "localUrl": "/emotes/alice/PNGTuber%20Idle.gif"
   },
   {
     "id": "alice-pngtuber-loading",
@@ -1711,7 +1820,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Loading.gif",
-    "url": "/emotes/alice/PNGTuber%20Loading.gif"
+    "url": "/emotes/alice/PNGTuber%20Loading.gif",
+    "localUrl": "/emotes/alice/PNGTuber%20Loading.gif"
   },
   {
     "id": "alice-pngtuber-talk-2",
@@ -1727,7 +1837,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Talk 2.gif",
-    "url": "/emotes/alice/PNGTuber%20Talk%202.gif"
+    "url": "/emotes/alice/PNGTuber%20Talk%202.gif",
+    "localUrl": "/emotes/alice/PNGTuber%20Talk%202.gif"
   },
   {
     "id": "alice-pngtuber-talk",
@@ -1742,7 +1853,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Talk.gif",
-    "url": "/emotes/alice/PNGTuber%20Talk.gif"
+    "url": "/emotes/alice/PNGTuber%20Talk.gif",
+    "localUrl": "/emotes/alice/PNGTuber%20Talk.gif"
   },
   {
     "id": "alice-pngtuber-yap",
@@ -1757,7 +1869,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Yap.gif",
-    "url": "/emotes/alice/PNGTuber%20Yap.gif"
+    "url": "/emotes/alice/PNGTuber%20Yap.gif",
+    "localUrl": "/emotes/alice/PNGTuber%20Yap.gif"
   },
   {
     "id": "alice-point",
@@ -1771,7 +1884,8 @@
       "finger"
     ],
     "filename": "Point.gif",
-    "url": "/emotes/alice/Point.gif"
+    "url": "/emotes/alice/Point.gif",
+    "localUrl": "/emotes/alice/Point.gif"
   },
   {
     "id": "alice-popcat-frame",
@@ -1784,7 +1898,8 @@
       "frame"
     ],
     "filename": "Popcat Frame.gif",
-    "url": "/emotes/alice/Popcat%20Frame.gif"
+    "url": "/emotes/alice/Popcat%20Frame.gif",
+    "localUrl": "/emotes/alice/Popcat%20Frame.gif"
   },
   {
     "id": "alice-popcat-smooth",
@@ -1797,7 +1912,8 @@
       "smooth"
     ],
     "filename": "Popcat Smooth.gif",
-    "url": "/emotes/alice/Popcat%20Smooth.gif"
+    "url": "/emotes/alice/Popcat%20Smooth.gif",
+    "localUrl": "/emotes/alice/Popcat%20Smooth.gif"
   },
   {
     "id": "alice-question",
@@ -1812,7 +1928,8 @@
       "confused"
     ],
     "filename": "Question.gif",
-    "url": "/emotes/alice/Question.gif"
+    "url": "/emotes/alice/Question.gif",
+    "localUrl": "/emotes/alice/Question.gif"
   },
   {
     "id": "alice-raid-1",
@@ -1827,7 +1944,8 @@
       "streaming"
     ],
     "filename": "Raid 1.gif",
-    "url": "/emotes/alice/Raid%201.gif"
+    "url": "/emotes/alice/Raid%201.gif",
+    "localUrl": "/emotes/alice/Raid%201.gif"
   },
   {
     "id": "alice-raid-2",
@@ -1842,7 +1960,8 @@
       "streaming"
     ],
     "filename": "Raid 2.gif",
-    "url": "/emotes/alice/Raid%202.gif"
+    "url": "/emotes/alice/Raid%202.gif",
+    "localUrl": "/emotes/alice/Raid%202.gif"
   },
   {
     "id": "alice-redpacket-1",
@@ -1859,7 +1978,8 @@
       "money"
     ],
     "filename": "RedPacket 1.gif",
-    "url": "/emotes/alice/RedPacket%201.gif"
+    "url": "/emotes/alice/RedPacket%201.gif",
+    "localUrl": "/emotes/alice/RedPacket%201.gif"
   },
   {
     "id": "alice-redpacket-2",
@@ -1876,7 +1996,8 @@
       "money"
     ],
     "filename": "RedPacket 2.gif",
-    "url": "/emotes/alice/RedPacket%202.gif"
+    "url": "/emotes/alice/RedPacket%202.gif",
+    "localUrl": "/emotes/alice/RedPacket%202.gif"
   },
   {
     "id": "alice-reverse",
@@ -1890,7 +2011,8 @@
       "uno"
     ],
     "filename": "Reverse.gif",
-    "url": "/emotes/alice/Reverse.gif"
+    "url": "/emotes/alice/Reverse.gif",
+    "localUrl": "/emotes/alice/Reverse.gif"
   },
   {
     "id": "alice-reverted-alice-eat-donut",
@@ -1904,7 +2026,8 @@
       "donut"
     ],
     "filename": "reverted_Alice Eat Donut.gif",
-    "url": "/emotes/alice/reverted_Alice%20Eat%20Donut.gif"
+    "url": "/emotes/alice/reverted_Alice%20Eat%20Donut.gif",
+    "localUrl": "/emotes/alice/reverted_Alice%20Eat%20Donut.gif"
   },
   {
     "id": "alice-reverted-alice-eat-popcorn",
@@ -1918,7 +2041,8 @@
       "popcorn"
     ],
     "filename": "reverted_Alice Eat Popcorn.gif",
-    "url": "/emotes/alice/reverted_Alice%20Eat%20Popcorn.gif"
+    "url": "/emotes/alice/reverted_Alice%20Eat%20Popcorn.gif",
+    "localUrl": "/emotes/alice/reverted_Alice%20Eat%20Popcorn.gif"
   },
   {
     "id": "alice-rose",
@@ -1933,7 +2057,8 @@
       "romantic"
     ],
     "filename": "Rose.gif",
-    "url": "/emotes/alice/Rose.gif"
+    "url": "/emotes/alice/Rose.gif",
+    "localUrl": "/emotes/alice/Rose.gif"
   },
   {
     "id": "alice-scared-1",
@@ -1949,7 +2074,8 @@
       "shock"
     ],
     "filename": "Scared 1.gif",
-    "url": "/emotes/alice/Scared%201.gif"
+    "url": "/emotes/alice/Scared%201.gif",
+    "localUrl": "/emotes/alice/Scared%201.gif"
   },
   {
     "id": "alice-scared-2",
@@ -1965,7 +2091,8 @@
       "shock"
     ],
     "filename": "Scared 2.gif",
-    "url": "/emotes/alice/Scared%202.gif"
+    "url": "/emotes/alice/Scared%202.gif",
+    "localUrl": "/emotes/alice/Scared%202.gif"
   },
   {
     "id": "alice-score-0-point",
@@ -1981,7 +2108,8 @@
       "number"
     ],
     "filename": "Score (0 Point).gif",
-    "url": "/emotes/alice/Score%20(0%20Point).gif"
+    "url": "/emotes/alice/Score%20(0%20Point).gif",
+    "localUrl": "/emotes/alice/Score%20(0%20Point).gif"
   },
   {
     "id": "alice-score-10-point",
@@ -1997,7 +2125,8 @@
       "number"
     ],
     "filename": "Score (10 Point).gif",
-    "url": "/emotes/alice/Score%20(10%20Point).gif"
+    "url": "/emotes/alice/Score%20(10%20Point).gif",
+    "localUrl": "/emotes/alice/Score%20(10%20Point).gif"
   },
   {
     "id": "alice-shy-1",
@@ -2013,7 +2142,8 @@
       "cute"
     ],
     "filename": "Shy 1.gif",
-    "url": "/emotes/alice/Shy%201.gif"
+    "url": "/emotes/alice/Shy%201.gif",
+    "localUrl": "/emotes/alice/Shy%201.gif"
   },
   {
     "id": "alice-shy-2",
@@ -2029,7 +2159,8 @@
       "cute"
     ],
     "filename": "Shy 2.gif",
-    "url": "/emotes/alice/Shy%202.gif"
+    "url": "/emotes/alice/Shy%202.gif",
+    "localUrl": "/emotes/alice/Shy%202.gif"
   },
   {
     "id": "alice-sing",
@@ -2044,7 +2175,8 @@
       "karaoke"
     ],
     "filename": "Sing.gif",
-    "url": "/emotes/alice/Sing.gif"
+    "url": "/emotes/alice/Sing.gif",
+    "localUrl": "/emotes/alice/Sing.gif"
   },
   {
     "id": "alice-six-seven-dum",
@@ -2061,7 +2193,8 @@
       "meme"
     ],
     "filename": "Six Seven (Dum).gif",
-    "url": "/emotes/alice/Six%20Seven%20(Dum).gif"
+    "url": "/emotes/alice/Six%20Seven%20(Dum).gif",
+    "localUrl": "/emotes/alice/Six%20Seven%20(Dum).gif"
   },
   {
     "id": "alice-six-seven",
@@ -2077,7 +2210,8 @@
       "meme"
     ],
     "filename": "Six Seven.gif",
-    "url": "/emotes/alice/Six%20Seven.gif"
+    "url": "/emotes/alice/Six%20Seven.gif",
+    "localUrl": "/emotes/alice/Six%20Seven.gif"
   },
   {
     "id": "alice-sleep-normal",
@@ -2093,7 +2227,8 @@
       "nap"
     ],
     "filename": "Sleep (Normal).gif",
-    "url": "/emotes/alice/Sleep%20(Normal).gif"
+    "url": "/emotes/alice/Sleep%20(Normal).gif",
+    "localUrl": "/emotes/alice/Sleep%20(Normal).gif"
   },
   {
     "id": "alice-sleep-preparing-stage-1",
@@ -2111,7 +2246,8 @@
       "nap"
     ],
     "filename": "Sleep (Preparing Stage 1).gif",
-    "url": "/emotes/alice/Sleep%20(Preparing%20Stage%201).gif"
+    "url": "/emotes/alice/Sleep%20(Preparing%20Stage%201).gif",
+    "localUrl": "/emotes/alice/Sleep%20(Preparing%20Stage%201).gif"
   },
   {
     "id": "alice-sleep-preparing-stage-2",
@@ -2129,7 +2265,8 @@
       "nap"
     ],
     "filename": "Sleep (Preparing Stage 2).gif",
-    "url": "/emotes/alice/Sleep%20(Preparing%20Stage%202).gif"
+    "url": "/emotes/alice/Sleep%20(Preparing%20Stage%202).gif",
+    "localUrl": "/emotes/alice/Sleep%20(Preparing%20Stage%202).gif"
   },
   {
     "id": "alice-sleep-uu",
@@ -2145,7 +2282,8 @@
       "nap"
     ],
     "filename": "Sleep (UU).gif",
-    "url": "/emotes/alice/Sleep%20(UU).gif"
+    "url": "/emotes/alice/Sleep%20(UU).gif",
+    "localUrl": "/emotes/alice/Sleep%20(UU).gif"
   },
   {
     "id": "alice-slipper-1",
@@ -2161,7 +2299,8 @@
       "chancla"
     ],
     "filename": "Slipper 1.gif",
-    "url": "/emotes/alice/Slipper%201.gif"
+    "url": "/emotes/alice/Slipper%201.gif",
+    "localUrl": "/emotes/alice/Slipper%201.gif"
   },
   {
     "id": "alice-slipper-2",
@@ -2177,7 +2316,8 @@
       "chancla"
     ],
     "filename": "Slipper 2.gif",
-    "url": "/emotes/alice/Slipper%202.gif"
+    "url": "/emotes/alice/Slipper%202.gif",
+    "localUrl": "/emotes/alice/Slipper%202.gif"
   },
   {
     "id": "alice-sparkling-2",
@@ -2194,7 +2334,8 @@
       "pretty"
     ],
     "filename": "Sparkling 2.gif",
-    "url": "/emotes/alice/Sparkling%202.gif"
+    "url": "/emotes/alice/Sparkling%202.gif",
+    "localUrl": "/emotes/alice/Sparkling%202.gif"
   },
   {
     "id": "alice-sparkling",
@@ -2210,7 +2351,8 @@
       "pretty"
     ],
     "filename": "Sparkling.gif",
-    "url": "/emotes/alice/Sparkling.gif"
+    "url": "/emotes/alice/Sparkling.gif",
+    "localUrl": "/emotes/alice/Sparkling.gif"
   },
   {
     "id": "alice-spray",
@@ -2224,7 +2366,8 @@
       "water"
     ],
     "filename": "Spray.gif",
-    "url": "/emotes/alice/Spray.gif"
+    "url": "/emotes/alice/Spray.gif",
+    "localUrl": "/emotes/alice/Spray.gif"
   },
   {
     "id": "alice-stops-working",
@@ -2241,7 +2384,8 @@
       "crash"
     ],
     "filename": "Stops Working.gif",
-    "url": "/emotes/alice/Stops%20Working.gif"
+    "url": "/emotes/alice/Stops%20Working.gif",
+    "localUrl": "/emotes/alice/Stops%20Working.gif"
   },
   {
     "id": "alice-sunglasses-gleam",
@@ -2254,7 +2398,8 @@
       "gleam"
     ],
     "filename": "Sunglasses Gleam.gif",
-    "url": "/emotes/alice/Sunglasses%20Gleam.gif"
+    "url": "/emotes/alice/Sunglasses%20Gleam.gif",
+    "localUrl": "/emotes/alice/Sunglasses%20Gleam.gif"
   },
   {
     "id": "alice-sunglasses-loop",
@@ -2267,7 +2412,8 @@
       "loop"
     ],
     "filename": "Sunglasses Loop.gif",
-    "url": "/emotes/alice/Sunglasses%20Loop.gif"
+    "url": "/emotes/alice/Sunglasses%20Loop.gif",
+    "localUrl": "/emotes/alice/Sunglasses%20Loop.gif"
   },
   {
     "id": "alice-sunglasses-pixel-gleam",
@@ -2281,7 +2427,8 @@
       "gleam"
     ],
     "filename": "Sunglasses Pixel Gleam.gif",
-    "url": "/emotes/alice/Sunglasses%20Pixel%20Gleam.gif"
+    "url": "/emotes/alice/Sunglasses%20Pixel%20Gleam.gif",
+    "localUrl": "/emotes/alice/Sunglasses%20Pixel%20Gleam.gif"
   },
   {
     "id": "alice-sunglasses-remove",
@@ -2294,7 +2441,8 @@
       "remove"
     ],
     "filename": "Sunglasses Remove.gif",
-    "url": "/emotes/alice/Sunglasses%20Remove.gif"
+    "url": "/emotes/alice/Sunglasses%20Remove.gif",
+    "localUrl": "/emotes/alice/Sunglasses%20Remove.gif"
   },
   {
     "id": "alice-surprise",
@@ -2309,7 +2457,8 @@
       "omg"
     ],
     "filename": "Surprise.gif",
-    "url": "/emotes/alice/Surprise.gif"
+    "url": "/emotes/alice/Surprise.gif",
+    "localUrl": "/emotes/alice/Surprise.gif"
   },
   {
     "id": "alice-swatter",
@@ -2323,7 +2472,8 @@
       "hit"
     ],
     "filename": "Swatter.gif",
-    "url": "/emotes/alice/Swatter.gif"
+    "url": "/emotes/alice/Swatter.gif",
+    "localUrl": "/emotes/alice/Swatter.gif"
   },
   {
     "id": "alice-sweat",
@@ -2338,7 +2488,8 @@
       "anxious"
     ],
     "filename": "Sweat.gif",
-    "url": "/emotes/alice/Sweat.gif"
+    "url": "/emotes/alice/Sweat.gif",
+    "localUrl": "/emotes/alice/Sweat.gif"
   },
   {
     "id": "alice-tablet",
@@ -2353,7 +2504,8 @@
       "device"
     ],
     "filename": "Tablet.gif",
-    "url": "/emotes/alice/Tablet.gif"
+    "url": "/emotes/alice/Tablet.gif",
+    "localUrl": "/emotes/alice/Tablet.gif"
   },
   {
     "id": "alice-take-my-money",
@@ -2369,7 +2521,8 @@
       "buy"
     ],
     "filename": "Take My Money.gif",
-    "url": "/emotes/alice/Take%20My%20Money.gif"
+    "url": "/emotes/alice/Take%20My%20Money.gif",
+    "localUrl": "/emotes/alice/Take%20My%20Money.gif"
   },
   {
     "id": "alice-tape",
@@ -2383,7 +2536,8 @@
       "sticky"
     ],
     "filename": "Tape.gif",
-    "url": "/emotes/alice/Tape.gif"
+    "url": "/emotes/alice/Tape.gif",
+    "localUrl": "/emotes/alice/Tape.gif"
   },
   {
     "id": "alice-think-confident",
@@ -2399,7 +2553,8 @@
       "consider"
     ],
     "filename": "Think (Confident).gif",
-    "url": "/emotes/alice/Think%20(Confident).gif"
+    "url": "/emotes/alice/Think%20(Confident).gif",
+    "localUrl": "/emotes/alice/Think%20(Confident).gif"
   },
   {
     "id": "alice-think-serious",
@@ -2415,7 +2570,8 @@
       "consider"
     ],
     "filename": "Think (Serious).gif",
-    "url": "/emotes/alice/Think%20(Serious).gif"
+    "url": "/emotes/alice/Think%20(Serious).gif",
+    "localUrl": "/emotes/alice/Think%20(Serious).gif"
   },
   {
     "id": "alice-this-is-fine-1",
@@ -2434,7 +2590,8 @@
       "thisisfine"
     ],
     "filename": "This Is Fine 1.gif",
-    "url": "/emotes/alice/This%20Is%20Fine%201.gif"
+    "url": "/emotes/alice/This%20Is%20Fine%201.gif",
+    "localUrl": "/emotes/alice/This%20Is%20Fine%201.gif"
   },
   {
     "id": "alice-this-is-fine-2",
@@ -2453,7 +2610,8 @@
       "thisisfine"
     ],
     "filename": "This Is Fine 2.gif",
-    "url": "/emotes/alice/This%20Is%20Fine%202.gif"
+    "url": "/emotes/alice/This%20Is%20Fine%202.gif",
+    "localUrl": "/emotes/alice/This%20Is%20Fine%202.gif"
   },
   {
     "id": "alice-this-is-fine-3",
@@ -2472,7 +2630,8 @@
       "thisisfine"
     ],
     "filename": "This Is Fine 3.gif",
-    "url": "/emotes/alice/This%20Is%20Fine%203.gif"
+    "url": "/emotes/alice/This%20Is%20Fine%203.gif",
+    "localUrl": "/emotes/alice/This%20Is%20Fine%203.gif"
   },
   {
     "id": "alice-thumb-down",
@@ -2488,7 +2647,8 @@
       "bad"
     ],
     "filename": "Thumb Down.gif",
-    "url": "/emotes/alice/Thumb%20Down.gif"
+    "url": "/emotes/alice/Thumb%20Down.gif",
+    "localUrl": "/emotes/alice/Thumb%20Down.gif"
   },
   {
     "id": "alice-thumb-up",
@@ -2504,7 +2664,8 @@
       "good"
     ],
     "filename": "Thumb Up.gif",
-    "url": "/emotes/alice/Thumb%20Up.gif"
+    "url": "/emotes/alice/Thumb%20Up.gif",
+    "localUrl": "/emotes/alice/Thumb%20Up.gif"
   },
   {
     "id": "alice-trash-bin",
@@ -2519,7 +2680,8 @@
       "garbage"
     ],
     "filename": "Trash Bin.gif",
-    "url": "/emotes/alice/Trash%20Bin.gif"
+    "url": "/emotes/alice/Trash%20Bin.gif",
+    "localUrl": "/emotes/alice/Trash%20Bin.gif"
   },
   {
     "id": "alice-trashtuber-idle",
@@ -2534,7 +2696,8 @@
       "trash"
     ],
     "filename": "TrashTuber Idle.gif",
-    "url": "/emotes/alice/TrashTuber%20Idle.gif"
+    "url": "/emotes/alice/TrashTuber%20Idle.gif",
+    "localUrl": "/emotes/alice/TrashTuber%20Idle.gif"
   },
   {
     "id": "alice-trashtuber-talk",
@@ -2549,7 +2712,8 @@
       "trash"
     ],
     "filename": "TrashTuber Talk.gif",
-    "url": "/emotes/alice/TrashTuber%20Talk.gif"
+    "url": "/emotes/alice/TrashTuber%20Talk.gif",
+    "localUrl": "/emotes/alice/TrashTuber%20Talk.gif"
   },
   {
     "id": "alice-trashtuber-yap",
@@ -2564,7 +2728,8 @@
       "trash"
     ],
     "filename": "TrashTuber Yap.gif",
-    "url": "/emotes/alice/TrashTuber%20Yap.gif"
+    "url": "/emotes/alice/TrashTuber%20Yap.gif",
+    "localUrl": "/emotes/alice/TrashTuber%20Yap.gif"
   },
   {
     "id": "alice-type-angry",
@@ -2577,7 +2742,8 @@
       "angry"
     ],
     "filename": "Type Angry.gif",
-    "url": "/emotes/alice/Type%20Angry.gif"
+    "url": "/emotes/alice/Type%20Angry.gif",
+    "localUrl": "/emotes/alice/Type%20Angry.gif"
   },
   {
     "id": "alice-type-annoyed",
@@ -2590,7 +2756,8 @@
       "annoyed"
     ],
     "filename": "Type Annoyed.gif",
-    "url": "/emotes/alice/Type%20Annoyed.gif"
+    "url": "/emotes/alice/Type%20Annoyed.gif",
+    "localUrl": "/emotes/alice/Type%20Annoyed.gif"
   },
   {
     "id": "alice-type-normal",
@@ -2603,7 +2770,8 @@
       "normal"
     ],
     "filename": "Type Normal.gif",
-    "url": "/emotes/alice/Type%20Normal.gif"
+    "url": "/emotes/alice/Type%20Normal.gif",
+    "localUrl": "/emotes/alice/Type%20Normal.gif"
   },
   {
     "id": "alice-wink",
@@ -2617,7 +2785,8 @@
       "cute"
     ],
     "filename": "Wink.gif",
-    "url": "/emotes/alice/Wink.gif"
+    "url": "/emotes/alice/Wink.gif",
+    "localUrl": "/emotes/alice/Wink.gif"
   },
   {
     "id": "alice-work-angry",
@@ -2630,7 +2799,8 @@
       "angry"
     ],
     "filename": "Work Angry.gif",
-    "url": "/emotes/alice/Work%20Angry.gif"
+    "url": "/emotes/alice/Work%20Angry.gif",
+    "localUrl": "/emotes/alice/Work%20Angry.gif"
   },
   {
     "id": "alice-work-nap",
@@ -2643,7 +2813,8 @@
       "nap"
     ],
     "filename": "Work Nap.gif",
-    "url": "/emotes/alice/Work%20Nap.gif"
+    "url": "/emotes/alice/Work%20Nap.gif",
+    "localUrl": "/emotes/alice/Work%20Nap.gif"
   },
   {
     "id": "alice-work-normal",
@@ -2656,7 +2827,8 @@
       "normal"
     ],
     "filename": "Work Normal.gif",
-    "url": "/emotes/alice/Work%20Normal.gif"
+    "url": "/emotes/alice/Work%20Normal.gif",
+    "localUrl": "/emotes/alice/Work%20Normal.gif"
   },
   {
     "id": "alice-work-tired",
@@ -2669,7 +2841,8 @@
       "tired"
     ],
     "filename": "Work Tired.gif",
-    "url": "/emotes/alice/Work%20Tired.gif"
+    "url": "/emotes/alice/Work%20Tired.gif",
+    "localUrl": "/emotes/alice/Work%20Tired.gif"
   },
   {
     "id": "shinki-alert-bits",
@@ -2684,7 +2857,8 @@
       "streaming"
     ],
     "filename": "Alert Bits.gif",
-    "url": "/emotes/shinki/Alert%20Bits.gif"
+    "url": "/emotes/shinki/Alert%20Bits.gif",
+    "localUrl": "/emotes/shinki/Alert%20Bits.gif"
   },
   {
     "id": "shinki-alert-donation",
@@ -2700,7 +2874,8 @@
       "streaming"
     ],
     "filename": "Alert Donation.gif",
-    "url": "/emotes/shinki/Alert%20Donation.gif"
+    "url": "/emotes/shinki/Alert%20Donation.gif",
+    "localUrl": "/emotes/shinki/Alert%20Donation.gif"
   },
   {
     "id": "shinki-alert-heart",
@@ -2716,7 +2891,8 @@
       "streaming"
     ],
     "filename": "Alert Heart.gif",
-    "url": "/emotes/shinki/Alert%20Heart.gif"
+    "url": "/emotes/shinki/Alert%20Heart.gif",
+    "localUrl": "/emotes/shinki/Alert%20Heart.gif"
   },
   {
     "id": "shinki-alert-like",
@@ -2731,7 +2907,8 @@
       "streaming"
     ],
     "filename": "Alert Like.gif",
-    "url": "/emotes/shinki/Alert%20Like.gif"
+    "url": "/emotes/shinki/Alert%20Like.gif",
+    "localUrl": "/emotes/shinki/Alert%20Like.gif"
   },
   {
     "id": "shinki-alert-star",
@@ -2746,7 +2923,8 @@
       "streaming"
     ],
     "filename": "Alert Star.gif",
-    "url": "/emotes/shinki/Alert%20Star.gif"
+    "url": "/emotes/shinki/Alert%20Star.gif",
+    "localUrl": "/emotes/shinki/Alert%20Star.gif"
   },
   {
     "id": "shinki-angry",
@@ -2762,7 +2940,8 @@
       "furious"
     ],
     "filename": "Angry.gif",
-    "url": "/emotes/shinki/Angry.gif"
+    "url": "/emotes/shinki/Angry.gif",
+    "localUrl": "/emotes/shinki/Angry.gif"
   },
   {
     "id": "shinki-arrive-with-chopstick",
@@ -2780,7 +2959,8 @@
       "hello"
     ],
     "filename": "Arrive (with Chopstick).gif",
-    "url": "/emotes/shinki/Arrive%20(with%20Chopstick).gif"
+    "url": "/emotes/shinki/Arrive%20(with%20Chopstick).gif",
+    "localUrl": "/emotes/shinki/Arrive%20(with%20Chopstick).gif"
   },
   {
     "id": "shinki-arrive-with-spoon",
@@ -2798,7 +2978,8 @@
       "hello"
     ],
     "filename": "Arrive (with Spoon).gif",
-    "url": "/emotes/shinki/Arrive%20(with%20Spoon).gif"
+    "url": "/emotes/shinki/Arrive%20(with%20Spoon).gif",
+    "localUrl": "/emotes/shinki/Arrive%20(with%20Spoon).gif"
   },
   {
     "id": "shinki-arrive",
@@ -2814,7 +2995,8 @@
       "hello"
     ],
     "filename": "Arrive.gif",
-    "url": "/emotes/shinki/Arrive.gif"
+    "url": "/emotes/shinki/Arrive.gif",
+    "localUrl": "/emotes/shinki/Arrive.gif"
   },
   {
     "id": "shinki-bell",
@@ -2828,7 +3010,8 @@
       "notification"
     ],
     "filename": "Bell.gif",
-    "url": "/emotes/shinki/Bell.gif"
+    "url": "/emotes/shinki/Bell.gif",
+    "localUrl": "/emotes/shinki/Bell.gif"
   },
   {
     "id": "shinki-bonk",
@@ -2842,7 +3025,8 @@
       "joke"
     ],
     "filename": "Bonk.gif",
-    "url": "/emotes/shinki/Bonk.gif"
+    "url": "/emotes/shinki/Bonk.gif",
+    "localUrl": "/emotes/shinki/Bonk.gif"
   },
   {
     "id": "shinki-bug",
@@ -2857,7 +3041,8 @@
       "insect"
     ],
     "filename": "Bug.gif",
-    "url": "/emotes/shinki/Bug.gif"
+    "url": "/emotes/shinki/Bug.gif",
+    "localUrl": "/emotes/shinki/Bug.gif"
   },
   {
     "id": "shinki-cake",
@@ -2872,7 +3057,8 @@
       "food"
     ],
     "filename": "Cake.gif",
-    "url": "/emotes/shinki/Cake.gif"
+    "url": "/emotes/shinki/Cake.gif",
+    "localUrl": "/emotes/shinki/Cake.gif"
   },
   {
     "id": "shinki-caught-in-4k-phone",
@@ -2890,7 +3076,8 @@
       "evidence"
     ],
     "filename": "Caught in 4K (Phone).gif",
-    "url": "/emotes/shinki/Caught%20in%204K%20(Phone).gif"
+    "url": "/emotes/shinki/Caught%20in%204K%20(Phone).gif",
+    "localUrl": "/emotes/shinki/Caught%20in%204K%20(Phone).gif"
   },
   {
     "id": "shinki-caught-in-4k-video-camera",
@@ -2908,7 +3095,8 @@
       "evidence"
     ],
     "filename": "Caught in 4K (Video Camera).gif",
-    "url": "/emotes/shinki/Caught%20in%204K%20(Video%20Camera).gif"
+    "url": "/emotes/shinki/Caught%20in%204K%20(Video%20Camera).gif",
+    "localUrl": "/emotes/shinki/Caught%20in%204K%20(Video%20Camera).gif"
   },
   {
     "id": "shinki-celebration",
@@ -2924,7 +3112,8 @@
       "confetti"
     ],
     "filename": "Celebration.gif",
-    "url": "/emotes/shinki/Celebration.gif"
+    "url": "/emotes/shinki/Celebration.gif",
+    "localUrl": "/emotes/shinki/Celebration.gif"
   },
   {
     "id": "shinki-cheer",
@@ -2939,7 +3128,8 @@
       "happy"
     ],
     "filename": "Cheer.gif",
-    "url": "/emotes/shinki/Cheer.gif"
+    "url": "/emotes/shinki/Cheer.gif",
+    "localUrl": "/emotes/shinki/Cheer.gif"
   },
   {
     "id": "shinki-copium",
@@ -2955,7 +3145,8 @@
       "denial"
     ],
     "filename": "Copium.gif",
-    "url": "/emotes/shinki/Copium.gif"
+    "url": "/emotes/shinki/Copium.gif",
+    "localUrl": "/emotes/shinki/Copium.gif"
   },
   {
     "id": "shinki-crowbar-1",
@@ -2971,7 +3162,8 @@
       "bonk"
     ],
     "filename": "Crowbar 1.gif",
-    "url": "/emotes/shinki/Crowbar%201.gif"
+    "url": "/emotes/shinki/Crowbar%201.gif",
+    "localUrl": "/emotes/shinki/Crowbar%201.gif"
   },
   {
     "id": "shinki-crowbar-2",
@@ -2987,7 +3179,8 @@
       "bonk"
     ],
     "filename": "Crowbar 2.gif",
-    "url": "/emotes/shinki/Crowbar%202.gif"
+    "url": "/emotes/shinki/Crowbar%202.gif",
+    "localUrl": "/emotes/shinki/Crowbar%202.gif"
   },
   {
     "id": "shinki-crowbar-3",
@@ -3003,7 +3196,8 @@
       "bonk"
     ],
     "filename": "Crowbar 3.gif",
-    "url": "/emotes/shinki/Crowbar%203.gif"
+    "url": "/emotes/shinki/Crowbar%203.gif",
+    "localUrl": "/emotes/shinki/Crowbar%203.gif"
   },
   {
     "id": "shinki-cry-1",
@@ -3019,7 +3213,8 @@
       "upset"
     ],
     "filename": "Cry 1.gif",
-    "url": "/emotes/shinki/Cry%201.gif"
+    "url": "/emotes/shinki/Cry%201.gif",
+    "localUrl": "/emotes/shinki/Cry%201.gif"
   },
   {
     "id": "shinki-cry-2",
@@ -3035,7 +3230,8 @@
       "upset"
     ],
     "filename": "Cry 2.gif",
-    "url": "/emotes/shinki/Cry%202.gif"
+    "url": "/emotes/shinki/Cry%202.gif",
+    "localUrl": "/emotes/shinki/Cry%202.gif"
   },
   {
     "id": "shinki-cry-3",
@@ -3051,7 +3247,8 @@
       "upset"
     ],
     "filename": "Cry 3.gif",
-    "url": "/emotes/shinki/Cry%203.gif"
+    "url": "/emotes/shinki/Cry%203.gif",
+    "localUrl": "/emotes/shinki/Cry%203.gif"
   },
   {
     "id": "shinki-dance-caramelldansen",
@@ -3067,7 +3264,8 @@
       "fun"
     ],
     "filename": "Dance (Caramelldansen).gif",
-    "url": "/emotes/shinki/Dance%20(Caramelldansen).gif"
+    "url": "/emotes/shinki/Dance%20(Caramelldansen).gif",
+    "localUrl": "/emotes/shinki/Dance%20(Caramelldansen).gif"
   },
   {
     "id": "shinki-dance-helltaker",
@@ -3083,7 +3281,8 @@
       "fun"
     ],
     "filename": "Dance (Helltaker).gif",
-    "url": "/emotes/shinki/Dance%20(Helltaker).gif"
+    "url": "/emotes/shinki/Dance%20(Helltaker).gif",
+    "localUrl": "/emotes/shinki/Dance%20(Helltaker).gif"
   },
   {
     "id": "shinki-dance-low-cortisol",
@@ -3100,7 +3299,8 @@
       "fun"
     ],
     "filename": "Dance (Low Cortisol).gif",
-    "url": "/emotes/shinki/Dance%20(Low%20Cortisol).gif"
+    "url": "/emotes/shinki/Dance%20(Low%20Cortisol).gif",
+    "localUrl": "/emotes/shinki/Dance%20(Low%20Cortisol).gif"
   },
   {
     "id": "shinki-dance-1",
@@ -3116,7 +3316,8 @@
       "fun"
     ],
     "filename": "Dance 1.gif",
-    "url": "/emotes/shinki/Dance%201.gif"
+    "url": "/emotes/shinki/Dance%201.gif",
+    "localUrl": "/emotes/shinki/Dance%201.gif"
   },
   {
     "id": "shinki-dead",
@@ -3131,7 +3332,8 @@
       "ded"
     ],
     "filename": "Dead.gif",
-    "url": "/emotes/shinki/Dead.gif"
+    "url": "/emotes/shinki/Dead.gif",
+    "localUrl": "/emotes/shinki/Dead.gif"
   },
   {
     "id": "shinki-dizzy",
@@ -3145,7 +3347,8 @@
       "spin"
     ],
     "filename": "Dizzy.gif",
-    "url": "/emotes/shinki/Dizzy.gif"
+    "url": "/emotes/shinki/Dizzy.gif",
+    "localUrl": "/emotes/shinki/Dizzy.gif"
   },
   {
     "id": "shinki-drink-beverage-cup",
@@ -3160,7 +3363,8 @@
       "thirsty"
     ],
     "filename": "Drink (Beverage Cup).gif",
-    "url": "/emotes/shinki/Drink%20(Beverage%20Cup).gif"
+    "url": "/emotes/shinki/Drink%20(Beverage%20Cup).gif",
+    "localUrl": "/emotes/shinki/Drink%20(Beverage%20Cup).gif"
   },
   {
     "id": "shinki-drink-beverage-cup-blood",
@@ -3175,7 +3379,8 @@
       "blood"
     ],
     "filename": "Drink (Beverage Cup) Blood.gif",
-    "url": "/emotes/shinki/Drink%20(Beverage%20Cup)%20Blood.gif"
+    "url": "/emotes/shinki/Drink%20(Beverage%20Cup)%20Blood.gif",
+    "localUrl": "/emotes/shinki/Drink%20(Beverage%20Cup)%20Blood.gif"
   },
   {
     "id": "shinki-drive",
@@ -3189,7 +3394,8 @@
       "driving"
     ],
     "filename": "Drive.gif",
-    "url": "/emotes/shinki/Drive.gif"
+    "url": "/emotes/shinki/Drive.gif",
+    "localUrl": "/emotes/shinki/Drive.gif"
   },
   {
     "id": "shinki-drooling-chopstick",
@@ -3206,7 +3412,8 @@
       "want"
     ],
     "filename": "Drooling (Chopstick).gif",
-    "url": "/emotes/shinki/Drooling%20(Chopstick).gif"
+    "url": "/emotes/shinki/Drooling%20(Chopstick).gif",
+    "localUrl": "/emotes/shinki/Drooling%20(Chopstick).gif"
   },
   {
     "id": "shinki-drooling-fork-knife",
@@ -3223,7 +3430,8 @@
       "want"
     ],
     "filename": "Drooling (Fork&Knife).gif",
-    "url": "/emotes/shinki/Drooling%20(Fork&Knife).gif"
+    "url": "/emotes/shinki/Drooling%20(Fork&Knife).gif",
+    "localUrl": "/emotes/shinki/Drooling%20(Fork&Knife).gif"
   },
   {
     "id": "shinki-dum-1",
@@ -3240,7 +3448,8 @@
       "funny"
     ],
     "filename": "Dum 1.gif",
-    "url": "/emotes/shinki/Dum%201.gif"
+    "url": "/emotes/shinki/Dum%201.gif",
+    "localUrl": "/emotes/shinki/Dum%201.gif"
   },
   {
     "id": "shinki-dum-2",
@@ -3257,7 +3466,8 @@
       "funny"
     ],
     "filename": "Dum 2.gif",
-    "url": "/emotes/shinki/Dum%202.gif"
+    "url": "/emotes/shinki/Dum%202.gif",
+    "localUrl": "/emotes/shinki/Dum%202.gif"
   },
   {
     "id": "shinki-dum-3",
@@ -3274,7 +3484,8 @@
       "funny"
     ],
     "filename": "Dum 3.gif",
-    "url": "/emotes/shinki/Dum%203.gif"
+    "url": "/emotes/shinki/Dum%203.gif",
+    "localUrl": "/emotes/shinki/Dum%203.gif"
   },
   {
     "id": "shinki-easter",
@@ -3288,7 +3499,8 @@
       "holiday"
     ],
     "filename": "Easter.gif",
-    "url": "/emotes/shinki/Easter.gif"
+    "url": "/emotes/shinki/Easter.gif",
+    "localUrl": "/emotes/shinki/Easter.gif"
   },
   {
     "id": "shinki-eat-donut",
@@ -3304,7 +3516,8 @@
       "nom"
     ],
     "filename": "Eat (Donut).gif",
-    "url": "/emotes/shinki/Eat%20(Donut).gif"
+    "url": "/emotes/shinki/Eat%20(Donut).gif",
+    "localUrl": "/emotes/shinki/Eat%20(Donut).gif"
   },
   {
     "id": "shinki-eat-popcorn",
@@ -3320,7 +3533,8 @@
       "nom"
     ],
     "filename": "Eat (Popcorn).gif",
-    "url": "/emotes/shinki/Eat%20(Popcorn).gif"
+    "url": "/emotes/shinki/Eat%20(Popcorn).gif",
+    "localUrl": "/emotes/shinki/Eat%20(Popcorn).gif"
   },
   {
     "id": "shinki-exclamation",
@@ -3335,7 +3549,8 @@
       "notice"
     ],
     "filename": "Exclamation.gif",
-    "url": "/emotes/shinki/Exclamation.gif"
+    "url": "/emotes/shinki/Exclamation.gif",
+    "localUrl": "/emotes/shinki/Exclamation.gif"
   },
   {
     "id": "shinki-gun",
@@ -3350,7 +3565,8 @@
       "pew"
     ],
     "filename": "Gun.gif",
-    "url": "/emotes/shinki/Gun.gif"
+    "url": "/emotes/shinki/Gun.gif",
+    "localUrl": "/emotes/shinki/Gun.gif"
   },
   {
     "id": "shinki-head-nod",
@@ -3365,7 +3581,8 @@
       "agree"
     ],
     "filename": "Head Nod.gif",
-    "url": "/emotes/shinki/Head%20Nod.gif"
+    "url": "/emotes/shinki/Head%20Nod.gif",
+    "localUrl": "/emotes/shinki/Head%20Nod.gif"
   },
   {
     "id": "shinki-head-shake",
@@ -3381,7 +3598,8 @@
       "deny"
     ],
     "filename": "Head Shake.gif",
-    "url": "/emotes/shinki/Head%20Shake.gif"
+    "url": "/emotes/shinki/Head%20Shake.gif",
+    "localUrl": "/emotes/shinki/Head%20Shake.gif"
   },
   {
     "id": "shinki-hypnosis",
@@ -3396,7 +3614,8 @@
       "mesmerize"
     ],
     "filename": "Hypnosis.gif",
-    "url": "/emotes/shinki/Hypnosis.gif"
+    "url": "/emotes/shinki/Hypnosis.gif",
+    "localUrl": "/emotes/shinki/Hypnosis.gif"
   },
   {
     "id": "shinki-idea",
@@ -3411,7 +3630,8 @@
       "eureka"
     ],
     "filename": "Idea.gif",
-    "url": "/emotes/shinki/Idea.gif"
+    "url": "/emotes/shinki/Idea.gif",
+    "localUrl": "/emotes/shinki/Idea.gif"
   },
   {
     "id": "shinki-jail-1",
@@ -3427,7 +3647,8 @@
       "cell"
     ],
     "filename": "Jail 1.gif",
-    "url": "/emotes/shinki/Jail%201.gif"
+    "url": "/emotes/shinki/Jail%201.gif",
+    "localUrl": "/emotes/shinki/Jail%201.gif"
   },
   {
     "id": "shinki-jail-2",
@@ -3443,7 +3664,8 @@
       "cell"
     ],
     "filename": "Jail 2.gif",
-    "url": "/emotes/shinki/Jail%202.gif"
+    "url": "/emotes/shinki/Jail%202.gif",
+    "localUrl": "/emotes/shinki/Jail%202.gif"
   },
   {
     "id": "shinki-knife-1",
@@ -3458,7 +3680,8 @@
       "weapon"
     ],
     "filename": "Knife 1.gif",
-    "url": "/emotes/shinki/Knife%201.gif"
+    "url": "/emotes/shinki/Knife%201.gif",
+    "localUrl": "/emotes/shinki/Knife%201.gif"
   },
   {
     "id": "shinki-knife-2",
@@ -3473,7 +3696,8 @@
       "weapon"
     ],
     "filename": "Knife 2.gif",
-    "url": "/emotes/shinki/Knife%202.gif"
+    "url": "/emotes/shinki/Knife%202.gif",
+    "localUrl": "/emotes/shinki/Knife%202.gif"
   },
   {
     "id": "shinki-lightstick-1",
@@ -3489,7 +3713,8 @@
       "fan"
     ],
     "filename": "Lightstick 1.gif",
-    "url": "/emotes/shinki/Lightstick%201.gif"
+    "url": "/emotes/shinki/Lightstick%201.gif",
+    "localUrl": "/emotes/shinki/Lightstick%201.gif"
   },
   {
     "id": "shinki-lightstick-2",
@@ -3505,7 +3730,8 @@
       "fan"
     ],
     "filename": "Lightstick 2.gif",
-    "url": "/emotes/shinki/Lightstick%202.gif"
+    "url": "/emotes/shinki/Lightstick%202.gif",
+    "localUrl": "/emotes/shinki/Lightstick%202.gif"
   },
   {
     "id": "shinki-love-letter",
@@ -3520,7 +3746,8 @@
       "mail"
     ],
     "filename": "Love Letter.gif",
-    "url": "/emotes/shinki/Love%20Letter.gif"
+    "url": "/emotes/shinki/Love%20Letter.gif",
+    "localUrl": "/emotes/shinki/Love%20Letter.gif"
   },
   {
     "id": "shinki-lurk-1",
@@ -3536,7 +3763,8 @@
       "peek"
     ],
     "filename": "Lurk 1.gif",
-    "url": "/emotes/shinki/Lurk%201.gif"
+    "url": "/emotes/shinki/Lurk%201.gif",
+    "localUrl": "/emotes/shinki/Lurk%201.gif"
   },
   {
     "id": "shinki-lurk-2",
@@ -3552,7 +3780,8 @@
       "peek"
     ],
     "filename": "Lurk 2.gif",
-    "url": "/emotes/shinki/Lurk%202.gif"
+    "url": "/emotes/shinki/Lurk%202.gif",
+    "localUrl": "/emotes/shinki/Lurk%202.gif"
   },
   {
     "id": "shinki-luv-1",
@@ -3568,7 +3797,8 @@
       "like"
     ],
     "filename": "Luv 1.gif",
-    "url": "/emotes/shinki/Luv%201.gif"
+    "url": "/emotes/shinki/Luv%201.gif",
+    "localUrl": "/emotes/shinki/Luv%201.gif"
   },
   {
     "id": "shinki-luv-2",
@@ -3584,7 +3814,8 @@
       "like"
     ],
     "filename": "Luv 2.gif",
-    "url": "/emotes/shinki/Luv%202.gif"
+    "url": "/emotes/shinki/Luv%202.gif",
+    "localUrl": "/emotes/shinki/Luv%202.gif"
   },
   {
     "id": "shinki-luv-3",
@@ -3600,7 +3831,8 @@
       "like"
     ],
     "filename": "Luv 3.gif",
-    "url": "/emotes/shinki/Luv%203.gif"
+    "url": "/emotes/shinki/Luv%203.gif",
+    "localUrl": "/emotes/shinki/Luv%203.gif"
   },
   {
     "id": "shinki-megaphone",
@@ -3615,7 +3847,8 @@
       "announce"
     ],
     "filename": "Megaphone.gif",
-    "url": "/emotes/shinki/Megaphone.gif"
+    "url": "/emotes/shinki/Megaphone.gif",
+    "localUrl": "/emotes/shinki/Megaphone.gif"
   },
   {
     "id": "shinki-money",
@@ -3630,7 +3863,8 @@
       "dollar"
     ],
     "filename": "Money.gif",
-    "url": "/emotes/shinki/Money.gif"
+    "url": "/emotes/shinki/Money.gif",
+    "localUrl": "/emotes/shinki/Money.gif"
   },
   {
     "id": "shinki-mute-1",
@@ -3646,7 +3880,8 @@
       "shh"
     ],
     "filename": "Mute 1.gif",
-    "url": "/emotes/shinki/Mute%201.gif"
+    "url": "/emotes/shinki/Mute%201.gif",
+    "localUrl": "/emotes/shinki/Mute%201.gif"
   },
   {
     "id": "shinki-mute-2",
@@ -3662,7 +3897,8 @@
       "shh"
     ],
     "filename": "Mute 2.gif",
-    "url": "/emotes/shinki/Mute%202.gif"
+    "url": "/emotes/shinki/Mute%202.gif",
+    "localUrl": "/emotes/shinki/Mute%202.gif"
   },
   {
     "id": "shinki-need-food",
@@ -3677,7 +3913,8 @@
       "starving"
     ],
     "filename": "Need Food.gif",
-    "url": "/emotes/shinki/Need%20Food.gif"
+    "url": "/emotes/shinki/Need%20Food.gif",
+    "localUrl": "/emotes/shinki/Need%20Food.gif"
   },
   {
     "id": "shinki-nervous-1",
@@ -3693,7 +3930,8 @@
       "worry"
     ],
     "filename": "Nervous 1.gif",
-    "url": "/emotes/shinki/Nervous%201.gif"
+    "url": "/emotes/shinki/Nervous%201.gif",
+    "localUrl": "/emotes/shinki/Nervous%201.gif"
   },
   {
     "id": "shinki-nervous-2",
@@ -3709,7 +3947,8 @@
       "worry"
     ],
     "filename": "Nervous 2.gif",
-    "url": "/emotes/shinki/Nervous%202.gif"
+    "url": "/emotes/shinki/Nervous%202.gif",
+    "localUrl": "/emotes/shinki/Nervous%202.gif"
   },
   {
     "id": "shinki-noted-1",
@@ -3725,7 +3964,8 @@
       "ok"
     ],
     "filename": "Noted 1.gif",
-    "url": "/emotes/shinki/Noted%201.gif"
+    "url": "/emotes/shinki/Noted%201.gif",
+    "localUrl": "/emotes/shinki/Noted%201.gif"
   },
   {
     "id": "shinki-noted-2",
@@ -3741,7 +3981,8 @@
       "ok"
     ],
     "filename": "Noted 2.gif",
-    "url": "/emotes/shinki/Noted%202.gif"
+    "url": "/emotes/shinki/Noted%202.gif",
+    "localUrl": "/emotes/shinki/Noted%202.gif"
   },
   {
     "id": "shinki-paid-break-easy-mode",
@@ -3758,7 +3999,8 @@
       "vacation"
     ],
     "filename": "Paid Break (Easy Mode).gif",
-    "url": "/emotes/shinki/Paid%20Break%20(Easy%20Mode).gif"
+    "url": "/emotes/shinki/Paid%20Break%20(Easy%20Mode).gif",
+    "localUrl": "/emotes/shinki/Paid%20Break%20(Easy%20Mode).gif"
   },
   {
     "id": "shinki-paid-break-hard-mode",
@@ -3775,7 +4017,8 @@
       "vacation"
     ],
     "filename": "Paid Break (Hard Mode).gif",
-    "url": "/emotes/shinki/Paid%20Break%20(Hard%20Mode).gif"
+    "url": "/emotes/shinki/Paid%20Break%20(Hard%20Mode).gif",
+    "localUrl": "/emotes/shinki/Paid%20Break%20(Hard%20Mode).gif"
   },
   {
     "id": "shinki-pat",
@@ -3790,7 +4033,8 @@
       "cute"
     ],
     "filename": "Pat.gif",
-    "url": "/emotes/shinki/Pat.gif"
+    "url": "/emotes/shinki/Pat.gif",
+    "localUrl": "/emotes/shinki/Pat.gif"
   },
   {
     "id": "shinki-pngtuber-idle-2",
@@ -3805,7 +4049,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Idle 2.gif",
-    "url": "/emotes/shinki/PNGTuber%20Idle%202.gif"
+    "url": "/emotes/shinki/PNGTuber%20Idle%202.gif",
+    "localUrl": "/emotes/shinki/PNGTuber%20Idle%202.gif"
   },
   {
     "id": "shinki-pngtuber-idle",
@@ -3819,7 +4064,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Idle.gif",
-    "url": "/emotes/shinki/PNGTuber%20Idle.gif"
+    "url": "/emotes/shinki/PNGTuber%20Idle.gif",
+    "localUrl": "/emotes/shinki/PNGTuber%20Idle.gif"
   },
   {
     "id": "shinki-pngtuber-loading",
@@ -3833,7 +4079,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Loading.gif",
-    "url": "/emotes/shinki/PNGTuber%20Loading.gif"
+    "url": "/emotes/shinki/PNGTuber%20Loading.gif",
+    "localUrl": "/emotes/shinki/PNGTuber%20Loading.gif"
   },
   {
     "id": "shinki-pngtuber-talk-2",
@@ -3849,7 +4096,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Talk 2.gif",
-    "url": "/emotes/shinki/PNGTuber%20Talk%202.gif"
+    "url": "/emotes/shinki/PNGTuber%20Talk%202.gif",
+    "localUrl": "/emotes/shinki/PNGTuber%20Talk%202.gif"
   },
   {
     "id": "shinki-pngtuber-talk",
@@ -3864,7 +4112,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Talk.gif",
-    "url": "/emotes/shinki/PNGTuber%20Talk.gif"
+    "url": "/emotes/shinki/PNGTuber%20Talk.gif",
+    "localUrl": "/emotes/shinki/PNGTuber%20Talk.gif"
   },
   {
     "id": "shinki-pngtuber-yap",
@@ -3879,7 +4128,8 @@
       "vtuber"
     ],
     "filename": "PNGTuber Yap.gif",
-    "url": "/emotes/shinki/PNGTuber%20Yap.gif"
+    "url": "/emotes/shinki/PNGTuber%20Yap.gif",
+    "localUrl": "/emotes/shinki/PNGTuber%20Yap.gif"
   },
   {
     "id": "shinki-point",
@@ -3893,7 +4143,8 @@
       "finger"
     ],
     "filename": "Point.gif",
-    "url": "/emotes/shinki/Point.gif"
+    "url": "/emotes/shinki/Point.gif",
+    "localUrl": "/emotes/shinki/Point.gif"
   },
   {
     "id": "shinki-popcat-frame",
@@ -3906,7 +4157,8 @@
       "frame"
     ],
     "filename": "Popcat Frame.gif",
-    "url": "/emotes/shinki/Popcat%20Frame.gif"
+    "url": "/emotes/shinki/Popcat%20Frame.gif",
+    "localUrl": "/emotes/shinki/Popcat%20Frame.gif"
   },
   {
     "id": "shinki-popcat-smooth",
@@ -3919,7 +4171,8 @@
       "smooth"
     ],
     "filename": "Popcat Smooth.gif",
-    "url": "/emotes/shinki/Popcat%20Smooth.gif"
+    "url": "/emotes/shinki/Popcat%20Smooth.gif",
+    "localUrl": "/emotes/shinki/Popcat%20Smooth.gif"
   },
   {
     "id": "shinki-question",
@@ -3934,7 +4187,8 @@
       "confused"
     ],
     "filename": "Question.gif",
-    "url": "/emotes/shinki/Question.gif"
+    "url": "/emotes/shinki/Question.gif",
+    "localUrl": "/emotes/shinki/Question.gif"
   },
   {
     "id": "shinki-raid-1",
@@ -3949,7 +4203,8 @@
       "streaming"
     ],
     "filename": "Raid 1.gif",
-    "url": "/emotes/shinki/Raid%201.gif"
+    "url": "/emotes/shinki/Raid%201.gif",
+    "localUrl": "/emotes/shinki/Raid%201.gif"
   },
   {
     "id": "shinki-raid-2",
@@ -3964,7 +4219,8 @@
       "streaming"
     ],
     "filename": "Raid 2.gif",
-    "url": "/emotes/shinki/Raid%202.gif"
+    "url": "/emotes/shinki/Raid%202.gif",
+    "localUrl": "/emotes/shinki/Raid%202.gif"
   },
   {
     "id": "shinki-redpacket-1",
@@ -3981,7 +4237,8 @@
       "money"
     ],
     "filename": "RedPacket 1.gif",
-    "url": "/emotes/shinki/RedPacket%201.gif"
+    "url": "/emotes/shinki/RedPacket%201.gif",
+    "localUrl": "/emotes/shinki/RedPacket%201.gif"
   },
   {
     "id": "shinki-redpacket-2",
@@ -3998,7 +4255,8 @@
       "money"
     ],
     "filename": "RedPacket 2.gif",
-    "url": "/emotes/shinki/RedPacket%202.gif"
+    "url": "/emotes/shinki/RedPacket%202.gif",
+    "localUrl": "/emotes/shinki/RedPacket%202.gif"
   },
   {
     "id": "shinki-rose",
@@ -4013,7 +4271,8 @@
       "romantic"
     ],
     "filename": "Rose.gif",
-    "url": "/emotes/shinki/Rose.gif"
+    "url": "/emotes/shinki/Rose.gif",
+    "localUrl": "/emotes/shinki/Rose.gif"
   },
   {
     "id": "shinki-score-0-point",
@@ -4029,7 +4288,8 @@
       "number"
     ],
     "filename": "Score (0 Point).gif",
-    "url": "/emotes/shinki/Score%20(0%20Point).gif"
+    "url": "/emotes/shinki/Score%20(0%20Point).gif",
+    "localUrl": "/emotes/shinki/Score%20(0%20Point).gif"
   },
   {
     "id": "shinki-score-10-point",
@@ -4045,7 +4305,8 @@
       "number"
     ],
     "filename": "Score (10 Point).gif",
-    "url": "/emotes/shinki/Score%20(10%20Point).gif"
+    "url": "/emotes/shinki/Score%20(10%20Point).gif",
+    "localUrl": "/emotes/shinki/Score%20(10%20Point).gif"
   },
   {
     "id": "shinki-shy-1",
@@ -4061,7 +4322,8 @@
       "cute"
     ],
     "filename": "Shy 1.gif",
-    "url": "/emotes/shinki/Shy%201.gif"
+    "url": "/emotes/shinki/Shy%201.gif",
+    "localUrl": "/emotes/shinki/Shy%201.gif"
   },
   {
     "id": "shinki-shy-2",
@@ -4077,7 +4339,8 @@
       "cute"
     ],
     "filename": "Shy 2.gif",
-    "url": "/emotes/shinki/Shy%202.gif"
+    "url": "/emotes/shinki/Shy%202.gif",
+    "localUrl": "/emotes/shinki/Shy%202.gif"
   },
   {
     "id": "shinki-sing",
@@ -4092,7 +4355,8 @@
       "karaoke"
     ],
     "filename": "Sing.gif",
-    "url": "/emotes/shinki/Sing.gif"
+    "url": "/emotes/shinki/Sing.gif",
+    "localUrl": "/emotes/shinki/Sing.gif"
   },
   {
     "id": "shinki-sleep-normal",
@@ -4108,7 +4372,8 @@
       "nap"
     ],
     "filename": "Sleep (Normal).gif",
-    "url": "/emotes/shinki/Sleep%20(Normal).gif"
+    "url": "/emotes/shinki/Sleep%20(Normal).gif",
+    "localUrl": "/emotes/shinki/Sleep%20(Normal).gif"
   },
   {
     "id": "shinki-sleep-preparing-stage-1",
@@ -4126,7 +4391,8 @@
       "nap"
     ],
     "filename": "Sleep (Preparing Stage 1).gif",
-    "url": "/emotes/shinki/Sleep%20(Preparing%20Stage%201).gif"
+    "url": "/emotes/shinki/Sleep%20(Preparing%20Stage%201).gif",
+    "localUrl": "/emotes/shinki/Sleep%20(Preparing%20Stage%201).gif"
   },
   {
     "id": "shinki-sleep-preparing-stage-2",
@@ -4144,7 +4410,8 @@
       "nap"
     ],
     "filename": "Sleep (Preparing Stage 2).gif",
-    "url": "/emotes/shinki/Sleep%20(Preparing%20Stage%202).gif"
+    "url": "/emotes/shinki/Sleep%20(Preparing%20Stage%202).gif",
+    "localUrl": "/emotes/shinki/Sleep%20(Preparing%20Stage%202).gif"
   },
   {
     "id": "shinki-sleep-uu",
@@ -4160,7 +4427,8 @@
       "nap"
     ],
     "filename": "Sleep (UU).gif",
-    "url": "/emotes/shinki/Sleep%20(UU).gif"
+    "url": "/emotes/shinki/Sleep%20(UU).gif",
+    "localUrl": "/emotes/shinki/Sleep%20(UU).gif"
   },
   {
     "id": "shinki-sparkling",
@@ -4176,7 +4444,8 @@
       "pretty"
     ],
     "filename": "Sparkling.gif",
-    "url": "/emotes/shinki/Sparkling.gif"
+    "url": "/emotes/shinki/Sparkling.gif",
+    "localUrl": "/emotes/shinki/Sparkling.gif"
   },
   {
     "id": "shinki-spray",
@@ -4190,7 +4459,8 @@
       "water"
     ],
     "filename": "Spray.gif",
-    "url": "/emotes/shinki/Spray.gif"
+    "url": "/emotes/shinki/Spray.gif",
+    "localUrl": "/emotes/shinki/Spray.gif"
   },
   {
     "id": "shinki-stops-working",
@@ -4207,7 +4477,8 @@
       "crash"
     ],
     "filename": "Stops Working.gif",
-    "url": "/emotes/shinki/Stops%20Working.gif"
+    "url": "/emotes/shinki/Stops%20Working.gif",
+    "localUrl": "/emotes/shinki/Stops%20Working.gif"
   },
   {
     "id": "shinki-sunglasses-gleam",
@@ -4220,7 +4491,8 @@
       "gleam"
     ],
     "filename": "Sunglasses Gleam.gif",
-    "url": "/emotes/shinki/Sunglasses%20Gleam.gif"
+    "url": "/emotes/shinki/Sunglasses%20Gleam.gif",
+    "localUrl": "/emotes/shinki/Sunglasses%20Gleam.gif"
   },
   {
     "id": "shinki-sunglasses-pixel-gleam",
@@ -4234,7 +4506,8 @@
       "gleam"
     ],
     "filename": "Sunglasses Pixel Gleam.gif",
-    "url": "/emotes/shinki/Sunglasses%20Pixel%20Gleam.gif"
+    "url": "/emotes/shinki/Sunglasses%20Pixel%20Gleam.gif",
+    "localUrl": "/emotes/shinki/Sunglasses%20Pixel%20Gleam.gif"
   },
   {
     "id": "shinki-sunglasses-remove",
@@ -4247,7 +4520,8 @@
       "remove"
     ],
     "filename": "Sunglasses Remove.gif",
-    "url": "/emotes/shinki/Sunglasses%20Remove.gif"
+    "url": "/emotes/shinki/Sunglasses%20Remove.gif",
+    "localUrl": "/emotes/shinki/Sunglasses%20Remove.gif"
   },
   {
     "id": "shinki-surprise",
@@ -4262,7 +4536,8 @@
       "omg"
     ],
     "filename": "Surprise.gif",
-    "url": "/emotes/shinki/Surprise.gif"
+    "url": "/emotes/shinki/Surprise.gif",
+    "localUrl": "/emotes/shinki/Surprise.gif"
   },
   {
     "id": "shinki-swatter",
@@ -4276,7 +4551,8 @@
       "hit"
     ],
     "filename": "Swatter.gif",
-    "url": "/emotes/shinki/Swatter.gif"
+    "url": "/emotes/shinki/Swatter.gif",
+    "localUrl": "/emotes/shinki/Swatter.gif"
   },
   {
     "id": "shinki-sweat",
@@ -4291,7 +4567,8 @@
       "anxious"
     ],
     "filename": "Sweat.gif",
-    "url": "/emotes/shinki/Sweat.gif"
+    "url": "/emotes/shinki/Sweat.gif",
+    "localUrl": "/emotes/shinki/Sweat.gif"
   },
   {
     "id": "shinki-tablet",
@@ -4306,7 +4583,8 @@
       "device"
     ],
     "filename": "Tablet.gif",
-    "url": "/emotes/shinki/Tablet.gif"
+    "url": "/emotes/shinki/Tablet.gif",
+    "localUrl": "/emotes/shinki/Tablet.gif"
   },
   {
     "id": "shinki-tape",
@@ -4320,7 +4598,8 @@
       "sticky"
     ],
     "filename": "Tape.gif",
-    "url": "/emotes/shinki/Tape.gif"
+    "url": "/emotes/shinki/Tape.gif",
+    "localUrl": "/emotes/shinki/Tape.gif"
   },
   {
     "id": "shinki-thumb-down",
@@ -4336,7 +4615,8 @@
       "bad"
     ],
     "filename": "Thumb Down.gif",
-    "url": "/emotes/shinki/Thumb%20Down.gif"
+    "url": "/emotes/shinki/Thumb%20Down.gif",
+    "localUrl": "/emotes/shinki/Thumb%20Down.gif"
   },
   {
     "id": "shinki-thumb-up",
@@ -4352,7 +4632,8 @@
       "good"
     ],
     "filename": "Thumb Up.gif",
-    "url": "/emotes/shinki/Thumb%20Up.gif"
+    "url": "/emotes/shinki/Thumb%20Up.gif",
+    "localUrl": "/emotes/shinki/Thumb%20Up.gif"
   },
   {
     "id": "shinki-trash-bin",
@@ -4367,7 +4648,8 @@
       "garbage"
     ],
     "filename": "Trash Bin.gif",
-    "url": "/emotes/shinki/Trash%20Bin.gif"
+    "url": "/emotes/shinki/Trash%20Bin.gif",
+    "localUrl": "/emotes/shinki/Trash%20Bin.gif"
   },
   {
     "id": "shinki-trashtuber-idle",
@@ -4382,7 +4664,8 @@
       "trash"
     ],
     "filename": "TrashTuber Idle.gif",
-    "url": "/emotes/shinki/TrashTuber%20Idle.gif"
+    "url": "/emotes/shinki/TrashTuber%20Idle.gif",
+    "localUrl": "/emotes/shinki/TrashTuber%20Idle.gif"
   },
   {
     "id": "shinki-trashtuber-talk",
@@ -4397,7 +4680,8 @@
       "trash"
     ],
     "filename": "TrashTuber Talk.gif",
-    "url": "/emotes/shinki/TrashTuber%20Talk.gif"
+    "url": "/emotes/shinki/TrashTuber%20Talk.gif",
+    "localUrl": "/emotes/shinki/TrashTuber%20Talk.gif"
   },
   {
     "id": "shinki-trashtuber-yap",
@@ -4412,7 +4696,8 @@
       "trash"
     ],
     "filename": "TrashTuber Yap.gif",
-    "url": "/emotes/shinki/TrashTuber%20Yap.gif"
+    "url": "/emotes/shinki/TrashTuber%20Yap.gif",
+    "localUrl": "/emotes/shinki/TrashTuber%20Yap.gif"
   },
   {
     "id": "shinki-type-angry",
@@ -4425,7 +4710,8 @@
       "angry"
     ],
     "filename": "Type Angry.gif",
-    "url": "/emotes/shinki/Type%20Angry.gif"
+    "url": "/emotes/shinki/Type%20Angry.gif",
+    "localUrl": "/emotes/shinki/Type%20Angry.gif"
   },
   {
     "id": "shinki-type-annoyed",
@@ -4438,7 +4724,8 @@
       "annoyed"
     ],
     "filename": "Type Annoyed.gif",
-    "url": "/emotes/shinki/Type%20Annoyed.gif"
+    "url": "/emotes/shinki/Type%20Annoyed.gif",
+    "localUrl": "/emotes/shinki/Type%20Annoyed.gif"
   },
   {
     "id": "shinki-type-normal",
@@ -4451,7 +4738,8 @@
       "normal"
     ],
     "filename": "Type Normal.gif",
-    "url": "/emotes/shinki/Type%20Normal.gif"
+    "url": "/emotes/shinki/Type%20Normal.gif",
+    "localUrl": "/emotes/shinki/Type%20Normal.gif"
   },
   {
     "id": "shinki-work-angry",
@@ -4464,7 +4752,8 @@
       "angry"
     ],
     "filename": "Work Angry.gif",
-    "url": "/emotes/shinki/Work%20Angry.gif"
+    "url": "/emotes/shinki/Work%20Angry.gif",
+    "localUrl": "/emotes/shinki/Work%20Angry.gif"
   },
   {
     "id": "shinki-work-nap",
@@ -4477,7 +4766,8 @@
       "nap"
     ],
     "filename": "Work Nap.gif",
-    "url": "/emotes/shinki/Work%20Nap.gif"
+    "url": "/emotes/shinki/Work%20Nap.gif",
+    "localUrl": "/emotes/shinki/Work%20Nap.gif"
   },
   {
     "id": "shinki-work-normal",
@@ -4490,7 +4780,8 @@
       "normal"
     ],
     "filename": "Work Normal.gif",
-    "url": "/emotes/shinki/Work%20Normal.gif"
+    "url": "/emotes/shinki/Work%20Normal.gif",
+    "localUrl": "/emotes/shinki/Work%20Normal.gif"
   },
   {
     "id": "shinki-work-tired",
@@ -4503,6 +4794,7 @@
       "tired"
     ],
     "filename": "Work Tired.gif",
-    "url": "/emotes/shinki/Work%20Tired.gif"
+    "url": "/emotes/shinki/Work%20Tired.gif",
+    "localUrl": "/emotes/shinki/Work%20Tired.gif"
   }
 ]
