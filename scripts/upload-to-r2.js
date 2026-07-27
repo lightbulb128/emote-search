@@ -77,6 +77,8 @@ function findGifs(dir) {
   return results;
 }
 
+const CONCURRENCY = 10; // parallel uploads
+
 async function main() {
   if (!existsSync(EMOTES_DIR)) {
     console.error("❌ public/emotes/ directory not found.");
@@ -84,47 +86,73 @@ async function main() {
   }
 
   const files = findGifs(EMOTES_DIR);
-  console.log(`📦 Found ${files.length} GIF files to upload...`);
+  console.log(`📦 Found ${files.length} GIF files.`);
+
+  // Pre-compute metadata for all files
+  const tasks = files.map((filePath) => {
+    const key = relative(join(EMOTES_DIR, ".."), filePath).replace(/\\/g, "/");
+    const size = statSync(filePath).size;
+    return { filePath, key, size };
+  });
+
+  const totalSize = tasks.reduce((sum, t) => sum + t.size, 0);
+  console.log(`   Total: ${(totalSize / 1024 / 1024).toFixed(1)} MB`);
+  console.log(`   Concurrency: ${CONCURRENCY}\n`);
 
   let uploaded = 0;
   let skipped = 0;
-  let totalSize = 0;
+  let completed = 0;
 
-  for (const filePath of files) {
-    const key = relative(join(EMOTES_DIR, ".."), filePath).replace(/\\/g, "/");
-    const size = statSync(filePath).size;
-    totalSize += size;
+  /** Upload a single file (checks existence first). */
+  async function uploadOne(task) {
+    const { filePath, key, size } = task;
 
-    // Check if already uploaded — skip if it exists
+    // Check if already uploaded
     const alreadyExists = await objectExists(key);
     if (alreadyExists) {
-      console.log("⏭ (already exists)");
       skipped++;
-      continue;
+      completed++;
+      process.stdout.write(`\r  ⏭ skipped ${skipped}  |  ⬆ uploaded ${uploaded}  |  ${completed}/${tasks.length} complete`);
+      return;
     }
 
-    process.stdout.write(`  ⬆ ${key} (${(size / 1024).toFixed(0)} KB)... `);
+    const body = readFileSync(filePath);
+    await client.send(
+      new PutObjectCommand({
+        Bucket: process.env.R2_BUCKET_NAME,
+        Key: key,
+        Body: body,
+        ContentType: "image/gif",
+        CacheControl: "public, max-age=31536000, immutable",
+      })
+    );
 
-    try {
-      const body = readFileSync(filePath);
-      await client.send(
-        new PutObjectCommand({
-          Bucket: process.env.R2_BUCKET_NAME,
-          Key: key,
-          Body: body,
-          ContentType: "image/gif",
-          CacheControl: "public, max-age=31536000, immutable",
-        })
-      );
-      console.log("✅");
-      uploaded++;
-    } catch (err) {
-      console.error(`❌ ${err.message}`);
+    uploaded++;
+    completed++;
+    process.stdout.write(`\r  ⏭ skipped ${skipped}  |  ⬆ uploaded ${uploaded}  |  ${completed}/${tasks.length} complete`);
+  }
+
+  // Worker pool: process tasks with limited concurrency
+  const pool = new Set();
+  for (const task of tasks) {
+    const promise = uploadOne(task).catch((err) => {
+      console.error(`\n  ❌ ${task.key}: ${err.message}`);
       skipped++;
+      completed++;
+    });
+    pool.add(promise);
+    promise.finally(() => pool.delete(promise));
+
+    // Wait if pool is full
+    if (pool.size >= CONCURRENCY) {
+      await Promise.race(pool);
     }
   }
 
-  console.log(`\n✅ Done: ${uploaded} uploaded, ${skipped} skipped`);
+  // Wait for remaining tasks
+  await Promise.all(pool);
+
+  console.log(`\n\n✅ Done: ${uploaded} uploaded, ${skipped} skipped`);
   console.log(`   Total: ${(totalSize / 1024 / 1024).toFixed(1)} MB`);
   console.log(`   Public URL: ${process.env.R2_PUBLIC_URL}/emotes/<character>/<file>`);
 }
