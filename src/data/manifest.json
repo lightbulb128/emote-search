@@ -2845,6 +2845,4475 @@
     "localUrl": "/emotes/alice/Work%20Tired.gif"
   },
   {
+    "id": "rin-2-0-button-2026-07-28-00-40-19",
+    "character": "rin",
+    "name": "镜音铃2.0_Button_2026-07-28-00-40-19",
+    "action": "镜音铃2.0_Button_2026-07-28-00-40-19",
+    "variant": "",
+    "tags": [
+      "镜音铃2.0_button_2026-07-28-00-40-19"
+    ],
+    "filename": "镜音铃2.0_Button_2026-07-28-00-40-19.gif",
+    "url": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Button_2026-07-28-00-40-19.gif",
+    "localUrl": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Button_2026-07-28-00-40-19.gif"
+  },
+  {
+    "id": "rin-alert-bits",
+    "character": "rin",
+    "name": "Alert Bits",
+    "action": "Alert Bits",
+    "variant": "",
+    "tags": [
+      "alert",
+      "bits",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Bits.gif",
+    "url": "/emotes/rin/Alert%20Bits.gif",
+    "localUrl": "/emotes/rin/Alert%20Bits.gif"
+  },
+  {
+    "id": "rin-alert-custom",
+    "character": "rin",
+    "name": "Alert Custom",
+    "action": "Alert Custom",
+    "variant": "",
+    "tags": [
+      "alert",
+      "custom"
+    ],
+    "filename": "Alert Custom.gif",
+    "url": "/emotes/rin/Alert%20Custom.gif",
+    "localUrl": "/emotes/rin/Alert%20Custom.gif"
+  },
+  {
+    "id": "rin-alert-donation",
+    "character": "rin",
+    "name": "Alert Donation",
+    "action": "Alert Donation",
+    "variant": "",
+    "tags": [
+      "alert",
+      "donation",
+      "donate",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Donation.gif",
+    "url": "/emotes/rin/Alert%20Donation.gif",
+    "localUrl": "/emotes/rin/Alert%20Donation.gif"
+  },
+  {
+    "id": "rin-alert-heart",
+    "character": "rin",
+    "name": "Alert Heart",
+    "action": "Alert Heart",
+    "variant": "",
+    "tags": [
+      "alert",
+      "heart",
+      "love",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Heart.gif",
+    "url": "/emotes/rin/Alert%20Heart.gif",
+    "localUrl": "/emotes/rin/Alert%20Heart.gif"
+  },
+  {
+    "id": "rin-alert-like",
+    "character": "rin",
+    "name": "Alert Like",
+    "action": "Alert Like",
+    "variant": "",
+    "tags": [
+      "alert",
+      "like",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Like.gif",
+    "url": "/emotes/rin/Alert%20Like.gif",
+    "localUrl": "/emotes/rin/Alert%20Like.gif"
+  },
+  {
+    "id": "rin-alert-star",
+    "character": "rin",
+    "name": "Alert Star",
+    "action": "Alert Star",
+    "variant": "",
+    "tags": [
+      "alert",
+      "star",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Star.gif",
+    "url": "/emotes/rin/Alert%20Star.gif",
+    "localUrl": "/emotes/rin/Alert%20Star.gif"
+  },
+  {
+    "id": "rin-angry",
+    "character": "rin",
+    "name": "Angry",
+    "action": "Angry",
+    "variant": "",
+    "tags": [
+      "angry",
+      "mad",
+      "rage",
+      "upset",
+      "furious"
+    ],
+    "filename": "Angry.gif",
+    "url": "/emotes/rin/Angry.gif",
+    "localUrl": "/emotes/rin/Angry.gif"
+  },
+  {
+    "id": "rin-arrive-with-chopstick",
+    "character": "rin",
+    "name": "Arrive (with Chopstick)",
+    "action": "Arrive",
+    "variant": "with Chopstick",
+    "tags": [
+      "arrive",
+      "with",
+      "chopstick",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive (with Chopstick).gif",
+    "url": "/emotes/rin/Arrive%20(with%20Chopstick).gif",
+    "localUrl": "/emotes/rin/Arrive%20(with%20Chopstick).gif"
+  },
+  {
+    "id": "rin-arrive-with-spoon",
+    "character": "rin",
+    "name": "Arrive (with Spoon)",
+    "action": "Arrive",
+    "variant": "with Spoon",
+    "tags": [
+      "arrive",
+      "with",
+      "spoon",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive (with Spoon).gif",
+    "url": "/emotes/rin/Arrive%20(with%20Spoon).gif",
+    "localUrl": "/emotes/rin/Arrive%20(with%20Spoon).gif"
+  },
+  {
+    "id": "rin-arrive",
+    "character": "rin",
+    "name": "Arrive",
+    "action": "Arrive",
+    "variant": "",
+    "tags": [
+      "arrive",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive.gif",
+    "url": "/emotes/rin/Arrive.gif",
+    "localUrl": "/emotes/rin/Arrive.gif"
+  },
+  {
+    "id": "rin-bell",
+    "character": "rin",
+    "name": "Bell",
+    "action": "Bell",
+    "variant": "",
+    "tags": [
+      "bell",
+      "ring",
+      "notification"
+    ],
+    "filename": "Bell.gif",
+    "url": "/emotes/rin/Bell.gif",
+    "localUrl": "/emotes/rin/Bell.gif"
+  },
+  {
+    "id": "rin-bonk",
+    "character": "rin",
+    "name": "Bonk",
+    "action": "Bonk",
+    "variant": "",
+    "tags": [
+      "bonk",
+      "hit",
+      "joke"
+    ],
+    "filename": "Bonk.gif",
+    "url": "/emotes/rin/Bonk.gif",
+    "localUrl": "/emotes/rin/Bonk.gif"
+  },
+  {
+    "id": "rin-bug",
+    "character": "rin",
+    "name": "Bug",
+    "action": "Bug",
+    "variant": "",
+    "tags": [
+      "bug",
+      "error",
+      "glitch",
+      "insect"
+    ],
+    "filename": "Bug.gif",
+    "url": "/emotes/rin/Bug.gif",
+    "localUrl": "/emotes/rin/Bug.gif"
+  },
+  {
+    "id": "rin-button",
+    "character": "rin",
+    "name": "Button",
+    "action": "Button",
+    "variant": "",
+    "tags": [
+      "button",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button.gif",
+    "url": "/emotes/rin/Button.gif",
+    "localUrl": "/emotes/rin/Button.gif"
+  },
+  {
+    "id": "rin-cake",
+    "character": "rin",
+    "name": "Cake",
+    "action": "Cake",
+    "variant": "",
+    "tags": [
+      "cake",
+      "birthday",
+      "celebrate",
+      "food"
+    ],
+    "filename": "Cake.gif",
+    "url": "/emotes/rin/Cake.gif",
+    "localUrl": "/emotes/rin/Cake.gif"
+  },
+  {
+    "id": "rin-card-swipe",
+    "character": "rin",
+    "name": "Card Swipe",
+    "action": "Card Swipe",
+    "variant": "",
+    "tags": [
+      "card",
+      "swipe",
+      "credit",
+      "payment"
+    ],
+    "filename": "Card Swipe.gif",
+    "url": "/emotes/rin/Card%20Swipe.gif",
+    "localUrl": "/emotes/rin/Card%20Swipe.gif"
+  },
+  {
+    "id": "rin-caught-in-4k-phone",
+    "character": "rin",
+    "name": "Caught in 4K (Phone)",
+    "action": "Caught in 4K",
+    "variant": "Phone",
+    "tags": [
+      "caught",
+      "in",
+      "4k",
+      "phone",
+      "exposed",
+      "camera",
+      "evidence"
+    ],
+    "filename": "Caught in 4K (Phone).gif",
+    "url": "/emotes/rin/Caught%20in%204K%20(Phone).gif",
+    "localUrl": "/emotes/rin/Caught%20in%204K%20(Phone).gif"
+  },
+  {
+    "id": "rin-caught-in-4k-video-camera",
+    "character": "rin",
+    "name": "Caught in 4K (Video Camera)",
+    "action": "Caught in 4K",
+    "variant": "Video Camera",
+    "tags": [
+      "caught",
+      "in",
+      "4k",
+      "video",
+      "camera",
+      "exposed",
+      "evidence"
+    ],
+    "filename": "Caught in 4K (Video Camera).gif",
+    "url": "/emotes/rin/Caught%20in%204K%20(Video%20Camera).gif",
+    "localUrl": "/emotes/rin/Caught%20in%204K%20(Video%20Camera).gif"
+  },
+  {
+    "id": "rin-celebration",
+    "character": "rin",
+    "name": "Celebration",
+    "action": "Celebration",
+    "variant": "",
+    "tags": [
+      "celebration",
+      "celebrate",
+      "party",
+      "yay",
+      "confetti"
+    ],
+    "filename": "Celebration.gif",
+    "url": "/emotes/rin/Celebration.gif",
+    "localUrl": "/emotes/rin/Celebration.gif"
+  },
+  {
+    "id": "rin-cheer",
+    "character": "rin",
+    "name": "Cheer",
+    "action": "Cheer",
+    "variant": "",
+    "tags": [
+      "cheer",
+      "celebrate",
+      "yay",
+      "happy"
+    ],
+    "filename": "Cheer.gif",
+    "url": "/emotes/rin/Cheer.gif",
+    "localUrl": "/emotes/rin/Cheer.gif"
+  },
+  {
+    "id": "rin-cheers",
+    "character": "rin",
+    "name": "Cheers",
+    "action": "Cheers",
+    "variant": "",
+    "tags": [
+      "cheers",
+      "toast",
+      "drink",
+      "celebrate"
+    ],
+    "filename": "Cheers.gif",
+    "url": "/emotes/rin/Cheers.gif",
+    "localUrl": "/emotes/rin/Cheers.gif"
+  },
+  {
+    "id": "rin-cheese-slap",
+    "character": "rin",
+    "name": "Cheese Slap",
+    "action": "Cheese Slap",
+    "variant": "",
+    "tags": [
+      "cheese",
+      "slap",
+      "funny"
+    ],
+    "filename": "Cheese Slap.gif",
+    "url": "/emotes/rin/Cheese%20Slap.gif",
+    "localUrl": "/emotes/rin/Cheese%20Slap.gif"
+  },
+  {
+    "id": "rin-clown-1",
+    "character": "rin",
+    "name": "Clown (1)",
+    "action": "Clown",
+    "variant": "1",
+    "tags": [
+      "clown",
+      "1",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 1.gif",
+    "url": "/emotes/rin/Clown%201.gif",
+    "localUrl": "/emotes/rin/Clown%201.gif"
+  },
+  {
+    "id": "rin-clown-2",
+    "character": "rin",
+    "name": "Clown (2)",
+    "action": "Clown",
+    "variant": "2",
+    "tags": [
+      "clown",
+      "2",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 2.gif",
+    "url": "/emotes/rin/Clown%202.gif",
+    "localUrl": "/emotes/rin/Clown%202.gif"
+  },
+  {
+    "id": "rin-coke-shake",
+    "character": "rin",
+    "name": "Coke Shake",
+    "action": "Coke Shake",
+    "variant": "",
+    "tags": [
+      "coke",
+      "shake",
+      "cola",
+      "drink",
+      "funny"
+    ],
+    "filename": "Coke Shake.gif",
+    "url": "/emotes/rin/Coke%20Shake.gif",
+    "localUrl": "/emotes/rin/Coke%20Shake.gif"
+  },
+  {
+    "id": "rin-copium",
+    "character": "rin",
+    "name": "Copium",
+    "action": "Copium",
+    "variant": "",
+    "tags": [
+      "copium",
+      "cope",
+      "sad",
+      "cry",
+      "denial"
+    ],
+    "filename": "Copium.gif",
+    "url": "/emotes/rin/Copium.gif",
+    "localUrl": "/emotes/rin/Copium.gif"
+  },
+  {
+    "id": "rin-crowbar-1",
+    "character": "rin",
+    "name": "Crowbar (1)",
+    "action": "Crowbar",
+    "variant": "1",
+    "tags": [
+      "crowbar",
+      "1",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 1.gif",
+    "url": "/emotes/rin/Crowbar%201.gif",
+    "localUrl": "/emotes/rin/Crowbar%201.gif"
+  },
+  {
+    "id": "rin-crowbar-2",
+    "character": "rin",
+    "name": "Crowbar (2)",
+    "action": "Crowbar",
+    "variant": "2",
+    "tags": [
+      "crowbar",
+      "2",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 2.gif",
+    "url": "/emotes/rin/Crowbar%202.gif",
+    "localUrl": "/emotes/rin/Crowbar%202.gif"
+  },
+  {
+    "id": "rin-crowbar-3",
+    "character": "rin",
+    "name": "Crowbar (3)",
+    "action": "Crowbar",
+    "variant": "3",
+    "tags": [
+      "crowbar",
+      "3",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 3.gif",
+    "url": "/emotes/rin/Crowbar%203.gif",
+    "localUrl": "/emotes/rin/Crowbar%203.gif"
+  },
+  {
+    "id": "rin-cry-1",
+    "character": "rin",
+    "name": "Cry (1)",
+    "action": "Cry",
+    "variant": "1",
+    "tags": [
+      "cry",
+      "1",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 1.gif",
+    "url": "/emotes/rin/Cry%201.gif",
+    "localUrl": "/emotes/rin/Cry%201.gif"
+  },
+  {
+    "id": "rin-cry-2",
+    "character": "rin",
+    "name": "Cry (2)",
+    "action": "Cry",
+    "variant": "2",
+    "tags": [
+      "cry",
+      "2",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 2.gif",
+    "url": "/emotes/rin/Cry%202.gif",
+    "localUrl": "/emotes/rin/Cry%202.gif"
+  },
+  {
+    "id": "rin-cry-3",
+    "character": "rin",
+    "name": "Cry (3)",
+    "action": "Cry",
+    "variant": "3",
+    "tags": [
+      "cry",
+      "3",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 3.gif",
+    "url": "/emotes/rin/Cry%203.gif",
+    "localUrl": "/emotes/rin/Cry%203.gif"
+  },
+  {
+    "id": "rin-dance-caramelldansen",
+    "character": "rin",
+    "name": "Dance (Caramelldansen)",
+    "action": "Dance",
+    "variant": "Caramelldansen",
+    "tags": [
+      "dance",
+      "caramelldansen",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Caramelldansen).gif",
+    "url": "/emotes/rin/Dance%20(Caramelldansen).gif",
+    "localUrl": "/emotes/rin/Dance%20(Caramelldansen).gif"
+  },
+  {
+    "id": "rin-dance-helltaker",
+    "character": "rin",
+    "name": "Dance (Helltaker)",
+    "action": "Dance",
+    "variant": "Helltaker",
+    "tags": [
+      "dance",
+      "helltaker",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Helltaker).gif",
+    "url": "/emotes/rin/Dance%20(Helltaker).gif",
+    "localUrl": "/emotes/rin/Dance%20(Helltaker).gif"
+  },
+  {
+    "id": "rin-dance-scuba",
+    "character": "rin",
+    "name": "Dance (Scuba)",
+    "action": "Dance",
+    "variant": "Scuba",
+    "tags": [
+      "dance",
+      "scuba",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Scuba).gif",
+    "url": "/emotes/rin/Dance%20(Scuba).gif",
+    "localUrl": "/emotes/rin/Dance%20(Scuba).gif"
+  },
+  {
+    "id": "rin-dance-1",
+    "character": "rin",
+    "name": "Dance (1)",
+    "action": "Dance",
+    "variant": "1",
+    "tags": [
+      "dance",
+      "1",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance 1.gif",
+    "url": "/emotes/rin/Dance%201.gif",
+    "localUrl": "/emotes/rin/Dance%201.gif"
+  },
+  {
+    "id": "rin-dead",
+    "character": "rin",
+    "name": "Dead",
+    "action": "Dead",
+    "variant": "",
+    "tags": [
+      "dead",
+      "death",
+      "rip",
+      "ded"
+    ],
+    "filename": "Dead.gif",
+    "url": "/emotes/rin/Dead.gif",
+    "localUrl": "/emotes/rin/Dead.gif"
+  },
+  {
+    "id": "rin-dizzy",
+    "character": "rin",
+    "name": "Dizzy",
+    "action": "Dizzy",
+    "variant": "",
+    "tags": [
+      "dizzy",
+      "confused",
+      "spin"
+    ],
+    "filename": "Dizzy.gif",
+    "url": "/emotes/rin/Dizzy.gif",
+    "localUrl": "/emotes/rin/Dizzy.gif"
+  },
+  {
+    "id": "rin-drink-beverage-cup",
+    "character": "rin",
+    "name": "Drink (Beverage Cup)",
+    "action": "Drink",
+    "variant": "Beverage Cup",
+    "tags": [
+      "drink",
+      "beverage",
+      "cup",
+      "thirsty"
+    ],
+    "filename": "Drink (Beverage Cup).gif",
+    "url": "/emotes/rin/Drink%20(Beverage%20Cup).gif",
+    "localUrl": "/emotes/rin/Drink%20(Beverage%20Cup).gif"
+  },
+  {
+    "id": "rin-drive",
+    "character": "rin",
+    "name": "Drive",
+    "action": "Drive",
+    "variant": "",
+    "tags": [
+      "drive",
+      "car",
+      "driving"
+    ],
+    "filename": "Drive.gif",
+    "url": "/emotes/rin/Drive.gif",
+    "localUrl": "/emotes/rin/Drive.gif"
+  },
+  {
+    "id": "rin-drooling-chopstick",
+    "character": "rin",
+    "name": "Drooling (Chopstick)",
+    "action": "Drooling",
+    "variant": "Chopstick",
+    "tags": [
+      "drooling",
+      "chopstick",
+      "drool",
+      "hungry",
+      "food",
+      "want"
+    ],
+    "filename": "Drooling (Chopstick).gif",
+    "url": "/emotes/rin/Drooling%20(Chopstick).gif",
+    "localUrl": "/emotes/rin/Drooling%20(Chopstick).gif"
+  },
+  {
+    "id": "rin-drooling-fork-knife",
+    "character": "rin",
+    "name": "Drooling (Fork&Knife)",
+    "action": "Drooling",
+    "variant": "Fork&Knife",
+    "tags": [
+      "drooling",
+      "fork&knife",
+      "drool",
+      "hungry",
+      "food",
+      "want"
+    ],
+    "filename": "Drooling (Fork&Knife).gif",
+    "url": "/emotes/rin/Drooling%20(Fork&Knife).gif",
+    "localUrl": "/emotes/rin/Drooling%20(Fork&Knife).gif"
+  },
+  {
+    "id": "rin-dum-1",
+    "character": "rin",
+    "name": "Dum (1)",
+    "action": "Dum",
+    "variant": "1",
+    "tags": [
+      "dum",
+      "1",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 1.gif",
+    "url": "/emotes/rin/Dum%201.gif",
+    "localUrl": "/emotes/rin/Dum%201.gif"
+  },
+  {
+    "id": "rin-dum-2",
+    "character": "rin",
+    "name": "Dum (2)",
+    "action": "Dum",
+    "variant": "2",
+    "tags": [
+      "dum",
+      "2",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 2.gif",
+    "url": "/emotes/rin/Dum%202.gif",
+    "localUrl": "/emotes/rin/Dum%202.gif"
+  },
+  {
+    "id": "rin-dum-3",
+    "character": "rin",
+    "name": "Dum (3)",
+    "action": "Dum",
+    "variant": "3",
+    "tags": [
+      "dum",
+      "3",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 3.gif",
+    "url": "/emotes/rin/Dum%203.gif",
+    "localUrl": "/emotes/rin/Dum%203.gif"
+  },
+  {
+    "id": "rin-dum-sticker-1",
+    "character": "rin",
+    "name": "Dum Sticker (1)",
+    "action": "Dum Sticker",
+    "variant": "1",
+    "tags": [
+      "dum",
+      "sticker",
+      "1"
+    ],
+    "filename": "Dum Sticker 1.gif",
+    "url": "/emotes/rin/Dum%20Sticker%201.gif",
+    "localUrl": "/emotes/rin/Dum%20Sticker%201.gif"
+  },
+  {
+    "id": "rin-dum-sticker-2",
+    "character": "rin",
+    "name": "Dum Sticker (2)",
+    "action": "Dum Sticker",
+    "variant": "2",
+    "tags": [
+      "dum",
+      "sticker",
+      "2"
+    ],
+    "filename": "Dum Sticker 2.gif",
+    "url": "/emotes/rin/Dum%20Sticker%202.gif",
+    "localUrl": "/emotes/rin/Dum%20Sticker%202.gif"
+  },
+  {
+    "id": "rin-dum-sticker-3",
+    "character": "rin",
+    "name": "Dum Sticker (3)",
+    "action": "Dum Sticker",
+    "variant": "3",
+    "tags": [
+      "dum",
+      "sticker",
+      "3"
+    ],
+    "filename": "Dum Sticker 3.gif",
+    "url": "/emotes/rin/Dum%20Sticker%203.gif",
+    "localUrl": "/emotes/rin/Dum%20Sticker%203.gif"
+  },
+  {
+    "id": "rin-easter",
+    "character": "rin",
+    "name": "Easter",
+    "action": "Easter",
+    "variant": "",
+    "tags": [
+      "easter",
+      "egg",
+      "holiday"
+    ],
+    "filename": "Easter.gif",
+    "url": "/emotes/rin/Easter.gif",
+    "localUrl": "/emotes/rin/Easter.gif"
+  },
+  {
+    "id": "rin-eat-donut",
+    "character": "rin",
+    "name": "Eat (Donut)",
+    "action": "Eat",
+    "variant": "Donut",
+    "tags": [
+      "eat",
+      "donut",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Donut).gif",
+    "url": "/emotes/rin/Eat%20(Donut).gif",
+    "localUrl": "/emotes/rin/Eat%20(Donut).gif"
+  },
+  {
+    "id": "rin-eat-popcorn",
+    "character": "rin",
+    "name": "Eat (Popcorn)",
+    "action": "Eat",
+    "variant": "Popcorn",
+    "tags": [
+      "eat",
+      "popcorn",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Popcorn).gif",
+    "url": "/emotes/rin/Eat%20(Popcorn).gif",
+    "localUrl": "/emotes/rin/Eat%20(Popcorn).gif"
+  },
+  {
+    "id": "rin-eat-watermelon",
+    "character": "rin",
+    "name": "Eat (Watermelon)",
+    "action": "Eat",
+    "variant": "Watermelon",
+    "tags": [
+      "eat",
+      "watermelon",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Watermelon).gif",
+    "url": "/emotes/rin/Eat%20(Watermelon).gif",
+    "localUrl": "/emotes/rin/Eat%20(Watermelon).gif"
+  },
+  {
+    "id": "rin-electric-fan-1",
+    "character": "rin",
+    "name": "Electric Fan (1)",
+    "action": "Electric Fan",
+    "variant": "1",
+    "tags": [
+      "electric",
+      "fan",
+      "1",
+      "cool"
+    ],
+    "filename": "Electric Fan 1.gif",
+    "url": "/emotes/rin/Electric%20Fan%201.gif",
+    "localUrl": "/emotes/rin/Electric%20Fan%201.gif"
+  },
+  {
+    "id": "rin-electric-fan-2",
+    "character": "rin",
+    "name": "Electric Fan (2)",
+    "action": "Electric Fan",
+    "variant": "2",
+    "tags": [
+      "electric",
+      "fan",
+      "2",
+      "cool"
+    ],
+    "filename": "Electric Fan 2.gif",
+    "url": "/emotes/rin/Electric%20Fan%202.gif",
+    "localUrl": "/emotes/rin/Electric%20Fan%202.gif"
+  },
+  {
+    "id": "rin-exclamation",
+    "character": "rin",
+    "name": "Exclamation",
+    "action": "Exclamation",
+    "variant": "",
+    "tags": [
+      "exclamation",
+      "alert",
+      "surprise",
+      "notice"
+    ],
+    "filename": "Exclamation.gif",
+    "url": "/emotes/rin/Exclamation.gif",
+    "localUrl": "/emotes/rin/Exclamation.gif"
+  },
+  {
+    "id": "rin-fire-1",
+    "character": "rin",
+    "name": "Fire (1)",
+    "action": "Fire",
+    "variant": "1",
+    "tags": [
+      "fire",
+      "1",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 1.gif",
+    "url": "/emotes/rin/Fire%201.gif",
+    "localUrl": "/emotes/rin/Fire%201.gif"
+  },
+  {
+    "id": "rin-fire-2",
+    "character": "rin",
+    "name": "Fire (2)",
+    "action": "Fire",
+    "variant": "2",
+    "tags": [
+      "fire",
+      "2",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 2.gif",
+    "url": "/emotes/rin/Fire%202.gif",
+    "localUrl": "/emotes/rin/Fire%202.gif"
+  },
+  {
+    "id": "rin-folding-fans",
+    "character": "rin",
+    "name": "Folding Fans",
+    "action": "Folding Fans",
+    "variant": "",
+    "tags": [
+      "folding",
+      "fans",
+      "fan",
+      "traditional"
+    ],
+    "filename": "Folding Fans.gif",
+    "url": "/emotes/rin/Folding%20Fans.gif",
+    "localUrl": "/emotes/rin/Folding%20Fans.gif"
+  },
+  {
+    "id": "rin-game",
+    "character": "rin",
+    "name": "Game",
+    "action": "Game",
+    "variant": "",
+    "tags": [
+      "game",
+      "gaming",
+      "play"
+    ],
+    "filename": "Game.gif",
+    "url": "/emotes/rin/Game.gif",
+    "localUrl": "/emotes/rin/Game.gif"
+  },
+  {
+    "id": "rin-get-hit-bits",
+    "character": "rin",
+    "name": "Get Hit (Bits)",
+    "action": "Get Hit",
+    "variant": "Bits",
+    "tags": [
+      "get",
+      "hit",
+      "bits",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Bits).gif",
+    "url": "/emotes/rin/Get%20Hit%20(Bits).gif",
+    "localUrl": "/emotes/rin/Get%20Hit%20(Bits).gif"
+  },
+  {
+    "id": "rin-get-hit-coin",
+    "character": "rin",
+    "name": "Get Hit (Coin)",
+    "action": "Get Hit",
+    "variant": "Coin",
+    "tags": [
+      "get",
+      "hit",
+      "coin",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Coin).gif",
+    "url": "/emotes/rin/Get%20Hit%20(Coin).gif",
+    "localUrl": "/emotes/rin/Get%20Hit%20(Coin).gif"
+  },
+  {
+    "id": "rin-get-hit-custom",
+    "character": "rin",
+    "name": "Get Hit (Custom)",
+    "action": "Get Hit",
+    "variant": "Custom",
+    "tags": [
+      "get",
+      "hit",
+      "custom",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Custom).gif",
+    "url": "/emotes/rin/Get%20Hit%20(Custom).gif",
+    "localUrl": "/emotes/rin/Get%20Hit%20(Custom).gif"
+  },
+  {
+    "id": "rin-get-hit-heart",
+    "character": "rin",
+    "name": "Get Hit (Heart)",
+    "action": "Get Hit",
+    "variant": "Heart",
+    "tags": [
+      "get",
+      "hit",
+      "heart",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Heart).gif",
+    "url": "/emotes/rin/Get%20Hit%20(Heart).gif",
+    "localUrl": "/emotes/rin/Get%20Hit%20(Heart).gif"
+  },
+  {
+    "id": "rin-get-hit-slipper",
+    "character": "rin",
+    "name": "Get Hit (Slipper)",
+    "action": "Get Hit",
+    "variant": "Slipper",
+    "tags": [
+      "get",
+      "hit",
+      "slipper",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Slipper).gif",
+    "url": "/emotes/rin/Get%20Hit%20(Slipper).gif",
+    "localUrl": "/emotes/rin/Get%20Hit%20(Slipper).gif"
+  },
+  {
+    "id": "rin-gift-1",
+    "character": "rin",
+    "name": "Gift (1)",
+    "action": "Gift",
+    "variant": "1",
+    "tags": [
+      "gift",
+      "1",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 1.gif",
+    "url": "/emotes/rin/Gift%201.gif",
+    "localUrl": "/emotes/rin/Gift%201.gif"
+  },
+  {
+    "id": "rin-gift-2",
+    "character": "rin",
+    "name": "Gift (2)",
+    "action": "Gift",
+    "variant": "2",
+    "tags": [
+      "gift",
+      "2",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 2.gif",
+    "url": "/emotes/rin/Gift%202.gif",
+    "localUrl": "/emotes/rin/Gift%202.gif"
+  },
+  {
+    "id": "rin-greeting-1",
+    "character": "rin",
+    "name": "Greeting (1)",
+    "action": "Greeting",
+    "variant": "1",
+    "tags": [
+      "greeting",
+      "1",
+      "hello",
+      "wave",
+      "welcome"
+    ],
+    "filename": "Greeting 1.gif",
+    "url": "/emotes/rin/Greeting%201.gif",
+    "localUrl": "/emotes/rin/Greeting%201.gif"
+  },
+  {
+    "id": "rin-greeting-2",
+    "character": "rin",
+    "name": "Greeting (2)",
+    "action": "Greeting",
+    "variant": "2",
+    "tags": [
+      "greeting",
+      "2",
+      "hello",
+      "wave",
+      "welcome"
+    ],
+    "filename": "Greeting 2.gif",
+    "url": "/emotes/rin/Greeting%202.gif",
+    "localUrl": "/emotes/rin/Greeting%202.gif"
+  },
+  {
+    "id": "rin-guitar",
+    "character": "rin",
+    "name": "Guitar",
+    "action": "Guitar",
+    "variant": "",
+    "tags": [
+      "guitar",
+      "music",
+      "play"
+    ],
+    "filename": "Guitar.gif",
+    "url": "/emotes/rin/Guitar.gif",
+    "localUrl": "/emotes/rin/Guitar.gif"
+  },
+  {
+    "id": "rin-gun",
+    "character": "rin",
+    "name": "Gun",
+    "action": "Gun",
+    "variant": "",
+    "tags": [
+      "gun",
+      "shoot",
+      "weapon",
+      "pew"
+    ],
+    "filename": "Gun.gif",
+    "url": "/emotes/rin/Gun.gif",
+    "localUrl": "/emotes/rin/Gun.gif"
+  },
+  {
+    "id": "rin-hypnosis",
+    "character": "rin",
+    "name": "Hypnosis",
+    "action": "Hypnosis",
+    "variant": "",
+    "tags": [
+      "hypnosis",
+      "hypnotize",
+      "spiral",
+      "mesmerize"
+    ],
+    "filename": "Hypnosis.gif",
+    "url": "/emotes/rin/Hypnosis.gif",
+    "localUrl": "/emotes/rin/Hypnosis.gif"
+  },
+  {
+    "id": "rin-idea",
+    "character": "rin",
+    "name": "Idea",
+    "action": "Idea",
+    "variant": "",
+    "tags": [
+      "idea",
+      "think",
+      "lightbulb",
+      "eureka"
+    ],
+    "filename": "Idea.gif",
+    "url": "/emotes/rin/Idea.gif",
+    "localUrl": "/emotes/rin/Idea.gif"
+  },
+  {
+    "id": "rin-jail-1",
+    "character": "rin",
+    "name": "Jail (1)",
+    "action": "Jail",
+    "variant": "1",
+    "tags": [
+      "jail",
+      "1",
+      "prison",
+      "locked",
+      "cell"
+    ],
+    "filename": "Jail 1.gif",
+    "url": "/emotes/rin/Jail%201.gif",
+    "localUrl": "/emotes/rin/Jail%201.gif"
+  },
+  {
+    "id": "rin-jail-2",
+    "character": "rin",
+    "name": "Jail (2)",
+    "action": "Jail",
+    "variant": "2",
+    "tags": [
+      "jail",
+      "2",
+      "prison",
+      "locked",
+      "cell"
+    ],
+    "filename": "Jail 2.gif",
+    "url": "/emotes/rin/Jail%202.gif",
+    "localUrl": "/emotes/rin/Jail%202.gif"
+  },
+  {
+    "id": "rin-knife-1",
+    "character": "rin",
+    "name": "Knife (1)",
+    "action": "Knife",
+    "variant": "1",
+    "tags": [
+      "knife",
+      "1",
+      "stab",
+      "weapon"
+    ],
+    "filename": "Knife 1.gif",
+    "url": "/emotes/rin/Knife%201.gif",
+    "localUrl": "/emotes/rin/Knife%201.gif"
+  },
+  {
+    "id": "rin-knife-2",
+    "character": "rin",
+    "name": "Knife (2)",
+    "action": "Knife",
+    "variant": "2",
+    "tags": [
+      "knife",
+      "2",
+      "stab",
+      "weapon"
+    ],
+    "filename": "Knife 2.gif",
+    "url": "/emotes/rin/Knife%202.gif",
+    "localUrl": "/emotes/rin/Knife%202.gif"
+  },
+  {
+    "id": "rin-laugh",
+    "character": "rin",
+    "name": "Laugh",
+    "action": "Laugh",
+    "variant": "",
+    "tags": [
+      "laugh",
+      "funny",
+      "haha",
+      "lol"
+    ],
+    "filename": "Laugh.gif",
+    "url": "/emotes/rin/Laugh.gif",
+    "localUrl": "/emotes/rin/Laugh.gif"
+  },
+  {
+    "id": "rin-lick",
+    "character": "rin",
+    "name": "Lick",
+    "action": "Lick",
+    "variant": "",
+    "tags": [
+      "lick",
+      "taste",
+      "tongue"
+    ],
+    "filename": "Lick.gif",
+    "url": "/emotes/rin/Lick.gif",
+    "localUrl": "/emotes/rin/Lick.gif"
+  },
+  {
+    "id": "rin-lightstick-1",
+    "character": "rin",
+    "name": "Lightstick (1)",
+    "action": "Lightstick",
+    "variant": "1",
+    "tags": [
+      "lightstick",
+      "1",
+      "glow",
+      "concert",
+      "fan"
+    ],
+    "filename": "Lightstick 1.gif",
+    "url": "/emotes/rin/Lightstick%201.gif",
+    "localUrl": "/emotes/rin/Lightstick%201.gif"
+  },
+  {
+    "id": "rin-lightstick-2",
+    "character": "rin",
+    "name": "Lightstick (2)",
+    "action": "Lightstick",
+    "variant": "2",
+    "tags": [
+      "lightstick",
+      "2",
+      "glow",
+      "concert",
+      "fan"
+    ],
+    "filename": "Lightstick 2.gif",
+    "url": "/emotes/rin/Lightstick%202.gif",
+    "localUrl": "/emotes/rin/Lightstick%202.gif"
+  },
+  {
+    "id": "rin-lurk-1",
+    "character": "rin",
+    "name": "Lurk (1)",
+    "action": "Lurk",
+    "variant": "1",
+    "tags": [
+      "lurk",
+      "1",
+      "watching",
+      "hide",
+      "peek"
+    ],
+    "filename": "Lurk 1.gif",
+    "url": "/emotes/rin/Lurk%201.gif",
+    "localUrl": "/emotes/rin/Lurk%201.gif"
+  },
+  {
+    "id": "rin-lurk-2",
+    "character": "rin",
+    "name": "Lurk (2)",
+    "action": "Lurk",
+    "variant": "2",
+    "tags": [
+      "lurk",
+      "2",
+      "watching",
+      "hide",
+      "peek"
+    ],
+    "filename": "Lurk 2.gif",
+    "url": "/emotes/rin/Lurk%202.gif",
+    "localUrl": "/emotes/rin/Lurk%202.gif"
+  },
+  {
+    "id": "rin-luv-1",
+    "character": "rin",
+    "name": "Luv (1)",
+    "action": "Luv",
+    "variant": "1",
+    "tags": [
+      "luv",
+      "1",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 1.gif",
+    "url": "/emotes/rin/Luv%201.gif",
+    "localUrl": "/emotes/rin/Luv%201.gif"
+  },
+  {
+    "id": "rin-luv-2",
+    "character": "rin",
+    "name": "Luv (2)",
+    "action": "Luv",
+    "variant": "2",
+    "tags": [
+      "luv",
+      "2",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 2.gif",
+    "url": "/emotes/rin/Luv%202.gif",
+    "localUrl": "/emotes/rin/Luv%202.gif"
+  },
+  {
+    "id": "rin-luv-3",
+    "character": "rin",
+    "name": "Luv (3)",
+    "action": "Luv",
+    "variant": "3",
+    "tags": [
+      "luv",
+      "3",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 3.gif",
+    "url": "/emotes/rin/Luv%203.gif",
+    "localUrl": "/emotes/rin/Luv%203.gif"
+  },
+  {
+    "id": "rin-magic",
+    "character": "rin",
+    "name": "Magic",
+    "action": "Magic",
+    "variant": "",
+    "tags": [
+      "magic",
+      "spell",
+      "wizard"
+    ],
+    "filename": "Magic.gif",
+    "url": "/emotes/rin/Magic.gif",
+    "localUrl": "/emotes/rin/Magic.gif"
+  },
+  {
+    "id": "rin-megaphone",
+    "character": "rin",
+    "name": "Megaphone",
+    "action": "Megaphone",
+    "variant": "",
+    "tags": [
+      "megaphone",
+      "shout",
+      "loud",
+      "announce"
+    ],
+    "filename": "Megaphone.gif",
+    "url": "/emotes/rin/Megaphone.gif",
+    "localUrl": "/emotes/rin/Megaphone.gif"
+  },
+  {
+    "id": "rin-money",
+    "character": "rin",
+    "name": "Money",
+    "action": "Money",
+    "variant": "",
+    "tags": [
+      "money",
+      "cash",
+      "rich",
+      "dollar"
+    ],
+    "filename": "Money.gif",
+    "url": "/emotes/rin/Money.gif",
+    "localUrl": "/emotes/rin/Money.gif"
+  },
+  {
+    "id": "rin-mute-1",
+    "character": "rin",
+    "name": "Mute (1)",
+    "action": "Mute",
+    "variant": "1",
+    "tags": [
+      "mute",
+      "1",
+      "quiet",
+      "silence",
+      "shh"
+    ],
+    "filename": "Mute 1.gif",
+    "url": "/emotes/rin/Mute%201.gif",
+    "localUrl": "/emotes/rin/Mute%201.gif"
+  },
+  {
+    "id": "rin-mute-2",
+    "character": "rin",
+    "name": "Mute (2)",
+    "action": "Mute",
+    "variant": "2",
+    "tags": [
+      "mute",
+      "2",
+      "quiet",
+      "silence",
+      "shh"
+    ],
+    "filename": "Mute 2.gif",
+    "url": "/emotes/rin/Mute%202.gif",
+    "localUrl": "/emotes/rin/Mute%202.gif"
+  },
+  {
+    "id": "rin-need-food",
+    "character": "rin",
+    "name": "Need Food",
+    "action": "Need Food",
+    "variant": "",
+    "tags": [
+      "need",
+      "food",
+      "hungry",
+      "starving"
+    ],
+    "filename": "Need Food.gif",
+    "url": "/emotes/rin/Need%20Food.gif",
+    "localUrl": "/emotes/rin/Need%20Food.gif"
+  },
+  {
+    "id": "rin-nervous-1",
+    "character": "rin",
+    "name": "Nervous (1)",
+    "action": "Nervous",
+    "variant": "1",
+    "tags": [
+      "nervous",
+      "1",
+      "anxious",
+      "sweat",
+      "worry"
+    ],
+    "filename": "Nervous 1.gif",
+    "url": "/emotes/rin/Nervous%201.gif",
+    "localUrl": "/emotes/rin/Nervous%201.gif"
+  },
+  {
+    "id": "rin-nervous-2",
+    "character": "rin",
+    "name": "Nervous (2)",
+    "action": "Nervous",
+    "variant": "2",
+    "tags": [
+      "nervous",
+      "2",
+      "anxious",
+      "sweat",
+      "worry"
+    ],
+    "filename": "Nervous 2.gif",
+    "url": "/emotes/rin/Nervous%202.gif",
+    "localUrl": "/emotes/rin/Nervous%202.gif"
+  },
+  {
+    "id": "rin-noted-1",
+    "character": "rin",
+    "name": "Noted (1)",
+    "action": "Noted",
+    "variant": "1",
+    "tags": [
+      "noted",
+      "1",
+      "write",
+      "note",
+      "ok"
+    ],
+    "filename": "Noted 1.gif",
+    "url": "/emotes/rin/Noted%201.gif",
+    "localUrl": "/emotes/rin/Noted%201.gif"
+  },
+  {
+    "id": "rin-noted-2",
+    "character": "rin",
+    "name": "Noted (2)",
+    "action": "Noted",
+    "variant": "2",
+    "tags": [
+      "noted",
+      "2",
+      "write",
+      "note",
+      "ok"
+    ],
+    "filename": "Noted 2.gif",
+    "url": "/emotes/rin/Noted%202.gif",
+    "localUrl": "/emotes/rin/Noted%202.gif"
+  },
+  {
+    "id": "rin-paid-break-easy-mode",
+    "character": "rin",
+    "name": "Paid Break (Easy Mode)",
+    "action": "Paid Break",
+    "variant": "Easy Mode",
+    "tags": [
+      "paid",
+      "break",
+      "easy",
+      "mode",
+      "rest",
+      "vacation"
+    ],
+    "filename": "Paid Break (Easy Mode).gif",
+    "url": "/emotes/rin/Paid%20Break%20(Easy%20Mode).gif",
+    "localUrl": "/emotes/rin/Paid%20Break%20(Easy%20Mode).gif"
+  },
+  {
+    "id": "rin-paid-break-hard-mode",
+    "character": "rin",
+    "name": "Paid Break (Hard Mode)",
+    "action": "Paid Break",
+    "variant": "Hard Mode",
+    "tags": [
+      "paid",
+      "break",
+      "hard",
+      "mode",
+      "rest",
+      "vacation"
+    ],
+    "filename": "Paid Break (Hard Mode).gif",
+    "url": "/emotes/rin/Paid%20Break%20(Hard%20Mode).gif",
+    "localUrl": "/emotes/rin/Paid%20Break%20(Hard%20Mode).gif"
+  },
+  {
+    "id": "rin-pat",
+    "character": "rin",
+    "name": "Pat",
+    "action": "Pat",
+    "variant": "",
+    "tags": [
+      "pat",
+      "pet",
+      "headpat",
+      "cute"
+    ],
+    "filename": "Pat.gif",
+    "url": "/emotes/rin/Pat.gif",
+    "localUrl": "/emotes/rin/Pat.gif"
+  },
+  {
+    "id": "rin-pngtuber-idle",
+    "character": "rin",
+    "name": "PNGTuber Idle",
+    "action": "PNGTuber Idle",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "idle",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Idle.gif",
+    "url": "/emotes/rin/PNGTuber%20Idle.gif",
+    "localUrl": "/emotes/rin/PNGTuber%20Idle.gif"
+  },
+  {
+    "id": "rin-pngtuber-loading",
+    "character": "rin",
+    "name": "PNGTuber Loading",
+    "action": "PNGTuber Loading",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "loading",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Loading.gif",
+    "url": "/emotes/rin/PNGTuber%20Loading.gif",
+    "localUrl": "/emotes/rin/PNGTuber%20Loading.gif"
+  },
+  {
+    "id": "rin-pngtuber-talk",
+    "character": "rin",
+    "name": "PNGTuber Talk",
+    "action": "PNGTuber Talk",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "talk",
+      "speak",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Talk.gif",
+    "url": "/emotes/rin/PNGTuber%20Talk.gif",
+    "localUrl": "/emotes/rin/PNGTuber%20Talk.gif"
+  },
+  {
+    "id": "rin-pngtuber-yap",
+    "character": "rin",
+    "name": "PNGTuber Yap",
+    "action": "PNGTuber Yap",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "yap",
+      "talk",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Yap.gif",
+    "url": "/emotes/rin/PNGTuber%20Yap.gif",
+    "localUrl": "/emotes/rin/PNGTuber%20Yap.gif"
+  },
+  {
+    "id": "rin-point",
+    "character": "rin",
+    "name": "Point",
+    "action": "Point",
+    "variant": "",
+    "tags": [
+      "point",
+      "you",
+      "finger"
+    ],
+    "filename": "Point.gif",
+    "url": "/emotes/rin/Point.gif",
+    "localUrl": "/emotes/rin/Point.gif"
+  },
+  {
+    "id": "rin-popcat-frame",
+    "character": "rin",
+    "name": "Popcat Frame",
+    "action": "Popcat Frame",
+    "variant": "",
+    "tags": [
+      "popcat",
+      "frame"
+    ],
+    "filename": "Popcat Frame.gif",
+    "url": "/emotes/rin/Popcat%20Frame.gif",
+    "localUrl": "/emotes/rin/Popcat%20Frame.gif"
+  },
+  {
+    "id": "rin-popcat-smooth",
+    "character": "rin",
+    "name": "Popcat Smooth",
+    "action": "Popcat Smooth",
+    "variant": "",
+    "tags": [
+      "popcat",
+      "smooth"
+    ],
+    "filename": "Popcat Smooth.gif",
+    "url": "/emotes/rin/Popcat%20Smooth.gif",
+    "localUrl": "/emotes/rin/Popcat%20Smooth.gif"
+  },
+  {
+    "id": "rin-question",
+    "character": "rin",
+    "name": "Question",
+    "action": "Question",
+    "variant": "",
+    "tags": [
+      "question",
+      "ask",
+      "what",
+      "confused"
+    ],
+    "filename": "Question.gif",
+    "url": "/emotes/rin/Question.gif",
+    "localUrl": "/emotes/rin/Question.gif"
+  },
+  {
+    "id": "rin-raid-1",
+    "character": "rin",
+    "name": "Raid (1)",
+    "action": "Raid",
+    "variant": "1",
+    "tags": [
+      "raid",
+      "1",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Raid 1.gif",
+    "url": "/emotes/rin/Raid%201.gif",
+    "localUrl": "/emotes/rin/Raid%201.gif"
+  },
+  {
+    "id": "rin-raid-2",
+    "character": "rin",
+    "name": "Raid (2)",
+    "action": "Raid",
+    "variant": "2",
+    "tags": [
+      "raid",
+      "2",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Raid 2.gif",
+    "url": "/emotes/rin/Raid%202.gif",
+    "localUrl": "/emotes/rin/Raid%202.gif"
+  },
+  {
+    "id": "rin-redpacket-1",
+    "character": "rin",
+    "name": "RedPacket (1)",
+    "action": "RedPacket",
+    "variant": "1",
+    "tags": [
+      "redpacket",
+      "1",
+      "red",
+      "packet",
+      "gift",
+      "money"
+    ],
+    "filename": "RedPacket 1.gif",
+    "url": "/emotes/rin/RedPacket%201.gif",
+    "localUrl": "/emotes/rin/RedPacket%201.gif"
+  },
+  {
+    "id": "rin-redpacket-2",
+    "character": "rin",
+    "name": "RedPacket (2)",
+    "action": "RedPacket",
+    "variant": "2",
+    "tags": [
+      "redpacket",
+      "2",
+      "red",
+      "packet",
+      "gift",
+      "money"
+    ],
+    "filename": "RedPacket 2.gif",
+    "url": "/emotes/rin/RedPacket%202.gif",
+    "localUrl": "/emotes/rin/RedPacket%202.gif"
+  },
+  {
+    "id": "rin-reverse",
+    "character": "rin",
+    "name": "Reverse",
+    "action": "Reverse",
+    "variant": "",
+    "tags": [
+      "reverse",
+      "backward",
+      "uno"
+    ],
+    "filename": "Reverse.gif",
+    "url": "/emotes/rin/Reverse.gif",
+    "localUrl": "/emotes/rin/Reverse.gif"
+  },
+  {
+    "id": "rin-rose",
+    "character": "rin",
+    "name": "Rose",
+    "action": "Rose",
+    "variant": "",
+    "tags": [
+      "rose",
+      "flower",
+      "love",
+      "romantic"
+    ],
+    "filename": "Rose.gif",
+    "url": "/emotes/rin/Rose.gif",
+    "localUrl": "/emotes/rin/Rose.gif"
+  },
+  {
+    "id": "rin-scared-1",
+    "character": "rin",
+    "name": "Scared (1)",
+    "action": "Scared",
+    "variant": "1",
+    "tags": [
+      "scared",
+      "1",
+      "fear",
+      "frightened",
+      "shock"
+    ],
+    "filename": "Scared 1.gif",
+    "url": "/emotes/rin/Scared%201.gif",
+    "localUrl": "/emotes/rin/Scared%201.gif"
+  },
+  {
+    "id": "rin-scared-2",
+    "character": "rin",
+    "name": "Scared (2)",
+    "action": "Scared",
+    "variant": "2",
+    "tags": [
+      "scared",
+      "2",
+      "fear",
+      "frightened",
+      "shock"
+    ],
+    "filename": "Scared 2.gif",
+    "url": "/emotes/rin/Scared%202.gif",
+    "localUrl": "/emotes/rin/Scared%202.gif"
+  },
+  {
+    "id": "rin-score-0-point",
+    "character": "rin",
+    "name": "Score (0 Point)",
+    "action": "Score",
+    "variant": "0 Point",
+    "tags": [
+      "score",
+      "0",
+      "point",
+      "game",
+      "number"
+    ],
+    "filename": "Score (0 Point).gif",
+    "url": "/emotes/rin/Score%20(0%20Point).gif",
+    "localUrl": "/emotes/rin/Score%20(0%20Point).gif"
+  },
+  {
+    "id": "rin-score-10-point",
+    "character": "rin",
+    "name": "Score (10 Point)",
+    "action": "Score",
+    "variant": "10 Point",
+    "tags": [
+      "score",
+      "10",
+      "point",
+      "game",
+      "number"
+    ],
+    "filename": "Score (10 Point).gif",
+    "url": "/emotes/rin/Score%20(10%20Point).gif",
+    "localUrl": "/emotes/rin/Score%20(10%20Point).gif"
+  },
+  {
+    "id": "rin-shy-1",
+    "character": "rin",
+    "name": "Shy (1)",
+    "action": "Shy",
+    "variant": "1",
+    "tags": [
+      "shy",
+      "1",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 1.gif",
+    "url": "/emotes/rin/Shy%201.gif",
+    "localUrl": "/emotes/rin/Shy%201.gif"
+  },
+  {
+    "id": "rin-shy-2",
+    "character": "rin",
+    "name": "Shy (2)",
+    "action": "Shy",
+    "variant": "2",
+    "tags": [
+      "shy",
+      "2",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 2.gif",
+    "url": "/emotes/rin/Shy%202.gif",
+    "localUrl": "/emotes/rin/Shy%202.gif"
+  },
+  {
+    "id": "rin-sing",
+    "character": "rin",
+    "name": "Sing",
+    "action": "Sing",
+    "variant": "",
+    "tags": [
+      "sing",
+      "song",
+      "music",
+      "karaoke"
+    ],
+    "filename": "Sing.gif",
+    "url": "/emotes/rin/Sing.gif",
+    "localUrl": "/emotes/rin/Sing.gif"
+  },
+  {
+    "id": "rin-six-seven-dum",
+    "character": "rin",
+    "name": "Six Seven (Dum)",
+    "action": "Six Seven",
+    "variant": "Dum",
+    "tags": [
+      "six",
+      "seven",
+      "dum",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven (Dum).gif",
+    "url": "/emotes/rin/Six%20Seven%20(Dum).gif",
+    "localUrl": "/emotes/rin/Six%20Seven%20(Dum).gif"
+  },
+  {
+    "id": "rin-six-seven",
+    "character": "rin",
+    "name": "Six Seven",
+    "action": "Six Seven",
+    "variant": "",
+    "tags": [
+      "six",
+      "seven",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven.gif",
+    "url": "/emotes/rin/Six%20Seven.gif",
+    "localUrl": "/emotes/rin/Six%20Seven.gif"
+  },
+  {
+    "id": "rin-sleep-normal",
+    "character": "rin",
+    "name": "Sleep (Normal)",
+    "action": "Sleep",
+    "variant": "Normal",
+    "tags": [
+      "sleep",
+      "normal",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Normal).gif",
+    "url": "/emotes/rin/Sleep%20(Normal).gif",
+    "localUrl": "/emotes/rin/Sleep%20(Normal).gif"
+  },
+  {
+    "id": "rin-sleep-preparing-stage-1",
+    "character": "rin",
+    "name": "Sleep (Preparing Stage 1)",
+    "action": "Sleep",
+    "variant": "Preparing Stage 1",
+    "tags": [
+      "sleep",
+      "preparing",
+      "stage",
+      "1",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Preparing Stage 1).gif",
+    "url": "/emotes/rin/Sleep%20(Preparing%20Stage%201).gif",
+    "localUrl": "/emotes/rin/Sleep%20(Preparing%20Stage%201).gif"
+  },
+  {
+    "id": "rin-sleep-preparing-stage-2",
+    "character": "rin",
+    "name": "Sleep (Preparing Stage 2)",
+    "action": "Sleep",
+    "variant": "Preparing Stage 2",
+    "tags": [
+      "sleep",
+      "preparing",
+      "stage",
+      "2",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Preparing Stage 2).gif",
+    "url": "/emotes/rin/Sleep%20(Preparing%20Stage%202).gif",
+    "localUrl": "/emotes/rin/Sleep%20(Preparing%20Stage%202).gif"
+  },
+  {
+    "id": "rin-sleep-uu",
+    "character": "rin",
+    "name": "Sleep (UU)",
+    "action": "Sleep",
+    "variant": "UU",
+    "tags": [
+      "sleep",
+      "uu",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (UU).gif",
+    "url": "/emotes/rin/Sleep%20(UU).gif",
+    "localUrl": "/emotes/rin/Sleep%20(UU).gif"
+  },
+  {
+    "id": "rin-slipper-1",
+    "character": "rin",
+    "name": "Slipper (1)",
+    "action": "Slipper",
+    "variant": "1",
+    "tags": [
+      "slipper",
+      "1",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 1.gif",
+    "url": "/emotes/rin/Slipper%201.gif",
+    "localUrl": "/emotes/rin/Slipper%201.gif"
+  },
+  {
+    "id": "rin-slipper-2",
+    "character": "rin",
+    "name": "Slipper (2)",
+    "action": "Slipper",
+    "variant": "2",
+    "tags": [
+      "slipper",
+      "2",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 2.gif",
+    "url": "/emotes/rin/Slipper%202.gif",
+    "localUrl": "/emotes/rin/Slipper%202.gif"
+  },
+  {
+    "id": "rin-sparkling",
+    "character": "rin",
+    "name": "Sparkling",
+    "action": "Sparkling",
+    "variant": "",
+    "tags": [
+      "sparkling",
+      "sparkle",
+      "shine",
+      "glitter",
+      "pretty"
+    ],
+    "filename": "Sparkling.gif",
+    "url": "/emotes/rin/Sparkling.gif",
+    "localUrl": "/emotes/rin/Sparkling.gif"
+  },
+  {
+    "id": "rin-spray",
+    "character": "rin",
+    "name": "Spray",
+    "action": "Spray",
+    "variant": "",
+    "tags": [
+      "spray",
+      "clean",
+      "water"
+    ],
+    "filename": "Spray.gif",
+    "url": "/emotes/rin/Spray.gif",
+    "localUrl": "/emotes/rin/Spray.gif"
+  },
+  {
+    "id": "rin-sunglasses-gleam",
+    "character": "rin",
+    "name": "Sunglasses Gleam",
+    "action": "Sunglasses Gleam",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "gleam"
+    ],
+    "filename": "Sunglasses Gleam.gif",
+    "url": "/emotes/rin/Sunglasses%20Gleam.gif",
+    "localUrl": "/emotes/rin/Sunglasses%20Gleam.gif"
+  },
+  {
+    "id": "rin-sunglasses-loop",
+    "character": "rin",
+    "name": "Sunglasses Loop",
+    "action": "Sunglasses Loop",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "loop"
+    ],
+    "filename": "Sunglasses Loop.gif",
+    "url": "/emotes/rin/Sunglasses%20Loop.gif",
+    "localUrl": "/emotes/rin/Sunglasses%20Loop.gif"
+  },
+  {
+    "id": "rin-sunglasses-pixel-gleam",
+    "character": "rin",
+    "name": "Sunglasses Pixel Gleam",
+    "action": "Sunglasses Pixel Gleam",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "pixel",
+      "gleam"
+    ],
+    "filename": "Sunglasses Pixel Gleam.gif",
+    "url": "/emotes/rin/Sunglasses%20Pixel%20Gleam.gif",
+    "localUrl": "/emotes/rin/Sunglasses%20Pixel%20Gleam.gif"
+  },
+  {
+    "id": "rin-sunglasses-remove",
+    "character": "rin",
+    "name": "Sunglasses Remove",
+    "action": "Sunglasses Remove",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "remove"
+    ],
+    "filename": "Sunglasses Remove.gif",
+    "url": "/emotes/rin/Sunglasses%20Remove.gif",
+    "localUrl": "/emotes/rin/Sunglasses%20Remove.gif"
+  },
+  {
+    "id": "rin-surprise",
+    "character": "rin",
+    "name": "Surprise",
+    "action": "Surprise",
+    "variant": "",
+    "tags": [
+      "surprise",
+      "shock",
+      "wow",
+      "omg"
+    ],
+    "filename": "Surprise.gif",
+    "url": "/emotes/rin/Surprise.gif",
+    "localUrl": "/emotes/rin/Surprise.gif"
+  },
+  {
+    "id": "rin-swatter",
+    "character": "rin",
+    "name": "Swatter",
+    "action": "Swatter",
+    "variant": "",
+    "tags": [
+      "swatter",
+      "fly",
+      "hit"
+    ],
+    "filename": "Swatter.gif",
+    "url": "/emotes/rin/Swatter.gif",
+    "localUrl": "/emotes/rin/Swatter.gif"
+  },
+  {
+    "id": "rin-sweat",
+    "character": "rin",
+    "name": "Sweat",
+    "action": "Sweat",
+    "variant": "",
+    "tags": [
+      "sweat",
+      "nervous",
+      "hot",
+      "anxious"
+    ],
+    "filename": "Sweat.gif",
+    "url": "/emotes/rin/Sweat.gif",
+    "localUrl": "/emotes/rin/Sweat.gif"
+  },
+  {
+    "id": "rin-tablet",
+    "character": "rin",
+    "name": "Tablet",
+    "action": "Tablet",
+    "variant": "",
+    "tags": [
+      "tablet",
+      "ipad",
+      "draw",
+      "device"
+    ],
+    "filename": "Tablet.gif",
+    "url": "/emotes/rin/Tablet.gif",
+    "localUrl": "/emotes/rin/Tablet.gif"
+  },
+  {
+    "id": "rin-take-my-money",
+    "character": "rin",
+    "name": "Take My Money",
+    "action": "Take My Money",
+    "variant": "",
+    "tags": [
+      "take",
+      "my",
+      "money",
+      "shutup",
+      "buy"
+    ],
+    "filename": "Take My Money.gif",
+    "url": "/emotes/rin/Take%20My%20Money.gif",
+    "localUrl": "/emotes/rin/Take%20My%20Money.gif"
+  },
+  {
+    "id": "rin-tape",
+    "character": "rin",
+    "name": "Tape",
+    "action": "Tape",
+    "variant": "",
+    "tags": [
+      "tape",
+      "seal",
+      "sticky"
+    ],
+    "filename": "Tape.gif",
+    "url": "/emotes/rin/Tape.gif",
+    "localUrl": "/emotes/rin/Tape.gif"
+  },
+  {
+    "id": "rin-think-confident",
+    "character": "rin",
+    "name": "Think (Confident)",
+    "action": "Think",
+    "variant": "Confident",
+    "tags": [
+      "think",
+      "confident",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Confident).gif",
+    "url": "/emotes/rin/Think%20(Confident).gif",
+    "localUrl": "/emotes/rin/Think%20(Confident).gif"
+  },
+  {
+    "id": "rin-think-serious",
+    "character": "rin",
+    "name": "Think (Serious)",
+    "action": "Think",
+    "variant": "Serious",
+    "tags": [
+      "think",
+      "serious",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Serious).gif",
+    "url": "/emotes/rin/Think%20(Serious).gif",
+    "localUrl": "/emotes/rin/Think%20(Serious).gif"
+  },
+  {
+    "id": "rin-this-is-fine-1",
+    "character": "rin",
+    "name": "This Is Fine (1)",
+    "action": "This Is Fine",
+    "variant": "1",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "1",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 1.gif",
+    "url": "/emotes/rin/This%20Is%20Fine%201.gif",
+    "localUrl": "/emotes/rin/This%20Is%20Fine%201.gif"
+  },
+  {
+    "id": "rin-this-is-fine-2",
+    "character": "rin",
+    "name": "This Is Fine (2)",
+    "action": "This Is Fine",
+    "variant": "2",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "2",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 2.gif",
+    "url": "/emotes/rin/This%20Is%20Fine%202.gif",
+    "localUrl": "/emotes/rin/This%20Is%20Fine%202.gif"
+  },
+  {
+    "id": "rin-this-is-fine-3",
+    "character": "rin",
+    "name": "This Is Fine (3)",
+    "action": "This Is Fine",
+    "variant": "3",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "3",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 3.gif",
+    "url": "/emotes/rin/This%20Is%20Fine%203.gif",
+    "localUrl": "/emotes/rin/This%20Is%20Fine%203.gif"
+  },
+  {
+    "id": "rin-thumb-down",
+    "character": "rin",
+    "name": "Thumb Down",
+    "action": "Thumb Down",
+    "variant": "",
+    "tags": [
+      "thumb",
+      "down",
+      "dislike",
+      "no",
+      "bad"
+    ],
+    "filename": "Thumb Down.gif",
+    "url": "/emotes/rin/Thumb%20Down.gif",
+    "localUrl": "/emotes/rin/Thumb%20Down.gif"
+  },
+  {
+    "id": "rin-thumb-up",
+    "character": "rin",
+    "name": "Thumb Up",
+    "action": "Thumb Up",
+    "variant": "",
+    "tags": [
+      "thumb",
+      "up",
+      "like",
+      "yes",
+      "good"
+    ],
+    "filename": "Thumb Up.gif",
+    "url": "/emotes/rin/Thumb%20Up.gif",
+    "localUrl": "/emotes/rin/Thumb%20Up.gif"
+  },
+  {
+    "id": "rin-type-angry",
+    "character": "rin",
+    "name": "Type Angry",
+    "action": "Type Angry",
+    "variant": "",
+    "tags": [
+      "type",
+      "angry"
+    ],
+    "filename": "Type Angry.gif",
+    "url": "/emotes/rin/Type%20Angry.gif",
+    "localUrl": "/emotes/rin/Type%20Angry.gif"
+  },
+  {
+    "id": "rin-type-annoyed",
+    "character": "rin",
+    "name": "Type Annoyed",
+    "action": "Type Annoyed",
+    "variant": "",
+    "tags": [
+      "type",
+      "annoyed"
+    ],
+    "filename": "Type Annoyed.gif",
+    "url": "/emotes/rin/Type%20Annoyed.gif",
+    "localUrl": "/emotes/rin/Type%20Annoyed.gif"
+  },
+  {
+    "id": "rin-type-normal",
+    "character": "rin",
+    "name": "Type Normal",
+    "action": "Type Normal",
+    "variant": "",
+    "tags": [
+      "type",
+      "normal"
+    ],
+    "filename": "Type Normal.gif",
+    "url": "/emotes/rin/Type%20Normal.gif",
+    "localUrl": "/emotes/rin/Type%20Normal.gif"
+  },
+  {
+    "id": "rin-wink",
+    "character": "rin",
+    "name": "Wink",
+    "action": "Wink",
+    "variant": "",
+    "tags": [
+      "wink",
+      "flirt",
+      "cute"
+    ],
+    "filename": "Wink.gif",
+    "url": "/emotes/rin/Wink.gif",
+    "localUrl": "/emotes/rin/Wink.gif"
+  },
+  {
+    "id": "rin-work-angry",
+    "character": "rin",
+    "name": "Work Angry",
+    "action": "Work Angry",
+    "variant": "",
+    "tags": [
+      "work",
+      "angry"
+    ],
+    "filename": "Work Angry.gif",
+    "url": "/emotes/rin/Work%20Angry.gif",
+    "localUrl": "/emotes/rin/Work%20Angry.gif"
+  },
+  {
+    "id": "rin-work-nap",
+    "character": "rin",
+    "name": "Work Nap",
+    "action": "Work Nap",
+    "variant": "",
+    "tags": [
+      "work",
+      "nap"
+    ],
+    "filename": "Work Nap.gif",
+    "url": "/emotes/rin/Work%20Nap.gif",
+    "localUrl": "/emotes/rin/Work%20Nap.gif"
+  },
+  {
+    "id": "rin-work-normal",
+    "character": "rin",
+    "name": "Work Normal",
+    "action": "Work Normal",
+    "variant": "",
+    "tags": [
+      "work",
+      "normal"
+    ],
+    "filename": "Work Normal.gif",
+    "url": "/emotes/rin/Work%20Normal.gif",
+    "localUrl": "/emotes/rin/Work%20Normal.gif"
+  },
+  {
+    "id": "rin-work-tired",
+    "character": "rin",
+    "name": "Work Tired",
+    "action": "Work Tired",
+    "variant": "",
+    "tags": [
+      "work",
+      "tired"
+    ],
+    "filename": "Work Tired.gif",
+    "url": "/emotes/rin/Work%20Tired.gif",
+    "localUrl": "/emotes/rin/Work%20Tired.gif"
+  },
+  {
+    "id": "sanae-alert-bits",
+    "character": "sanae",
+    "name": "Alert Bits",
+    "action": "Alert Bits",
+    "variant": "",
+    "tags": [
+      "alert",
+      "bits",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Bits.gif",
+    "url": "/emotes/sanae/Alert%20Bits.gif",
+    "localUrl": "/emotes/sanae/Alert%20Bits.gif"
+  },
+  {
+    "id": "sanae-alert-donation",
+    "character": "sanae",
+    "name": "Alert Donation",
+    "action": "Alert Donation",
+    "variant": "",
+    "tags": [
+      "alert",
+      "donation",
+      "donate",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Donation.gif",
+    "url": "/emotes/sanae/Alert%20Donation.gif",
+    "localUrl": "/emotes/sanae/Alert%20Donation.gif"
+  },
+  {
+    "id": "sanae-alert-heart",
+    "character": "sanae",
+    "name": "Alert Heart",
+    "action": "Alert Heart",
+    "variant": "",
+    "tags": [
+      "alert",
+      "heart",
+      "love",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Heart.gif",
+    "url": "/emotes/sanae/Alert%20Heart.gif",
+    "localUrl": "/emotes/sanae/Alert%20Heart.gif"
+  },
+  {
+    "id": "sanae-alert-like",
+    "character": "sanae",
+    "name": "Alert Like",
+    "action": "Alert Like",
+    "variant": "",
+    "tags": [
+      "alert",
+      "like",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Like.gif",
+    "url": "/emotes/sanae/Alert%20Like.gif",
+    "localUrl": "/emotes/sanae/Alert%20Like.gif"
+  },
+  {
+    "id": "sanae-alert-star",
+    "character": "sanae",
+    "name": "Alert Star",
+    "action": "Alert Star",
+    "variant": "",
+    "tags": [
+      "alert",
+      "star",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Star.gif",
+    "url": "/emotes/sanae/Alert%20Star.gif",
+    "localUrl": "/emotes/sanae/Alert%20Star.gif"
+  },
+  {
+    "id": "sanae-angry",
+    "character": "sanae",
+    "name": "Angry",
+    "action": "Angry",
+    "variant": "",
+    "tags": [
+      "angry",
+      "mad",
+      "rage",
+      "upset",
+      "furious"
+    ],
+    "filename": "Angry.gif",
+    "url": "/emotes/sanae/Angry.gif",
+    "localUrl": "/emotes/sanae/Angry.gif"
+  },
+  {
+    "id": "sanae-arrive-with-chopstick",
+    "character": "sanae",
+    "name": "Arrive (with Chopstick)",
+    "action": "Arrive",
+    "variant": "with Chopstick",
+    "tags": [
+      "arrive",
+      "with",
+      "chopstick",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive (with Chopstick).gif",
+    "url": "/emotes/sanae/Arrive%20(with%20Chopstick).gif",
+    "localUrl": "/emotes/sanae/Arrive%20(with%20Chopstick).gif"
+  },
+  {
+    "id": "sanae-arrive",
+    "character": "sanae",
+    "name": "Arrive",
+    "action": "Arrive",
+    "variant": "",
+    "tags": [
+      "arrive",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive.gif",
+    "url": "/emotes/sanae/Arrive.gif",
+    "localUrl": "/emotes/sanae/Arrive.gif"
+  },
+  {
+    "id": "sanae-bell",
+    "character": "sanae",
+    "name": "Bell",
+    "action": "Bell",
+    "variant": "",
+    "tags": [
+      "bell",
+      "ring",
+      "notification"
+    ],
+    "filename": "Bell.gif",
+    "url": "/emotes/sanae/Bell.gif",
+    "localUrl": "/emotes/sanae/Bell.gif"
+  },
+  {
+    "id": "sanae-bonk",
+    "character": "sanae",
+    "name": "Bonk",
+    "action": "Bonk",
+    "variant": "",
+    "tags": [
+      "bonk",
+      "hit",
+      "joke"
+    ],
+    "filename": "Bonk.gif",
+    "url": "/emotes/sanae/Bonk.gif",
+    "localUrl": "/emotes/sanae/Bonk.gif"
+  },
+  {
+    "id": "sanae-bug",
+    "character": "sanae",
+    "name": "Bug",
+    "action": "Bug",
+    "variant": "",
+    "tags": [
+      "bug",
+      "error",
+      "glitch",
+      "insect"
+    ],
+    "filename": "Bug.gif",
+    "url": "/emotes/sanae/Bug.gif",
+    "localUrl": "/emotes/sanae/Bug.gif"
+  },
+  {
+    "id": "sanae-cake",
+    "character": "sanae",
+    "name": "Cake",
+    "action": "Cake",
+    "variant": "",
+    "tags": [
+      "cake",
+      "birthday",
+      "celebrate",
+      "food"
+    ],
+    "filename": "Cake.gif",
+    "url": "/emotes/sanae/Cake.gif",
+    "localUrl": "/emotes/sanae/Cake.gif"
+  },
+  {
+    "id": "sanae-caught-in-4k-phone",
+    "character": "sanae",
+    "name": "Caught in 4K (Phone)",
+    "action": "Caught in 4K",
+    "variant": "Phone",
+    "tags": [
+      "caught",
+      "in",
+      "4k",
+      "phone",
+      "exposed",
+      "camera",
+      "evidence"
+    ],
+    "filename": "Caught in 4K (Phone).gif",
+    "url": "/emotes/sanae/Caught%20in%204K%20(Phone).gif",
+    "localUrl": "/emotes/sanae/Caught%20in%204K%20(Phone).gif"
+  },
+  {
+    "id": "sanae-caught-in-4k-video-camera",
+    "character": "sanae",
+    "name": "Caught in 4K (Video Camera)",
+    "action": "Caught in 4K",
+    "variant": "Video Camera",
+    "tags": [
+      "caught",
+      "in",
+      "4k",
+      "video",
+      "camera",
+      "exposed",
+      "evidence"
+    ],
+    "filename": "Caught in 4K (Video Camera).gif",
+    "url": "/emotes/sanae/Caught%20in%204K%20(Video%20Camera).gif",
+    "localUrl": "/emotes/sanae/Caught%20in%204K%20(Video%20Camera).gif"
+  },
+  {
+    "id": "sanae-celebration",
+    "character": "sanae",
+    "name": "Celebration",
+    "action": "Celebration",
+    "variant": "",
+    "tags": [
+      "celebration",
+      "celebrate",
+      "party",
+      "yay",
+      "confetti"
+    ],
+    "filename": "Celebration.gif",
+    "url": "/emotes/sanae/Celebration.gif",
+    "localUrl": "/emotes/sanae/Celebration.gif"
+  },
+  {
+    "id": "sanae-cheer",
+    "character": "sanae",
+    "name": "Cheer",
+    "action": "Cheer",
+    "variant": "",
+    "tags": [
+      "cheer",
+      "celebrate",
+      "yay",
+      "happy"
+    ],
+    "filename": "Cheer.gif",
+    "url": "/emotes/sanae/Cheer.gif",
+    "localUrl": "/emotes/sanae/Cheer.gif"
+  },
+  {
+    "id": "sanae-copium",
+    "character": "sanae",
+    "name": "Copium",
+    "action": "Copium",
+    "variant": "",
+    "tags": [
+      "copium",
+      "cope",
+      "sad",
+      "cry",
+      "denial"
+    ],
+    "filename": "Copium.gif",
+    "url": "/emotes/sanae/Copium.gif",
+    "localUrl": "/emotes/sanae/Copium.gif"
+  },
+  {
+    "id": "sanae-crowbar-1",
+    "character": "sanae",
+    "name": "Crowbar (1)",
+    "action": "Crowbar",
+    "variant": "1",
+    "tags": [
+      "crowbar",
+      "1",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 1.gif",
+    "url": "/emotes/sanae/Crowbar%201.gif",
+    "localUrl": "/emotes/sanae/Crowbar%201.gif"
+  },
+  {
+    "id": "sanae-crowbar-2",
+    "character": "sanae",
+    "name": "Crowbar (2)",
+    "action": "Crowbar",
+    "variant": "2",
+    "tags": [
+      "crowbar",
+      "2",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 2.gif",
+    "url": "/emotes/sanae/Crowbar%202.gif",
+    "localUrl": "/emotes/sanae/Crowbar%202.gif"
+  },
+  {
+    "id": "sanae-crowbar-3",
+    "character": "sanae",
+    "name": "Crowbar (3)",
+    "action": "Crowbar",
+    "variant": "3",
+    "tags": [
+      "crowbar",
+      "3",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 3.gif",
+    "url": "/emotes/sanae/Crowbar%203.gif",
+    "localUrl": "/emotes/sanae/Crowbar%203.gif"
+  },
+  {
+    "id": "sanae-cry-1",
+    "character": "sanae",
+    "name": "Cry (1)",
+    "action": "Cry",
+    "variant": "1",
+    "tags": [
+      "cry",
+      "1",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 1.gif",
+    "url": "/emotes/sanae/Cry%201.gif",
+    "localUrl": "/emotes/sanae/Cry%201.gif"
+  },
+  {
+    "id": "sanae-cry-2",
+    "character": "sanae",
+    "name": "Cry (2)",
+    "action": "Cry",
+    "variant": "2",
+    "tags": [
+      "cry",
+      "2",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 2.gif",
+    "url": "/emotes/sanae/Cry%202.gif",
+    "localUrl": "/emotes/sanae/Cry%202.gif"
+  },
+  {
+    "id": "sanae-cry-3",
+    "character": "sanae",
+    "name": "Cry (3)",
+    "action": "Cry",
+    "variant": "3",
+    "tags": [
+      "cry",
+      "3",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 3.gif",
+    "url": "/emotes/sanae/Cry%203.gif",
+    "localUrl": "/emotes/sanae/Cry%203.gif"
+  },
+  {
+    "id": "sanae-dead",
+    "character": "sanae",
+    "name": "Dead",
+    "action": "Dead",
+    "variant": "",
+    "tags": [
+      "dead",
+      "death",
+      "rip",
+      "ded"
+    ],
+    "filename": "Dead.gif",
+    "url": "/emotes/sanae/Dead.gif",
+    "localUrl": "/emotes/sanae/Dead.gif"
+  },
+  {
+    "id": "sanae-dizzy",
+    "character": "sanae",
+    "name": "Dizzy",
+    "action": "Dizzy",
+    "variant": "",
+    "tags": [
+      "dizzy",
+      "confused",
+      "spin"
+    ],
+    "filename": "Dizzy.gif",
+    "url": "/emotes/sanae/Dizzy.gif",
+    "localUrl": "/emotes/sanae/Dizzy.gif"
+  },
+  {
+    "id": "sanae-drink-beverage-cup",
+    "character": "sanae",
+    "name": "Drink (Beverage Cup)",
+    "action": "Drink",
+    "variant": "Beverage Cup",
+    "tags": [
+      "drink",
+      "beverage",
+      "cup",
+      "thirsty"
+    ],
+    "filename": "Drink (Beverage Cup).gif",
+    "url": "/emotes/sanae/Drink%20(Beverage%20Cup).gif",
+    "localUrl": "/emotes/sanae/Drink%20(Beverage%20Cup).gif"
+  },
+  {
+    "id": "sanae-drive",
+    "character": "sanae",
+    "name": "Drive",
+    "action": "Drive",
+    "variant": "",
+    "tags": [
+      "drive",
+      "car",
+      "driving"
+    ],
+    "filename": "Drive.gif",
+    "url": "/emotes/sanae/Drive.gif",
+    "localUrl": "/emotes/sanae/Drive.gif"
+  },
+  {
+    "id": "sanae-drooling-chopstick",
+    "character": "sanae",
+    "name": "Drooling (Chopstick)",
+    "action": "Drooling",
+    "variant": "Chopstick",
+    "tags": [
+      "drooling",
+      "chopstick",
+      "drool",
+      "hungry",
+      "food",
+      "want"
+    ],
+    "filename": "Drooling (Chopstick).gif",
+    "url": "/emotes/sanae/Drooling%20(Chopstick).gif",
+    "localUrl": "/emotes/sanae/Drooling%20(Chopstick).gif"
+  },
+  {
+    "id": "sanae-drooling-fork-knife",
+    "character": "sanae",
+    "name": "Drooling (Fork&Knife)",
+    "action": "Drooling",
+    "variant": "Fork&Knife",
+    "tags": [
+      "drooling",
+      "fork&knife",
+      "drool",
+      "hungry",
+      "food",
+      "want"
+    ],
+    "filename": "Drooling (Fork&Knife).gif",
+    "url": "/emotes/sanae/Drooling%20(Fork&Knife).gif",
+    "localUrl": "/emotes/sanae/Drooling%20(Fork&Knife).gif"
+  },
+  {
+    "id": "sanae-dum-1",
+    "character": "sanae",
+    "name": "Dum (1)",
+    "action": "Dum",
+    "variant": "1",
+    "tags": [
+      "dum",
+      "1",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 1.gif",
+    "url": "/emotes/sanae/Dum%201.gif",
+    "localUrl": "/emotes/sanae/Dum%201.gif"
+  },
+  {
+    "id": "sanae-dum-2",
+    "character": "sanae",
+    "name": "Dum (2)",
+    "action": "Dum",
+    "variant": "2",
+    "tags": [
+      "dum",
+      "2",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 2.gif",
+    "url": "/emotes/sanae/Dum%202.gif",
+    "localUrl": "/emotes/sanae/Dum%202.gif"
+  },
+  {
+    "id": "sanae-dum-3",
+    "character": "sanae",
+    "name": "Dum (3)",
+    "action": "Dum",
+    "variant": "3",
+    "tags": [
+      "dum",
+      "3",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 3.gif",
+    "url": "/emotes/sanae/Dum%203.gif",
+    "localUrl": "/emotes/sanae/Dum%203.gif"
+  },
+  {
+    "id": "sanae-dum-sticker-1",
+    "character": "sanae",
+    "name": "Dum Sticker (1)",
+    "action": "Dum Sticker",
+    "variant": "1",
+    "tags": [
+      "dum",
+      "sticker",
+      "1"
+    ],
+    "filename": "Dum Sticker 1.gif",
+    "url": "/emotes/sanae/Dum%20Sticker%201.gif",
+    "localUrl": "/emotes/sanae/Dum%20Sticker%201.gif"
+  },
+  {
+    "id": "sanae-dum-sticker-2",
+    "character": "sanae",
+    "name": "Dum Sticker (2)",
+    "action": "Dum Sticker",
+    "variant": "2",
+    "tags": [
+      "dum",
+      "sticker",
+      "2"
+    ],
+    "filename": "Dum Sticker 2.gif",
+    "url": "/emotes/sanae/Dum%20Sticker%202.gif",
+    "localUrl": "/emotes/sanae/Dum%20Sticker%202.gif"
+  },
+  {
+    "id": "sanae-dum-sticker-3",
+    "character": "sanae",
+    "name": "Dum Sticker (3)",
+    "action": "Dum Sticker",
+    "variant": "3",
+    "tags": [
+      "dum",
+      "sticker",
+      "3"
+    ],
+    "filename": "Dum Sticker 3.gif",
+    "url": "/emotes/sanae/Dum%20Sticker%203.gif",
+    "localUrl": "/emotes/sanae/Dum%20Sticker%203.gif"
+  },
+  {
+    "id": "sanae-easter",
+    "character": "sanae",
+    "name": "Easter",
+    "action": "Easter",
+    "variant": "",
+    "tags": [
+      "easter",
+      "egg",
+      "holiday"
+    ],
+    "filename": "Easter.gif",
+    "url": "/emotes/sanae/Easter.gif",
+    "localUrl": "/emotes/sanae/Easter.gif"
+  },
+  {
+    "id": "sanae-exclamation",
+    "character": "sanae",
+    "name": "Exclamation",
+    "action": "Exclamation",
+    "variant": "",
+    "tags": [
+      "exclamation",
+      "alert",
+      "surprise",
+      "notice"
+    ],
+    "filename": "Exclamation.gif",
+    "url": "/emotes/sanae/Exclamation.gif",
+    "localUrl": "/emotes/sanae/Exclamation.gif"
+  },
+  {
+    "id": "sanae-gun",
+    "character": "sanae",
+    "name": "Gun",
+    "action": "Gun",
+    "variant": "",
+    "tags": [
+      "gun",
+      "shoot",
+      "weapon",
+      "pew"
+    ],
+    "filename": "Gun.gif",
+    "url": "/emotes/sanae/Gun.gif",
+    "localUrl": "/emotes/sanae/Gun.gif"
+  },
+  {
+    "id": "sanae-head-nod",
+    "character": "sanae",
+    "name": "Head Nod",
+    "action": "Head Nod",
+    "variant": "",
+    "tags": [
+      "head",
+      "nod",
+      "yes",
+      "agree"
+    ],
+    "filename": "Head Nod.gif",
+    "url": "/emotes/sanae/Head%20Nod.gif",
+    "localUrl": "/emotes/sanae/Head%20Nod.gif"
+  },
+  {
+    "id": "sanae-head-shake",
+    "character": "sanae",
+    "name": "Head Shake",
+    "action": "Head Shake",
+    "variant": "",
+    "tags": [
+      "head",
+      "shake",
+      "no",
+      "disagree",
+      "deny"
+    ],
+    "filename": "Head Shake.gif",
+    "url": "/emotes/sanae/Head%20Shake.gif",
+    "localUrl": "/emotes/sanae/Head%20Shake.gif"
+  },
+  {
+    "id": "sanae-hypnosis",
+    "character": "sanae",
+    "name": "Hypnosis",
+    "action": "Hypnosis",
+    "variant": "",
+    "tags": [
+      "hypnosis",
+      "hypnotize",
+      "spiral",
+      "mesmerize"
+    ],
+    "filename": "Hypnosis.gif",
+    "url": "/emotes/sanae/Hypnosis.gif",
+    "localUrl": "/emotes/sanae/Hypnosis.gif"
+  },
+  {
+    "id": "sanae-idea",
+    "character": "sanae",
+    "name": "Idea",
+    "action": "Idea",
+    "variant": "",
+    "tags": [
+      "idea",
+      "think",
+      "lightbulb",
+      "eureka"
+    ],
+    "filename": "Idea.gif",
+    "url": "/emotes/sanae/Idea.gif",
+    "localUrl": "/emotes/sanae/Idea.gif"
+  },
+  {
+    "id": "sanae-jail-1",
+    "character": "sanae",
+    "name": "Jail (1)",
+    "action": "Jail",
+    "variant": "1",
+    "tags": [
+      "jail",
+      "1",
+      "prison",
+      "locked",
+      "cell"
+    ],
+    "filename": "Jail 1.gif",
+    "url": "/emotes/sanae/Jail%201.gif",
+    "localUrl": "/emotes/sanae/Jail%201.gif"
+  },
+  {
+    "id": "sanae-jail-2",
+    "character": "sanae",
+    "name": "Jail (2)",
+    "action": "Jail",
+    "variant": "2",
+    "tags": [
+      "jail",
+      "2",
+      "prison",
+      "locked",
+      "cell"
+    ],
+    "filename": "Jail 2.gif",
+    "url": "/emotes/sanae/Jail%202.gif",
+    "localUrl": "/emotes/sanae/Jail%202.gif"
+  },
+  {
+    "id": "sanae-knife-1",
+    "character": "sanae",
+    "name": "Knife (1)",
+    "action": "Knife",
+    "variant": "1",
+    "tags": [
+      "knife",
+      "1",
+      "stab",
+      "weapon"
+    ],
+    "filename": "Knife 1.gif",
+    "url": "/emotes/sanae/Knife%201.gif",
+    "localUrl": "/emotes/sanae/Knife%201.gif"
+  },
+  {
+    "id": "sanae-knife-2",
+    "character": "sanae",
+    "name": "Knife (2)",
+    "action": "Knife",
+    "variant": "2",
+    "tags": [
+      "knife",
+      "2",
+      "stab",
+      "weapon"
+    ],
+    "filename": "Knife 2.gif",
+    "url": "/emotes/sanae/Knife%202.gif",
+    "localUrl": "/emotes/sanae/Knife%202.gif"
+  },
+  {
+    "id": "sanae-laugh-point",
+    "character": "sanae",
+    "name": "Laugh (Point)",
+    "action": "Laugh",
+    "variant": "Point",
+    "tags": [
+      "laugh",
+      "point",
+      "funny",
+      "haha",
+      "lol"
+    ],
+    "filename": "Laugh (Point).gif",
+    "url": "/emotes/sanae/Laugh%20(Point).gif",
+    "localUrl": "/emotes/sanae/Laugh%20(Point).gif"
+  },
+  {
+    "id": "sanae-laugh",
+    "character": "sanae",
+    "name": "Laugh",
+    "action": "Laugh",
+    "variant": "",
+    "tags": [
+      "laugh",
+      "funny",
+      "haha",
+      "lol"
+    ],
+    "filename": "Laugh.gif",
+    "url": "/emotes/sanae/Laugh.gif",
+    "localUrl": "/emotes/sanae/Laugh.gif"
+  },
+  {
+    "id": "sanae-lick",
+    "character": "sanae",
+    "name": "Lick",
+    "action": "Lick",
+    "variant": "",
+    "tags": [
+      "lick",
+      "taste",
+      "tongue"
+    ],
+    "filename": "Lick.gif",
+    "url": "/emotes/sanae/Lick.gif",
+    "localUrl": "/emotes/sanae/Lick.gif"
+  },
+  {
+    "id": "sanae-lightstick-1",
+    "character": "sanae",
+    "name": "Lightstick (1)",
+    "action": "Lightstick",
+    "variant": "1",
+    "tags": [
+      "lightstick",
+      "1",
+      "glow",
+      "concert",
+      "fan"
+    ],
+    "filename": "Lightstick 1.gif",
+    "url": "/emotes/sanae/Lightstick%201.gif",
+    "localUrl": "/emotes/sanae/Lightstick%201.gif"
+  },
+  {
+    "id": "sanae-lightstick-2",
+    "character": "sanae",
+    "name": "Lightstick (2)",
+    "action": "Lightstick",
+    "variant": "2",
+    "tags": [
+      "lightstick",
+      "2",
+      "glow",
+      "concert",
+      "fan"
+    ],
+    "filename": "Lightstick 2.gif",
+    "url": "/emotes/sanae/Lightstick%202.gif",
+    "localUrl": "/emotes/sanae/Lightstick%202.gif"
+  },
+  {
+    "id": "sanae-love-letter",
+    "character": "sanae",
+    "name": "Love Letter",
+    "action": "Love Letter",
+    "variant": "",
+    "tags": [
+      "love",
+      "letter",
+      "romance",
+      "mail"
+    ],
+    "filename": "Love Letter.gif",
+    "url": "/emotes/sanae/Love%20Letter.gif",
+    "localUrl": "/emotes/sanae/Love%20Letter.gif"
+  },
+  {
+    "id": "sanae-lurk-1",
+    "character": "sanae",
+    "name": "Lurk (1)",
+    "action": "Lurk",
+    "variant": "1",
+    "tags": [
+      "lurk",
+      "1",
+      "watching",
+      "hide",
+      "peek"
+    ],
+    "filename": "Lurk 1.gif",
+    "url": "/emotes/sanae/Lurk%201.gif",
+    "localUrl": "/emotes/sanae/Lurk%201.gif"
+  },
+  {
+    "id": "sanae-lurk-2",
+    "character": "sanae",
+    "name": "Lurk (2)",
+    "action": "Lurk",
+    "variant": "2",
+    "tags": [
+      "lurk",
+      "2",
+      "watching",
+      "hide",
+      "peek"
+    ],
+    "filename": "Lurk 2.gif",
+    "url": "/emotes/sanae/Lurk%202.gif",
+    "localUrl": "/emotes/sanae/Lurk%202.gif"
+  },
+  {
+    "id": "sanae-luv-1",
+    "character": "sanae",
+    "name": "Luv (1)",
+    "action": "Luv",
+    "variant": "1",
+    "tags": [
+      "luv",
+      "1",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 1.gif",
+    "url": "/emotes/sanae/Luv%201.gif",
+    "localUrl": "/emotes/sanae/Luv%201.gif"
+  },
+  {
+    "id": "sanae-luv-2",
+    "character": "sanae",
+    "name": "Luv (2)",
+    "action": "Luv",
+    "variant": "2",
+    "tags": [
+      "luv",
+      "2",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 2.gif",
+    "url": "/emotes/sanae/Luv%202.gif",
+    "localUrl": "/emotes/sanae/Luv%202.gif"
+  },
+  {
+    "id": "sanae-luv-3",
+    "character": "sanae",
+    "name": "Luv (3)",
+    "action": "Luv",
+    "variant": "3",
+    "tags": [
+      "luv",
+      "3",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 3.gif",
+    "url": "/emotes/sanae/Luv%203.gif",
+    "localUrl": "/emotes/sanae/Luv%203.gif"
+  },
+  {
+    "id": "sanae-megaphone",
+    "character": "sanae",
+    "name": "Megaphone",
+    "action": "Megaphone",
+    "variant": "",
+    "tags": [
+      "megaphone",
+      "shout",
+      "loud",
+      "announce"
+    ],
+    "filename": "Megaphone.gif",
+    "url": "/emotes/sanae/Megaphone.gif",
+    "localUrl": "/emotes/sanae/Megaphone.gif"
+  },
+  {
+    "id": "sanae-money",
+    "character": "sanae",
+    "name": "Money",
+    "action": "Money",
+    "variant": "",
+    "tags": [
+      "money",
+      "cash",
+      "rich",
+      "dollar"
+    ],
+    "filename": "Money.gif",
+    "url": "/emotes/sanae/Money.gif",
+    "localUrl": "/emotes/sanae/Money.gif"
+  },
+  {
+    "id": "sanae-mute-1",
+    "character": "sanae",
+    "name": "Mute (1)",
+    "action": "Mute",
+    "variant": "1",
+    "tags": [
+      "mute",
+      "1",
+      "quiet",
+      "silence",
+      "shh"
+    ],
+    "filename": "Mute 1.gif",
+    "url": "/emotes/sanae/Mute%201.gif",
+    "localUrl": "/emotes/sanae/Mute%201.gif"
+  },
+  {
+    "id": "sanae-mute-2",
+    "character": "sanae",
+    "name": "Mute (2)",
+    "action": "Mute",
+    "variant": "2",
+    "tags": [
+      "mute",
+      "2",
+      "quiet",
+      "silence",
+      "shh"
+    ],
+    "filename": "Mute 2.gif",
+    "url": "/emotes/sanae/Mute%202.gif",
+    "localUrl": "/emotes/sanae/Mute%202.gif"
+  },
+  {
+    "id": "sanae-need-food",
+    "character": "sanae",
+    "name": "Need Food",
+    "action": "Need Food",
+    "variant": "",
+    "tags": [
+      "need",
+      "food",
+      "hungry",
+      "starving"
+    ],
+    "filename": "Need Food.gif",
+    "url": "/emotes/sanae/Need%20Food.gif",
+    "localUrl": "/emotes/sanae/Need%20Food.gif"
+  },
+  {
+    "id": "sanae-nervous-1",
+    "character": "sanae",
+    "name": "Nervous (1)",
+    "action": "Nervous",
+    "variant": "1",
+    "tags": [
+      "nervous",
+      "1",
+      "anxious",
+      "sweat",
+      "worry"
+    ],
+    "filename": "Nervous 1.gif",
+    "url": "/emotes/sanae/Nervous%201.gif",
+    "localUrl": "/emotes/sanae/Nervous%201.gif"
+  },
+  {
+    "id": "sanae-nervous-2",
+    "character": "sanae",
+    "name": "Nervous (2)",
+    "action": "Nervous",
+    "variant": "2",
+    "tags": [
+      "nervous",
+      "2",
+      "anxious",
+      "sweat",
+      "worry"
+    ],
+    "filename": "Nervous 2.gif",
+    "url": "/emotes/sanae/Nervous%202.gif",
+    "localUrl": "/emotes/sanae/Nervous%202.gif"
+  },
+  {
+    "id": "sanae-noted-1",
+    "character": "sanae",
+    "name": "Noted (1)",
+    "action": "Noted",
+    "variant": "1",
+    "tags": [
+      "noted",
+      "1",
+      "write",
+      "note",
+      "ok"
+    ],
+    "filename": "Noted 1.gif",
+    "url": "/emotes/sanae/Noted%201.gif",
+    "localUrl": "/emotes/sanae/Noted%201.gif"
+  },
+  {
+    "id": "sanae-noted-2",
+    "character": "sanae",
+    "name": "Noted (2)",
+    "action": "Noted",
+    "variant": "2",
+    "tags": [
+      "noted",
+      "2",
+      "write",
+      "note",
+      "ok"
+    ],
+    "filename": "Noted 2.gif",
+    "url": "/emotes/sanae/Noted%202.gif",
+    "localUrl": "/emotes/sanae/Noted%202.gif"
+  },
+  {
+    "id": "sanae-paid-break-easy-mode",
+    "character": "sanae",
+    "name": "Paid Break (Easy Mode)",
+    "action": "Paid Break",
+    "variant": "Easy Mode",
+    "tags": [
+      "paid",
+      "break",
+      "easy",
+      "mode",
+      "rest",
+      "vacation"
+    ],
+    "filename": "Paid Break (Easy Mode).gif",
+    "url": "/emotes/sanae/Paid%20Break%20(Easy%20Mode).gif",
+    "localUrl": "/emotes/sanae/Paid%20Break%20(Easy%20Mode).gif"
+  },
+  {
+    "id": "sanae-paid-break-hard-mode",
+    "character": "sanae",
+    "name": "Paid Break (Hard Mode)",
+    "action": "Paid Break",
+    "variant": "Hard Mode",
+    "tags": [
+      "paid",
+      "break",
+      "hard",
+      "mode",
+      "rest",
+      "vacation"
+    ],
+    "filename": "Paid Break (Hard Mode).gif",
+    "url": "/emotes/sanae/Paid%20Break%20(Hard%20Mode).gif",
+    "localUrl": "/emotes/sanae/Paid%20Break%20(Hard%20Mode).gif"
+  },
+  {
+    "id": "sanae-pat",
+    "character": "sanae",
+    "name": "Pat",
+    "action": "Pat",
+    "variant": "",
+    "tags": [
+      "pat",
+      "pet",
+      "headpat",
+      "cute"
+    ],
+    "filename": "Pat.gif",
+    "url": "/emotes/sanae/Pat.gif",
+    "localUrl": "/emotes/sanae/Pat.gif"
+  },
+  {
+    "id": "sanae-pngtuber-idle-2",
+    "character": "sanae",
+    "name": "PNGTuber Idle (2)",
+    "action": "PNGTuber Idle",
+    "variant": "2",
+    "tags": [
+      "pngtuber",
+      "idle",
+      "2",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Idle 2.gif",
+    "url": "/emotes/sanae/PNGTuber%20Idle%202.gif",
+    "localUrl": "/emotes/sanae/PNGTuber%20Idle%202.gif"
+  },
+  {
+    "id": "sanae-pngtuber-idle",
+    "character": "sanae",
+    "name": "PNGTuber Idle",
+    "action": "PNGTuber Idle",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "idle",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Idle.gif",
+    "url": "/emotes/sanae/PNGTuber%20Idle.gif",
+    "localUrl": "/emotes/sanae/PNGTuber%20Idle.gif"
+  },
+  {
+    "id": "sanae-pngtuber-loading",
+    "character": "sanae",
+    "name": "PNGTuber Loading",
+    "action": "PNGTuber Loading",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "loading",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Loading.gif",
+    "url": "/emotes/sanae/PNGTuber%20Loading.gif",
+    "localUrl": "/emotes/sanae/PNGTuber%20Loading.gif"
+  },
+  {
+    "id": "sanae-pngtuber-talk-2",
+    "character": "sanae",
+    "name": "PNGTuber Talk (2)",
+    "action": "PNGTuber Talk",
+    "variant": "2",
+    "tags": [
+      "pngtuber",
+      "talk",
+      "2",
+      "speak",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Talk 2.gif",
+    "url": "/emotes/sanae/PNGTuber%20Talk%202.gif",
+    "localUrl": "/emotes/sanae/PNGTuber%20Talk%202.gif"
+  },
+  {
+    "id": "sanae-pngtuber-talk",
+    "character": "sanae",
+    "name": "PNGTuber Talk",
+    "action": "PNGTuber Talk",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "talk",
+      "speak",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Talk.gif",
+    "url": "/emotes/sanae/PNGTuber%20Talk.gif",
+    "localUrl": "/emotes/sanae/PNGTuber%20Talk.gif"
+  },
+  {
+    "id": "sanae-pngtuber-yap",
+    "character": "sanae",
+    "name": "PNGTuber Yap",
+    "action": "PNGTuber Yap",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "yap",
+      "talk",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Yap.gif",
+    "url": "/emotes/sanae/PNGTuber%20Yap.gif",
+    "localUrl": "/emotes/sanae/PNGTuber%20Yap.gif"
+  },
+  {
+    "id": "sanae-point",
+    "character": "sanae",
+    "name": "Point",
+    "action": "Point",
+    "variant": "",
+    "tags": [
+      "point",
+      "you",
+      "finger"
+    ],
+    "filename": "Point.gif",
+    "url": "/emotes/sanae/Point.gif",
+    "localUrl": "/emotes/sanae/Point.gif"
+  },
+  {
+    "id": "sanae-popcat-frame",
+    "character": "sanae",
+    "name": "Popcat Frame",
+    "action": "Popcat Frame",
+    "variant": "",
+    "tags": [
+      "popcat",
+      "frame"
+    ],
+    "filename": "Popcat Frame.gif",
+    "url": "/emotes/sanae/Popcat%20Frame.gif",
+    "localUrl": "/emotes/sanae/Popcat%20Frame.gif"
+  },
+  {
+    "id": "sanae-question",
+    "character": "sanae",
+    "name": "Question",
+    "action": "Question",
+    "variant": "",
+    "tags": [
+      "question",
+      "ask",
+      "what",
+      "confused"
+    ],
+    "filename": "Question.gif",
+    "url": "/emotes/sanae/Question.gif",
+    "localUrl": "/emotes/sanae/Question.gif"
+  },
+  {
+    "id": "sanae-raid-1",
+    "character": "sanae",
+    "name": "Raid (1)",
+    "action": "Raid",
+    "variant": "1",
+    "tags": [
+      "raid",
+      "1",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Raid 1.gif",
+    "url": "/emotes/sanae/Raid%201.gif",
+    "localUrl": "/emotes/sanae/Raid%201.gif"
+  },
+  {
+    "id": "sanae-raid-2",
+    "character": "sanae",
+    "name": "Raid (2)",
+    "action": "Raid",
+    "variant": "2",
+    "tags": [
+      "raid",
+      "2",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Raid 2.gif",
+    "url": "/emotes/sanae/Raid%202.gif",
+    "localUrl": "/emotes/sanae/Raid%202.gif"
+  },
+  {
+    "id": "sanae-redpacket-1",
+    "character": "sanae",
+    "name": "RedPacket (1)",
+    "action": "RedPacket",
+    "variant": "1",
+    "tags": [
+      "redpacket",
+      "1",
+      "red",
+      "packet",
+      "gift",
+      "money"
+    ],
+    "filename": "RedPacket 1.gif",
+    "url": "/emotes/sanae/RedPacket%201.gif",
+    "localUrl": "/emotes/sanae/RedPacket%201.gif"
+  },
+  {
+    "id": "sanae-redpacket-2",
+    "character": "sanae",
+    "name": "RedPacket (2)",
+    "action": "RedPacket",
+    "variant": "2",
+    "tags": [
+      "redpacket",
+      "2",
+      "red",
+      "packet",
+      "gift",
+      "money"
+    ],
+    "filename": "RedPacket 2.gif",
+    "url": "/emotes/sanae/RedPacket%202.gif",
+    "localUrl": "/emotes/sanae/RedPacket%202.gif"
+  },
+  {
+    "id": "sanae-rose",
+    "character": "sanae",
+    "name": "Rose",
+    "action": "Rose",
+    "variant": "",
+    "tags": [
+      "rose",
+      "flower",
+      "love",
+      "romantic"
+    ],
+    "filename": "Rose.gif",
+    "url": "/emotes/sanae/Rose.gif",
+    "localUrl": "/emotes/sanae/Rose.gif"
+  },
+  {
+    "id": "sanae-score-0-point",
+    "character": "sanae",
+    "name": "Score (0 Point)",
+    "action": "Score",
+    "variant": "0 Point",
+    "tags": [
+      "score",
+      "0",
+      "point",
+      "game",
+      "number"
+    ],
+    "filename": "Score (0 Point).gif",
+    "url": "/emotes/sanae/Score%20(0%20Point).gif",
+    "localUrl": "/emotes/sanae/Score%20(0%20Point).gif"
+  },
+  {
+    "id": "sanae-score-10-point",
+    "character": "sanae",
+    "name": "Score (10 Point)",
+    "action": "Score",
+    "variant": "10 Point",
+    "tags": [
+      "score",
+      "10",
+      "point",
+      "game",
+      "number"
+    ],
+    "filename": "Score (10 Point).gif",
+    "url": "/emotes/sanae/Score%20(10%20Point).gif",
+    "localUrl": "/emotes/sanae/Score%20(10%20Point).gif"
+  },
+  {
+    "id": "sanae-shy-1",
+    "character": "sanae",
+    "name": "Shy (1)",
+    "action": "Shy",
+    "variant": "1",
+    "tags": [
+      "shy",
+      "1",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 1.gif",
+    "url": "/emotes/sanae/Shy%201.gif",
+    "localUrl": "/emotes/sanae/Shy%201.gif"
+  },
+  {
+    "id": "sanae-shy-2",
+    "character": "sanae",
+    "name": "Shy (2)",
+    "action": "Shy",
+    "variant": "2",
+    "tags": [
+      "shy",
+      "2",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 2.gif",
+    "url": "/emotes/sanae/Shy%202.gif",
+    "localUrl": "/emotes/sanae/Shy%202.gif"
+  },
+  {
+    "id": "sanae-sing",
+    "character": "sanae",
+    "name": "Sing",
+    "action": "Sing",
+    "variant": "",
+    "tags": [
+      "sing",
+      "song",
+      "music",
+      "karaoke"
+    ],
+    "filename": "Sing.gif",
+    "url": "/emotes/sanae/Sing.gif",
+    "localUrl": "/emotes/sanae/Sing.gif"
+  },
+  {
+    "id": "sanae-sleep-normal",
+    "character": "sanae",
+    "name": "Sleep (Normal)",
+    "action": "Sleep",
+    "variant": "Normal",
+    "tags": [
+      "sleep",
+      "normal",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Normal).gif",
+    "url": "/emotes/sanae/Sleep%20(Normal).gif",
+    "localUrl": "/emotes/sanae/Sleep%20(Normal).gif"
+  },
+  {
+    "id": "sanae-sleep-preparing-stage-1",
+    "character": "sanae",
+    "name": "Sleep (Preparing Stage 1)",
+    "action": "Sleep",
+    "variant": "Preparing Stage 1",
+    "tags": [
+      "sleep",
+      "preparing",
+      "stage",
+      "1",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Preparing Stage 1).gif",
+    "url": "/emotes/sanae/Sleep%20(Preparing%20Stage%201).gif",
+    "localUrl": "/emotes/sanae/Sleep%20(Preparing%20Stage%201).gif"
+  },
+  {
+    "id": "sanae-sleep-preparing-stage-2",
+    "character": "sanae",
+    "name": "Sleep (Preparing Stage 2)",
+    "action": "Sleep",
+    "variant": "Preparing Stage 2",
+    "tags": [
+      "sleep",
+      "preparing",
+      "stage",
+      "2",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Preparing Stage 2).gif",
+    "url": "/emotes/sanae/Sleep%20(Preparing%20Stage%202).gif",
+    "localUrl": "/emotes/sanae/Sleep%20(Preparing%20Stage%202).gif"
+  },
+  {
+    "id": "sanae-sleep-uu",
+    "character": "sanae",
+    "name": "Sleep (UU)",
+    "action": "Sleep",
+    "variant": "UU",
+    "tags": [
+      "sleep",
+      "uu",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (UU).gif",
+    "url": "/emotes/sanae/Sleep%20(UU).gif",
+    "localUrl": "/emotes/sanae/Sleep%20(UU).gif"
+  },
+  {
+    "id": "sanae-sparkling",
+    "character": "sanae",
+    "name": "Sparkling",
+    "action": "Sparkling",
+    "variant": "",
+    "tags": [
+      "sparkling",
+      "sparkle",
+      "shine",
+      "glitter",
+      "pretty"
+    ],
+    "filename": "Sparkling.gif",
+    "url": "/emotes/sanae/Sparkling.gif",
+    "localUrl": "/emotes/sanae/Sparkling.gif"
+  },
+  {
+    "id": "sanae-spray",
+    "character": "sanae",
+    "name": "Spray",
+    "action": "Spray",
+    "variant": "",
+    "tags": [
+      "spray",
+      "clean",
+      "water"
+    ],
+    "filename": "Spray.gif",
+    "url": "/emotes/sanae/Spray.gif",
+    "localUrl": "/emotes/sanae/Spray.gif"
+  },
+  {
+    "id": "sanae-stops-working",
+    "character": "sanae",
+    "name": "Stops Working",
+    "action": "Stops Working",
+    "variant": "",
+    "tags": [
+      "stops",
+      "working",
+      "stop",
+      "error",
+      "broken",
+      "crash"
+    ],
+    "filename": "Stops Working.gif",
+    "url": "/emotes/sanae/Stops%20Working.gif",
+    "localUrl": "/emotes/sanae/Stops%20Working.gif"
+  },
+  {
+    "id": "sanae-sunglasses-gleam",
+    "character": "sanae",
+    "name": "Sunglasses Gleam",
+    "action": "Sunglasses Gleam",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "gleam"
+    ],
+    "filename": "Sunglasses Gleam.gif",
+    "url": "/emotes/sanae/Sunglasses%20Gleam.gif",
+    "localUrl": "/emotes/sanae/Sunglasses%20Gleam.gif"
+  },
+  {
+    "id": "sanae-sunglasses-pixel-gleam",
+    "character": "sanae",
+    "name": "Sunglasses Pixel Gleam",
+    "action": "Sunglasses Pixel Gleam",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "pixel",
+      "gleam"
+    ],
+    "filename": "Sunglasses Pixel Gleam.gif",
+    "url": "/emotes/sanae/Sunglasses%20Pixel%20Gleam.gif",
+    "localUrl": "/emotes/sanae/Sunglasses%20Pixel%20Gleam.gif"
+  },
+  {
+    "id": "sanae-sunglasses-remove",
+    "character": "sanae",
+    "name": "Sunglasses Remove",
+    "action": "Sunglasses Remove",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "remove"
+    ],
+    "filename": "Sunglasses Remove.gif",
+    "url": "/emotes/sanae/Sunglasses%20Remove.gif",
+    "localUrl": "/emotes/sanae/Sunglasses%20Remove.gif"
+  },
+  {
+    "id": "sanae-surprise",
+    "character": "sanae",
+    "name": "Surprise",
+    "action": "Surprise",
+    "variant": "",
+    "tags": [
+      "surprise",
+      "shock",
+      "wow",
+      "omg"
+    ],
+    "filename": "Surprise.gif",
+    "url": "/emotes/sanae/Surprise.gif",
+    "localUrl": "/emotes/sanae/Surprise.gif"
+  },
+  {
+    "id": "sanae-swatter",
+    "character": "sanae",
+    "name": "Swatter",
+    "action": "Swatter",
+    "variant": "",
+    "tags": [
+      "swatter",
+      "fly",
+      "hit"
+    ],
+    "filename": "Swatter.gif",
+    "url": "/emotes/sanae/Swatter.gif",
+    "localUrl": "/emotes/sanae/Swatter.gif"
+  },
+  {
+    "id": "sanae-sweat",
+    "character": "sanae",
+    "name": "Sweat",
+    "action": "Sweat",
+    "variant": "",
+    "tags": [
+      "sweat",
+      "nervous",
+      "hot",
+      "anxious"
+    ],
+    "filename": "Sweat.gif",
+    "url": "/emotes/sanae/Sweat.gif",
+    "localUrl": "/emotes/sanae/Sweat.gif"
+  },
+  {
+    "id": "sanae-tablet",
+    "character": "sanae",
+    "name": "Tablet",
+    "action": "Tablet",
+    "variant": "",
+    "tags": [
+      "tablet",
+      "ipad",
+      "draw",
+      "device"
+    ],
+    "filename": "Tablet.gif",
+    "url": "/emotes/sanae/Tablet.gif",
+    "localUrl": "/emotes/sanae/Tablet.gif"
+  },
+  {
+    "id": "sanae-tape",
+    "character": "sanae",
+    "name": "Tape",
+    "action": "Tape",
+    "variant": "",
+    "tags": [
+      "tape",
+      "seal",
+      "sticky"
+    ],
+    "filename": "Tape.gif",
+    "url": "/emotes/sanae/Tape.gif",
+    "localUrl": "/emotes/sanae/Tape.gif"
+  },
+  {
+    "id": "sanae-thumb-down",
+    "character": "sanae",
+    "name": "Thumb Down",
+    "action": "Thumb Down",
+    "variant": "",
+    "tags": [
+      "thumb",
+      "down",
+      "dislike",
+      "no",
+      "bad"
+    ],
+    "filename": "Thumb Down.gif",
+    "url": "/emotes/sanae/Thumb%20Down.gif",
+    "localUrl": "/emotes/sanae/Thumb%20Down.gif"
+  },
+  {
+    "id": "sanae-thumb-up",
+    "character": "sanae",
+    "name": "Thumb Up",
+    "action": "Thumb Up",
+    "variant": "",
+    "tags": [
+      "thumb",
+      "up",
+      "like",
+      "yes",
+      "good"
+    ],
+    "filename": "Thumb Up.gif",
+    "url": "/emotes/sanae/Thumb%20Up.gif",
+    "localUrl": "/emotes/sanae/Thumb%20Up.gif"
+  },
+  {
+    "id": "sanae-trash-bin",
+    "character": "sanae",
+    "name": "Trash Bin",
+    "action": "Trash Bin",
+    "variant": "",
+    "tags": [
+      "trash",
+      "bin",
+      "delete",
+      "garbage"
+    ],
+    "filename": "Trash Bin.gif",
+    "url": "/emotes/sanae/Trash%20Bin.gif",
+    "localUrl": "/emotes/sanae/Trash%20Bin.gif"
+  },
+  {
+    "id": "sanae-trashtuber-idle",
+    "character": "sanae",
+    "name": "TrashTuber Idle",
+    "action": "TrashTuber Idle",
+    "variant": "",
+    "tags": [
+      "trashtuber",
+      "idle",
+      "vtuber",
+      "trash"
+    ],
+    "filename": "TrashTuber Idle.gif",
+    "url": "/emotes/sanae/TrashTuber%20Idle.gif",
+    "localUrl": "/emotes/sanae/TrashTuber%20Idle.gif"
+  },
+  {
+    "id": "sanae-trashtuber-talk",
+    "character": "sanae",
+    "name": "TrashTuber Talk",
+    "action": "TrashTuber Talk",
+    "variant": "",
+    "tags": [
+      "trashtuber",
+      "talk",
+      "vtuber",
+      "trash"
+    ],
+    "filename": "TrashTuber Talk.gif",
+    "url": "/emotes/sanae/TrashTuber%20Talk.gif",
+    "localUrl": "/emotes/sanae/TrashTuber%20Talk.gif"
+  },
+  {
+    "id": "sanae-trashtuber-yap",
+    "character": "sanae",
+    "name": "TrashTuber Yap",
+    "action": "TrashTuber Yap",
+    "variant": "",
+    "tags": [
+      "trashtuber",
+      "yap",
+      "vtuber",
+      "trash"
+    ],
+    "filename": "TrashTuber Yap.gif",
+    "url": "/emotes/sanae/TrashTuber%20Yap.gif",
+    "localUrl": "/emotes/sanae/TrashTuber%20Yap.gif"
+  },
+  {
+    "id": "sanae-type-angry",
+    "character": "sanae",
+    "name": "Type Angry",
+    "action": "Type Angry",
+    "variant": "",
+    "tags": [
+      "type",
+      "angry"
+    ],
+    "filename": "Type Angry.gif",
+    "url": "/emotes/sanae/Type%20Angry.gif",
+    "localUrl": "/emotes/sanae/Type%20Angry.gif"
+  },
+  {
+    "id": "sanae-type-annoyed",
+    "character": "sanae",
+    "name": "Type Annoyed",
+    "action": "Type Annoyed",
+    "variant": "",
+    "tags": [
+      "type",
+      "annoyed"
+    ],
+    "filename": "Type Annoyed.gif",
+    "url": "/emotes/sanae/Type%20Annoyed.gif",
+    "localUrl": "/emotes/sanae/Type%20Annoyed.gif"
+  },
+  {
+    "id": "sanae-type-normal",
+    "character": "sanae",
+    "name": "Type Normal",
+    "action": "Type Normal",
+    "variant": "",
+    "tags": [
+      "type",
+      "normal"
+    ],
+    "filename": "Type Normal.gif",
+    "url": "/emotes/sanae/Type%20Normal.gif",
+    "localUrl": "/emotes/sanae/Type%20Normal.gif"
+  },
+  {
+    "id": "sanae-work-angry",
+    "character": "sanae",
+    "name": "Work Angry",
+    "action": "Work Angry",
+    "variant": "",
+    "tags": [
+      "work",
+      "angry"
+    ],
+    "filename": "Work Angry.gif",
+    "url": "/emotes/sanae/Work%20Angry.gif",
+    "localUrl": "/emotes/sanae/Work%20Angry.gif"
+  },
+  {
+    "id": "sanae-work-nap",
+    "character": "sanae",
+    "name": "Work Nap",
+    "action": "Work Nap",
+    "variant": "",
+    "tags": [
+      "work",
+      "nap"
+    ],
+    "filename": "Work Nap.gif",
+    "url": "/emotes/sanae/Work%20Nap.gif",
+    "localUrl": "/emotes/sanae/Work%20Nap.gif"
+  },
+  {
+    "id": "sanae-work-normal",
+    "character": "sanae",
+    "name": "Work Normal",
+    "action": "Work Normal",
+    "variant": "",
+    "tags": [
+      "work",
+      "normal"
+    ],
+    "filename": "Work Normal.gif",
+    "url": "/emotes/sanae/Work%20Normal.gif",
+    "localUrl": "/emotes/sanae/Work%20Normal.gif"
+  },
+  {
+    "id": "sanae-work-tired",
+    "character": "sanae",
+    "name": "Work Tired",
+    "action": "Work Tired",
+    "variant": "",
+    "tags": [
+      "work",
+      "tired"
+    ],
+    "filename": "Work Tired.gif",
+    "url": "/emotes/sanae/Work%20Tired.gif",
+    "localUrl": "/emotes/sanae/Work%20Tired.gif"
+  },
+  {
+    "id": "shinki-v1-button-2026-07-28-00-26-10",
+    "character": "shinki",
+    "name": "神绮v1_Button_2026-07-28-00-26-10",
+    "action": "神绮v1_Button_2026-07-28-00-26-10",
+    "variant": "",
+    "tags": [
+      "神绮v1_button_2026-07-28-00-26-10"
+    ],
+    "filename": "神绮v1_Button_2026-07-28-00-26-10.gif",
+    "url": "/emotes/shinki/%E7%A5%9E%E7%BB%AEv1_Button_2026-07-28-00-26-10.gif",
+    "localUrl": "/emotes/shinki/%E7%A5%9E%E7%BB%AEv1_Button_2026-07-28-00-26-10.gif"
+  },
+  {
+    "id": "shinki-v1-dance-low-cortisol-2026-07-28-00-27-21",
+    "character": "shinki",
+    "name": "神绮v1_Dance (Low Cortisol)_2026-07-28-00-27-21",
+    "action": "神绮v1_Dance (Low Cortisol)_2026-07-28-00-27-21",
+    "variant": "",
+    "tags": [
+      "神绮v1_dance",
+      "(low",
+      "cortisol)_2026-07-28-00-27-21"
+    ],
+    "filename": "神绮v1_Dance (Low Cortisol)_2026-07-28-00-27-21.gif",
+    "url": "/emotes/shinki/%E7%A5%9E%E7%BB%AEv1_Dance%20(Low%20Cortisol)_2026-07-28-00-27-21.gif",
+    "localUrl": "/emotes/shinki/%E7%A5%9E%E7%BB%AEv1_Dance%20(Low%20Cortisol)_2026-07-28-00-27-21.gif"
+  },
+  {
     "id": "shinki-alert-bits",
     "character": "shinki",
     "name": "Alert Bits",
@@ -3045,6 +7514,22 @@
     "localUrl": "/emotes/shinki/Bug.gif"
   },
   {
+    "id": "shinki-button",
+    "character": "shinki",
+    "name": "Button",
+    "action": "Button",
+    "variant": "",
+    "tags": [
+      "button",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button.gif",
+    "url": "/emotes/shinki/Button.gif",
+    "localUrl": "/emotes/shinki/Button.gif"
+  },
+  {
     "id": "shinki-cake",
     "character": "shinki",
     "name": "Cake",
@@ -3059,6 +7544,22 @@
     "filename": "Cake.gif",
     "url": "/emotes/shinki/Cake.gif",
     "localUrl": "/emotes/shinki/Cake.gif"
+  },
+  {
+    "id": "shinki-card-swipe",
+    "character": "shinki",
+    "name": "Card Swipe",
+    "action": "Card Swipe",
+    "variant": "",
+    "tags": [
+      "card",
+      "swipe",
+      "credit",
+      "payment"
+    ],
+    "filename": "Card Swipe.gif",
+    "url": "/emotes/shinki/Card%20Swipe.gif",
+    "localUrl": "/emotes/shinki/Card%20Swipe.gif"
   },
   {
     "id": "shinki-caught-in-4k-phone",
@@ -3130,6 +7631,72 @@
     "filename": "Cheer.gif",
     "url": "/emotes/shinki/Cheer.gif",
     "localUrl": "/emotes/shinki/Cheer.gif"
+  },
+  {
+    "id": "shinki-cheese-slap",
+    "character": "shinki",
+    "name": "Cheese Slap",
+    "action": "Cheese Slap",
+    "variant": "",
+    "tags": [
+      "cheese",
+      "slap",
+      "funny"
+    ],
+    "filename": "Cheese Slap.gif",
+    "url": "/emotes/shinki/Cheese%20Slap.gif",
+    "localUrl": "/emotes/shinki/Cheese%20Slap.gif"
+  },
+  {
+    "id": "shinki-clown-1",
+    "character": "shinki",
+    "name": "Clown (1)",
+    "action": "Clown",
+    "variant": "1",
+    "tags": [
+      "clown",
+      "1",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 1.gif",
+    "url": "/emotes/shinki/Clown%201.gif",
+    "localUrl": "/emotes/shinki/Clown%201.gif"
+  },
+  {
+    "id": "shinki-clown-2",
+    "character": "shinki",
+    "name": "Clown (2)",
+    "action": "Clown",
+    "variant": "2",
+    "tags": [
+      "clown",
+      "2",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 2.gif",
+    "url": "/emotes/shinki/Clown%202.gif",
+    "localUrl": "/emotes/shinki/Clown%202.gif"
+  },
+  {
+    "id": "shinki-coke-shake",
+    "character": "shinki",
+    "name": "Coke Shake",
+    "action": "Coke Shake",
+    "variant": "",
+    "tags": [
+      "coke",
+      "shake",
+      "cola",
+      "drink",
+      "funny"
+    ],
+    "filename": "Coke Shake.gif",
+    "url": "/emotes/shinki/Coke%20Shake.gif",
+    "localUrl": "/emotes/shinki/Coke%20Shake.gif"
   },
   {
     "id": "shinki-copium",
@@ -3301,6 +7868,23 @@
     "filename": "Dance (Low Cortisol).gif",
     "url": "/emotes/shinki/Dance%20(Low%20Cortisol).gif",
     "localUrl": "/emotes/shinki/Dance%20(Low%20Cortisol).gif"
+  },
+  {
+    "id": "shinki-dance-scuba",
+    "character": "shinki",
+    "name": "Dance (Scuba)",
+    "action": "Dance",
+    "variant": "Scuba",
+    "tags": [
+      "dance",
+      "scuba",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Scuba).gif",
+    "url": "/emotes/shinki/Dance%20(Scuba).gif",
+    "localUrl": "/emotes/shinki/Dance%20(Scuba).gif"
   },
   {
     "id": "shinki-dance-1",
@@ -3537,6 +8121,38 @@
     "localUrl": "/emotes/shinki/Eat%20(Popcorn).gif"
   },
   {
+    "id": "shinki-electric-fan-1",
+    "character": "shinki",
+    "name": "Electric Fan (1)",
+    "action": "Electric Fan",
+    "variant": "1",
+    "tags": [
+      "electric",
+      "fan",
+      "1",
+      "cool"
+    ],
+    "filename": "Electric Fan 1.gif",
+    "url": "/emotes/shinki/Electric%20Fan%201.gif",
+    "localUrl": "/emotes/shinki/Electric%20Fan%201.gif"
+  },
+  {
+    "id": "shinki-electric-fan-2",
+    "character": "shinki",
+    "name": "Electric Fan (2)",
+    "action": "Electric Fan",
+    "variant": "2",
+    "tags": [
+      "electric",
+      "fan",
+      "2",
+      "cool"
+    ],
+    "filename": "Electric Fan 2.gif",
+    "url": "/emotes/shinki/Electric%20Fan%202.gif",
+    "localUrl": "/emotes/shinki/Electric%20Fan%202.gif"
+  },
+  {
     "id": "shinki-exclamation",
     "character": "shinki",
     "name": "Exclamation",
@@ -3551,6 +8167,210 @@
     "filename": "Exclamation.gif",
     "url": "/emotes/shinki/Exclamation.gif",
     "localUrl": "/emotes/shinki/Exclamation.gif"
+  },
+  {
+    "id": "shinki-fire-1",
+    "character": "shinki",
+    "name": "Fire (1)",
+    "action": "Fire",
+    "variant": "1",
+    "tags": [
+      "fire",
+      "1",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 1.gif",
+    "url": "/emotes/shinki/Fire%201.gif",
+    "localUrl": "/emotes/shinki/Fire%201.gif"
+  },
+  {
+    "id": "shinki-fire-2",
+    "character": "shinki",
+    "name": "Fire (2)",
+    "action": "Fire",
+    "variant": "2",
+    "tags": [
+      "fire",
+      "2",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 2.gif",
+    "url": "/emotes/shinki/Fire%202.gif",
+    "localUrl": "/emotes/shinki/Fire%202.gif"
+  },
+  {
+    "id": "shinki-folding-fans",
+    "character": "shinki",
+    "name": "Folding Fans",
+    "action": "Folding Fans",
+    "variant": "",
+    "tags": [
+      "folding",
+      "fans",
+      "fan",
+      "traditional"
+    ],
+    "filename": "Folding Fans.gif",
+    "url": "/emotes/shinki/Folding%20Fans.gif",
+    "localUrl": "/emotes/shinki/Folding%20Fans.gif"
+  },
+  {
+    "id": "shinki-game",
+    "character": "shinki",
+    "name": "Game",
+    "action": "Game",
+    "variant": "",
+    "tags": [
+      "game",
+      "gaming",
+      "play"
+    ],
+    "filename": "Game.gif",
+    "url": "/emotes/shinki/Game.gif",
+    "localUrl": "/emotes/shinki/Game.gif"
+  },
+  {
+    "id": "shinki-get-hit-bits",
+    "character": "shinki",
+    "name": "Get Hit (Bits)",
+    "action": "Get Hit",
+    "variant": "Bits",
+    "tags": [
+      "get",
+      "hit",
+      "bits",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Bits).gif",
+    "url": "/emotes/shinki/Get%20Hit%20(Bits).gif",
+    "localUrl": "/emotes/shinki/Get%20Hit%20(Bits).gif"
+  },
+  {
+    "id": "shinki-get-hit-coin",
+    "character": "shinki",
+    "name": "Get Hit (Coin)",
+    "action": "Get Hit",
+    "variant": "Coin",
+    "tags": [
+      "get",
+      "hit",
+      "coin",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Coin).gif",
+    "url": "/emotes/shinki/Get%20Hit%20(Coin).gif",
+    "localUrl": "/emotes/shinki/Get%20Hit%20(Coin).gif"
+  },
+  {
+    "id": "shinki-get-hit-custom",
+    "character": "shinki",
+    "name": "Get Hit (Custom)",
+    "action": "Get Hit",
+    "variant": "Custom",
+    "tags": [
+      "get",
+      "hit",
+      "custom",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Custom).gif",
+    "url": "/emotes/shinki/Get%20Hit%20(Custom).gif",
+    "localUrl": "/emotes/shinki/Get%20Hit%20(Custom).gif"
+  },
+  {
+    "id": "shinki-get-hit-heart",
+    "character": "shinki",
+    "name": "Get Hit (Heart)",
+    "action": "Get Hit",
+    "variant": "Heart",
+    "tags": [
+      "get",
+      "hit",
+      "heart",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Heart).gif",
+    "url": "/emotes/shinki/Get%20Hit%20(Heart).gif",
+    "localUrl": "/emotes/shinki/Get%20Hit%20(Heart).gif"
+  },
+  {
+    "id": "shinki-get-hit-slipper",
+    "character": "shinki",
+    "name": "Get Hit (Slipper)",
+    "action": "Get Hit",
+    "variant": "Slipper",
+    "tags": [
+      "get",
+      "hit",
+      "slipper",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Slipper).gif",
+    "url": "/emotes/shinki/Get%20Hit%20(Slipper).gif",
+    "localUrl": "/emotes/shinki/Get%20Hit%20(Slipper).gif"
+  },
+  {
+    "id": "shinki-greeting-1",
+    "character": "shinki",
+    "name": "Greeting (1)",
+    "action": "Greeting",
+    "variant": "1",
+    "tags": [
+      "greeting",
+      "1",
+      "hello",
+      "wave",
+      "welcome"
+    ],
+    "filename": "Greeting 1.gif",
+    "url": "/emotes/shinki/Greeting%201.gif",
+    "localUrl": "/emotes/shinki/Greeting%201.gif"
+  },
+  {
+    "id": "shinki-greeting-2",
+    "character": "shinki",
+    "name": "Greeting (2)",
+    "action": "Greeting",
+    "variant": "2",
+    "tags": [
+      "greeting",
+      "2",
+      "hello",
+      "wave",
+      "welcome"
+    ],
+    "filename": "Greeting 2.gif",
+    "url": "/emotes/shinki/Greeting%202.gif",
+    "localUrl": "/emotes/shinki/Greeting%202.gif"
+  },
+  {
+    "id": "shinki-guitar",
+    "character": "shinki",
+    "name": "Guitar",
+    "action": "Guitar",
+    "variant": "",
+    "tags": [
+      "guitar",
+      "music",
+      "play"
+    ],
+    "filename": "Guitar.gif",
+    "url": "/emotes/shinki/Guitar.gif",
+    "localUrl": "/emotes/shinki/Guitar.gif"
   },
   {
     "id": "shinki-gun",
@@ -3833,6 +8653,21 @@
     "filename": "Luv 3.gif",
     "url": "/emotes/shinki/Luv%203.gif",
     "localUrl": "/emotes/shinki/Luv%203.gif"
+  },
+  {
+    "id": "shinki-magic",
+    "character": "shinki",
+    "name": "Magic",
+    "action": "Magic",
+    "variant": "",
+    "tags": [
+      "magic",
+      "spell",
+      "wizard"
+    ],
+    "filename": "Magic.gif",
+    "url": "/emotes/shinki/Magic.gif",
+    "localUrl": "/emotes/shinki/Magic.gif"
   },
   {
     "id": "shinki-megaphone",
@@ -4359,6 +9194,41 @@
     "localUrl": "/emotes/shinki/Sing.gif"
   },
   {
+    "id": "shinki-six-seven-dum",
+    "character": "shinki",
+    "name": "Six Seven (Dum)",
+    "action": "Six Seven",
+    "variant": "Dum",
+    "tags": [
+      "six",
+      "seven",
+      "dum",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven (Dum).gif",
+    "url": "/emotes/shinki/Six%20Seven%20(Dum).gif",
+    "localUrl": "/emotes/shinki/Six%20Seven%20(Dum).gif"
+  },
+  {
+    "id": "shinki-six-seven",
+    "character": "shinki",
+    "name": "Six Seven",
+    "action": "Six Seven",
+    "variant": "",
+    "tags": [
+      "six",
+      "seven",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven.gif",
+    "url": "/emotes/shinki/Six%20Seven.gif",
+    "localUrl": "/emotes/shinki/Six%20Seven.gif"
+  },
+  {
     "id": "shinki-sleep-normal",
     "character": "shinki",
     "name": "Sleep (Normal)",
@@ -4431,6 +9301,40 @@
     "localUrl": "/emotes/shinki/Sleep%20(UU).gif"
   },
   {
+    "id": "shinki-slipper-1",
+    "character": "shinki",
+    "name": "Slipper (1)",
+    "action": "Slipper",
+    "variant": "1",
+    "tags": [
+      "slipper",
+      "1",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 1.gif",
+    "url": "/emotes/shinki/Slipper%201.gif",
+    "localUrl": "/emotes/shinki/Slipper%201.gif"
+  },
+  {
+    "id": "shinki-slipper-2",
+    "character": "shinki",
+    "name": "Slipper (2)",
+    "action": "Slipper",
+    "variant": "2",
+    "tags": [
+      "slipper",
+      "2",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 2.gif",
+    "url": "/emotes/shinki/Slipper%202.gif",
+    "localUrl": "/emotes/shinki/Slipper%202.gif"
+  },
+  {
     "id": "shinki-sparkling",
     "character": "shinki",
     "name": "Sparkling",
@@ -4493,6 +9397,20 @@
     "filename": "Sunglasses Gleam.gif",
     "url": "/emotes/shinki/Sunglasses%20Gleam.gif",
     "localUrl": "/emotes/shinki/Sunglasses%20Gleam.gif"
+  },
+  {
+    "id": "shinki-sunglasses-loop",
+    "character": "shinki",
+    "name": "Sunglasses Loop",
+    "action": "Sunglasses Loop",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "loop"
+    ],
+    "filename": "Sunglasses Loop.gif",
+    "url": "/emotes/shinki/Sunglasses%20Loop.gif",
+    "localUrl": "/emotes/shinki/Sunglasses%20Loop.gif"
   },
   {
     "id": "shinki-sunglasses-pixel-gleam",
@@ -4587,6 +9505,23 @@
     "localUrl": "/emotes/shinki/Tablet.gif"
   },
   {
+    "id": "shinki-take-my-money",
+    "character": "shinki",
+    "name": "Take My Money",
+    "action": "Take My Money",
+    "variant": "",
+    "tags": [
+      "take",
+      "my",
+      "money",
+      "shutup",
+      "buy"
+    ],
+    "filename": "Take My Money.gif",
+    "url": "/emotes/shinki/Take%20My%20Money.gif",
+    "localUrl": "/emotes/shinki/Take%20My%20Money.gif"
+  },
+  {
     "id": "shinki-tape",
     "character": "shinki",
     "name": "Tape",
@@ -4600,6 +9535,100 @@
     "filename": "Tape.gif",
     "url": "/emotes/shinki/Tape.gif",
     "localUrl": "/emotes/shinki/Tape.gif"
+  },
+  {
+    "id": "shinki-think-confident",
+    "character": "shinki",
+    "name": "Think (Confident)",
+    "action": "Think",
+    "variant": "Confident",
+    "tags": [
+      "think",
+      "confident",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Confident).gif",
+    "url": "/emotes/shinki/Think%20(Confident).gif",
+    "localUrl": "/emotes/shinki/Think%20(Confident).gif"
+  },
+  {
+    "id": "shinki-think-serious",
+    "character": "shinki",
+    "name": "Think (Serious)",
+    "action": "Think",
+    "variant": "Serious",
+    "tags": [
+      "think",
+      "serious",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Serious).gif",
+    "url": "/emotes/shinki/Think%20(Serious).gif",
+    "localUrl": "/emotes/shinki/Think%20(Serious).gif"
+  },
+  {
+    "id": "shinki-this-is-fine-1",
+    "character": "shinki",
+    "name": "This Is Fine (1)",
+    "action": "This Is Fine",
+    "variant": "1",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "1",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 1.gif",
+    "url": "/emotes/shinki/This%20Is%20Fine%201.gif",
+    "localUrl": "/emotes/shinki/This%20Is%20Fine%201.gif"
+  },
+  {
+    "id": "shinki-this-is-fine-2",
+    "character": "shinki",
+    "name": "This Is Fine (2)",
+    "action": "This Is Fine",
+    "variant": "2",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "2",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 2.gif",
+    "url": "/emotes/shinki/This%20Is%20Fine%202.gif",
+    "localUrl": "/emotes/shinki/This%20Is%20Fine%202.gif"
+  },
+  {
+    "id": "shinki-this-is-fine-3",
+    "character": "shinki",
+    "name": "This Is Fine (3)",
+    "action": "This Is Fine",
+    "variant": "3",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "3",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 3.gif",
+    "url": "/emotes/shinki/This%20Is%20Fine%203.gif",
+    "localUrl": "/emotes/shinki/This%20Is%20Fine%203.gif"
   },
   {
     "id": "shinki-thumb-down",
@@ -4740,6 +9769,21 @@
     "filename": "Type Normal.gif",
     "url": "/emotes/shinki/Type%20Normal.gif",
     "localUrl": "/emotes/shinki/Type%20Normal.gif"
+  },
+  {
+    "id": "shinki-wink",
+    "character": "shinki",
+    "name": "Wink",
+    "action": "Wink",
+    "variant": "",
+    "tags": [
+      "wink",
+      "flirt",
+      "cute"
+    ],
+    "filename": "Wink.gif",
+    "url": "/emotes/shinki/Wink.gif",
+    "localUrl": "/emotes/shinki/Wink.gif"
   },
   {
     "id": "shinki-work-angry",

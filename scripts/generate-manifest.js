@@ -19,7 +19,7 @@ const OUTPUT_FILE = join(__dirname, "..", "src", "data", "manifest.json");
  * @property {string} url
  */
 
-const CHARACTERS = ["alice", "shinki"];
+const CHARACTERS = ["alice", "shinki", "rin", "sanae"];
 
 /**
  * Parse a filename like "Eat (Donut).gif" into { action: "Eat", variant: "Donut" }
@@ -253,8 +253,10 @@ function main() {
   });
 
   console.log(`✅ Generated manifest with ${entries.length} emotes:`);
-  console.log(`   alice: ${entries.filter((e) => e.character === "alice").length}`);
-  console.log(`   shinki: ${entries.filter((e) => e.character === "shinki").length}`);
+  for (const character of CHARACTERS) {
+    const count = entries.filter((e) => e.character === character).length;
+    console.log(`   ${character}: ${count}`);
+  }
 
   // Ensure output directory exists
   const outDir = dirname(OUTPUT_FILE);
