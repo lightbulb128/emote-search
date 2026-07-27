@@ -11,7 +11,7 @@
 //
 // Usage: node scripts/upload-to-r2.js
 
-import { S3Client, PutObjectCommand } from "@aws-sdk/client-s3";
+import { S3Client, PutObjectCommand, HeadObjectCommand } from "@aws-sdk/client-s3";
 import { Upload } from "@aws-sdk/lib-storage";
 import { readFileSync, readdirSync, statSync, existsSync } from "node:fs";
 import { join, relative, dirname } from "node:path";
@@ -36,6 +36,26 @@ const client = new S3Client({
     secretAccessKey: process.env.R2_SECRET_ACCESS_KEY,
   },
 });
+
+/**
+ * Check whether a key already exists in the R2 bucket.
+ * @param {string} key
+ * @returns {Promise<boolean>}
+ */
+async function objectExists(key) {
+  try {
+    await client.send(
+      new HeadObjectCommand({
+        Bucket: process.env.R2_BUCKET_NAME,
+        Key: key,
+      })
+    );
+    return true;
+  } catch (err) {
+    // 404 → not found; any other error we treat as not-found to be safe
+    return false;
+  }
+}
 
 /**
  * Recursively find all .gif files under a directory.
@@ -74,6 +94,14 @@ async function main() {
     const key = relative(join(EMOTES_DIR, ".."), filePath).replace(/\\/g, "/");
     const size = statSync(filePath).size;
     totalSize += size;
+
+    // Check if already uploaded — skip if it exists
+    const alreadyExists = await objectExists(key);
+    if (alreadyExists) {
+      console.log("⏭ (already exists)");
+      skipped++;
+      continue;
+    }
 
     process.stdout.write(`  ⬆ ${key} (${(size / 1024).toFixed(0)} KB)... `);
 
