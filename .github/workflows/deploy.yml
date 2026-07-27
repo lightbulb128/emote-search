@@ -33,7 +33,7 @@ jobs:
       - name: Generate manifest & build
         run: npm run build
         env:
-          PUBLIC_EMOTE_BASE_URL: ${{ secrets.EMOTE_BASE_URL }}
+          PUBLIC_EMOTE_BASE_URL: ${{ secrets.PUBLIC_EMOTE_BASE_URL }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
