@@ -23,13 +23,73 @@ npm run dev
 
 Open `http://localhost:4321/emote-search` in your browser.
 
-## Adding New Emotes
+## Managing Emotes
 
-1. Drop `.gif` files into `public/emotes/<character-name>/`
-2. Run `npm run generate` to rebuild the searchable manifest
-3. Optionally add tag enrichment in `scripts/generate-manifest.js` → `TAG_ENRICHMENT`
+Emotes live locally in `public/emotes/<character>/` (gitignored) and are served from **Cloudflare R2** in production. The manifest (`src/data/manifest.json`) is generated from the local files and committed to git.
 
-## Deployment
+### Adding a new character
+
+```bash
+# 1. Create the folder and drop .gif files
+mkdir public/emotes/my-character
+# ... copy GIFs into it ...
+
+# 2. (Optional) Add tag enrichment in scripts/generate-manifest.js → TAG_ENRICHMENT
+#     so the new character's emotes are searchable with good keywords
+
+# 3. Regenerate the manifest
+npm run generate
+
+# 4. Test locally
+npm run dev    # open http://localhost:4321/emote-search
+
+# 5. Upload GIFs to R2
+npm run upload
+
+# 6. Commit & push (GIFs are gitignored — only metadata changes)
+git add src/data/manifest.json scripts/generate-manifest.js
+git commit -m "Add my-character emotes"
+git push
+```
+
+### Adding more GIFs to an existing character
+
+```bash
+# 1. Drop new .gif files into public/emotes/<existing-character>/
+
+# 2. (Optional) Update tag enrichment if the new actions need better keywords
+
+# 3. Regenerate manifest + upload + deploy
+npm run generate
+npm run upload
+git add src/data/manifest.json scripts/generate-manifest.js
+git commit -m "Add new emotes for <character>"
+git push
+```
+
+### Updating tag enrichment only
+
+No new GIFs, just improving search keywords? Only the manifest needs regeneration:
+
+```bash
+# Edit scripts/generate-manifest.js → TAG_ENRICHMENT
+npm run generate
+git add src/data/manifest.json scripts/generate-manifest.js
+git commit -m "Improve search tags for <action>"
+git push
+```
+
+### File naming conventions
+
+The manifest generator parses filenames automatically. Use these patterns for best results:
+
+| Pattern | Example | Parsed as |
+|---|---|---|
+| `Action.gif` | `Angry.gif` | Action: "Angry" |
+| `Action Variant.gif` | `Cry 1.gif` | Action: "Cry", Variant: "1" |
+| `Action (Variant).gif` | `Eat (Donut).gif` | Action: "Eat", Variant: "Donut" |
+
+Characters `&`, `(`, `)`, and spaces in filenames are handled correctly.
 
 ### Architecture
 
@@ -76,21 +136,7 @@ Repo → **Settings** → **Pages** → Source: **GitHub Actions**.
 
 Your site will be live at `https://lightbulb128.github.io/emote-search/`.
 
-### Adding new characters/emotes
-
-```bash
-# 1. Drop new GIFs into public/emotes/<new-character>/
-# 2. Upload to R2
-npm run upload
-# 3. Regenerate manifest
-npm run generate
-# 4. Commit & push (GIFs are gitignored, only the manifest changes)
-git add src/data/ scripts/generate-manifest.js
-git commit -m "Add <character> emotes"
-git push
-```
-
-## Project Structure
+### 6. First deploy
 
 ```
 emotelab-query/
@@ -102,7 +148,8 @@ emotelab-query/
 │   └── sw.js                # Service worker (offline cache)
 ├── scripts/
 │   ├── generate-manifest.js # Scans GIFs → builds searchable JSON
-│   └── generate-icons.js    # SVG → PNG PWA icons
+│   ├── generate-icons.js    # SVG → PNG PWA icons
+│   └── upload-to-r2.js      # Uploads GIFs to Cloudflare R2
 ├── src/
 │   ├── pages/index.astro    # Main page
 │   ├── layouts/Layout.astro # Shell + PWA meta tags
@@ -123,3 +170,4 @@ emotelab-query/
 - [Fuse.js](https://fusejs.io/) — client-side fuzzy search
 - [Sharp](https://sharp.pixelplumbing.com/) — PWA icon generation
 - GitHub Pages + GitHub Actions — free hosting & CI/CD
+- Cloudflare R2 — GIF CDN storage (10 GB free tier)
