@@ -12,8 +12,8 @@
 // Usage: node scripts/upload-to-r2.js
 
 import { S3Client, PutObjectCommand, HeadObjectCommand } from "@aws-sdk/client-s3";
-import { Upload } from "@aws-sdk/lib-storage";
 import { readFileSync, readdirSync, statSync, existsSync } from "node:fs";
+import { createHash } from "node:crypto";
 import { join, relative, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -38,22 +38,26 @@ const client = new S3Client({
 });
 
 /**
- * Check whether a key already exists in the R2 bucket.
+ * Return the stored SHA-256 hash for a key, if one exists.
  * @param {string} key
- * @returns {Promise<boolean>}
+ * @returns {Promise<string | undefined>}
  */
-async function objectExists(key) {
+async function getObjectHash(key) {
   try {
-    await client.send(
+    const response = await client.send(
       new HeadObjectCommand({
         Bucket: process.env.R2_BUCKET_NAME,
         Key: key,
       })
     );
-    return true;
+    return response.Metadata?.sha256;
   } catch (err) {
-    // 404 → not found; any other error we treat as not-found to be safe
-    return false;
+    const requestError = /** @type {{ $metadata?: { httpStatusCode?: number } }} */ (err);
+    const statusCode = requestError.$metadata?.httpStatusCode;
+    if (statusCode === 404) {
+      return undefined;
+    }
+    throw err;
   }
 }
 
@@ -79,6 +83,23 @@ function findGifs(dir) {
 
 const CONCURRENCY = 10; // parallel uploads
 
+/**
+ * Format the useful, non-sensitive details from an AWS SDK request error.
+ * @param {unknown} err
+ * @returns {string}
+ */
+function describeRequestError(err) {
+  const requestError = /** @type {{ name?: string, message?: string, $metadata?: { httpStatusCode?: number, requestId?: string } }} */ (err);
+  const details = [requestError.name ?? "Unknown error"];
+  if (requestError.$metadata?.httpStatusCode) {
+    details.push(`HTTP ${requestError.$metadata.httpStatusCode}`);
+  }
+  if (requestError.$metadata?.requestId) {
+    details.push(`request ID ${requestError.$metadata.requestId}`);
+  }
+  return details.join(", ");
+}
+
 async function main() {
   if (!existsSync(EMOTES_DIR)) {
     console.error("❌ public/emotes/ directory not found.");
@@ -103,20 +124,20 @@ async function main() {
   let skipped = 0;
   let completed = 0;
 
-  /** Upload a single file (checks existence first). */
+  /** Upload a single file when its content differs from R2. */
   async function uploadOne(task) {
     const { filePath, key, size } = task;
+    const body = readFileSync(filePath);
+    const sha256 = createHash("sha256").update(body).digest("hex");
 
-    // Check if already uploaded
-    const alreadyExists = await objectExists(key);
-    if (alreadyExists) {
+    const remoteHash = await getObjectHash(key);
+    if (remoteHash === sha256) {
       skipped++;
       completed++;
       process.stdout.write(`\r  ⏭ skipped ${skipped}  |  ⬆ uploaded ${uploaded}  |  ${completed}/${tasks.length} complete`);
       return;
     }
 
-    const body = readFileSync(filePath);
     await client.send(
       new PutObjectCommand({
         Bucket: process.env.R2_BUCKET_NAME,
@@ -124,6 +145,7 @@ async function main() {
         Body: body,
         ContentType: "image/gif",
         CacheControl: "public, max-age=31536000, immutable",
+        Metadata: { sha256 },
       })
     );
 
@@ -136,7 +158,7 @@ async function main() {
   const pool = new Set();
   for (const task of tasks) {
     const promise = uploadOne(task).catch((err) => {
-      console.error(`\n  ❌ ${task.key}: ${err.message}`);
+      console.error(`\n  ❌ ${task.key}: ${describeRequestError(err)}`);
       skipped++;
       completed++;
     });
