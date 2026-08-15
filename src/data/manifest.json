@@ -169,6 +169,78 @@
     "localUrl": "/emotes/alice/Bell.gif"
   },
   {
+    "id": "alice-blep-1",
+    "character": "alice",
+    "name": "Blep (1)",
+    "action": "Blep",
+    "variant": "1",
+    "tags": [
+      "blep",
+      "1",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 1.gif",
+    "url": "/emotes/alice/Blep%201.gif",
+    "localUrl": "/emotes/alice/Blep%201.gif"
+  },
+  {
+    "id": "alice-blep-2",
+    "character": "alice",
+    "name": "Blep (2)",
+    "action": "Blep",
+    "variant": "2",
+    "tags": [
+      "blep",
+      "2",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 2.gif",
+    "url": "/emotes/alice/Blep%202.gif",
+    "localUrl": "/emotes/alice/Blep%202.gif"
+  },
+  {
+    "id": "alice-blep-3",
+    "character": "alice",
+    "name": "Blep (3)",
+    "action": "Blep",
+    "variant": "3",
+    "tags": [
+      "blep",
+      "3",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 3.gif",
+    "url": "/emotes/alice/Blep%203.gif",
+    "localUrl": "/emotes/alice/Blep%203.gif"
+  },
+  {
+    "id": "alice-blep-4",
+    "character": "alice",
+    "name": "Blep (4)",
+    "action": "Blep",
+    "variant": "4",
+    "tags": [
+      "blep",
+      "4",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 4.gif",
+    "url": "/emotes/alice/Blep%204.gif",
+    "localUrl": "/emotes/alice/Blep%204.gif"
+  },
+  {
     "id": "alice-bonk",
     "character": "alice",
     "name": "Bonk",
@@ -182,6 +254,22 @@
     "filename": "Bonk.gif",
     "url": "/emotes/alice/Bonk.gif",
     "localUrl": "/emotes/alice/Bonk.gif"
+  },
+  {
+    "id": "alice-boop",
+    "character": "alice",
+    "name": "Boop",
+    "action": "Boop",
+    "variant": "",
+    "tags": [
+      "boop",
+      "nose",
+      "poke",
+      "cute"
+    ],
+    "filename": "Boop.gif",
+    "url": "/emotes/alice/Boop.gif",
+    "localUrl": "/emotes/alice/Boop.gif"
   },
   {
     "id": "alice-bug",
@@ -198,6 +286,23 @@
     "filename": "Bug.gif",
     "url": "/emotes/alice/Bug.gif",
     "localUrl": "/emotes/alice/Bug.gif"
+  },
+  {
+    "id": "alice-button-punch",
+    "character": "alice",
+    "name": "Button (Punch)",
+    "action": "Button",
+    "variant": "Punch",
+    "tags": [
+      "button",
+      "punch",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button (Punch).gif",
+    "url": "/emotes/alice/Button%20(Punch).gif",
+    "localUrl": "/emotes/alice/Button%20(Punch).gif"
   },
   {
     "id": "alice-button",
@@ -315,6 +420,23 @@
     "filename": "Celebration.gif",
     "url": "/emotes/alice/Celebration.gif",
     "localUrl": "/emotes/alice/Celebration.gif"
+  },
+  {
+    "id": "alice-cheek-squeeze",
+    "character": "alice",
+    "name": "Cheek Squeeze",
+    "action": "Cheek Squeeze",
+    "variant": "",
+    "tags": [
+      "cheek",
+      "squeeze",
+      "pinch",
+      "squish",
+      "cute"
+    ],
+    "filename": "Cheek Squeeze.gif",
+    "url": "/emotes/alice/Cheek%20Squeeze.gif",
+    "localUrl": "/emotes/alice/Cheek%20Squeeze.gif"
   },
   {
     "id": "alice-cheer",
@@ -547,6 +669,22 @@
     "filename": "Cry 3.gif",
     "url": "/emotes/alice/Cry%203.gif",
     "localUrl": "/emotes/alice/Cry%203.gif"
+  },
+  {
+    "id": "alice-cut-scissors",
+    "character": "alice",
+    "name": "Cut (Scissors)",
+    "action": "Cut",
+    "variant": "Scissors",
+    "tags": [
+      "cut",
+      "scissors",
+      "snip",
+      "craft"
+    ],
+    "filename": "Cut (Scissors).gif",
+    "url": "/emotes/alice/Cut%20(Scissors).gif",
+    "localUrl": "/emotes/alice/Cut%20(Scissors).gif"
   },
   {
     "id": "alice-dance-caramelldansen",
@@ -1165,6 +1303,22 @@
     "localUrl": "/emotes/alice/Gift%202.gif"
   },
   {
+    "id": "alice-gift-3",
+    "character": "alice",
+    "name": "Gift (3)",
+    "action": "Gift",
+    "variant": "3",
+    "tags": [
+      "gift",
+      "3",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 3.gif",
+    "url": "/emotes/alice/Gift%203.gif",
+    "localUrl": "/emotes/alice/Gift%203.gif"
+  },
+  {
     "id": "alice-greeting-1",
     "character": "alice",
     "name": "Greeting (1)",
@@ -1458,6 +1612,57 @@
     "filename": "Lightstick 2.gif",
     "url": "/emotes/alice/Lightstick%202.gif",
     "localUrl": "/emotes/alice/Lightstick%202.gif"
+  },
+  {
+    "id": "alice-loading-cup",
+    "character": "alice",
+    "name": "Loading (Cup)",
+    "action": "Loading",
+    "variant": "Cup",
+    "tags": [
+      "loading",
+      "cup",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Cup).gif",
+    "url": "/emotes/alice/Loading%20(Cup).gif",
+    "localUrl": "/emotes/alice/Loading%20(Cup).gif"
+  },
+  {
+    "id": "alice-loading-mug",
+    "character": "alice",
+    "name": "Loading (Mug)",
+    "action": "Loading",
+    "variant": "Mug",
+    "tags": [
+      "loading",
+      "mug",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Mug).gif",
+    "url": "/emotes/alice/Loading%20(Mug).gif",
+    "localUrl": "/emotes/alice/Loading%20(Mug).gif"
+  },
+  {
+    "id": "alice-loading-sleep",
+    "character": "alice",
+    "name": "Loading (Sleep)",
+    "action": "Loading",
+    "variant": "Sleep",
+    "tags": [
+      "loading",
+      "sleep",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Sleep).gif",
+    "url": "/emotes/alice/Loading%20(Sleep).gif",
+    "localUrl": "/emotes/alice/Loading%20(Sleep).gif"
   },
   {
     "id": "alice-love-letter",
@@ -1762,6 +1967,23 @@
     "localUrl": "/emotes/alice/Paid%20Break%20(Hard%20Mode).gif"
   },
   {
+    "id": "alice-pat-2",
+    "character": "alice",
+    "name": "Pat (2)",
+    "action": "Pat",
+    "variant": "2",
+    "tags": [
+      "pat",
+      "2",
+      "pet",
+      "headpat",
+      "cute"
+    ],
+    "filename": "Pat 2.gif",
+    "url": "/emotes/alice/Pat%202.gif",
+    "localUrl": "/emotes/alice/Pat%202.gif"
+  },
+  {
     "id": "alice-pat",
     "character": "alice",
     "name": "Pat",
@@ -1916,6 +2138,22 @@
     "localUrl": "/emotes/alice/Popcat%20Smooth.gif"
   },
   {
+    "id": "alice-press",
+    "character": "alice",
+    "name": "Press",
+    "action": "Press",
+    "variant": "",
+    "tags": [
+      "press",
+      "push",
+      "squish",
+      "interact"
+    ],
+    "filename": "Press.gif",
+    "url": "/emotes/alice/Press.gif",
+    "localUrl": "/emotes/alice/Press.gif"
+  },
+  {
     "id": "alice-question",
     "character": "alice",
     "name": "Question",
@@ -2059,6 +2297,23 @@
     "filename": "Rose.gif",
     "url": "/emotes/alice/Rose.gif",
     "localUrl": "/emotes/alice/Rose.gif"
+  },
+  {
+    "id": "alice-rub-1",
+    "character": "alice",
+    "name": "Rub (1)",
+    "action": "Rub",
+    "variant": "1",
+    "tags": [
+      "rub",
+      "1",
+      "pet",
+      "comfort",
+      "cute"
+    ],
+    "filename": "Rub 1.gif",
+    "url": "/emotes/alice/Rub%201.gif",
+    "localUrl": "/emotes/alice/Rub%201.gif"
   },
   {
     "id": "alice-scared-1",
@@ -2540,6 +2795,57 @@
     "localUrl": "/emotes/alice/Tape.gif"
   },
   {
+    "id": "alice-tea-1",
+    "character": "alice",
+    "name": "Tea (1)",
+    "action": "Tea",
+    "variant": "1",
+    "tags": [
+      "tea",
+      "1",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 1.gif",
+    "url": "/emotes/alice/Tea%201.gif",
+    "localUrl": "/emotes/alice/Tea%201.gif"
+  },
+  {
+    "id": "alice-tea-2",
+    "character": "alice",
+    "name": "Tea (2)",
+    "action": "Tea",
+    "variant": "2",
+    "tags": [
+      "tea",
+      "2",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 2.gif",
+    "url": "/emotes/alice/Tea%202.gif",
+    "localUrl": "/emotes/alice/Tea%202.gif"
+  },
+  {
+    "id": "alice-tea-3",
+    "character": "alice",
+    "name": "Tea (3)",
+    "action": "Tea",
+    "variant": "3",
+    "tags": [
+      "tea",
+      "3",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 3.gif",
+    "url": "/emotes/alice/Tea%203.gif",
+    "localUrl": "/emotes/alice/Tea%203.gif"
+  },
+  {
     "id": "alice-think-confident",
     "character": "alice",
     "name": "Think (Confident)",
@@ -2632,6 +2938,66 @@
     "filename": "This Is Fine 3.gif",
     "url": "/emotes/alice/This%20Is%20Fine%203.gif",
     "localUrl": "/emotes/alice/This%20Is%20Fine%203.gif"
+  },
+  {
+    "id": "alice-this-is-fine-4",
+    "character": "alice",
+    "name": "This Is Fine (4)",
+    "action": "This Is Fine",
+    "variant": "4",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "4",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 4.gif",
+    "url": "/emotes/alice/This%20Is%20Fine%204.gif",
+    "localUrl": "/emotes/alice/This%20Is%20Fine%204.gif"
+  },
+  {
+    "id": "alice-this-is-fine-5",
+    "character": "alice",
+    "name": "This Is Fine (5)",
+    "action": "This Is Fine",
+    "variant": "5",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "5",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 5.gif",
+    "url": "/emotes/alice/This%20Is%20Fine%205.gif",
+    "localUrl": "/emotes/alice/This%20Is%20Fine%205.gif"
+  },
+  {
+    "id": "alice-this-is-fine-6",
+    "character": "alice",
+    "name": "This Is Fine (6)",
+    "action": "This Is Fine",
+    "variant": "6",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "6",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 6.gif",
+    "url": "/emotes/alice/This%20Is%20Fine%206.gif",
+    "localUrl": "/emotes/alice/This%20Is%20Fine%206.gif"
   },
   {
     "id": "alice-thumb-down",
@@ -2730,6 +3096,24 @@
     "filename": "TrashTuber Yap.gif",
     "url": "/emotes/alice/TrashTuber%20Yap.gif",
     "localUrl": "/emotes/alice/TrashTuber%20Yap.gif"
+  },
+  {
+    "id": "alice-trophy-1",
+    "character": "alice",
+    "name": "Trophy (1)",
+    "action": "Trophy",
+    "variant": "1",
+    "tags": [
+      "trophy",
+      "1",
+      "winner",
+      "win",
+      "award",
+      "victory"
+    ],
+    "filename": "Trophy 1.gif",
+    "url": "/emotes/alice/Trophy%201.gif",
+    "localUrl": "/emotes/alice/Trophy%201.gif"
   },
   {
     "id": "alice-type-angry",
@@ -2843,6 +3227,22 @@
     "filename": "Work Tired.gif",
     "url": "/emotes/alice/Work%20Tired.gif",
     "localUrl": "/emotes/alice/Work%20Tired.gif"
+  },
+  {
+    "id": "alice-yay",
+    "character": "alice",
+    "name": "Yay",
+    "action": "Yay",
+    "variant": "",
+    "tags": [
+      "yay",
+      "cheer",
+      "celebrate",
+      "happy"
+    ],
+    "filename": "Yay.gif",
+    "url": "/emotes/alice/Yay.gif",
+    "localUrl": "/emotes/alice/Yay.gif"
   },
   {
     "id": "rin-2-0-button-2026-07-28-00-40-19",
@@ -5573,6 +5973,38 @@
     "localUrl": "/emotes/sanae/Bug.gif"
   },
   {
+    "id": "sanae-button-1",
+    "character": "sanae",
+    "name": "Button (1)",
+    "action": "Button",
+    "variant": "1",
+    "tags": [
+      "button",
+      "1",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button 1.gif",
+    "url": "/emotes/sanae/Button%201.gif",
+    "localUrl": "/emotes/sanae/Button%201.gif"
+  },
+  {
+    "id": "sanae-button-1-glitch",
+    "character": "sanae",
+    "name": "Button 1 (Glitch)",
+    "action": "Button 1",
+    "variant": "Glitch",
+    "tags": [
+      "button",
+      "1",
+      "glitch"
+    ],
+    "filename": "Button 1 (Glitch).gif",
+    "url": "/emotes/sanae/Button%201%20(Glitch).gif",
+    "localUrl": "/emotes/sanae/Button%201%20(Glitch).gif"
+  },
+  {
     "id": "sanae-cake",
     "character": "sanae",
     "name": "Cake",
@@ -5587,6 +6019,22 @@
     "filename": "Cake.gif",
     "url": "/emotes/sanae/Cake.gif",
     "localUrl": "/emotes/sanae/Cake.gif"
+  },
+  {
+    "id": "sanae-card-swipe",
+    "character": "sanae",
+    "name": "Card Swipe",
+    "action": "Card Swipe",
+    "variant": "",
+    "tags": [
+      "card",
+      "swipe",
+      "credit",
+      "payment"
+    ],
+    "filename": "Card Swipe.gif",
+    "url": "/emotes/sanae/Card%20Swipe.gif",
+    "localUrl": "/emotes/sanae/Card%20Swipe.gif"
   },
   {
     "id": "sanae-caught-in-4k-phone",
@@ -5658,6 +6106,55 @@
     "filename": "Cheer.gif",
     "url": "/emotes/sanae/Cheer.gif",
     "localUrl": "/emotes/sanae/Cheer.gif"
+  },
+  {
+    "id": "sanae-cheese-slap",
+    "character": "sanae",
+    "name": "Cheese Slap",
+    "action": "Cheese Slap",
+    "variant": "",
+    "tags": [
+      "cheese",
+      "slap",
+      "funny"
+    ],
+    "filename": "Cheese Slap.gif",
+    "url": "/emotes/sanae/Cheese%20Slap.gif",
+    "localUrl": "/emotes/sanae/Cheese%20Slap.gif"
+  },
+  {
+    "id": "sanae-clown-1",
+    "character": "sanae",
+    "name": "Clown (1)",
+    "action": "Clown",
+    "variant": "1",
+    "tags": [
+      "clown",
+      "1",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 1.gif",
+    "url": "/emotes/sanae/Clown%201.gif",
+    "localUrl": "/emotes/sanae/Clown%201.gif"
+  },
+  {
+    "id": "sanae-clown-2",
+    "character": "sanae",
+    "name": "Clown (2)",
+    "action": "Clown",
+    "variant": "2",
+    "tags": [
+      "clown",
+      "2",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 2.gif",
+    "url": "/emotes/sanae/Clown%202.gif",
+    "localUrl": "/emotes/sanae/Clown%202.gif"
   },
   {
     "id": "sanae-copium",
@@ -5991,6 +6488,69 @@
     "localUrl": "/emotes/sanae/Easter.gif"
   },
   {
+    "id": "sanae-eat-watermelon",
+    "character": "sanae",
+    "name": "Eat (Watermelon)",
+    "action": "Eat",
+    "variant": "Watermelon",
+    "tags": [
+      "eat",
+      "watermelon",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Watermelon).gif",
+    "url": "/emotes/sanae/Eat%20(Watermelon).gif",
+    "localUrl": "/emotes/sanae/Eat%20(Watermelon).gif"
+  },
+  {
+    "id": "sanae-eating-popcorn",
+    "character": "sanae",
+    "name": "Eating (Popcorn)",
+    "action": "Eating",
+    "variant": "Popcorn",
+    "tags": [
+      "eating",
+      "popcorn"
+    ],
+    "filename": "Eating (Popcorn).gif",
+    "url": "/emotes/sanae/Eating%20(Popcorn).gif",
+    "localUrl": "/emotes/sanae/Eating%20(Popcorn).gif"
+  },
+  {
+    "id": "sanae-electric-fan-1",
+    "character": "sanae",
+    "name": "Electric Fan (1)",
+    "action": "Electric Fan",
+    "variant": "1",
+    "tags": [
+      "electric",
+      "fan",
+      "1",
+      "cool"
+    ],
+    "filename": "Electric Fan 1.gif",
+    "url": "/emotes/sanae/Electric%20Fan%201.gif",
+    "localUrl": "/emotes/sanae/Electric%20Fan%201.gif"
+  },
+  {
+    "id": "sanae-electric-fan-2",
+    "character": "sanae",
+    "name": "Electric Fan (2)",
+    "action": "Electric Fan",
+    "variant": "2",
+    "tags": [
+      "electric",
+      "fan",
+      "2",
+      "cool"
+    ],
+    "filename": "Electric Fan 2.gif",
+    "url": "/emotes/sanae/Electric%20Fan%202.gif",
+    "localUrl": "/emotes/sanae/Electric%20Fan%202.gif"
+  },
+  {
     "id": "sanae-exclamation",
     "character": "sanae",
     "name": "Exclamation",
@@ -6005,6 +6565,190 @@
     "filename": "Exclamation.gif",
     "url": "/emotes/sanae/Exclamation.gif",
     "localUrl": "/emotes/sanae/Exclamation.gif"
+  },
+  {
+    "id": "sanae-fire-1",
+    "character": "sanae",
+    "name": "Fire (1)",
+    "action": "Fire",
+    "variant": "1",
+    "tags": [
+      "fire",
+      "1",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 1.gif",
+    "url": "/emotes/sanae/Fire%201.gif",
+    "localUrl": "/emotes/sanae/Fire%201.gif"
+  },
+  {
+    "id": "sanae-fire-2",
+    "character": "sanae",
+    "name": "Fire (2)",
+    "action": "Fire",
+    "variant": "2",
+    "tags": [
+      "fire",
+      "2",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 2.gif",
+    "url": "/emotes/sanae/Fire%202.gif",
+    "localUrl": "/emotes/sanae/Fire%202.gif"
+  },
+  {
+    "id": "sanae-folding-fans",
+    "character": "sanae",
+    "name": "Folding Fans",
+    "action": "Folding Fans",
+    "variant": "",
+    "tags": [
+      "folding",
+      "fans",
+      "fan",
+      "traditional"
+    ],
+    "filename": "Folding Fans.gif",
+    "url": "/emotes/sanae/Folding%20Fans.gif",
+    "localUrl": "/emotes/sanae/Folding%20Fans.gif"
+  },
+  {
+    "id": "sanae-game",
+    "character": "sanae",
+    "name": "Game",
+    "action": "Game",
+    "variant": "",
+    "tags": [
+      "game",
+      "gaming",
+      "play"
+    ],
+    "filename": "Game.gif",
+    "url": "/emotes/sanae/Game.gif",
+    "localUrl": "/emotes/sanae/Game.gif"
+  },
+  {
+    "id": "sanae-get-hit-bits",
+    "character": "sanae",
+    "name": "Get Hit (Bits)",
+    "action": "Get Hit",
+    "variant": "Bits",
+    "tags": [
+      "get",
+      "hit",
+      "bits",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Bits).gif",
+    "url": "/emotes/sanae/Get%20Hit%20(Bits).gif",
+    "localUrl": "/emotes/sanae/Get%20Hit%20(Bits).gif"
+  },
+  {
+    "id": "sanae-get-hit-coin",
+    "character": "sanae",
+    "name": "Get Hit (Coin)",
+    "action": "Get Hit",
+    "variant": "Coin",
+    "tags": [
+      "get",
+      "hit",
+      "coin",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Coin).gif",
+    "url": "/emotes/sanae/Get%20Hit%20(Coin).gif",
+    "localUrl": "/emotes/sanae/Get%20Hit%20(Coin).gif"
+  },
+  {
+    "id": "sanae-get-hit-heart",
+    "character": "sanae",
+    "name": "Get Hit (Heart)",
+    "action": "Get Hit",
+    "variant": "Heart",
+    "tags": [
+      "get",
+      "hit",
+      "heart",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Heart).gif",
+    "url": "/emotes/sanae/Get%20Hit%20(Heart).gif",
+    "localUrl": "/emotes/sanae/Get%20Hit%20(Heart).gif"
+  },
+  {
+    "id": "sanae-get-hit-slipper",
+    "character": "sanae",
+    "name": "Get Hit (Slipper)",
+    "action": "Get Hit",
+    "variant": "Slipper",
+    "tags": [
+      "get",
+      "hit",
+      "slipper",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Slipper).gif",
+    "url": "/emotes/sanae/Get%20Hit%20(Slipper).gif",
+    "localUrl": "/emotes/sanae/Get%20Hit%20(Slipper).gif"
+  },
+  {
+    "id": "sanae-gift-1",
+    "character": "sanae",
+    "name": "Gift (1)",
+    "action": "Gift",
+    "variant": "1",
+    "tags": [
+      "gift",
+      "1",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 1.gif",
+    "url": "/emotes/sanae/Gift%201.gif",
+    "localUrl": "/emotes/sanae/Gift%201.gif"
+  },
+  {
+    "id": "sanae-gift-2",
+    "character": "sanae",
+    "name": "Gift (2)",
+    "action": "Gift",
+    "variant": "2",
+    "tags": [
+      "gift",
+      "2",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 2.gif",
+    "url": "/emotes/sanae/Gift%202.gif",
+    "localUrl": "/emotes/sanae/Gift%202.gif"
+  },
+  {
+    "id": "sanae-guitar",
+    "character": "sanae",
+    "name": "Guitar",
+    "action": "Guitar",
+    "variant": "",
+    "tags": [
+      "guitar",
+      "music",
+      "play"
+    ],
+    "filename": "Guitar.gif",
+    "url": "/emotes/sanae/Guitar.gif",
+    "localUrl": "/emotes/sanae/Guitar.gif"
   },
   {
     "id": "sanae-gun",
@@ -6747,6 +7491,21 @@
     "localUrl": "/emotes/sanae/RedPacket%202.gif"
   },
   {
+    "id": "sanae-reverse",
+    "character": "sanae",
+    "name": "Reverse",
+    "action": "Reverse",
+    "variant": "",
+    "tags": [
+      "reverse",
+      "backward",
+      "uno"
+    ],
+    "filename": "Reverse.gif",
+    "url": "/emotes/sanae/Reverse.gif",
+    "localUrl": "/emotes/sanae/Reverse.gif"
+  },
+  {
     "id": "sanae-rose",
     "character": "sanae",
     "name": "Rose",
@@ -6847,6 +7606,41 @@
     "localUrl": "/emotes/sanae/Sing.gif"
   },
   {
+    "id": "sanae-six-seven-dum",
+    "character": "sanae",
+    "name": "Six Seven (Dum)",
+    "action": "Six Seven",
+    "variant": "Dum",
+    "tags": [
+      "six",
+      "seven",
+      "dum",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven (Dum).gif",
+    "url": "/emotes/sanae/Six%20Seven%20(Dum).gif",
+    "localUrl": "/emotes/sanae/Six%20Seven%20(Dum).gif"
+  },
+  {
+    "id": "sanae-six-seven",
+    "character": "sanae",
+    "name": "Six Seven",
+    "action": "Six Seven",
+    "variant": "",
+    "tags": [
+      "six",
+      "seven",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven.gif",
+    "url": "/emotes/sanae/Six%20Seven.gif",
+    "localUrl": "/emotes/sanae/Six%20Seven.gif"
+  },
+  {
     "id": "sanae-sleep-normal",
     "character": "sanae",
     "name": "Sleep (Normal)",
@@ -6919,6 +7713,40 @@
     "localUrl": "/emotes/sanae/Sleep%20(UU).gif"
   },
   {
+    "id": "sanae-slipper-1",
+    "character": "sanae",
+    "name": "Slipper (1)",
+    "action": "Slipper",
+    "variant": "1",
+    "tags": [
+      "slipper",
+      "1",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 1.gif",
+    "url": "/emotes/sanae/Slipper%201.gif",
+    "localUrl": "/emotes/sanae/Slipper%201.gif"
+  },
+  {
+    "id": "sanae-slipper-2",
+    "character": "sanae",
+    "name": "Slipper (2)",
+    "action": "Slipper",
+    "variant": "2",
+    "tags": [
+      "slipper",
+      "2",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 2.gif",
+    "url": "/emotes/sanae/Slipper%202.gif",
+    "localUrl": "/emotes/sanae/Slipper%202.gif"
+  },
+  {
     "id": "sanae-sparkling",
     "character": "sanae",
     "name": "Sparkling",
@@ -6981,6 +7809,20 @@
     "filename": "Sunglasses Gleam.gif",
     "url": "/emotes/sanae/Sunglasses%20Gleam.gif",
     "localUrl": "/emotes/sanae/Sunglasses%20Gleam.gif"
+  },
+  {
+    "id": "sanae-sunglasses-loop",
+    "character": "sanae",
+    "name": "Sunglasses Loop",
+    "action": "Sunglasses Loop",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "loop"
+    ],
+    "filename": "Sunglasses Loop.gif",
+    "url": "/emotes/sanae/Sunglasses%20Loop.gif",
+    "localUrl": "/emotes/sanae/Sunglasses%20Loop.gif"
   },
   {
     "id": "sanae-sunglasses-pixel-gleam",
@@ -7075,6 +7917,23 @@
     "localUrl": "/emotes/sanae/Tablet.gif"
   },
   {
+    "id": "sanae-take-my-money",
+    "character": "sanae",
+    "name": "Take My Money",
+    "action": "Take My Money",
+    "variant": "",
+    "tags": [
+      "take",
+      "my",
+      "money",
+      "shutup",
+      "buy"
+    ],
+    "filename": "Take My Money.gif",
+    "url": "/emotes/sanae/Take%20My%20Money.gif",
+    "localUrl": "/emotes/sanae/Take%20My%20Money.gif"
+  },
+  {
     "id": "sanae-tape",
     "character": "sanae",
     "name": "Tape",
@@ -7088,6 +7947,100 @@
     "filename": "Tape.gif",
     "url": "/emotes/sanae/Tape.gif",
     "localUrl": "/emotes/sanae/Tape.gif"
+  },
+  {
+    "id": "sanae-think-confident",
+    "character": "sanae",
+    "name": "Think (Confident)",
+    "action": "Think",
+    "variant": "Confident",
+    "tags": [
+      "think",
+      "confident",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Confident).gif",
+    "url": "/emotes/sanae/Think%20(Confident).gif",
+    "localUrl": "/emotes/sanae/Think%20(Confident).gif"
+  },
+  {
+    "id": "sanae-think-serious",
+    "character": "sanae",
+    "name": "Think (Serious)",
+    "action": "Think",
+    "variant": "Serious",
+    "tags": [
+      "think",
+      "serious",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Serious).gif",
+    "url": "/emotes/sanae/Think%20(Serious).gif",
+    "localUrl": "/emotes/sanae/Think%20(Serious).gif"
+  },
+  {
+    "id": "sanae-this-is-fine-1",
+    "character": "sanae",
+    "name": "This Is Fine (1)",
+    "action": "This Is Fine",
+    "variant": "1",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "1",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 1.gif",
+    "url": "/emotes/sanae/This%20Is%20Fine%201.gif",
+    "localUrl": "/emotes/sanae/This%20Is%20Fine%201.gif"
+  },
+  {
+    "id": "sanae-this-is-fine-2",
+    "character": "sanae",
+    "name": "This Is Fine (2)",
+    "action": "This Is Fine",
+    "variant": "2",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "2",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 2.gif",
+    "url": "/emotes/sanae/This%20Is%20Fine%202.gif",
+    "localUrl": "/emotes/sanae/This%20Is%20Fine%202.gif"
+  },
+  {
+    "id": "sanae-this-is-fine-3",
+    "character": "sanae",
+    "name": "This Is Fine (3)",
+    "action": "This Is Fine",
+    "variant": "3",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "3",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 3.gif",
+    "url": "/emotes/sanae/This%20Is%20Fine%203.gif",
+    "localUrl": "/emotes/sanae/This%20Is%20Fine%203.gif"
   },
   {
     "id": "sanae-thumb-down",
@@ -7228,6 +8181,21 @@
     "filename": "Type Normal.gif",
     "url": "/emotes/sanae/Type%20Normal.gif",
     "localUrl": "/emotes/sanae/Type%20Normal.gif"
+  },
+  {
+    "id": "sanae-wink",
+    "character": "sanae",
+    "name": "Wink",
+    "action": "Wink",
+    "variant": "",
+    "tags": [
+      "wink",
+      "flirt",
+      "cute"
+    ],
+    "filename": "Wink.gif",
+    "url": "/emotes/sanae/Wink.gif",
+    "localUrl": "/emotes/sanae/Wink.gif"
   },
   {
     "id": "sanae-work-angry",
