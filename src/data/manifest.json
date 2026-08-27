@@ -3245,17 +3245,3197 @@
     "localUrl": "/emotes/alice/Yay.gif"
   },
   {
-    "id": "rin-2-0-button-2026-07-28-00-40-19",
-    "character": "rin",
-    "name": "镜音铃2.0_Button_2026-07-28-00-40-19",
-    "action": "镜音铃2.0_Button_2026-07-28-00-40-19",
+    "id": "marisa-alert-bits",
+    "character": "marisa",
+    "name": "Alert Bits",
+    "action": "Alert Bits",
     "variant": "",
     "tags": [
-      "镜音铃2.0_button_2026-07-28-00-40-19"
+      "alert",
+      "bits",
+      "twitch",
+      "streaming"
     ],
-    "filename": "镜音铃2.0_Button_2026-07-28-00-40-19.gif",
-    "url": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Button_2026-07-28-00-40-19.gif",
-    "localUrl": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Button_2026-07-28-00-40-19.gif"
+    "filename": "Alert Bits.gif",
+    "url": "/emotes/marisa/Alert%20Bits.gif",
+    "localUrl": "/emotes/marisa/Alert%20Bits.gif"
+  },
+  {
+    "id": "marisa-alert-custom",
+    "character": "marisa",
+    "name": "Alert Custom",
+    "action": "Alert Custom",
+    "variant": "",
+    "tags": [
+      "alert",
+      "custom"
+    ],
+    "filename": "Alert Custom.gif",
+    "url": "/emotes/marisa/Alert%20Custom.gif",
+    "localUrl": "/emotes/marisa/Alert%20Custom.gif"
+  },
+  {
+    "id": "marisa-alert-donation",
+    "character": "marisa",
+    "name": "Alert Donation",
+    "action": "Alert Donation",
+    "variant": "",
+    "tags": [
+      "alert",
+      "donation",
+      "donate",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Donation.gif",
+    "url": "/emotes/marisa/Alert%20Donation.gif",
+    "localUrl": "/emotes/marisa/Alert%20Donation.gif"
+  },
+  {
+    "id": "marisa-alert-heart",
+    "character": "marisa",
+    "name": "Alert Heart",
+    "action": "Alert Heart",
+    "variant": "",
+    "tags": [
+      "alert",
+      "heart",
+      "love",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Heart.gif",
+    "url": "/emotes/marisa/Alert%20Heart.gif",
+    "localUrl": "/emotes/marisa/Alert%20Heart.gif"
+  },
+  {
+    "id": "marisa-alert-like",
+    "character": "marisa",
+    "name": "Alert Like",
+    "action": "Alert Like",
+    "variant": "",
+    "tags": [
+      "alert",
+      "like",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Like.gif",
+    "url": "/emotes/marisa/Alert%20Like.gif",
+    "localUrl": "/emotes/marisa/Alert%20Like.gif"
+  },
+  {
+    "id": "marisa-alert-star",
+    "character": "marisa",
+    "name": "Alert Star",
+    "action": "Alert Star",
+    "variant": "",
+    "tags": [
+      "alert",
+      "star",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Star.gif",
+    "url": "/emotes/marisa/Alert%20Star.gif",
+    "localUrl": "/emotes/marisa/Alert%20Star.gif"
+  },
+  {
+    "id": "marisa-angry",
+    "character": "marisa",
+    "name": "Angry",
+    "action": "Angry",
+    "variant": "",
+    "tags": [
+      "angry",
+      "mad",
+      "rage",
+      "upset",
+      "furious"
+    ],
+    "filename": "Angry.gif",
+    "url": "/emotes/marisa/Angry.gif",
+    "localUrl": "/emotes/marisa/Angry.gif"
+  },
+  {
+    "id": "marisa-arrive-with-chopstick",
+    "character": "marisa",
+    "name": "Arrive (with Chopstick)",
+    "action": "Arrive",
+    "variant": "with Chopstick",
+    "tags": [
+      "arrive",
+      "with",
+      "chopstick",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive (with Chopstick).gif",
+    "url": "/emotes/marisa/Arrive%20(with%20Chopstick).gif",
+    "localUrl": "/emotes/marisa/Arrive%20(with%20Chopstick).gif"
+  },
+  {
+    "id": "marisa-arrive-with-spoon",
+    "character": "marisa",
+    "name": "Arrive (with Spoon)",
+    "action": "Arrive",
+    "variant": "with Spoon",
+    "tags": [
+      "arrive",
+      "with",
+      "spoon",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive (with Spoon).gif",
+    "url": "/emotes/marisa/Arrive%20(with%20Spoon).gif",
+    "localUrl": "/emotes/marisa/Arrive%20(with%20Spoon).gif"
+  },
+  {
+    "id": "marisa-arrive",
+    "character": "marisa",
+    "name": "Arrive",
+    "action": "Arrive",
+    "variant": "",
+    "tags": [
+      "arrive",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive.gif",
+    "url": "/emotes/marisa/Arrive.gif",
+    "localUrl": "/emotes/marisa/Arrive.gif"
+  },
+  {
+    "id": "marisa-bell",
+    "character": "marisa",
+    "name": "Bell",
+    "action": "Bell",
+    "variant": "",
+    "tags": [
+      "bell",
+      "ring",
+      "notification"
+    ],
+    "filename": "Bell.gif",
+    "url": "/emotes/marisa/Bell.gif",
+    "localUrl": "/emotes/marisa/Bell.gif"
+  },
+  {
+    "id": "marisa-blep-1",
+    "character": "marisa",
+    "name": "Blep (1)",
+    "action": "Blep",
+    "variant": "1",
+    "tags": [
+      "blep",
+      "1",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 1.gif",
+    "url": "/emotes/marisa/Blep%201.gif",
+    "localUrl": "/emotes/marisa/Blep%201.gif"
+  },
+  {
+    "id": "marisa-blep-2",
+    "character": "marisa",
+    "name": "Blep (2)",
+    "action": "Blep",
+    "variant": "2",
+    "tags": [
+      "blep",
+      "2",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 2.gif",
+    "url": "/emotes/marisa/Blep%202.gif",
+    "localUrl": "/emotes/marisa/Blep%202.gif"
+  },
+  {
+    "id": "marisa-blep-3",
+    "character": "marisa",
+    "name": "Blep (3)",
+    "action": "Blep",
+    "variant": "3",
+    "tags": [
+      "blep",
+      "3",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 3.gif",
+    "url": "/emotes/marisa/Blep%203.gif",
+    "localUrl": "/emotes/marisa/Blep%203.gif"
+  },
+  {
+    "id": "marisa-blep-4",
+    "character": "marisa",
+    "name": "Blep (4)",
+    "action": "Blep",
+    "variant": "4",
+    "tags": [
+      "blep",
+      "4",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 4.gif",
+    "url": "/emotes/marisa/Blep%204.gif",
+    "localUrl": "/emotes/marisa/Blep%204.gif"
+  },
+  {
+    "id": "marisa-bonk",
+    "character": "marisa",
+    "name": "Bonk",
+    "action": "Bonk",
+    "variant": "",
+    "tags": [
+      "bonk",
+      "hit",
+      "joke"
+    ],
+    "filename": "Bonk.gif",
+    "url": "/emotes/marisa/Bonk.gif",
+    "localUrl": "/emotes/marisa/Bonk.gif"
+  },
+  {
+    "id": "marisa-boop",
+    "character": "marisa",
+    "name": "Boop",
+    "action": "Boop",
+    "variant": "",
+    "tags": [
+      "boop",
+      "nose",
+      "poke",
+      "cute"
+    ],
+    "filename": "Boop.gif",
+    "url": "/emotes/marisa/Boop.gif",
+    "localUrl": "/emotes/marisa/Boop.gif"
+  },
+  {
+    "id": "marisa-bug",
+    "character": "marisa",
+    "name": "Bug",
+    "action": "Bug",
+    "variant": "",
+    "tags": [
+      "bug",
+      "error",
+      "glitch",
+      "insect"
+    ],
+    "filename": "Bug.gif",
+    "url": "/emotes/marisa/Bug.gif",
+    "localUrl": "/emotes/marisa/Bug.gif"
+  },
+  {
+    "id": "marisa-button-punch",
+    "character": "marisa",
+    "name": "Button (Punch)",
+    "action": "Button",
+    "variant": "Punch",
+    "tags": [
+      "button",
+      "punch",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button (Punch).gif",
+    "url": "/emotes/marisa/Button%20(Punch).gif",
+    "localUrl": "/emotes/marisa/Button%20(Punch).gif"
+  },
+  {
+    "id": "marisa-button",
+    "character": "marisa",
+    "name": "Button",
+    "action": "Button",
+    "variant": "",
+    "tags": [
+      "button",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button.gif",
+    "url": "/emotes/marisa/Button.gif",
+    "localUrl": "/emotes/marisa/Button.gif"
+  },
+  {
+    "id": "marisa-cake",
+    "character": "marisa",
+    "name": "Cake",
+    "action": "Cake",
+    "variant": "",
+    "tags": [
+      "cake",
+      "birthday",
+      "celebrate",
+      "food"
+    ],
+    "filename": "Cake.gif",
+    "url": "/emotes/marisa/Cake.gif",
+    "localUrl": "/emotes/marisa/Cake.gif"
+  },
+  {
+    "id": "marisa-card-swipe",
+    "character": "marisa",
+    "name": "Card Swipe",
+    "action": "Card Swipe",
+    "variant": "",
+    "tags": [
+      "card",
+      "swipe",
+      "credit",
+      "payment"
+    ],
+    "filename": "Card Swipe.gif",
+    "url": "/emotes/marisa/Card%20Swipe.gif",
+    "localUrl": "/emotes/marisa/Card%20Swipe.gif"
+  },
+  {
+    "id": "marisa-caught-in-4k-phone",
+    "character": "marisa",
+    "name": "Caught in 4K (Phone)",
+    "action": "Caught in 4K",
+    "variant": "Phone",
+    "tags": [
+      "caught",
+      "in",
+      "4k",
+      "phone",
+      "exposed",
+      "camera",
+      "evidence"
+    ],
+    "filename": "Caught in 4K (Phone).gif",
+    "url": "/emotes/marisa/Caught%20in%204K%20(Phone).gif",
+    "localUrl": "/emotes/marisa/Caught%20in%204K%20(Phone).gif"
+  },
+  {
+    "id": "marisa-caught-in-4k-video-camera",
+    "character": "marisa",
+    "name": "Caught in 4K (Video Camera)",
+    "action": "Caught in 4K",
+    "variant": "Video Camera",
+    "tags": [
+      "caught",
+      "in",
+      "4k",
+      "video",
+      "camera",
+      "exposed",
+      "evidence"
+    ],
+    "filename": "Caught in 4K (Video Camera).gif",
+    "url": "/emotes/marisa/Caught%20in%204K%20(Video%20Camera).gif",
+    "localUrl": "/emotes/marisa/Caught%20in%204K%20(Video%20Camera).gif"
+  },
+  {
+    "id": "marisa-celebration",
+    "character": "marisa",
+    "name": "Celebration",
+    "action": "Celebration",
+    "variant": "",
+    "tags": [
+      "celebration",
+      "celebrate",
+      "party",
+      "yay",
+      "confetti"
+    ],
+    "filename": "Celebration.gif",
+    "url": "/emotes/marisa/Celebration.gif",
+    "localUrl": "/emotes/marisa/Celebration.gif"
+  },
+  {
+    "id": "marisa-cheek-squeeze",
+    "character": "marisa",
+    "name": "Cheek Squeeze",
+    "action": "Cheek Squeeze",
+    "variant": "",
+    "tags": [
+      "cheek",
+      "squeeze",
+      "pinch",
+      "squish",
+      "cute"
+    ],
+    "filename": "Cheek Squeeze.gif",
+    "url": "/emotes/marisa/Cheek%20Squeeze.gif",
+    "localUrl": "/emotes/marisa/Cheek%20Squeeze.gif"
+  },
+  {
+    "id": "marisa-cheer",
+    "character": "marisa",
+    "name": "Cheer",
+    "action": "Cheer",
+    "variant": "",
+    "tags": [
+      "cheer",
+      "celebrate",
+      "yay",
+      "happy"
+    ],
+    "filename": "Cheer.gif",
+    "url": "/emotes/marisa/Cheer.gif",
+    "localUrl": "/emotes/marisa/Cheer.gif"
+  },
+  {
+    "id": "marisa-cheers",
+    "character": "marisa",
+    "name": "Cheers",
+    "action": "Cheers",
+    "variant": "",
+    "tags": [
+      "cheers",
+      "toast",
+      "drink",
+      "celebrate"
+    ],
+    "filename": "Cheers.gif",
+    "url": "/emotes/marisa/Cheers.gif",
+    "localUrl": "/emotes/marisa/Cheers.gif"
+  },
+  {
+    "id": "marisa-cheese-slap",
+    "character": "marisa",
+    "name": "Cheese Slap",
+    "action": "Cheese Slap",
+    "variant": "",
+    "tags": [
+      "cheese",
+      "slap",
+      "funny"
+    ],
+    "filename": "Cheese Slap.gif",
+    "url": "/emotes/marisa/Cheese%20Slap.gif",
+    "localUrl": "/emotes/marisa/Cheese%20Slap.gif"
+  },
+  {
+    "id": "marisa-clown-1",
+    "character": "marisa",
+    "name": "Clown (1)",
+    "action": "Clown",
+    "variant": "1",
+    "tags": [
+      "clown",
+      "1",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 1.gif",
+    "url": "/emotes/marisa/Clown%201.gif",
+    "localUrl": "/emotes/marisa/Clown%201.gif"
+  },
+  {
+    "id": "marisa-clown-2",
+    "character": "marisa",
+    "name": "Clown (2)",
+    "action": "Clown",
+    "variant": "2",
+    "tags": [
+      "clown",
+      "2",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 2.gif",
+    "url": "/emotes/marisa/Clown%202.gif",
+    "localUrl": "/emotes/marisa/Clown%202.gif"
+  },
+  {
+    "id": "marisa-coke-shake",
+    "character": "marisa",
+    "name": "Coke Shake",
+    "action": "Coke Shake",
+    "variant": "",
+    "tags": [
+      "coke",
+      "shake",
+      "cola",
+      "drink",
+      "funny"
+    ],
+    "filename": "Coke Shake.gif",
+    "url": "/emotes/marisa/Coke%20Shake.gif",
+    "localUrl": "/emotes/marisa/Coke%20Shake.gif"
+  },
+  {
+    "id": "marisa-copium",
+    "character": "marisa",
+    "name": "Copium",
+    "action": "Copium",
+    "variant": "",
+    "tags": [
+      "copium",
+      "cope",
+      "sad",
+      "cry",
+      "denial"
+    ],
+    "filename": "Copium.gif",
+    "url": "/emotes/marisa/Copium.gif",
+    "localUrl": "/emotes/marisa/Copium.gif"
+  },
+  {
+    "id": "marisa-crowbar-1",
+    "character": "marisa",
+    "name": "Crowbar (1)",
+    "action": "Crowbar",
+    "variant": "1",
+    "tags": [
+      "crowbar",
+      "1",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 1.gif",
+    "url": "/emotes/marisa/Crowbar%201.gif",
+    "localUrl": "/emotes/marisa/Crowbar%201.gif"
+  },
+  {
+    "id": "marisa-crowbar-2",
+    "character": "marisa",
+    "name": "Crowbar (2)",
+    "action": "Crowbar",
+    "variant": "2",
+    "tags": [
+      "crowbar",
+      "2",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 2.gif",
+    "url": "/emotes/marisa/Crowbar%202.gif",
+    "localUrl": "/emotes/marisa/Crowbar%202.gif"
+  },
+  {
+    "id": "marisa-crowbar-3",
+    "character": "marisa",
+    "name": "Crowbar (3)",
+    "action": "Crowbar",
+    "variant": "3",
+    "tags": [
+      "crowbar",
+      "3",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 3.gif",
+    "url": "/emotes/marisa/Crowbar%203.gif",
+    "localUrl": "/emotes/marisa/Crowbar%203.gif"
+  },
+  {
+    "id": "marisa-cry-1",
+    "character": "marisa",
+    "name": "Cry (1)",
+    "action": "Cry",
+    "variant": "1",
+    "tags": [
+      "cry",
+      "1",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 1.gif",
+    "url": "/emotes/marisa/Cry%201.gif",
+    "localUrl": "/emotes/marisa/Cry%201.gif"
+  },
+  {
+    "id": "marisa-cry-2",
+    "character": "marisa",
+    "name": "Cry (2)",
+    "action": "Cry",
+    "variant": "2",
+    "tags": [
+      "cry",
+      "2",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 2.gif",
+    "url": "/emotes/marisa/Cry%202.gif",
+    "localUrl": "/emotes/marisa/Cry%202.gif"
+  },
+  {
+    "id": "marisa-cry-3",
+    "character": "marisa",
+    "name": "Cry (3)",
+    "action": "Cry",
+    "variant": "3",
+    "tags": [
+      "cry",
+      "3",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 3.gif",
+    "url": "/emotes/marisa/Cry%203.gif",
+    "localUrl": "/emotes/marisa/Cry%203.gif"
+  },
+  {
+    "id": "marisa-cut-scissors",
+    "character": "marisa",
+    "name": "Cut (Scissors)",
+    "action": "Cut",
+    "variant": "Scissors",
+    "tags": [
+      "cut",
+      "scissors",
+      "snip",
+      "craft"
+    ],
+    "filename": "Cut (Scissors).gif",
+    "url": "/emotes/marisa/Cut%20(Scissors).gif",
+    "localUrl": "/emotes/marisa/Cut%20(Scissors).gif"
+  },
+  {
+    "id": "marisa-dance-caramelldansen",
+    "character": "marisa",
+    "name": "Dance (Caramelldansen)",
+    "action": "Dance",
+    "variant": "Caramelldansen",
+    "tags": [
+      "dance",
+      "caramelldansen",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Caramelldansen).gif",
+    "url": "/emotes/marisa/Dance%20(Caramelldansen).gif",
+    "localUrl": "/emotes/marisa/Dance%20(Caramelldansen).gif"
+  },
+  {
+    "id": "marisa-dance-helltaker",
+    "character": "marisa",
+    "name": "Dance (Helltaker)",
+    "action": "Dance",
+    "variant": "Helltaker",
+    "tags": [
+      "dance",
+      "helltaker",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Helltaker).gif",
+    "url": "/emotes/marisa/Dance%20(Helltaker).gif",
+    "localUrl": "/emotes/marisa/Dance%20(Helltaker).gif"
+  },
+  {
+    "id": "marisa-dance-low-cortisol",
+    "character": "marisa",
+    "name": "Dance (Low Cortisol)",
+    "action": "Dance",
+    "variant": "Low Cortisol",
+    "tags": [
+      "dance",
+      "low",
+      "cortisol",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Low Cortisol).gif",
+    "url": "/emotes/marisa/Dance%20(Low%20Cortisol).gif",
+    "localUrl": "/emotes/marisa/Dance%20(Low%20Cortisol).gif"
+  },
+  {
+    "id": "marisa-dance-scuba",
+    "character": "marisa",
+    "name": "Dance (Scuba)",
+    "action": "Dance",
+    "variant": "Scuba",
+    "tags": [
+      "dance",
+      "scuba",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Scuba).gif",
+    "url": "/emotes/marisa/Dance%20(Scuba).gif",
+    "localUrl": "/emotes/marisa/Dance%20(Scuba).gif"
+  },
+  {
+    "id": "marisa-dance-1",
+    "character": "marisa",
+    "name": "Dance (1)",
+    "action": "Dance",
+    "variant": "1",
+    "tags": [
+      "dance",
+      "1",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance 1.gif",
+    "url": "/emotes/marisa/Dance%201.gif",
+    "localUrl": "/emotes/marisa/Dance%201.gif"
+  },
+  {
+    "id": "marisa-dead",
+    "character": "marisa",
+    "name": "Dead",
+    "action": "Dead",
+    "variant": "",
+    "tags": [
+      "dead",
+      "death",
+      "rip",
+      "ded"
+    ],
+    "filename": "Dead.gif",
+    "url": "/emotes/marisa/Dead.gif",
+    "localUrl": "/emotes/marisa/Dead.gif"
+  },
+  {
+    "id": "marisa-dizzy",
+    "character": "marisa",
+    "name": "Dizzy",
+    "action": "Dizzy",
+    "variant": "",
+    "tags": [
+      "dizzy",
+      "confused",
+      "spin"
+    ],
+    "filename": "Dizzy.gif",
+    "url": "/emotes/marisa/Dizzy.gif",
+    "localUrl": "/emotes/marisa/Dizzy.gif"
+  },
+  {
+    "id": "marisa-drink-beverage-cup",
+    "character": "marisa",
+    "name": "Drink (Beverage Cup)",
+    "action": "Drink",
+    "variant": "Beverage Cup",
+    "tags": [
+      "drink",
+      "beverage",
+      "cup",
+      "thirsty"
+    ],
+    "filename": "Drink (Beverage Cup).gif",
+    "url": "/emotes/marisa/Drink%20(Beverage%20Cup).gif",
+    "localUrl": "/emotes/marisa/Drink%20(Beverage%20Cup).gif"
+  },
+  {
+    "id": "marisa-drive",
+    "character": "marisa",
+    "name": "Drive",
+    "action": "Drive",
+    "variant": "",
+    "tags": [
+      "drive",
+      "car",
+      "driving"
+    ],
+    "filename": "Drive.gif",
+    "url": "/emotes/marisa/Drive.gif",
+    "localUrl": "/emotes/marisa/Drive.gif"
+  },
+  {
+    "id": "marisa-drooling-chopstick",
+    "character": "marisa",
+    "name": "Drooling (Chopstick)",
+    "action": "Drooling",
+    "variant": "Chopstick",
+    "tags": [
+      "drooling",
+      "chopstick",
+      "drool",
+      "hungry",
+      "food",
+      "want"
+    ],
+    "filename": "Drooling (Chopstick).gif",
+    "url": "/emotes/marisa/Drooling%20(Chopstick).gif",
+    "localUrl": "/emotes/marisa/Drooling%20(Chopstick).gif"
+  },
+  {
+    "id": "marisa-drooling-fork-knife",
+    "character": "marisa",
+    "name": "Drooling (Fork&Knife)",
+    "action": "Drooling",
+    "variant": "Fork&Knife",
+    "tags": [
+      "drooling",
+      "fork&knife",
+      "drool",
+      "hungry",
+      "food",
+      "want"
+    ],
+    "filename": "Drooling (Fork&Knife).gif",
+    "url": "/emotes/marisa/Drooling%20(Fork&Knife).gif",
+    "localUrl": "/emotes/marisa/Drooling%20(Fork&Knife).gif"
+  },
+  {
+    "id": "marisa-dum-1",
+    "character": "marisa",
+    "name": "Dum (1)",
+    "action": "Dum",
+    "variant": "1",
+    "tags": [
+      "dum",
+      "1",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 1.gif",
+    "url": "/emotes/marisa/Dum%201.gif",
+    "localUrl": "/emotes/marisa/Dum%201.gif"
+  },
+  {
+    "id": "marisa-dum-2",
+    "character": "marisa",
+    "name": "Dum (2)",
+    "action": "Dum",
+    "variant": "2",
+    "tags": [
+      "dum",
+      "2",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 2.gif",
+    "url": "/emotes/marisa/Dum%202.gif",
+    "localUrl": "/emotes/marisa/Dum%202.gif"
+  },
+  {
+    "id": "marisa-dum-3",
+    "character": "marisa",
+    "name": "Dum (3)",
+    "action": "Dum",
+    "variant": "3",
+    "tags": [
+      "dum",
+      "3",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 3.gif",
+    "url": "/emotes/marisa/Dum%203.gif",
+    "localUrl": "/emotes/marisa/Dum%203.gif"
+  },
+  {
+    "id": "marisa-dum-sticker-1",
+    "character": "marisa",
+    "name": "Dum Sticker (1)",
+    "action": "Dum Sticker",
+    "variant": "1",
+    "tags": [
+      "dum",
+      "sticker",
+      "1"
+    ],
+    "filename": "Dum Sticker 1.gif",
+    "url": "/emotes/marisa/Dum%20Sticker%201.gif",
+    "localUrl": "/emotes/marisa/Dum%20Sticker%201.gif"
+  },
+  {
+    "id": "marisa-dum-sticker-2",
+    "character": "marisa",
+    "name": "Dum Sticker (2)",
+    "action": "Dum Sticker",
+    "variant": "2",
+    "tags": [
+      "dum",
+      "sticker",
+      "2"
+    ],
+    "filename": "Dum Sticker 2.gif",
+    "url": "/emotes/marisa/Dum%20Sticker%202.gif",
+    "localUrl": "/emotes/marisa/Dum%20Sticker%202.gif"
+  },
+  {
+    "id": "marisa-dum-sticker-3",
+    "character": "marisa",
+    "name": "Dum Sticker (3)",
+    "action": "Dum Sticker",
+    "variant": "3",
+    "tags": [
+      "dum",
+      "sticker",
+      "3"
+    ],
+    "filename": "Dum Sticker 3.gif",
+    "url": "/emotes/marisa/Dum%20Sticker%203.gif",
+    "localUrl": "/emotes/marisa/Dum%20Sticker%203.gif"
+  },
+  {
+    "id": "marisa-easter",
+    "character": "marisa",
+    "name": "Easter",
+    "action": "Easter",
+    "variant": "",
+    "tags": [
+      "easter",
+      "egg",
+      "holiday"
+    ],
+    "filename": "Easter.gif",
+    "url": "/emotes/marisa/Easter.gif",
+    "localUrl": "/emotes/marisa/Easter.gif"
+  },
+  {
+    "id": "marisa-eat-donut",
+    "character": "marisa",
+    "name": "Eat (Donut)",
+    "action": "Eat",
+    "variant": "Donut",
+    "tags": [
+      "eat",
+      "donut",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Donut).gif",
+    "url": "/emotes/marisa/Eat%20(Donut).gif",
+    "localUrl": "/emotes/marisa/Eat%20(Donut).gif"
+  },
+  {
+    "id": "marisa-eat-popcorn",
+    "character": "marisa",
+    "name": "Eat (Popcorn)",
+    "action": "Eat",
+    "variant": "Popcorn",
+    "tags": [
+      "eat",
+      "popcorn",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Popcorn).gif",
+    "url": "/emotes/marisa/Eat%20(Popcorn).gif",
+    "localUrl": "/emotes/marisa/Eat%20(Popcorn).gif"
+  },
+  {
+    "id": "marisa-eat-watermelon",
+    "character": "marisa",
+    "name": "Eat (Watermelon)",
+    "action": "Eat",
+    "variant": "Watermelon",
+    "tags": [
+      "eat",
+      "watermelon",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Watermelon).gif",
+    "url": "/emotes/marisa/Eat%20(Watermelon).gif",
+    "localUrl": "/emotes/marisa/Eat%20(Watermelon).gif"
+  },
+  {
+    "id": "marisa-electric-fan-1",
+    "character": "marisa",
+    "name": "Electric Fan (1)",
+    "action": "Electric Fan",
+    "variant": "1",
+    "tags": [
+      "electric",
+      "fan",
+      "1",
+      "cool"
+    ],
+    "filename": "Electric Fan 1.gif",
+    "url": "/emotes/marisa/Electric%20Fan%201.gif",
+    "localUrl": "/emotes/marisa/Electric%20Fan%201.gif"
+  },
+  {
+    "id": "marisa-electric-fan-2",
+    "character": "marisa",
+    "name": "Electric Fan (2)",
+    "action": "Electric Fan",
+    "variant": "2",
+    "tags": [
+      "electric",
+      "fan",
+      "2",
+      "cool"
+    ],
+    "filename": "Electric Fan 2.gif",
+    "url": "/emotes/marisa/Electric%20Fan%202.gif",
+    "localUrl": "/emotes/marisa/Electric%20Fan%202.gif"
+  },
+  {
+    "id": "marisa-exclamation",
+    "character": "marisa",
+    "name": "Exclamation",
+    "action": "Exclamation",
+    "variant": "",
+    "tags": [
+      "exclamation",
+      "alert",
+      "surprise",
+      "notice"
+    ],
+    "filename": "Exclamation.gif",
+    "url": "/emotes/marisa/Exclamation.gif",
+    "localUrl": "/emotes/marisa/Exclamation.gif"
+  },
+  {
+    "id": "marisa-fire-1",
+    "character": "marisa",
+    "name": "Fire (1)",
+    "action": "Fire",
+    "variant": "1",
+    "tags": [
+      "fire",
+      "1",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 1.gif",
+    "url": "/emotes/marisa/Fire%201.gif",
+    "localUrl": "/emotes/marisa/Fire%201.gif"
+  },
+  {
+    "id": "marisa-fire-2",
+    "character": "marisa",
+    "name": "Fire (2)",
+    "action": "Fire",
+    "variant": "2",
+    "tags": [
+      "fire",
+      "2",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 2.gif",
+    "url": "/emotes/marisa/Fire%202.gif",
+    "localUrl": "/emotes/marisa/Fire%202.gif"
+  },
+  {
+    "id": "marisa-folding-fans",
+    "character": "marisa",
+    "name": "Folding Fans",
+    "action": "Folding Fans",
+    "variant": "",
+    "tags": [
+      "folding",
+      "fans",
+      "fan",
+      "traditional"
+    ],
+    "filename": "Folding Fans.gif",
+    "url": "/emotes/marisa/Folding%20Fans.gif",
+    "localUrl": "/emotes/marisa/Folding%20Fans.gif"
+  },
+  {
+    "id": "marisa-game",
+    "character": "marisa",
+    "name": "Game",
+    "action": "Game",
+    "variant": "",
+    "tags": [
+      "game",
+      "gaming",
+      "play"
+    ],
+    "filename": "Game.gif",
+    "url": "/emotes/marisa/Game.gif",
+    "localUrl": "/emotes/marisa/Game.gif"
+  },
+  {
+    "id": "marisa-get-hit-bits",
+    "character": "marisa",
+    "name": "Get Hit (Bits)",
+    "action": "Get Hit",
+    "variant": "Bits",
+    "tags": [
+      "get",
+      "hit",
+      "bits",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Bits).gif",
+    "url": "/emotes/marisa/Get%20Hit%20(Bits).gif",
+    "localUrl": "/emotes/marisa/Get%20Hit%20(Bits).gif"
+  },
+  {
+    "id": "marisa-get-hit-coin",
+    "character": "marisa",
+    "name": "Get Hit (Coin)",
+    "action": "Get Hit",
+    "variant": "Coin",
+    "tags": [
+      "get",
+      "hit",
+      "coin",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Coin).gif",
+    "url": "/emotes/marisa/Get%20Hit%20(Coin).gif",
+    "localUrl": "/emotes/marisa/Get%20Hit%20(Coin).gif"
+  },
+  {
+    "id": "marisa-get-hit-custom",
+    "character": "marisa",
+    "name": "Get Hit (Custom)",
+    "action": "Get Hit",
+    "variant": "Custom",
+    "tags": [
+      "get",
+      "hit",
+      "custom",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Custom).gif",
+    "url": "/emotes/marisa/Get%20Hit%20(Custom).gif",
+    "localUrl": "/emotes/marisa/Get%20Hit%20(Custom).gif"
+  },
+  {
+    "id": "marisa-get-hit-heart",
+    "character": "marisa",
+    "name": "Get Hit (Heart)",
+    "action": "Get Hit",
+    "variant": "Heart",
+    "tags": [
+      "get",
+      "hit",
+      "heart",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Heart).gif",
+    "url": "/emotes/marisa/Get%20Hit%20(Heart).gif",
+    "localUrl": "/emotes/marisa/Get%20Hit%20(Heart).gif"
+  },
+  {
+    "id": "marisa-get-hit-slipper",
+    "character": "marisa",
+    "name": "Get Hit (Slipper)",
+    "action": "Get Hit",
+    "variant": "Slipper",
+    "tags": [
+      "get",
+      "hit",
+      "slipper",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Slipper).gif",
+    "url": "/emotes/marisa/Get%20Hit%20(Slipper).gif",
+    "localUrl": "/emotes/marisa/Get%20Hit%20(Slipper).gif"
+  },
+  {
+    "id": "marisa-gift-1",
+    "character": "marisa",
+    "name": "Gift (1)",
+    "action": "Gift",
+    "variant": "1",
+    "tags": [
+      "gift",
+      "1",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 1.gif",
+    "url": "/emotes/marisa/Gift%201.gif",
+    "localUrl": "/emotes/marisa/Gift%201.gif"
+  },
+  {
+    "id": "marisa-gift-2",
+    "character": "marisa",
+    "name": "Gift (2)",
+    "action": "Gift",
+    "variant": "2",
+    "tags": [
+      "gift",
+      "2",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 2.gif",
+    "url": "/emotes/marisa/Gift%202.gif",
+    "localUrl": "/emotes/marisa/Gift%202.gif"
+  },
+  {
+    "id": "marisa-gift-3",
+    "character": "marisa",
+    "name": "Gift (3)",
+    "action": "Gift",
+    "variant": "3",
+    "tags": [
+      "gift",
+      "3",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 3.gif",
+    "url": "/emotes/marisa/Gift%203.gif",
+    "localUrl": "/emotes/marisa/Gift%203.gif"
+  },
+  {
+    "id": "marisa-greeting-1",
+    "character": "marisa",
+    "name": "Greeting (1)",
+    "action": "Greeting",
+    "variant": "1",
+    "tags": [
+      "greeting",
+      "1",
+      "hello",
+      "wave",
+      "welcome"
+    ],
+    "filename": "Greeting 1.gif",
+    "url": "/emotes/marisa/Greeting%201.gif",
+    "localUrl": "/emotes/marisa/Greeting%201.gif"
+  },
+  {
+    "id": "marisa-greeting-2",
+    "character": "marisa",
+    "name": "Greeting (2)",
+    "action": "Greeting",
+    "variant": "2",
+    "tags": [
+      "greeting",
+      "2",
+      "hello",
+      "wave",
+      "welcome"
+    ],
+    "filename": "Greeting 2.gif",
+    "url": "/emotes/marisa/Greeting%202.gif",
+    "localUrl": "/emotes/marisa/Greeting%202.gif"
+  },
+  {
+    "id": "marisa-guitar",
+    "character": "marisa",
+    "name": "Guitar",
+    "action": "Guitar",
+    "variant": "",
+    "tags": [
+      "guitar",
+      "music",
+      "play"
+    ],
+    "filename": "Guitar.gif",
+    "url": "/emotes/marisa/Guitar.gif",
+    "localUrl": "/emotes/marisa/Guitar.gif"
+  },
+  {
+    "id": "marisa-gun",
+    "character": "marisa",
+    "name": "Gun",
+    "action": "Gun",
+    "variant": "",
+    "tags": [
+      "gun",
+      "shoot",
+      "weapon",
+      "pew"
+    ],
+    "filename": "Gun.gif",
+    "url": "/emotes/marisa/Gun.gif",
+    "localUrl": "/emotes/marisa/Gun.gif"
+  },
+  {
+    "id": "marisa-head-nod",
+    "character": "marisa",
+    "name": "Head Nod",
+    "action": "Head Nod",
+    "variant": "",
+    "tags": [
+      "head",
+      "nod",
+      "yes",
+      "agree"
+    ],
+    "filename": "Head Nod.gif",
+    "url": "/emotes/marisa/Head%20Nod.gif",
+    "localUrl": "/emotes/marisa/Head%20Nod.gif"
+  },
+  {
+    "id": "marisa-head-shake",
+    "character": "marisa",
+    "name": "Head Shake",
+    "action": "Head Shake",
+    "variant": "",
+    "tags": [
+      "head",
+      "shake",
+      "no",
+      "disagree",
+      "deny"
+    ],
+    "filename": "Head Shake.gif",
+    "url": "/emotes/marisa/Head%20Shake.gif",
+    "localUrl": "/emotes/marisa/Head%20Shake.gif"
+  },
+  {
+    "id": "marisa-hypnosis",
+    "character": "marisa",
+    "name": "Hypnosis",
+    "action": "Hypnosis",
+    "variant": "",
+    "tags": [
+      "hypnosis",
+      "hypnotize",
+      "spiral",
+      "mesmerize"
+    ],
+    "filename": "Hypnosis.gif",
+    "url": "/emotes/marisa/Hypnosis.gif",
+    "localUrl": "/emotes/marisa/Hypnosis.gif"
+  },
+  {
+    "id": "marisa-idea",
+    "character": "marisa",
+    "name": "Idea",
+    "action": "Idea",
+    "variant": "",
+    "tags": [
+      "idea",
+      "think",
+      "lightbulb",
+      "eureka"
+    ],
+    "filename": "Idea.gif",
+    "url": "/emotes/marisa/Idea.gif",
+    "localUrl": "/emotes/marisa/Idea.gif"
+  },
+  {
+    "id": "marisa-jail-1",
+    "character": "marisa",
+    "name": "Jail (1)",
+    "action": "Jail",
+    "variant": "1",
+    "tags": [
+      "jail",
+      "1",
+      "prison",
+      "locked",
+      "cell"
+    ],
+    "filename": "Jail 1.gif",
+    "url": "/emotes/marisa/Jail%201.gif",
+    "localUrl": "/emotes/marisa/Jail%201.gif"
+  },
+  {
+    "id": "marisa-jail-2",
+    "character": "marisa",
+    "name": "Jail (2)",
+    "action": "Jail",
+    "variant": "2",
+    "tags": [
+      "jail",
+      "2",
+      "prison",
+      "locked",
+      "cell"
+    ],
+    "filename": "Jail 2.gif",
+    "url": "/emotes/marisa/Jail%202.gif",
+    "localUrl": "/emotes/marisa/Jail%202.gif"
+  },
+  {
+    "id": "marisa-knife-1",
+    "character": "marisa",
+    "name": "Knife (1)",
+    "action": "Knife",
+    "variant": "1",
+    "tags": [
+      "knife",
+      "1",
+      "stab",
+      "weapon"
+    ],
+    "filename": "Knife 1.gif",
+    "url": "/emotes/marisa/Knife%201.gif",
+    "localUrl": "/emotes/marisa/Knife%201.gif"
+  },
+  {
+    "id": "marisa-knife-2",
+    "character": "marisa",
+    "name": "Knife (2)",
+    "action": "Knife",
+    "variant": "2",
+    "tags": [
+      "knife",
+      "2",
+      "stab",
+      "weapon"
+    ],
+    "filename": "Knife 2.gif",
+    "url": "/emotes/marisa/Knife%202.gif",
+    "localUrl": "/emotes/marisa/Knife%202.gif"
+  },
+  {
+    "id": "marisa-laugh-point",
+    "character": "marisa",
+    "name": "Laugh (Point)",
+    "action": "Laugh",
+    "variant": "Point",
+    "tags": [
+      "laugh",
+      "point",
+      "funny",
+      "haha",
+      "lol"
+    ],
+    "filename": "Laugh (Point).gif",
+    "url": "/emotes/marisa/Laugh%20(Point).gif",
+    "localUrl": "/emotes/marisa/Laugh%20(Point).gif"
+  },
+  {
+    "id": "marisa-laugh",
+    "character": "marisa",
+    "name": "Laugh",
+    "action": "Laugh",
+    "variant": "",
+    "tags": [
+      "laugh",
+      "funny",
+      "haha",
+      "lol"
+    ],
+    "filename": "Laugh.gif",
+    "url": "/emotes/marisa/Laugh.gif",
+    "localUrl": "/emotes/marisa/Laugh.gif"
+  },
+  {
+    "id": "marisa-lick",
+    "character": "marisa",
+    "name": "Lick",
+    "action": "Lick",
+    "variant": "",
+    "tags": [
+      "lick",
+      "taste",
+      "tongue"
+    ],
+    "filename": "Lick.gif",
+    "url": "/emotes/marisa/Lick.gif",
+    "localUrl": "/emotes/marisa/Lick.gif"
+  },
+  {
+    "id": "marisa-lightstick-1",
+    "character": "marisa",
+    "name": "Lightstick (1)",
+    "action": "Lightstick",
+    "variant": "1",
+    "tags": [
+      "lightstick",
+      "1",
+      "glow",
+      "concert",
+      "fan"
+    ],
+    "filename": "Lightstick 1.gif",
+    "url": "/emotes/marisa/Lightstick%201.gif",
+    "localUrl": "/emotes/marisa/Lightstick%201.gif"
+  },
+  {
+    "id": "marisa-lightstick-2",
+    "character": "marisa",
+    "name": "Lightstick (2)",
+    "action": "Lightstick",
+    "variant": "2",
+    "tags": [
+      "lightstick",
+      "2",
+      "glow",
+      "concert",
+      "fan"
+    ],
+    "filename": "Lightstick 2.gif",
+    "url": "/emotes/marisa/Lightstick%202.gif",
+    "localUrl": "/emotes/marisa/Lightstick%202.gif"
+  },
+  {
+    "id": "marisa-loading-cup",
+    "character": "marisa",
+    "name": "Loading (Cup)",
+    "action": "Loading",
+    "variant": "Cup",
+    "tags": [
+      "loading",
+      "cup",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Cup).gif",
+    "url": "/emotes/marisa/Loading%20(Cup).gif",
+    "localUrl": "/emotes/marisa/Loading%20(Cup).gif"
+  },
+  {
+    "id": "marisa-loading-mug",
+    "character": "marisa",
+    "name": "Loading (Mug)",
+    "action": "Loading",
+    "variant": "Mug",
+    "tags": [
+      "loading",
+      "mug",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Mug).gif",
+    "url": "/emotes/marisa/Loading%20(Mug).gif",
+    "localUrl": "/emotes/marisa/Loading%20(Mug).gif"
+  },
+  {
+    "id": "marisa-loading-sleep",
+    "character": "marisa",
+    "name": "Loading (Sleep)",
+    "action": "Loading",
+    "variant": "Sleep",
+    "tags": [
+      "loading",
+      "sleep",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Sleep).gif",
+    "url": "/emotes/marisa/Loading%20(Sleep).gif",
+    "localUrl": "/emotes/marisa/Loading%20(Sleep).gif"
+  },
+  {
+    "id": "marisa-love-letter",
+    "character": "marisa",
+    "name": "Love Letter",
+    "action": "Love Letter",
+    "variant": "",
+    "tags": [
+      "love",
+      "letter",
+      "romance",
+      "mail"
+    ],
+    "filename": "Love Letter.gif",
+    "url": "/emotes/marisa/Love%20Letter.gif",
+    "localUrl": "/emotes/marisa/Love%20Letter.gif"
+  },
+  {
+    "id": "marisa-lurk-1",
+    "character": "marisa",
+    "name": "Lurk (1)",
+    "action": "Lurk",
+    "variant": "1",
+    "tags": [
+      "lurk",
+      "1",
+      "watching",
+      "hide",
+      "peek"
+    ],
+    "filename": "Lurk 1.gif",
+    "url": "/emotes/marisa/Lurk%201.gif",
+    "localUrl": "/emotes/marisa/Lurk%201.gif"
+  },
+  {
+    "id": "marisa-lurk-2",
+    "character": "marisa",
+    "name": "Lurk (2)",
+    "action": "Lurk",
+    "variant": "2",
+    "tags": [
+      "lurk",
+      "2",
+      "watching",
+      "hide",
+      "peek"
+    ],
+    "filename": "Lurk 2.gif",
+    "url": "/emotes/marisa/Lurk%202.gif",
+    "localUrl": "/emotes/marisa/Lurk%202.gif"
+  },
+  {
+    "id": "marisa-luv-1",
+    "character": "marisa",
+    "name": "Luv (1)",
+    "action": "Luv",
+    "variant": "1",
+    "tags": [
+      "luv",
+      "1",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 1.gif",
+    "url": "/emotes/marisa/Luv%201.gif",
+    "localUrl": "/emotes/marisa/Luv%201.gif"
+  },
+  {
+    "id": "marisa-luv-2",
+    "character": "marisa",
+    "name": "Luv (2)",
+    "action": "Luv",
+    "variant": "2",
+    "tags": [
+      "luv",
+      "2",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 2.gif",
+    "url": "/emotes/marisa/Luv%202.gif",
+    "localUrl": "/emotes/marisa/Luv%202.gif"
+  },
+  {
+    "id": "marisa-luv-3",
+    "character": "marisa",
+    "name": "Luv (3)",
+    "action": "Luv",
+    "variant": "3",
+    "tags": [
+      "luv",
+      "3",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 3.gif",
+    "url": "/emotes/marisa/Luv%203.gif",
+    "localUrl": "/emotes/marisa/Luv%203.gif"
+  },
+  {
+    "id": "marisa-magic",
+    "character": "marisa",
+    "name": "Magic",
+    "action": "Magic",
+    "variant": "",
+    "tags": [
+      "magic",
+      "spell",
+      "wizard"
+    ],
+    "filename": "Magic.gif",
+    "url": "/emotes/marisa/Magic.gif",
+    "localUrl": "/emotes/marisa/Magic.gif"
+  },
+  {
+    "id": "marisa-megaphone",
+    "character": "marisa",
+    "name": "Megaphone",
+    "action": "Megaphone",
+    "variant": "",
+    "tags": [
+      "megaphone",
+      "shout",
+      "loud",
+      "announce"
+    ],
+    "filename": "Megaphone.gif",
+    "url": "/emotes/marisa/Megaphone.gif",
+    "localUrl": "/emotes/marisa/Megaphone.gif"
+  },
+  {
+    "id": "marisa-money",
+    "character": "marisa",
+    "name": "Money",
+    "action": "Money",
+    "variant": "",
+    "tags": [
+      "money",
+      "cash",
+      "rich",
+      "dollar"
+    ],
+    "filename": "Money.gif",
+    "url": "/emotes/marisa/Money.gif",
+    "localUrl": "/emotes/marisa/Money.gif"
+  },
+  {
+    "id": "marisa-mute-1",
+    "character": "marisa",
+    "name": "Mute (1)",
+    "action": "Mute",
+    "variant": "1",
+    "tags": [
+      "mute",
+      "1",
+      "quiet",
+      "silence",
+      "shh"
+    ],
+    "filename": "Mute 1.gif",
+    "url": "/emotes/marisa/Mute%201.gif",
+    "localUrl": "/emotes/marisa/Mute%201.gif"
+  },
+  {
+    "id": "marisa-mute-2",
+    "character": "marisa",
+    "name": "Mute (2)",
+    "action": "Mute",
+    "variant": "2",
+    "tags": [
+      "mute",
+      "2",
+      "quiet",
+      "silence",
+      "shh"
+    ],
+    "filename": "Mute 2.gif",
+    "url": "/emotes/marisa/Mute%202.gif",
+    "localUrl": "/emotes/marisa/Mute%202.gif"
+  },
+  {
+    "id": "marisa-need-food",
+    "character": "marisa",
+    "name": "Need Food",
+    "action": "Need Food",
+    "variant": "",
+    "tags": [
+      "need",
+      "food",
+      "hungry",
+      "starving"
+    ],
+    "filename": "Need Food.gif",
+    "url": "/emotes/marisa/Need%20Food.gif",
+    "localUrl": "/emotes/marisa/Need%20Food.gif"
+  },
+  {
+    "id": "marisa-nervous-1",
+    "character": "marisa",
+    "name": "Nervous (1)",
+    "action": "Nervous",
+    "variant": "1",
+    "tags": [
+      "nervous",
+      "1",
+      "anxious",
+      "sweat",
+      "worry"
+    ],
+    "filename": "Nervous 1.gif",
+    "url": "/emotes/marisa/Nervous%201.gif",
+    "localUrl": "/emotes/marisa/Nervous%201.gif"
+  },
+  {
+    "id": "marisa-nervous-2",
+    "character": "marisa",
+    "name": "Nervous (2)",
+    "action": "Nervous",
+    "variant": "2",
+    "tags": [
+      "nervous",
+      "2",
+      "anxious",
+      "sweat",
+      "worry"
+    ],
+    "filename": "Nervous 2.gif",
+    "url": "/emotes/marisa/Nervous%202.gif",
+    "localUrl": "/emotes/marisa/Nervous%202.gif"
+  },
+  {
+    "id": "marisa-noted-1",
+    "character": "marisa",
+    "name": "Noted (1)",
+    "action": "Noted",
+    "variant": "1",
+    "tags": [
+      "noted",
+      "1",
+      "write",
+      "note",
+      "ok"
+    ],
+    "filename": "Noted 1.gif",
+    "url": "/emotes/marisa/Noted%201.gif",
+    "localUrl": "/emotes/marisa/Noted%201.gif"
+  },
+  {
+    "id": "marisa-noted-2",
+    "character": "marisa",
+    "name": "Noted (2)",
+    "action": "Noted",
+    "variant": "2",
+    "tags": [
+      "noted",
+      "2",
+      "write",
+      "note",
+      "ok"
+    ],
+    "filename": "Noted 2.gif",
+    "url": "/emotes/marisa/Noted%202.gif",
+    "localUrl": "/emotes/marisa/Noted%202.gif"
+  },
+  {
+    "id": "marisa-paid-break-easy-mode",
+    "character": "marisa",
+    "name": "Paid Break (Easy Mode)",
+    "action": "Paid Break",
+    "variant": "Easy Mode",
+    "tags": [
+      "paid",
+      "break",
+      "easy",
+      "mode",
+      "rest",
+      "vacation"
+    ],
+    "filename": "Paid Break (Easy Mode).gif",
+    "url": "/emotes/marisa/Paid%20Break%20(Easy%20Mode).gif",
+    "localUrl": "/emotes/marisa/Paid%20Break%20(Easy%20Mode).gif"
+  },
+  {
+    "id": "marisa-paid-break-hard-mode",
+    "character": "marisa",
+    "name": "Paid Break (Hard Mode)",
+    "action": "Paid Break",
+    "variant": "Hard Mode",
+    "tags": [
+      "paid",
+      "break",
+      "hard",
+      "mode",
+      "rest",
+      "vacation"
+    ],
+    "filename": "Paid Break (Hard Mode).gif",
+    "url": "/emotes/marisa/Paid%20Break%20(Hard%20Mode).gif",
+    "localUrl": "/emotes/marisa/Paid%20Break%20(Hard%20Mode).gif"
+  },
+  {
+    "id": "marisa-pat-2",
+    "character": "marisa",
+    "name": "Pat (2)",
+    "action": "Pat",
+    "variant": "2",
+    "tags": [
+      "pat",
+      "2",
+      "pet",
+      "headpat",
+      "cute"
+    ],
+    "filename": "Pat 2.gif",
+    "url": "/emotes/marisa/Pat%202.gif",
+    "localUrl": "/emotes/marisa/Pat%202.gif"
+  },
+  {
+    "id": "marisa-pat",
+    "character": "marisa",
+    "name": "Pat",
+    "action": "Pat",
+    "variant": "",
+    "tags": [
+      "pat",
+      "pet",
+      "headpat",
+      "cute"
+    ],
+    "filename": "Pat.gif",
+    "url": "/emotes/marisa/Pat.gif",
+    "localUrl": "/emotes/marisa/Pat.gif"
+  },
+  {
+    "id": "marisa-pngtuber-idle-2",
+    "character": "marisa",
+    "name": "PNGTuber Idle (2)",
+    "action": "PNGTuber Idle",
+    "variant": "2",
+    "tags": [
+      "pngtuber",
+      "idle",
+      "2",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Idle 2.gif",
+    "url": "/emotes/marisa/PNGTuber%20Idle%202.gif",
+    "localUrl": "/emotes/marisa/PNGTuber%20Idle%202.gif"
+  },
+  {
+    "id": "marisa-pngtuber-idle",
+    "character": "marisa",
+    "name": "PNGTuber Idle",
+    "action": "PNGTuber Idle",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "idle",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Idle.gif",
+    "url": "/emotes/marisa/PNGTuber%20Idle.gif",
+    "localUrl": "/emotes/marisa/PNGTuber%20Idle.gif"
+  },
+  {
+    "id": "marisa-pngtuber-loading",
+    "character": "marisa",
+    "name": "PNGTuber Loading",
+    "action": "PNGTuber Loading",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "loading",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Loading.gif",
+    "url": "/emotes/marisa/PNGTuber%20Loading.gif",
+    "localUrl": "/emotes/marisa/PNGTuber%20Loading.gif"
+  },
+  {
+    "id": "marisa-pngtuber-talk-2",
+    "character": "marisa",
+    "name": "PNGTuber Talk (2)",
+    "action": "PNGTuber Talk",
+    "variant": "2",
+    "tags": [
+      "pngtuber",
+      "talk",
+      "2",
+      "speak",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Talk 2.gif",
+    "url": "/emotes/marisa/PNGTuber%20Talk%202.gif",
+    "localUrl": "/emotes/marisa/PNGTuber%20Talk%202.gif"
+  },
+  {
+    "id": "marisa-pngtuber-talk",
+    "character": "marisa",
+    "name": "PNGTuber Talk",
+    "action": "PNGTuber Talk",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "talk",
+      "speak",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Talk.gif",
+    "url": "/emotes/marisa/PNGTuber%20Talk.gif",
+    "localUrl": "/emotes/marisa/PNGTuber%20Talk.gif"
+  },
+  {
+    "id": "marisa-pngtuber-yap",
+    "character": "marisa",
+    "name": "PNGTuber Yap",
+    "action": "PNGTuber Yap",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "yap",
+      "talk",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Yap.gif",
+    "url": "/emotes/marisa/PNGTuber%20Yap.gif",
+    "localUrl": "/emotes/marisa/PNGTuber%20Yap.gif"
+  },
+  {
+    "id": "marisa-point",
+    "character": "marisa",
+    "name": "Point",
+    "action": "Point",
+    "variant": "",
+    "tags": [
+      "point",
+      "you",
+      "finger"
+    ],
+    "filename": "Point.gif",
+    "url": "/emotes/marisa/Point.gif",
+    "localUrl": "/emotes/marisa/Point.gif"
+  },
+  {
+    "id": "marisa-popcat-frame",
+    "character": "marisa",
+    "name": "Popcat Frame",
+    "action": "Popcat Frame",
+    "variant": "",
+    "tags": [
+      "popcat",
+      "frame"
+    ],
+    "filename": "Popcat Frame.gif",
+    "url": "/emotes/marisa/Popcat%20Frame.gif",
+    "localUrl": "/emotes/marisa/Popcat%20Frame.gif"
+  },
+  {
+    "id": "marisa-popcat-smooth",
+    "character": "marisa",
+    "name": "Popcat Smooth",
+    "action": "Popcat Smooth",
+    "variant": "",
+    "tags": [
+      "popcat",
+      "smooth"
+    ],
+    "filename": "Popcat Smooth.gif",
+    "url": "/emotes/marisa/Popcat%20Smooth.gif",
+    "localUrl": "/emotes/marisa/Popcat%20Smooth.gif"
+  },
+  {
+    "id": "marisa-press",
+    "character": "marisa",
+    "name": "Press",
+    "action": "Press",
+    "variant": "",
+    "tags": [
+      "press",
+      "push",
+      "squish",
+      "interact"
+    ],
+    "filename": "Press.gif",
+    "url": "/emotes/marisa/Press.gif",
+    "localUrl": "/emotes/marisa/Press.gif"
+  },
+  {
+    "id": "marisa-question",
+    "character": "marisa",
+    "name": "Question",
+    "action": "Question",
+    "variant": "",
+    "tags": [
+      "question",
+      "ask",
+      "what",
+      "confused"
+    ],
+    "filename": "Question.gif",
+    "url": "/emotes/marisa/Question.gif",
+    "localUrl": "/emotes/marisa/Question.gif"
+  },
+  {
+    "id": "marisa-raid-1",
+    "character": "marisa",
+    "name": "Raid (1)",
+    "action": "Raid",
+    "variant": "1",
+    "tags": [
+      "raid",
+      "1",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Raid 1.gif",
+    "url": "/emotes/marisa/Raid%201.gif",
+    "localUrl": "/emotes/marisa/Raid%201.gif"
+  },
+  {
+    "id": "marisa-raid-2",
+    "character": "marisa",
+    "name": "Raid (2)",
+    "action": "Raid",
+    "variant": "2",
+    "tags": [
+      "raid",
+      "2",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Raid 2.gif",
+    "url": "/emotes/marisa/Raid%202.gif",
+    "localUrl": "/emotes/marisa/Raid%202.gif"
+  },
+  {
+    "id": "marisa-redpacket-1",
+    "character": "marisa",
+    "name": "RedPacket (1)",
+    "action": "RedPacket",
+    "variant": "1",
+    "tags": [
+      "redpacket",
+      "1",
+      "red",
+      "packet",
+      "gift",
+      "money"
+    ],
+    "filename": "RedPacket 1.gif",
+    "url": "/emotes/marisa/RedPacket%201.gif",
+    "localUrl": "/emotes/marisa/RedPacket%201.gif"
+  },
+  {
+    "id": "marisa-redpacket-2",
+    "character": "marisa",
+    "name": "RedPacket (2)",
+    "action": "RedPacket",
+    "variant": "2",
+    "tags": [
+      "redpacket",
+      "2",
+      "red",
+      "packet",
+      "gift",
+      "money"
+    ],
+    "filename": "RedPacket 2.gif",
+    "url": "/emotes/marisa/RedPacket%202.gif",
+    "localUrl": "/emotes/marisa/RedPacket%202.gif"
+  },
+  {
+    "id": "marisa-reverse",
+    "character": "marisa",
+    "name": "Reverse",
+    "action": "Reverse",
+    "variant": "",
+    "tags": [
+      "reverse",
+      "backward",
+      "uno"
+    ],
+    "filename": "Reverse.gif",
+    "url": "/emotes/marisa/Reverse.gif",
+    "localUrl": "/emotes/marisa/Reverse.gif"
+  },
+  {
+    "id": "marisa-rose",
+    "character": "marisa",
+    "name": "Rose",
+    "action": "Rose",
+    "variant": "",
+    "tags": [
+      "rose",
+      "flower",
+      "love",
+      "romantic"
+    ],
+    "filename": "Rose.gif",
+    "url": "/emotes/marisa/Rose.gif",
+    "localUrl": "/emotes/marisa/Rose.gif"
+  },
+  {
+    "id": "marisa-rub-1",
+    "character": "marisa",
+    "name": "Rub (1)",
+    "action": "Rub",
+    "variant": "1",
+    "tags": [
+      "rub",
+      "1",
+      "pet",
+      "comfort",
+      "cute"
+    ],
+    "filename": "Rub 1.gif",
+    "url": "/emotes/marisa/Rub%201.gif",
+    "localUrl": "/emotes/marisa/Rub%201.gif"
+  },
+  {
+    "id": "marisa-scared-1",
+    "character": "marisa",
+    "name": "Scared (1)",
+    "action": "Scared",
+    "variant": "1",
+    "tags": [
+      "scared",
+      "1",
+      "fear",
+      "frightened",
+      "shock"
+    ],
+    "filename": "Scared 1.gif",
+    "url": "/emotes/marisa/Scared%201.gif",
+    "localUrl": "/emotes/marisa/Scared%201.gif"
+  },
+  {
+    "id": "marisa-scared-2",
+    "character": "marisa",
+    "name": "Scared (2)",
+    "action": "Scared",
+    "variant": "2",
+    "tags": [
+      "scared",
+      "2",
+      "fear",
+      "frightened",
+      "shock"
+    ],
+    "filename": "Scared 2.gif",
+    "url": "/emotes/marisa/Scared%202.gif",
+    "localUrl": "/emotes/marisa/Scared%202.gif"
+  },
+  {
+    "id": "marisa-score-0-point",
+    "character": "marisa",
+    "name": "Score (0 Point)",
+    "action": "Score",
+    "variant": "0 Point",
+    "tags": [
+      "score",
+      "0",
+      "point",
+      "game",
+      "number"
+    ],
+    "filename": "Score (0 Point).gif",
+    "url": "/emotes/marisa/Score%20(0%20Point).gif",
+    "localUrl": "/emotes/marisa/Score%20(0%20Point).gif"
+  },
+  {
+    "id": "marisa-score-10-point",
+    "character": "marisa",
+    "name": "Score (10 Point)",
+    "action": "Score",
+    "variant": "10 Point",
+    "tags": [
+      "score",
+      "10",
+      "point",
+      "game",
+      "number"
+    ],
+    "filename": "Score (10 Point).gif",
+    "url": "/emotes/marisa/Score%20(10%20Point).gif",
+    "localUrl": "/emotes/marisa/Score%20(10%20Point).gif"
+  },
+  {
+    "id": "marisa-shy-1",
+    "character": "marisa",
+    "name": "Shy (1)",
+    "action": "Shy",
+    "variant": "1",
+    "tags": [
+      "shy",
+      "1",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 1.gif",
+    "url": "/emotes/marisa/Shy%201.gif",
+    "localUrl": "/emotes/marisa/Shy%201.gif"
+  },
+  {
+    "id": "marisa-shy-2",
+    "character": "marisa",
+    "name": "Shy (2)",
+    "action": "Shy",
+    "variant": "2",
+    "tags": [
+      "shy",
+      "2",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 2.gif",
+    "url": "/emotes/marisa/Shy%202.gif",
+    "localUrl": "/emotes/marisa/Shy%202.gif"
+  },
+  {
+    "id": "marisa-sing",
+    "character": "marisa",
+    "name": "Sing",
+    "action": "Sing",
+    "variant": "",
+    "tags": [
+      "sing",
+      "song",
+      "music",
+      "karaoke"
+    ],
+    "filename": "Sing.gif",
+    "url": "/emotes/marisa/Sing.gif",
+    "localUrl": "/emotes/marisa/Sing.gif"
+  },
+  {
+    "id": "marisa-six-seven-dum",
+    "character": "marisa",
+    "name": "Six Seven (Dum)",
+    "action": "Six Seven",
+    "variant": "Dum",
+    "tags": [
+      "six",
+      "seven",
+      "dum",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven (Dum).gif",
+    "url": "/emotes/marisa/Six%20Seven%20(Dum).gif",
+    "localUrl": "/emotes/marisa/Six%20Seven%20(Dum).gif"
+  },
+  {
+    "id": "marisa-six-seven",
+    "character": "marisa",
+    "name": "Six Seven",
+    "action": "Six Seven",
+    "variant": "",
+    "tags": [
+      "six",
+      "seven",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven.gif",
+    "url": "/emotes/marisa/Six%20Seven.gif",
+    "localUrl": "/emotes/marisa/Six%20Seven.gif"
+  },
+  {
+    "id": "marisa-sleep-normal",
+    "character": "marisa",
+    "name": "Sleep (Normal)",
+    "action": "Sleep",
+    "variant": "Normal",
+    "tags": [
+      "sleep",
+      "normal",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Normal).gif",
+    "url": "/emotes/marisa/Sleep%20(Normal).gif",
+    "localUrl": "/emotes/marisa/Sleep%20(Normal).gif"
+  },
+  {
+    "id": "marisa-sleep-preparing-stage-1",
+    "character": "marisa",
+    "name": "Sleep (Preparing Stage 1)",
+    "action": "Sleep",
+    "variant": "Preparing Stage 1",
+    "tags": [
+      "sleep",
+      "preparing",
+      "stage",
+      "1",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Preparing Stage 1).gif",
+    "url": "/emotes/marisa/Sleep%20(Preparing%20Stage%201).gif",
+    "localUrl": "/emotes/marisa/Sleep%20(Preparing%20Stage%201).gif"
+  },
+  {
+    "id": "marisa-sleep-preparing-stage-2",
+    "character": "marisa",
+    "name": "Sleep (Preparing Stage 2)",
+    "action": "Sleep",
+    "variant": "Preparing Stage 2",
+    "tags": [
+      "sleep",
+      "preparing",
+      "stage",
+      "2",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Preparing Stage 2).gif",
+    "url": "/emotes/marisa/Sleep%20(Preparing%20Stage%202).gif",
+    "localUrl": "/emotes/marisa/Sleep%20(Preparing%20Stage%202).gif"
+  },
+  {
+    "id": "marisa-sleep-uu",
+    "character": "marisa",
+    "name": "Sleep (UU)",
+    "action": "Sleep",
+    "variant": "UU",
+    "tags": [
+      "sleep",
+      "uu",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (UU).gif",
+    "url": "/emotes/marisa/Sleep%20(UU).gif",
+    "localUrl": "/emotes/marisa/Sleep%20(UU).gif"
+  },
+  {
+    "id": "marisa-slipper-1",
+    "character": "marisa",
+    "name": "Slipper (1)",
+    "action": "Slipper",
+    "variant": "1",
+    "tags": [
+      "slipper",
+      "1",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 1.gif",
+    "url": "/emotes/marisa/Slipper%201.gif",
+    "localUrl": "/emotes/marisa/Slipper%201.gif"
+  },
+  {
+    "id": "marisa-slipper-2",
+    "character": "marisa",
+    "name": "Slipper (2)",
+    "action": "Slipper",
+    "variant": "2",
+    "tags": [
+      "slipper",
+      "2",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 2.gif",
+    "url": "/emotes/marisa/Slipper%202.gif",
+    "localUrl": "/emotes/marisa/Slipper%202.gif"
+  },
+  {
+    "id": "marisa-sparkling-1",
+    "character": "marisa",
+    "name": "Sparkling (1)",
+    "action": "Sparkling",
+    "variant": "1",
+    "tags": [
+      "sparkling",
+      "1",
+      "sparkle",
+      "shine",
+      "glitter",
+      "pretty"
+    ],
+    "filename": "Sparkling 1.gif",
+    "url": "/emotes/marisa/Sparkling%201.gif",
+    "localUrl": "/emotes/marisa/Sparkling%201.gif"
+  },
+  {
+    "id": "marisa-sparkling-2",
+    "character": "marisa",
+    "name": "Sparkling (2)",
+    "action": "Sparkling",
+    "variant": "2",
+    "tags": [
+      "sparkling",
+      "2",
+      "sparkle",
+      "shine",
+      "glitter",
+      "pretty"
+    ],
+    "filename": "Sparkling 2.gif",
+    "url": "/emotes/marisa/Sparkling%202.gif",
+    "localUrl": "/emotes/marisa/Sparkling%202.gif"
+  },
+  {
+    "id": "marisa-spray",
+    "character": "marisa",
+    "name": "Spray",
+    "action": "Spray",
+    "variant": "",
+    "tags": [
+      "spray",
+      "clean",
+      "water"
+    ],
+    "filename": "Spray.gif",
+    "url": "/emotes/marisa/Spray.gif",
+    "localUrl": "/emotes/marisa/Spray.gif"
+  },
+  {
+    "id": "marisa-stops-working",
+    "character": "marisa",
+    "name": "Stops Working",
+    "action": "Stops Working",
+    "variant": "",
+    "tags": [
+      "stops",
+      "working",
+      "stop",
+      "error",
+      "broken",
+      "crash"
+    ],
+    "filename": "Stops Working.gif",
+    "url": "/emotes/marisa/Stops%20Working.gif",
+    "localUrl": "/emotes/marisa/Stops%20Working.gif"
+  },
+  {
+    "id": "marisa-sunglasses-gleam",
+    "character": "marisa",
+    "name": "Sunglasses Gleam",
+    "action": "Sunglasses Gleam",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "gleam"
+    ],
+    "filename": "Sunglasses Gleam.gif",
+    "url": "/emotes/marisa/Sunglasses%20Gleam.gif",
+    "localUrl": "/emotes/marisa/Sunglasses%20Gleam.gif"
+  },
+  {
+    "id": "marisa-sunglasses-loop",
+    "character": "marisa",
+    "name": "Sunglasses Loop",
+    "action": "Sunglasses Loop",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "loop"
+    ],
+    "filename": "Sunglasses Loop.gif",
+    "url": "/emotes/marisa/Sunglasses%20Loop.gif",
+    "localUrl": "/emotes/marisa/Sunglasses%20Loop.gif"
+  },
+  {
+    "id": "marisa-sunglasses-pixel-gleam",
+    "character": "marisa",
+    "name": "Sunglasses Pixel Gleam",
+    "action": "Sunglasses Pixel Gleam",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "pixel",
+      "gleam"
+    ],
+    "filename": "Sunglasses Pixel Gleam.gif",
+    "url": "/emotes/marisa/Sunglasses%20Pixel%20Gleam.gif",
+    "localUrl": "/emotes/marisa/Sunglasses%20Pixel%20Gleam.gif"
+  },
+  {
+    "id": "marisa-sunglasses-remove",
+    "character": "marisa",
+    "name": "Sunglasses Remove",
+    "action": "Sunglasses Remove",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "remove"
+    ],
+    "filename": "Sunglasses Remove.gif",
+    "url": "/emotes/marisa/Sunglasses%20Remove.gif",
+    "localUrl": "/emotes/marisa/Sunglasses%20Remove.gif"
+  },
+  {
+    "id": "marisa-surprise",
+    "character": "marisa",
+    "name": "Surprise",
+    "action": "Surprise",
+    "variant": "",
+    "tags": [
+      "surprise",
+      "shock",
+      "wow",
+      "omg"
+    ],
+    "filename": "Surprise.gif",
+    "url": "/emotes/marisa/Surprise.gif",
+    "localUrl": "/emotes/marisa/Surprise.gif"
+  },
+  {
+    "id": "marisa-swatter",
+    "character": "marisa",
+    "name": "Swatter",
+    "action": "Swatter",
+    "variant": "",
+    "tags": [
+      "swatter",
+      "fly",
+      "hit"
+    ],
+    "filename": "Swatter.gif",
+    "url": "/emotes/marisa/Swatter.gif",
+    "localUrl": "/emotes/marisa/Swatter.gif"
+  },
+  {
+    "id": "marisa-sweat",
+    "character": "marisa",
+    "name": "Sweat",
+    "action": "Sweat",
+    "variant": "",
+    "tags": [
+      "sweat",
+      "nervous",
+      "hot",
+      "anxious"
+    ],
+    "filename": "Sweat.gif",
+    "url": "/emotes/marisa/Sweat.gif",
+    "localUrl": "/emotes/marisa/Sweat.gif"
+  },
+  {
+    "id": "marisa-tablet",
+    "character": "marisa",
+    "name": "Tablet",
+    "action": "Tablet",
+    "variant": "",
+    "tags": [
+      "tablet",
+      "ipad",
+      "draw",
+      "device"
+    ],
+    "filename": "Tablet.gif",
+    "url": "/emotes/marisa/Tablet.gif",
+    "localUrl": "/emotes/marisa/Tablet.gif"
+  },
+  {
+    "id": "marisa-take-my-money",
+    "character": "marisa",
+    "name": "Take My Money",
+    "action": "Take My Money",
+    "variant": "",
+    "tags": [
+      "take",
+      "my",
+      "money",
+      "shutup",
+      "buy"
+    ],
+    "filename": "Take My Money.gif",
+    "url": "/emotes/marisa/Take%20My%20Money.gif",
+    "localUrl": "/emotes/marisa/Take%20My%20Money.gif"
+  },
+  {
+    "id": "marisa-tape",
+    "character": "marisa",
+    "name": "Tape",
+    "action": "Tape",
+    "variant": "",
+    "tags": [
+      "tape",
+      "seal",
+      "sticky"
+    ],
+    "filename": "Tape.gif",
+    "url": "/emotes/marisa/Tape.gif",
+    "localUrl": "/emotes/marisa/Tape.gif"
+  },
+  {
+    "id": "marisa-tea-1",
+    "character": "marisa",
+    "name": "Tea (1)",
+    "action": "Tea",
+    "variant": "1",
+    "tags": [
+      "tea",
+      "1",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 1.gif",
+    "url": "/emotes/marisa/Tea%201.gif",
+    "localUrl": "/emotes/marisa/Tea%201.gif"
+  },
+  {
+    "id": "marisa-tea-2",
+    "character": "marisa",
+    "name": "Tea (2)",
+    "action": "Tea",
+    "variant": "2",
+    "tags": [
+      "tea",
+      "2",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 2.gif",
+    "url": "/emotes/marisa/Tea%202.gif",
+    "localUrl": "/emotes/marisa/Tea%202.gif"
+  },
+  {
+    "id": "marisa-tea-3",
+    "character": "marisa",
+    "name": "Tea (3)",
+    "action": "Tea",
+    "variant": "3",
+    "tags": [
+      "tea",
+      "3",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 3.gif",
+    "url": "/emotes/marisa/Tea%203.gif",
+    "localUrl": "/emotes/marisa/Tea%203.gif"
+  },
+  {
+    "id": "marisa-think-confident",
+    "character": "marisa",
+    "name": "Think (Confident)",
+    "action": "Think",
+    "variant": "Confident",
+    "tags": [
+      "think",
+      "confident",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Confident).gif",
+    "url": "/emotes/marisa/Think%20(Confident).gif",
+    "localUrl": "/emotes/marisa/Think%20(Confident).gif"
+  },
+  {
+    "id": "marisa-think-serious",
+    "character": "marisa",
+    "name": "Think (Serious)",
+    "action": "Think",
+    "variant": "Serious",
+    "tags": [
+      "think",
+      "serious",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Serious).gif",
+    "url": "/emotes/marisa/Think%20(Serious).gif",
+    "localUrl": "/emotes/marisa/Think%20(Serious).gif"
+  },
+  {
+    "id": "marisa-this-is-fine-1",
+    "character": "marisa",
+    "name": "This Is Fine (1)",
+    "action": "This Is Fine",
+    "variant": "1",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "1",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 1.gif",
+    "url": "/emotes/marisa/This%20Is%20Fine%201.gif",
+    "localUrl": "/emotes/marisa/This%20Is%20Fine%201.gif"
+  },
+  {
+    "id": "marisa-this-is-fine-2",
+    "character": "marisa",
+    "name": "This Is Fine (2)",
+    "action": "This Is Fine",
+    "variant": "2",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "2",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 2.gif",
+    "url": "/emotes/marisa/This%20Is%20Fine%202.gif",
+    "localUrl": "/emotes/marisa/This%20Is%20Fine%202.gif"
+  },
+  {
+    "id": "marisa-this-is-fine-3",
+    "character": "marisa",
+    "name": "This Is Fine (3)",
+    "action": "This Is Fine",
+    "variant": "3",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "3",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 3.gif",
+    "url": "/emotes/marisa/This%20Is%20Fine%203.gif",
+    "localUrl": "/emotes/marisa/This%20Is%20Fine%203.gif"
+  },
+  {
+    "id": "marisa-this-is-fine-4",
+    "character": "marisa",
+    "name": "This Is Fine (4)",
+    "action": "This Is Fine",
+    "variant": "4",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "4",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 4.gif",
+    "url": "/emotes/marisa/This%20Is%20Fine%204.gif",
+    "localUrl": "/emotes/marisa/This%20Is%20Fine%204.gif"
+  },
+  {
+    "id": "marisa-this-is-fine-5",
+    "character": "marisa",
+    "name": "This Is Fine (5)",
+    "action": "This Is Fine",
+    "variant": "5",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "5",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 5.gif",
+    "url": "/emotes/marisa/This%20Is%20Fine%205.gif",
+    "localUrl": "/emotes/marisa/This%20Is%20Fine%205.gif"
+  },
+  {
+    "id": "marisa-this-is-fine-6",
+    "character": "marisa",
+    "name": "This Is Fine (6)",
+    "action": "This Is Fine",
+    "variant": "6",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "6",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 6.gif",
+    "url": "/emotes/marisa/This%20Is%20Fine%206.gif",
+    "localUrl": "/emotes/marisa/This%20Is%20Fine%206.gif"
+  },
+  {
+    "id": "marisa-thumb-down",
+    "character": "marisa",
+    "name": "Thumb Down",
+    "action": "Thumb Down",
+    "variant": "",
+    "tags": [
+      "thumb",
+      "down",
+      "dislike",
+      "no",
+      "bad"
+    ],
+    "filename": "Thumb Down.gif",
+    "url": "/emotes/marisa/Thumb%20Down.gif",
+    "localUrl": "/emotes/marisa/Thumb%20Down.gif"
+  },
+  {
+    "id": "marisa-thumb-up",
+    "character": "marisa",
+    "name": "Thumb Up",
+    "action": "Thumb Up",
+    "variant": "",
+    "tags": [
+      "thumb",
+      "up",
+      "like",
+      "yes",
+      "good"
+    ],
+    "filename": "Thumb Up.gif",
+    "url": "/emotes/marisa/Thumb%20Up.gif",
+    "localUrl": "/emotes/marisa/Thumb%20Up.gif"
+  },
+  {
+    "id": "marisa-trash-bin",
+    "character": "marisa",
+    "name": "Trash Bin",
+    "action": "Trash Bin",
+    "variant": "",
+    "tags": [
+      "trash",
+      "bin",
+      "delete",
+      "garbage"
+    ],
+    "filename": "Trash Bin.gif",
+    "url": "/emotes/marisa/Trash%20Bin.gif",
+    "localUrl": "/emotes/marisa/Trash%20Bin.gif"
+  },
+  {
+    "id": "marisa-trashtuber-idle",
+    "character": "marisa",
+    "name": "TrashTuber Idle",
+    "action": "TrashTuber Idle",
+    "variant": "",
+    "tags": [
+      "trashtuber",
+      "idle",
+      "vtuber",
+      "trash"
+    ],
+    "filename": "TrashTuber Idle.gif",
+    "url": "/emotes/marisa/TrashTuber%20Idle.gif",
+    "localUrl": "/emotes/marisa/TrashTuber%20Idle.gif"
+  },
+  {
+    "id": "marisa-trashtuber-talk",
+    "character": "marisa",
+    "name": "TrashTuber Talk",
+    "action": "TrashTuber Talk",
+    "variant": "",
+    "tags": [
+      "trashtuber",
+      "talk",
+      "vtuber",
+      "trash"
+    ],
+    "filename": "TrashTuber Talk.gif",
+    "url": "/emotes/marisa/TrashTuber%20Talk.gif",
+    "localUrl": "/emotes/marisa/TrashTuber%20Talk.gif"
+  },
+  {
+    "id": "marisa-trashtuber-yap",
+    "character": "marisa",
+    "name": "TrashTuber Yap",
+    "action": "TrashTuber Yap",
+    "variant": "",
+    "tags": [
+      "trashtuber",
+      "yap",
+      "vtuber",
+      "trash"
+    ],
+    "filename": "TrashTuber Yap.gif",
+    "url": "/emotes/marisa/TrashTuber%20Yap.gif",
+    "localUrl": "/emotes/marisa/TrashTuber%20Yap.gif"
+  },
+  {
+    "id": "marisa-trophy-1",
+    "character": "marisa",
+    "name": "Trophy (1)",
+    "action": "Trophy",
+    "variant": "1",
+    "tags": [
+      "trophy",
+      "1",
+      "winner",
+      "win",
+      "award",
+      "victory"
+    ],
+    "filename": "Trophy 1.gif",
+    "url": "/emotes/marisa/Trophy%201.gif",
+    "localUrl": "/emotes/marisa/Trophy%201.gif"
+  },
+  {
+    "id": "marisa-type-angry",
+    "character": "marisa",
+    "name": "Type Angry",
+    "action": "Type Angry",
+    "variant": "",
+    "tags": [
+      "type",
+      "angry"
+    ],
+    "filename": "Type Angry.gif",
+    "url": "/emotes/marisa/Type%20Angry.gif",
+    "localUrl": "/emotes/marisa/Type%20Angry.gif"
+  },
+  {
+    "id": "marisa-type-annoyed",
+    "character": "marisa",
+    "name": "Type Annoyed",
+    "action": "Type Annoyed",
+    "variant": "",
+    "tags": [
+      "type",
+      "annoyed"
+    ],
+    "filename": "Type Annoyed.gif",
+    "url": "/emotes/marisa/Type%20Annoyed.gif",
+    "localUrl": "/emotes/marisa/Type%20Annoyed.gif"
+  },
+  {
+    "id": "marisa-type-normal",
+    "character": "marisa",
+    "name": "Type Normal",
+    "action": "Type Normal",
+    "variant": "",
+    "tags": [
+      "type",
+      "normal"
+    ],
+    "filename": "Type Normal.gif",
+    "url": "/emotes/marisa/Type%20Normal.gif",
+    "localUrl": "/emotes/marisa/Type%20Normal.gif"
+  },
+  {
+    "id": "marisa-wink",
+    "character": "marisa",
+    "name": "Wink",
+    "action": "Wink",
+    "variant": "",
+    "tags": [
+      "wink",
+      "flirt",
+      "cute"
+    ],
+    "filename": "Wink.gif",
+    "url": "/emotes/marisa/Wink.gif",
+    "localUrl": "/emotes/marisa/Wink.gif"
+  },
+  {
+    "id": "marisa-work-angry",
+    "character": "marisa",
+    "name": "Work Angry",
+    "action": "Work Angry",
+    "variant": "",
+    "tags": [
+      "work",
+      "angry"
+    ],
+    "filename": "Work Angry.gif",
+    "url": "/emotes/marisa/Work%20Angry.gif",
+    "localUrl": "/emotes/marisa/Work%20Angry.gif"
+  },
+  {
+    "id": "marisa-work-nap",
+    "character": "marisa",
+    "name": "Work Nap",
+    "action": "Work Nap",
+    "variant": "",
+    "tags": [
+      "work",
+      "nap"
+    ],
+    "filename": "Work Nap.gif",
+    "url": "/emotes/marisa/Work%20Nap.gif",
+    "localUrl": "/emotes/marisa/Work%20Nap.gif"
+  },
+  {
+    "id": "marisa-work-normal",
+    "character": "marisa",
+    "name": "Work Normal",
+    "action": "Work Normal",
+    "variant": "",
+    "tags": [
+      "work",
+      "normal"
+    ],
+    "filename": "Work Normal.gif",
+    "url": "/emotes/marisa/Work%20Normal.gif",
+    "localUrl": "/emotes/marisa/Work%20Normal.gif"
+  },
+  {
+    "id": "marisa-work-tired",
+    "character": "marisa",
+    "name": "Work Tired",
+    "action": "Work Tired",
+    "variant": "",
+    "tags": [
+      "work",
+      "tired"
+    ],
+    "filename": "Work Tired.gif",
+    "url": "/emotes/marisa/Work%20Tired.gif",
+    "localUrl": "/emotes/marisa/Work%20Tired.gif"
+  },
+  {
+    "id": "marisa-yay",
+    "character": "marisa",
+    "name": "Yay",
+    "action": "Yay",
+    "variant": "",
+    "tags": [
+      "yay",
+      "cheer",
+      "celebrate",
+      "happy"
+    ],
+    "filename": "Yay.gif",
+    "url": "/emotes/marisa/Yay.gif",
+    "localUrl": "/emotes/marisa/Yay.gif"
+  },
+  {
+    "id": "rin-2-0-cheers-2026-08-16-16-46-02",
+    "character": "rin",
+    "name": "镜音铃2.0_Cheers_2026-08-16-16-46-02",
+    "action": "镜音铃2.0_Cheers_2026-08-16-16-46-02",
+    "variant": "",
+    "tags": [
+      "镜音铃2.0_cheers_2026-08-16-16-46-02"
+    ],
+    "filename": "镜音铃2.0_Cheers_2026-08-16-16-46-02.gif",
+    "url": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Cheers_2026-08-16-16-46-02.gif",
+    "localUrl": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Cheers_2026-08-16-16-46-02.gif"
+  },
+  {
+    "id": "rin-2-0-cheese-slap-2026-08-16-16-46-12",
+    "character": "rin",
+    "name": "镜音铃2.0_Cheese Slap_2026-08-16-16-46-12",
+    "action": "镜音铃2.0_Cheese Slap_2026-08-16-16-46-12",
+    "variant": "",
+    "tags": [
+      "镜音铃2.0_cheese",
+      "slap_2026-08-16-16-46-12"
+    ],
+    "filename": "镜音铃2.0_Cheese Slap_2026-08-16-16-46-12.gif",
+    "url": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Cheese%20Slap_2026-08-16-16-46-12.gif",
+    "localUrl": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Cheese%20Slap_2026-08-16-16-46-12.gif"
+  },
+  {
+    "id": "rin-2-0-eat-watermelon-2026-08-16-16-47-44",
+    "character": "rin",
+    "name": "镜音铃2.0_Eat (Watermelon)_2026-08-16-16-47-44",
+    "action": "镜音铃2.0_Eat (Watermelon)_2026-08-16-16-47-44",
+    "variant": "",
+    "tags": [
+      "镜音铃2.0_eat",
+      "(watermelon)_2026-08-16-16-47-44"
+    ],
+    "filename": "镜音铃2.0_Eat (Watermelon)_2026-08-16-16-47-44.gif",
+    "url": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Eat%20(Watermelon)_2026-08-16-16-47-44.gif",
+    "localUrl": "/emotes/rin/%E9%95%9C%E9%9F%B3%E9%93%832.0_Eat%20(Watermelon)_2026-08-16-16-47-44.gif"
   },
   {
     "id": "rin-alert-bits",
@@ -3441,6 +6621,78 @@
     "localUrl": "/emotes/rin/Bell.gif"
   },
   {
+    "id": "rin-blep-1",
+    "character": "rin",
+    "name": "Blep (1)",
+    "action": "Blep",
+    "variant": "1",
+    "tags": [
+      "blep",
+      "1",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 1.gif",
+    "url": "/emotes/rin/Blep%201.gif",
+    "localUrl": "/emotes/rin/Blep%201.gif"
+  },
+  {
+    "id": "rin-blep-2",
+    "character": "rin",
+    "name": "Blep (2)",
+    "action": "Blep",
+    "variant": "2",
+    "tags": [
+      "blep",
+      "2",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 2.gif",
+    "url": "/emotes/rin/Blep%202.gif",
+    "localUrl": "/emotes/rin/Blep%202.gif"
+  },
+  {
+    "id": "rin-blep-3",
+    "character": "rin",
+    "name": "Blep (3)",
+    "action": "Blep",
+    "variant": "3",
+    "tags": [
+      "blep",
+      "3",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 3.gif",
+    "url": "/emotes/rin/Blep%203.gif",
+    "localUrl": "/emotes/rin/Blep%203.gif"
+  },
+  {
+    "id": "rin-blep-4",
+    "character": "rin",
+    "name": "Blep (4)",
+    "action": "Blep",
+    "variant": "4",
+    "tags": [
+      "blep",
+      "4",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 4.gif",
+    "url": "/emotes/rin/Blep%204.gif",
+    "localUrl": "/emotes/rin/Blep%204.gif"
+  },
+  {
     "id": "rin-bonk",
     "character": "rin",
     "name": "Bonk",
@@ -3454,6 +6706,22 @@
     "filename": "Bonk.gif",
     "url": "/emotes/rin/Bonk.gif",
     "localUrl": "/emotes/rin/Bonk.gif"
+  },
+  {
+    "id": "rin-boop",
+    "character": "rin",
+    "name": "Boop",
+    "action": "Boop",
+    "variant": "",
+    "tags": [
+      "boop",
+      "nose",
+      "poke",
+      "cute"
+    ],
+    "filename": "Boop.gif",
+    "url": "/emotes/rin/Boop.gif",
+    "localUrl": "/emotes/rin/Boop.gif"
   },
   {
     "id": "rin-bug",
@@ -3472,6 +6740,23 @@
     "localUrl": "/emotes/rin/Bug.gif"
   },
   {
+    "id": "rin-button-punch",
+    "character": "rin",
+    "name": "Button (Punch)",
+    "action": "Button",
+    "variant": "Punch",
+    "tags": [
+      "button",
+      "punch",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button (Punch).gif",
+    "url": "/emotes/rin/Button%20(Punch).gif",
+    "localUrl": "/emotes/rin/Button%20(Punch).gif"
+  },
+  {
     "id": "rin-button",
     "character": "rin",
     "name": "Button",
@@ -3486,6 +6771,20 @@
     "filename": "Button.gif",
     "url": "/emotes/rin/Button.gif",
     "localUrl": "/emotes/rin/Button.gif"
+  },
+  {
+    "id": "rin-button-fast",
+    "character": "rin",
+    "name": "Button Fast",
+    "action": "Button Fast",
+    "variant": "",
+    "tags": [
+      "button",
+      "fast"
+    ],
+    "filename": "Button Fast.gif",
+    "url": "/emotes/rin/Button%20Fast.gif",
+    "localUrl": "/emotes/rin/Button%20Fast.gif"
   },
   {
     "id": "rin-cake",
@@ -3573,6 +6872,23 @@
     "filename": "Celebration.gif",
     "url": "/emotes/rin/Celebration.gif",
     "localUrl": "/emotes/rin/Celebration.gif"
+  },
+  {
+    "id": "rin-cheek-squeeze",
+    "character": "rin",
+    "name": "Cheek Squeeze",
+    "action": "Cheek Squeeze",
+    "variant": "",
+    "tags": [
+      "cheek",
+      "squeeze",
+      "pinch",
+      "squish",
+      "cute"
+    ],
+    "filename": "Cheek Squeeze.gif",
+    "url": "/emotes/rin/Cheek%20Squeeze.gif",
+    "localUrl": "/emotes/rin/Cheek%20Squeeze.gif"
   },
   {
     "id": "rin-cheer",
@@ -3790,6 +7106,22 @@
     "filename": "Cry 3.gif",
     "url": "/emotes/rin/Cry%203.gif",
     "localUrl": "/emotes/rin/Cry%203.gif"
+  },
+  {
+    "id": "rin-cut-scissors",
+    "character": "rin",
+    "name": "Cut (Scissors)",
+    "action": "Cut",
+    "variant": "Scissors",
+    "tags": [
+      "cut",
+      "scissors",
+      "snip",
+      "craft"
+    ],
+    "filename": "Cut (Scissors).gif",
+    "url": "/emotes/rin/Cut%20(Scissors).gif",
+    "localUrl": "/emotes/rin/Cut%20(Scissors).gif"
   },
   {
     "id": "rin-dance-caramelldansen",
@@ -4358,6 +7690,22 @@
     "localUrl": "/emotes/rin/Gift%202.gif"
   },
   {
+    "id": "rin-gift-3",
+    "character": "rin",
+    "name": "Gift (3)",
+    "action": "Gift",
+    "variant": "3",
+    "tags": [
+      "gift",
+      "3",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 3.gif",
+    "url": "/emotes/rin/Gift%203.gif",
+    "localUrl": "/emotes/rin/Gift%203.gif"
+  },
+  {
     "id": "rin-greeting-1",
     "character": "rin",
     "name": "Greeting (1)",
@@ -4584,6 +7932,57 @@
     "filename": "Lightstick 2.gif",
     "url": "/emotes/rin/Lightstick%202.gif",
     "localUrl": "/emotes/rin/Lightstick%202.gif"
+  },
+  {
+    "id": "rin-loading-cup",
+    "character": "rin",
+    "name": "Loading (Cup)",
+    "action": "Loading",
+    "variant": "Cup",
+    "tags": [
+      "loading",
+      "cup",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Cup).gif",
+    "url": "/emotes/rin/Loading%20(Cup).gif",
+    "localUrl": "/emotes/rin/Loading%20(Cup).gif"
+  },
+  {
+    "id": "rin-loading-mug",
+    "character": "rin",
+    "name": "Loading (Mug)",
+    "action": "Loading",
+    "variant": "Mug",
+    "tags": [
+      "loading",
+      "mug",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Mug).gif",
+    "url": "/emotes/rin/Loading%20(Mug).gif",
+    "localUrl": "/emotes/rin/Loading%20(Mug).gif"
+  },
+  {
+    "id": "rin-loading-sleep",
+    "character": "rin",
+    "name": "Loading (Sleep)",
+    "action": "Loading",
+    "variant": "Sleep",
+    "tags": [
+      "loading",
+      "sleep",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Sleep).gif",
+    "url": "/emotes/rin/Loading%20(Sleep).gif",
+    "localUrl": "/emotes/rin/Loading%20(Sleep).gif"
   },
   {
     "id": "rin-lurk-1",
@@ -4872,6 +8271,23 @@
     "localUrl": "/emotes/rin/Paid%20Break%20(Hard%20Mode).gif"
   },
   {
+    "id": "rin-pat-2",
+    "character": "rin",
+    "name": "Pat (2)",
+    "action": "Pat",
+    "variant": "2",
+    "tags": [
+      "pat",
+      "2",
+      "pet",
+      "headpat",
+      "cute"
+    ],
+    "filename": "Pat 2.gif",
+    "url": "/emotes/rin/Pat%202.gif",
+    "localUrl": "/emotes/rin/Pat%202.gif"
+  },
+  {
     "id": "rin-pat",
     "character": "rin",
     "name": "Pat",
@@ -4991,6 +8407,22 @@
     "filename": "Popcat Smooth.gif",
     "url": "/emotes/rin/Popcat%20Smooth.gif",
     "localUrl": "/emotes/rin/Popcat%20Smooth.gif"
+  },
+  {
+    "id": "rin-press",
+    "character": "rin",
+    "name": "Press",
+    "action": "Press",
+    "variant": "",
+    "tags": [
+      "press",
+      "push",
+      "squish",
+      "interact"
+    ],
+    "filename": "Press.gif",
+    "url": "/emotes/rin/Press.gif",
+    "localUrl": "/emotes/rin/Press.gif"
   },
   {
     "id": "rin-question",
@@ -5551,6 +8983,57 @@
     "localUrl": "/emotes/rin/Tape.gif"
   },
   {
+    "id": "rin-tea-1",
+    "character": "rin",
+    "name": "Tea (1)",
+    "action": "Tea",
+    "variant": "1",
+    "tags": [
+      "tea",
+      "1",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 1.gif",
+    "url": "/emotes/rin/Tea%201.gif",
+    "localUrl": "/emotes/rin/Tea%201.gif"
+  },
+  {
+    "id": "rin-tea-2",
+    "character": "rin",
+    "name": "Tea (2)",
+    "action": "Tea",
+    "variant": "2",
+    "tags": [
+      "tea",
+      "2",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 2.gif",
+    "url": "/emotes/rin/Tea%202.gif",
+    "localUrl": "/emotes/rin/Tea%202.gif"
+  },
+  {
+    "id": "rin-tea-3",
+    "character": "rin",
+    "name": "Tea (3)",
+    "action": "Tea",
+    "variant": "3",
+    "tags": [
+      "tea",
+      "3",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 3.gif",
+    "url": "/emotes/rin/Tea%203.gif",
+    "localUrl": "/emotes/rin/Tea%203.gif"
+  },
+  {
     "id": "rin-think-confident",
     "character": "rin",
     "name": "Think (Confident)",
@@ -5645,6 +9128,66 @@
     "localUrl": "/emotes/rin/This%20Is%20Fine%203.gif"
   },
   {
+    "id": "rin-this-is-fine-4",
+    "character": "rin",
+    "name": "This Is Fine (4)",
+    "action": "This Is Fine",
+    "variant": "4",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "4",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 4.gif",
+    "url": "/emotes/rin/This%20Is%20Fine%204.gif",
+    "localUrl": "/emotes/rin/This%20Is%20Fine%204.gif"
+  },
+  {
+    "id": "rin-this-is-fine-5",
+    "character": "rin",
+    "name": "This Is Fine (5)",
+    "action": "This Is Fine",
+    "variant": "5",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "5",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 5.gif",
+    "url": "/emotes/rin/This%20Is%20Fine%205.gif",
+    "localUrl": "/emotes/rin/This%20Is%20Fine%205.gif"
+  },
+  {
+    "id": "rin-this-is-fine-6",
+    "character": "rin",
+    "name": "This Is Fine (6)",
+    "action": "This Is Fine",
+    "variant": "6",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "6",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 6.gif",
+    "url": "/emotes/rin/This%20Is%20Fine%206.gif",
+    "localUrl": "/emotes/rin/This%20Is%20Fine%206.gif"
+  },
+  {
     "id": "rin-thumb-down",
     "character": "rin",
     "name": "Thumb Down",
@@ -5677,6 +9220,24 @@
     "filename": "Thumb Up.gif",
     "url": "/emotes/rin/Thumb%20Up.gif",
     "localUrl": "/emotes/rin/Thumb%20Up.gif"
+  },
+  {
+    "id": "rin-trophy-1",
+    "character": "rin",
+    "name": "Trophy (1)",
+    "action": "Trophy",
+    "variant": "1",
+    "tags": [
+      "trophy",
+      "1",
+      "winner",
+      "win",
+      "award",
+      "victory"
+    ],
+    "filename": "Trophy 1.gif",
+    "url": "/emotes/rin/Trophy%201.gif",
+    "localUrl": "/emotes/rin/Trophy%201.gif"
   },
   {
     "id": "rin-type-angry",
@@ -5790,6 +9351,22 @@
     "filename": "Work Tired.gif",
     "url": "/emotes/rin/Work%20Tired.gif",
     "localUrl": "/emotes/rin/Work%20Tired.gif"
+  },
+  {
+    "id": "rin-yay",
+    "character": "rin",
+    "name": "Yay",
+    "action": "Yay",
+    "variant": "",
+    "tags": [
+      "yay",
+      "cheer",
+      "celebrate",
+      "happy"
+    ],
+    "filename": "Yay.gif",
+    "url": "/emotes/rin/Yay.gif",
+    "localUrl": "/emotes/rin/Yay.gif"
   },
   {
     "id": "sanae-alert-bits",
@@ -8423,6 +12000,78 @@
     "localUrl": "/emotes/shinki/Bell.gif"
   },
   {
+    "id": "shinki-blep-1",
+    "character": "shinki",
+    "name": "Blep (1)",
+    "action": "Blep",
+    "variant": "1",
+    "tags": [
+      "blep",
+      "1",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 1.gif",
+    "url": "/emotes/shinki/Blep%201.gif",
+    "localUrl": "/emotes/shinki/Blep%201.gif"
+  },
+  {
+    "id": "shinki-blep-2",
+    "character": "shinki",
+    "name": "Blep (2)",
+    "action": "Blep",
+    "variant": "2",
+    "tags": [
+      "blep",
+      "2",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 2.gif",
+    "url": "/emotes/shinki/Blep%202.gif",
+    "localUrl": "/emotes/shinki/Blep%202.gif"
+  },
+  {
+    "id": "shinki-blep-3",
+    "character": "shinki",
+    "name": "Blep (3)",
+    "action": "Blep",
+    "variant": "3",
+    "tags": [
+      "blep",
+      "3",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 3.gif",
+    "url": "/emotes/shinki/Blep%203.gif",
+    "localUrl": "/emotes/shinki/Blep%203.gif"
+  },
+  {
+    "id": "shinki-blep-4",
+    "character": "shinki",
+    "name": "Blep (4)",
+    "action": "Blep",
+    "variant": "4",
+    "tags": [
+      "blep",
+      "4",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 4.gif",
+    "url": "/emotes/shinki/Blep%204.gif",
+    "localUrl": "/emotes/shinki/Blep%204.gif"
+  },
+  {
     "id": "shinki-bonk",
     "character": "shinki",
     "name": "Bonk",
@@ -8436,6 +12085,22 @@
     "filename": "Bonk.gif",
     "url": "/emotes/shinki/Bonk.gif",
     "localUrl": "/emotes/shinki/Bonk.gif"
+  },
+  {
+    "id": "shinki-boop",
+    "character": "shinki",
+    "name": "Boop",
+    "action": "Boop",
+    "variant": "",
+    "tags": [
+      "boop",
+      "nose",
+      "poke",
+      "cute"
+    ],
+    "filename": "Boop.gif",
+    "url": "/emotes/shinki/Boop.gif",
+    "localUrl": "/emotes/shinki/Boop.gif"
   },
   {
     "id": "shinki-bug",
@@ -8452,6 +12117,23 @@
     "filename": "Bug.gif",
     "url": "/emotes/shinki/Bug.gif",
     "localUrl": "/emotes/shinki/Bug.gif"
+  },
+  {
+    "id": "shinki-button-punch",
+    "character": "shinki",
+    "name": "Button (Punch)",
+    "action": "Button",
+    "variant": "Punch",
+    "tags": [
+      "button",
+      "punch",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button (Punch).gif",
+    "url": "/emotes/shinki/Button%20(Punch).gif",
+    "localUrl": "/emotes/shinki/Button%20(Punch).gif"
   },
   {
     "id": "shinki-button",
@@ -8569,6 +12251,23 @@
     "filename": "Celebration.gif",
     "url": "/emotes/shinki/Celebration.gif",
     "localUrl": "/emotes/shinki/Celebration.gif"
+  },
+  {
+    "id": "shinki-cheek-squeeze",
+    "character": "shinki",
+    "name": "Cheek Squeeze",
+    "action": "Cheek Squeeze",
+    "variant": "",
+    "tags": [
+      "cheek",
+      "squeeze",
+      "pinch",
+      "squish",
+      "cute"
+    ],
+    "filename": "Cheek Squeeze.gif",
+    "url": "/emotes/shinki/Cheek%20Squeeze.gif",
+    "localUrl": "/emotes/shinki/Cheek%20Squeeze.gif"
   },
   {
     "id": "shinki-cheer",
@@ -8770,6 +12469,22 @@
     "filename": "Cry 3.gif",
     "url": "/emotes/shinki/Cry%203.gif",
     "localUrl": "/emotes/shinki/Cry%203.gif"
+  },
+  {
+    "id": "shinki-cut-scissors",
+    "character": "shinki",
+    "name": "Cut (Scissors)",
+    "action": "Cut",
+    "variant": "Scissors",
+    "tags": [
+      "cut",
+      "scissors",
+      "snip",
+      "craft"
+    ],
+    "filename": "Cut (Scissors).gif",
+    "url": "/emotes/shinki/Cut%20(Scissors).gif",
+    "localUrl": "/emotes/shinki/Cut%20(Scissors).gif"
   },
   {
     "id": "shinki-dance-caramelldansen",
@@ -9278,6 +12993,22 @@
     "localUrl": "/emotes/shinki/Get%20Hit%20(Slipper).gif"
   },
   {
+    "id": "shinki-gift-3",
+    "character": "shinki",
+    "name": "Gift (3)",
+    "action": "Gift",
+    "variant": "3",
+    "tags": [
+      "gift",
+      "3",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 3.gif",
+    "url": "/emotes/shinki/Gift%203.gif",
+    "localUrl": "/emotes/shinki/Gift%203.gif"
+  },
+  {
     "id": "shinki-greeting-1",
     "character": "shinki",
     "name": "Greeting (1)",
@@ -9506,6 +13237,57 @@
     "filename": "Lightstick 2.gif",
     "url": "/emotes/shinki/Lightstick%202.gif",
     "localUrl": "/emotes/shinki/Lightstick%202.gif"
+  },
+  {
+    "id": "shinki-loading-cup",
+    "character": "shinki",
+    "name": "Loading (Cup)",
+    "action": "Loading",
+    "variant": "Cup",
+    "tags": [
+      "loading",
+      "cup",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Cup).gif",
+    "url": "/emotes/shinki/Loading%20(Cup).gif",
+    "localUrl": "/emotes/shinki/Loading%20(Cup).gif"
+  },
+  {
+    "id": "shinki-loading-mug",
+    "character": "shinki",
+    "name": "Loading (Mug)",
+    "action": "Loading",
+    "variant": "Mug",
+    "tags": [
+      "loading",
+      "mug",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Mug).gif",
+    "url": "/emotes/shinki/Loading%20(Mug).gif",
+    "localUrl": "/emotes/shinki/Loading%20(Mug).gif"
+  },
+  {
+    "id": "shinki-loading-sleep",
+    "character": "shinki",
+    "name": "Loading (Sleep)",
+    "action": "Loading",
+    "variant": "Sleep",
+    "tags": [
+      "loading",
+      "sleep",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Sleep).gif",
+    "url": "/emotes/shinki/Loading%20(Sleep).gif",
+    "localUrl": "/emotes/shinki/Loading%20(Sleep).gif"
   },
   {
     "id": "shinki-love-letter",
@@ -9810,6 +13592,23 @@
     "localUrl": "/emotes/shinki/Paid%20Break%20(Hard%20Mode).gif"
   },
   {
+    "id": "shinki-pat-2",
+    "character": "shinki",
+    "name": "Pat (2)",
+    "action": "Pat",
+    "variant": "2",
+    "tags": [
+      "pat",
+      "2",
+      "pet",
+      "headpat",
+      "cute"
+    ],
+    "filename": "Pat 2.gif",
+    "url": "/emotes/shinki/Pat%202.gif",
+    "localUrl": "/emotes/shinki/Pat%202.gif"
+  },
+  {
     "id": "shinki-pat",
     "character": "shinki",
     "name": "Pat",
@@ -9964,6 +13763,22 @@
     "localUrl": "/emotes/shinki/Popcat%20Smooth.gif"
   },
   {
+    "id": "shinki-press",
+    "character": "shinki",
+    "name": "Press",
+    "action": "Press",
+    "variant": "",
+    "tags": [
+      "press",
+      "push",
+      "squish",
+      "interact"
+    ],
+    "filename": "Press.gif",
+    "url": "/emotes/shinki/Press.gif",
+    "localUrl": "/emotes/shinki/Press.gif"
+  },
+  {
     "id": "shinki-question",
     "character": "shinki",
     "name": "Question",
@@ -10062,6 +13877,23 @@
     "filename": "Rose.gif",
     "url": "/emotes/shinki/Rose.gif",
     "localUrl": "/emotes/shinki/Rose.gif"
+  },
+  {
+    "id": "shinki-rub-1",
+    "character": "shinki",
+    "name": "Rub (1)",
+    "action": "Rub",
+    "variant": "1",
+    "tags": [
+      "rub",
+      "1",
+      "pet",
+      "comfort",
+      "cute"
+    ],
+    "filename": "Rub 1.gif",
+    "url": "/emotes/shinki/Rub%201.gif",
+    "localUrl": "/emotes/shinki/Rub%201.gif"
   },
   {
     "id": "shinki-score-0-point",
@@ -10491,6 +14323,57 @@
     "localUrl": "/emotes/shinki/Tape.gif"
   },
   {
+    "id": "shinki-tea-1",
+    "character": "shinki",
+    "name": "Tea (1)",
+    "action": "Tea",
+    "variant": "1",
+    "tags": [
+      "tea",
+      "1",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 1.gif",
+    "url": "/emotes/shinki/Tea%201.gif",
+    "localUrl": "/emotes/shinki/Tea%201.gif"
+  },
+  {
+    "id": "shinki-tea-2",
+    "character": "shinki",
+    "name": "Tea (2)",
+    "action": "Tea",
+    "variant": "2",
+    "tags": [
+      "tea",
+      "2",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 2.gif",
+    "url": "/emotes/shinki/Tea%202.gif",
+    "localUrl": "/emotes/shinki/Tea%202.gif"
+  },
+  {
+    "id": "shinki-tea-3",
+    "character": "shinki",
+    "name": "Tea (3)",
+    "action": "Tea",
+    "variant": "3",
+    "tags": [
+      "tea",
+      "3",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 3.gif",
+    "url": "/emotes/shinki/Tea%203.gif",
+    "localUrl": "/emotes/shinki/Tea%203.gif"
+  },
+  {
     "id": "shinki-think-confident",
     "character": "shinki",
     "name": "Think (Confident)",
@@ -10583,6 +14466,66 @@
     "filename": "This Is Fine 3.gif",
     "url": "/emotes/shinki/This%20Is%20Fine%203.gif",
     "localUrl": "/emotes/shinki/This%20Is%20Fine%203.gif"
+  },
+  {
+    "id": "shinki-this-is-fine-4",
+    "character": "shinki",
+    "name": "This Is Fine (4)",
+    "action": "This Is Fine",
+    "variant": "4",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "4",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 4.gif",
+    "url": "/emotes/shinki/This%20Is%20Fine%204.gif",
+    "localUrl": "/emotes/shinki/This%20Is%20Fine%204.gif"
+  },
+  {
+    "id": "shinki-this-is-fine-5",
+    "character": "shinki",
+    "name": "This Is Fine (5)",
+    "action": "This Is Fine",
+    "variant": "5",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "5",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 5.gif",
+    "url": "/emotes/shinki/This%20Is%20Fine%205.gif",
+    "localUrl": "/emotes/shinki/This%20Is%20Fine%205.gif"
+  },
+  {
+    "id": "shinki-this-is-fine-6",
+    "character": "shinki",
+    "name": "This Is Fine (6)",
+    "action": "This Is Fine",
+    "variant": "6",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "6",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 6.gif",
+    "url": "/emotes/shinki/This%20Is%20Fine%206.gif",
+    "localUrl": "/emotes/shinki/This%20Is%20Fine%206.gif"
   },
   {
     "id": "shinki-thumb-down",
@@ -10681,6 +14624,24 @@
     "filename": "TrashTuber Yap.gif",
     "url": "/emotes/shinki/TrashTuber%20Yap.gif",
     "localUrl": "/emotes/shinki/TrashTuber%20Yap.gif"
+  },
+  {
+    "id": "shinki-trophy-1",
+    "character": "shinki",
+    "name": "Trophy (1)",
+    "action": "Trophy",
+    "variant": "1",
+    "tags": [
+      "trophy",
+      "1",
+      "winner",
+      "win",
+      "award",
+      "victory"
+    ],
+    "filename": "Trophy 1.gif",
+    "url": "/emotes/shinki/Trophy%201.gif",
+    "localUrl": "/emotes/shinki/Trophy%201.gif"
   },
   {
     "id": "shinki-type-angry",
@@ -10794,5 +14755,21 @@
     "filename": "Work Tired.gif",
     "url": "/emotes/shinki/Work%20Tired.gif",
     "localUrl": "/emotes/shinki/Work%20Tired.gif"
+  },
+  {
+    "id": "shinki-yay",
+    "character": "shinki",
+    "name": "Yay",
+    "action": "Yay",
+    "variant": "",
+    "tags": [
+      "yay",
+      "cheer",
+      "celebrate",
+      "happy"
+    ],
+    "filename": "Yay.gif",
+    "url": "/emotes/shinki/Yay.gif",
+    "localUrl": "/emotes/shinki/Yay.gif"
   }
 ]
