@@ -105,7 +105,7 @@ GIFs are too large for GitHub (500MB+). They're stored on **Cloudflare R2** (10G
 3. Enable public access for your bucket under **Settings** → **Public Access** → allow `r2.dev` subdomain
 4. Note your public URL (e.g. `https://pub-xxxxxxxxxxxxxxxxxxxxx.r2.dev`)
 
-### 2. Upload GIFs to R2
+### 2. Upload GIFs to R2 
 
 Copy `.env.example` to `.env` and fill in your R2 credentials, then:
 
