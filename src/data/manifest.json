@@ -6397,6 +6397,3158 @@
     "localUrl": "/emotes/marisa/Yay.gif"
   },
   {
+    "id": "patchouli-alert-bits",
+    "character": "patchouli",
+    "name": "Alert Bits",
+    "action": "Alert Bits",
+    "variant": "",
+    "tags": [
+      "alert",
+      "bits",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Bits.gif",
+    "url": "/emotes/patchouli/Alert%20Bits.gif",
+    "localUrl": "/emotes/patchouli/Alert%20Bits.gif"
+  },
+  {
+    "id": "patchouli-alert-custom",
+    "character": "patchouli",
+    "name": "Alert Custom",
+    "action": "Alert Custom",
+    "variant": "",
+    "tags": [
+      "alert",
+      "custom"
+    ],
+    "filename": "Alert Custom.gif",
+    "url": "/emotes/patchouli/Alert%20Custom.gif",
+    "localUrl": "/emotes/patchouli/Alert%20Custom.gif"
+  },
+  {
+    "id": "patchouli-alert-donation",
+    "character": "patchouli",
+    "name": "Alert Donation",
+    "action": "Alert Donation",
+    "variant": "",
+    "tags": [
+      "alert",
+      "donation",
+      "donate",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Donation.gif",
+    "url": "/emotes/patchouli/Alert%20Donation.gif",
+    "localUrl": "/emotes/patchouli/Alert%20Donation.gif"
+  },
+  {
+    "id": "patchouli-alert-heart",
+    "character": "patchouli",
+    "name": "Alert Heart",
+    "action": "Alert Heart",
+    "variant": "",
+    "tags": [
+      "alert",
+      "heart",
+      "love",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Heart.gif",
+    "url": "/emotes/patchouli/Alert%20Heart.gif",
+    "localUrl": "/emotes/patchouli/Alert%20Heart.gif"
+  },
+  {
+    "id": "patchouli-alert-like",
+    "character": "patchouli",
+    "name": "Alert Like",
+    "action": "Alert Like",
+    "variant": "",
+    "tags": [
+      "alert",
+      "like",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Like.gif",
+    "url": "/emotes/patchouli/Alert%20Like.gif",
+    "localUrl": "/emotes/patchouli/Alert%20Like.gif"
+  },
+  {
+    "id": "patchouli-alert-star",
+    "character": "patchouli",
+    "name": "Alert Star",
+    "action": "Alert Star",
+    "variant": "",
+    "tags": [
+      "alert",
+      "star",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Alert Star.gif",
+    "url": "/emotes/patchouli/Alert%20Star.gif",
+    "localUrl": "/emotes/patchouli/Alert%20Star.gif"
+  },
+  {
+    "id": "patchouli-angry",
+    "character": "patchouli",
+    "name": "Angry",
+    "action": "Angry",
+    "variant": "",
+    "tags": [
+      "angry",
+      "mad",
+      "rage",
+      "upset",
+      "furious"
+    ],
+    "filename": "Angry.gif",
+    "url": "/emotes/patchouli/Angry.gif",
+    "localUrl": "/emotes/patchouli/Angry.gif"
+  },
+  {
+    "id": "patchouli-arrive-with-chopstick",
+    "character": "patchouli",
+    "name": "Arrive (with Chopstick)",
+    "action": "Arrive",
+    "variant": "with Chopstick",
+    "tags": [
+      "arrive",
+      "with",
+      "chopstick",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive (with Chopstick).gif",
+    "url": "/emotes/patchouli/Arrive%20(with%20Chopstick).gif",
+    "localUrl": "/emotes/patchouli/Arrive%20(with%20Chopstick).gif"
+  },
+  {
+    "id": "patchouli-arrive-with-spoon",
+    "character": "patchouli",
+    "name": "Arrive (with Spoon)",
+    "action": "Arrive",
+    "variant": "with Spoon",
+    "tags": [
+      "arrive",
+      "with",
+      "spoon",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive (with Spoon).gif",
+    "url": "/emotes/patchouli/Arrive%20(with%20Spoon).gif",
+    "localUrl": "/emotes/patchouli/Arrive%20(with%20Spoon).gif"
+  },
+  {
+    "id": "patchouli-arrive",
+    "character": "patchouli",
+    "name": "Arrive",
+    "action": "Arrive",
+    "variant": "",
+    "tags": [
+      "arrive",
+      "enter",
+      "entrance",
+      "welcome",
+      "hello"
+    ],
+    "filename": "Arrive.gif",
+    "url": "/emotes/patchouli/Arrive.gif",
+    "localUrl": "/emotes/patchouli/Arrive.gif"
+  },
+  {
+    "id": "patchouli-bell",
+    "character": "patchouli",
+    "name": "Bell",
+    "action": "Bell",
+    "variant": "",
+    "tags": [
+      "bell",
+      "ring",
+      "notification"
+    ],
+    "filename": "Bell.gif",
+    "url": "/emotes/patchouli/Bell.gif",
+    "localUrl": "/emotes/patchouli/Bell.gif"
+  },
+  {
+    "id": "patchouli-blep-1",
+    "character": "patchouli",
+    "name": "Blep (1)",
+    "action": "Blep",
+    "variant": "1",
+    "tags": [
+      "blep",
+      "1",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 1.gif",
+    "url": "/emotes/patchouli/Blep%201.gif",
+    "localUrl": "/emotes/patchouli/Blep%201.gif"
+  },
+  {
+    "id": "patchouli-blep-2",
+    "character": "patchouli",
+    "name": "Blep (2)",
+    "action": "Blep",
+    "variant": "2",
+    "tags": [
+      "blep",
+      "2",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 2.gif",
+    "url": "/emotes/patchouli/Blep%202.gif",
+    "localUrl": "/emotes/patchouli/Blep%202.gif"
+  },
+  {
+    "id": "patchouli-blep-3",
+    "character": "patchouli",
+    "name": "Blep (3)",
+    "action": "Blep",
+    "variant": "3",
+    "tags": [
+      "blep",
+      "3",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 3.gif",
+    "url": "/emotes/patchouli/Blep%203.gif",
+    "localUrl": "/emotes/patchouli/Blep%203.gif"
+  },
+  {
+    "id": "patchouli-blep-4",
+    "character": "patchouli",
+    "name": "Blep (4)",
+    "action": "Blep",
+    "variant": "4",
+    "tags": [
+      "blep",
+      "4",
+      "tongue",
+      "tease",
+      "silly",
+      "cute"
+    ],
+    "filename": "Blep 4.gif",
+    "url": "/emotes/patchouli/Blep%204.gif",
+    "localUrl": "/emotes/patchouli/Blep%204.gif"
+  },
+  {
+    "id": "patchouli-bonk",
+    "character": "patchouli",
+    "name": "Bonk",
+    "action": "Bonk",
+    "variant": "",
+    "tags": [
+      "bonk",
+      "hit",
+      "joke"
+    ],
+    "filename": "Bonk.gif",
+    "url": "/emotes/patchouli/Bonk.gif",
+    "localUrl": "/emotes/patchouli/Bonk.gif"
+  },
+  {
+    "id": "patchouli-boop",
+    "character": "patchouli",
+    "name": "Boop",
+    "action": "Boop",
+    "variant": "",
+    "tags": [
+      "boop",
+      "nose",
+      "poke",
+      "cute"
+    ],
+    "filename": "Boop.gif",
+    "url": "/emotes/patchouli/Boop.gif",
+    "localUrl": "/emotes/patchouli/Boop.gif"
+  },
+  {
+    "id": "patchouli-bug",
+    "character": "patchouli",
+    "name": "Bug",
+    "action": "Bug",
+    "variant": "",
+    "tags": [
+      "bug",
+      "error",
+      "glitch",
+      "insect"
+    ],
+    "filename": "Bug.gif",
+    "url": "/emotes/patchouli/Bug.gif",
+    "localUrl": "/emotes/patchouli/Bug.gif"
+  },
+  {
+    "id": "patchouli-button-punch",
+    "character": "patchouli",
+    "name": "Button (Punch)",
+    "action": "Button",
+    "variant": "Punch",
+    "tags": [
+      "button",
+      "punch",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button (Punch).gif",
+    "url": "/emotes/patchouli/Button%20(Punch).gif",
+    "localUrl": "/emotes/patchouli/Button%20(Punch).gif"
+  },
+  {
+    "id": "patchouli-button",
+    "character": "patchouli",
+    "name": "Button",
+    "action": "Button",
+    "variant": "",
+    "tags": [
+      "button",
+      "press",
+      "click",
+      "interact"
+    ],
+    "filename": "Button.gif",
+    "url": "/emotes/patchouli/Button.gif",
+    "localUrl": "/emotes/patchouli/Button.gif"
+  },
+  {
+    "id": "patchouli-cake",
+    "character": "patchouli",
+    "name": "Cake",
+    "action": "Cake",
+    "variant": "",
+    "tags": [
+      "cake",
+      "birthday",
+      "celebrate",
+      "food"
+    ],
+    "filename": "Cake.gif",
+    "url": "/emotes/patchouli/Cake.gif",
+    "localUrl": "/emotes/patchouli/Cake.gif"
+  },
+  {
+    "id": "patchouli-card-swipe",
+    "character": "patchouli",
+    "name": "Card Swipe",
+    "action": "Card Swipe",
+    "variant": "",
+    "tags": [
+      "card",
+      "swipe",
+      "credit",
+      "payment"
+    ],
+    "filename": "Card Swipe.gif",
+    "url": "/emotes/patchouli/Card%20Swipe.gif",
+    "localUrl": "/emotes/patchouli/Card%20Swipe.gif"
+  },
+  {
+    "id": "patchouli-caught-in-4k-phone",
+    "character": "patchouli",
+    "name": "Caught in 4K (Phone)",
+    "action": "Caught in 4K",
+    "variant": "Phone",
+    "tags": [
+      "caught",
+      "in",
+      "4k",
+      "phone",
+      "exposed",
+      "camera",
+      "evidence"
+    ],
+    "filename": "Caught in 4K (Phone).gif",
+    "url": "/emotes/patchouli/Caught%20in%204K%20(Phone).gif",
+    "localUrl": "/emotes/patchouli/Caught%20in%204K%20(Phone).gif"
+  },
+  {
+    "id": "patchouli-caught-in-4k-video-camera",
+    "character": "patchouli",
+    "name": "Caught in 4K (Video Camera)",
+    "action": "Caught in 4K",
+    "variant": "Video Camera",
+    "tags": [
+      "caught",
+      "in",
+      "4k",
+      "video",
+      "camera",
+      "exposed",
+      "evidence"
+    ],
+    "filename": "Caught in 4K (Video Camera).gif",
+    "url": "/emotes/patchouli/Caught%20in%204K%20(Video%20Camera).gif",
+    "localUrl": "/emotes/patchouli/Caught%20in%204K%20(Video%20Camera).gif"
+  },
+  {
+    "id": "patchouli-celebration",
+    "character": "patchouli",
+    "name": "Celebration",
+    "action": "Celebration",
+    "variant": "",
+    "tags": [
+      "celebration",
+      "celebrate",
+      "party",
+      "yay",
+      "confetti"
+    ],
+    "filename": "Celebration.gif",
+    "url": "/emotes/patchouli/Celebration.gif",
+    "localUrl": "/emotes/patchouli/Celebration.gif"
+  },
+  {
+    "id": "patchouli-cheek-squeeze",
+    "character": "patchouli",
+    "name": "Cheek Squeeze",
+    "action": "Cheek Squeeze",
+    "variant": "",
+    "tags": [
+      "cheek",
+      "squeeze",
+      "pinch",
+      "squish",
+      "cute"
+    ],
+    "filename": "Cheek Squeeze.gif",
+    "url": "/emotes/patchouli/Cheek%20Squeeze.gif",
+    "localUrl": "/emotes/patchouli/Cheek%20Squeeze.gif"
+  },
+  {
+    "id": "patchouli-cheer",
+    "character": "patchouli",
+    "name": "Cheer",
+    "action": "Cheer",
+    "variant": "",
+    "tags": [
+      "cheer",
+      "celebrate",
+      "yay",
+      "happy"
+    ],
+    "filename": "Cheer.gif",
+    "url": "/emotes/patchouli/Cheer.gif",
+    "localUrl": "/emotes/patchouli/Cheer.gif"
+  },
+  {
+    "id": "patchouli-cheers",
+    "character": "patchouli",
+    "name": "Cheers",
+    "action": "Cheers",
+    "variant": "",
+    "tags": [
+      "cheers",
+      "toast",
+      "drink",
+      "celebrate"
+    ],
+    "filename": "Cheers.gif",
+    "url": "/emotes/patchouli/Cheers.gif",
+    "localUrl": "/emotes/patchouli/Cheers.gif"
+  },
+  {
+    "id": "patchouli-cheese-slap",
+    "character": "patchouli",
+    "name": "Cheese Slap",
+    "action": "Cheese Slap",
+    "variant": "",
+    "tags": [
+      "cheese",
+      "slap",
+      "funny"
+    ],
+    "filename": "Cheese Slap.gif",
+    "url": "/emotes/patchouli/Cheese%20Slap.gif",
+    "localUrl": "/emotes/patchouli/Cheese%20Slap.gif"
+  },
+  {
+    "id": "patchouli-clown-1",
+    "character": "patchouli",
+    "name": "Clown (1)",
+    "action": "Clown",
+    "variant": "1",
+    "tags": [
+      "clown",
+      "1",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 1.gif",
+    "url": "/emotes/patchouli/Clown%201.gif",
+    "localUrl": "/emotes/patchouli/Clown%201.gif"
+  },
+  {
+    "id": "patchouli-clown-2",
+    "character": "patchouli",
+    "name": "Clown (2)",
+    "action": "Clown",
+    "variant": "2",
+    "tags": [
+      "clown",
+      "2",
+      "joke",
+      "funny",
+      "circus"
+    ],
+    "filename": "Clown 2.gif",
+    "url": "/emotes/patchouli/Clown%202.gif",
+    "localUrl": "/emotes/patchouli/Clown%202.gif"
+  },
+  {
+    "id": "patchouli-coke-shake",
+    "character": "patchouli",
+    "name": "Coke Shake",
+    "action": "Coke Shake",
+    "variant": "",
+    "tags": [
+      "coke",
+      "shake",
+      "cola",
+      "drink",
+      "funny"
+    ],
+    "filename": "Coke Shake.gif",
+    "url": "/emotes/patchouli/Coke%20Shake.gif",
+    "localUrl": "/emotes/patchouli/Coke%20Shake.gif"
+  },
+  {
+    "id": "patchouli-copium",
+    "character": "patchouli",
+    "name": "Copium",
+    "action": "Copium",
+    "variant": "",
+    "tags": [
+      "copium",
+      "cope",
+      "sad",
+      "cry",
+      "denial"
+    ],
+    "filename": "Copium.gif",
+    "url": "/emotes/patchouli/Copium.gif",
+    "localUrl": "/emotes/patchouli/Copium.gif"
+  },
+  {
+    "id": "patchouli-crowbar-1",
+    "character": "patchouli",
+    "name": "Crowbar (1)",
+    "action": "Crowbar",
+    "variant": "1",
+    "tags": [
+      "crowbar",
+      "1",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 1.gif",
+    "url": "/emotes/patchouli/Crowbar%201.gif",
+    "localUrl": "/emotes/patchouli/Crowbar%201.gif"
+  },
+  {
+    "id": "patchouli-crowbar-2",
+    "character": "patchouli",
+    "name": "Crowbar (2)",
+    "action": "Crowbar",
+    "variant": "2",
+    "tags": [
+      "crowbar",
+      "2",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 2.gif",
+    "url": "/emotes/patchouli/Crowbar%202.gif",
+    "localUrl": "/emotes/patchouli/Crowbar%202.gif"
+  },
+  {
+    "id": "patchouli-crowbar-3",
+    "character": "patchouli",
+    "name": "Crowbar (3)",
+    "action": "Crowbar",
+    "variant": "3",
+    "tags": [
+      "crowbar",
+      "3",
+      "weapon",
+      "hit",
+      "bonk"
+    ],
+    "filename": "Crowbar 3.gif",
+    "url": "/emotes/patchouli/Crowbar%203.gif",
+    "localUrl": "/emotes/patchouli/Crowbar%203.gif"
+  },
+  {
+    "id": "patchouli-cry-1",
+    "character": "patchouli",
+    "name": "Cry (1)",
+    "action": "Cry",
+    "variant": "1",
+    "tags": [
+      "cry",
+      "1",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 1.gif",
+    "url": "/emotes/patchouli/Cry%201.gif",
+    "localUrl": "/emotes/patchouli/Cry%201.gif"
+  },
+  {
+    "id": "patchouli-cry-2",
+    "character": "patchouli",
+    "name": "Cry (2)",
+    "action": "Cry",
+    "variant": "2",
+    "tags": [
+      "cry",
+      "2",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 2.gif",
+    "url": "/emotes/patchouli/Cry%202.gif",
+    "localUrl": "/emotes/patchouli/Cry%202.gif"
+  },
+  {
+    "id": "patchouli-cry-3",
+    "character": "patchouli",
+    "name": "Cry (3)",
+    "action": "Cry",
+    "variant": "3",
+    "tags": [
+      "cry",
+      "3",
+      "sad",
+      "tears",
+      "upset"
+    ],
+    "filename": "Cry 3.gif",
+    "url": "/emotes/patchouli/Cry%203.gif",
+    "localUrl": "/emotes/patchouli/Cry%203.gif"
+  },
+  {
+    "id": "patchouli-cut-scissors",
+    "character": "patchouli",
+    "name": "Cut (Scissors)",
+    "action": "Cut",
+    "variant": "Scissors",
+    "tags": [
+      "cut",
+      "scissors",
+      "snip",
+      "craft"
+    ],
+    "filename": "Cut (Scissors).gif",
+    "url": "/emotes/patchouli/Cut%20(Scissors).gif",
+    "localUrl": "/emotes/patchouli/Cut%20(Scissors).gif"
+  },
+  {
+    "id": "patchouli-dance-caramelldansen",
+    "character": "patchouli",
+    "name": "Dance (Caramelldansen)",
+    "action": "Dance",
+    "variant": "Caramelldansen",
+    "tags": [
+      "dance",
+      "caramelldansen",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Caramelldansen).gif",
+    "url": "/emotes/patchouli/Dance%20(Caramelldansen).gif",
+    "localUrl": "/emotes/patchouli/Dance%20(Caramelldansen).gif"
+  },
+  {
+    "id": "patchouli-dance-helltaker",
+    "character": "patchouli",
+    "name": "Dance (Helltaker)",
+    "action": "Dance",
+    "variant": "Helltaker",
+    "tags": [
+      "dance",
+      "helltaker",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Helltaker).gif",
+    "url": "/emotes/patchouli/Dance%20(Helltaker).gif",
+    "localUrl": "/emotes/patchouli/Dance%20(Helltaker).gif"
+  },
+  {
+    "id": "patchouli-dance-low-cortisol",
+    "character": "patchouli",
+    "name": "Dance (Low Cortisol)",
+    "action": "Dance",
+    "variant": "Low Cortisol",
+    "tags": [
+      "dance",
+      "low",
+      "cortisol",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Low Cortisol).gif",
+    "url": "/emotes/patchouli/Dance%20(Low%20Cortisol).gif",
+    "localUrl": "/emotes/patchouli/Dance%20(Low%20Cortisol).gif"
+  },
+  {
+    "id": "patchouli-dance-scuba",
+    "character": "patchouli",
+    "name": "Dance (Scuba)",
+    "action": "Dance",
+    "variant": "Scuba",
+    "tags": [
+      "dance",
+      "scuba",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance (Scuba).gif",
+    "url": "/emotes/patchouli/Dance%20(Scuba).gif",
+    "localUrl": "/emotes/patchouli/Dance%20(Scuba).gif"
+  },
+  {
+    "id": "patchouli-dance-1",
+    "character": "patchouli",
+    "name": "Dance (1)",
+    "action": "Dance",
+    "variant": "1",
+    "tags": [
+      "dance",
+      "1",
+      "dancing",
+      "music",
+      "fun"
+    ],
+    "filename": "Dance 1.gif",
+    "url": "/emotes/patchouli/Dance%201.gif",
+    "localUrl": "/emotes/patchouli/Dance%201.gif"
+  },
+  {
+    "id": "patchouli-dead",
+    "character": "patchouli",
+    "name": "Dead",
+    "action": "Dead",
+    "variant": "",
+    "tags": [
+      "dead",
+      "death",
+      "rip",
+      "ded"
+    ],
+    "filename": "Dead.gif",
+    "url": "/emotes/patchouli/Dead.gif",
+    "localUrl": "/emotes/patchouli/Dead.gif"
+  },
+  {
+    "id": "patchouli-dizzy",
+    "character": "patchouli",
+    "name": "Dizzy",
+    "action": "Dizzy",
+    "variant": "",
+    "tags": [
+      "dizzy",
+      "confused",
+      "spin"
+    ],
+    "filename": "Dizzy.gif",
+    "url": "/emotes/patchouli/Dizzy.gif",
+    "localUrl": "/emotes/patchouli/Dizzy.gif"
+  },
+  {
+    "id": "patchouli-drink-beverage-cup",
+    "character": "patchouli",
+    "name": "Drink (Beverage Cup)",
+    "action": "Drink",
+    "variant": "Beverage Cup",
+    "tags": [
+      "drink",
+      "beverage",
+      "cup",
+      "thirsty"
+    ],
+    "filename": "Drink (Beverage Cup).gif",
+    "url": "/emotes/patchouli/Drink%20(Beverage%20Cup).gif",
+    "localUrl": "/emotes/patchouli/Drink%20(Beverage%20Cup).gif"
+  },
+  {
+    "id": "patchouli-drive",
+    "character": "patchouli",
+    "name": "Drive",
+    "action": "Drive",
+    "variant": "",
+    "tags": [
+      "drive",
+      "car",
+      "driving"
+    ],
+    "filename": "Drive.gif",
+    "url": "/emotes/patchouli/Drive.gif",
+    "localUrl": "/emotes/patchouli/Drive.gif"
+  },
+  {
+    "id": "patchouli-drooling-chopstick",
+    "character": "patchouli",
+    "name": "Drooling (Chopstick)",
+    "action": "Drooling",
+    "variant": "Chopstick",
+    "tags": [
+      "drooling",
+      "chopstick",
+      "drool",
+      "hungry",
+      "food",
+      "want"
+    ],
+    "filename": "Drooling (Chopstick).gif",
+    "url": "/emotes/patchouli/Drooling%20(Chopstick).gif",
+    "localUrl": "/emotes/patchouli/Drooling%20(Chopstick).gif"
+  },
+  {
+    "id": "patchouli-drooling-fork-knife",
+    "character": "patchouli",
+    "name": "Drooling (Fork&Knife)",
+    "action": "Drooling",
+    "variant": "Fork&Knife",
+    "tags": [
+      "drooling",
+      "fork&knife",
+      "drool",
+      "hungry",
+      "food",
+      "want"
+    ],
+    "filename": "Drooling (Fork&Knife).gif",
+    "url": "/emotes/patchouli/Drooling%20(Fork&Knife).gif",
+    "localUrl": "/emotes/patchouli/Drooling%20(Fork&Knife).gif"
+  },
+  {
+    "id": "patchouli-dum-1",
+    "character": "patchouli",
+    "name": "Dum (1)",
+    "action": "Dum",
+    "variant": "1",
+    "tags": [
+      "dum",
+      "1",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 1.gif",
+    "url": "/emotes/patchouli/Dum%201.gif",
+    "localUrl": "/emotes/patchouli/Dum%201.gif"
+  },
+  {
+    "id": "patchouli-dum-2",
+    "character": "patchouli",
+    "name": "Dum (2)",
+    "action": "Dum",
+    "variant": "2",
+    "tags": [
+      "dum",
+      "2",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 2.gif",
+    "url": "/emotes/patchouli/Dum%202.gif",
+    "localUrl": "/emotes/patchouli/Dum%202.gif"
+  },
+  {
+    "id": "patchouli-dum-3",
+    "character": "patchouli",
+    "name": "Dum (3)",
+    "action": "Dum",
+    "variant": "3",
+    "tags": [
+      "dum",
+      "3",
+      "dumb",
+      "stupid",
+      "silly",
+      "funny"
+    ],
+    "filename": "Dum 3.gif",
+    "url": "/emotes/patchouli/Dum%203.gif",
+    "localUrl": "/emotes/patchouli/Dum%203.gif"
+  },
+  {
+    "id": "patchouli-dum-sticker-1",
+    "character": "patchouli",
+    "name": "Dum Sticker (1)",
+    "action": "Dum Sticker",
+    "variant": "1",
+    "tags": [
+      "dum",
+      "sticker",
+      "1"
+    ],
+    "filename": "Dum Sticker 1.gif",
+    "url": "/emotes/patchouli/Dum%20Sticker%201.gif",
+    "localUrl": "/emotes/patchouli/Dum%20Sticker%201.gif"
+  },
+  {
+    "id": "patchouli-dum-sticker-2",
+    "character": "patchouli",
+    "name": "Dum Sticker (2)",
+    "action": "Dum Sticker",
+    "variant": "2",
+    "tags": [
+      "dum",
+      "sticker",
+      "2"
+    ],
+    "filename": "Dum Sticker 2.gif",
+    "url": "/emotes/patchouli/Dum%20Sticker%202.gif",
+    "localUrl": "/emotes/patchouli/Dum%20Sticker%202.gif"
+  },
+  {
+    "id": "patchouli-dum-sticker-3",
+    "character": "patchouli",
+    "name": "Dum Sticker (3)",
+    "action": "Dum Sticker",
+    "variant": "3",
+    "tags": [
+      "dum",
+      "sticker",
+      "3"
+    ],
+    "filename": "Dum Sticker 3.gif",
+    "url": "/emotes/patchouli/Dum%20Sticker%203.gif",
+    "localUrl": "/emotes/patchouli/Dum%20Sticker%203.gif"
+  },
+  {
+    "id": "patchouli-easter",
+    "character": "patchouli",
+    "name": "Easter",
+    "action": "Easter",
+    "variant": "",
+    "tags": [
+      "easter",
+      "egg",
+      "holiday"
+    ],
+    "filename": "Easter.gif",
+    "url": "/emotes/patchouli/Easter.gif",
+    "localUrl": "/emotes/patchouli/Easter.gif"
+  },
+  {
+    "id": "patchouli-eat-donut",
+    "character": "patchouli",
+    "name": "Eat (Donut)",
+    "action": "Eat",
+    "variant": "Donut",
+    "tags": [
+      "eat",
+      "donut",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Donut).gif",
+    "url": "/emotes/patchouli/Eat%20(Donut).gif",
+    "localUrl": "/emotes/patchouli/Eat%20(Donut).gif"
+  },
+  {
+    "id": "patchouli-eat-popcorn",
+    "character": "patchouli",
+    "name": "Eat (Popcorn)",
+    "action": "Eat",
+    "variant": "Popcorn",
+    "tags": [
+      "eat",
+      "popcorn",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Popcorn).gif",
+    "url": "/emotes/patchouli/Eat%20(Popcorn).gif",
+    "localUrl": "/emotes/patchouli/Eat%20(Popcorn).gif"
+  },
+  {
+    "id": "patchouli-eat-watermelon",
+    "character": "patchouli",
+    "name": "Eat (Watermelon)",
+    "action": "Eat",
+    "variant": "Watermelon",
+    "tags": [
+      "eat",
+      "watermelon",
+      "food",
+      "hungry",
+      "nom"
+    ],
+    "filename": "Eat (Watermelon).gif",
+    "url": "/emotes/patchouli/Eat%20(Watermelon).gif",
+    "localUrl": "/emotes/patchouli/Eat%20(Watermelon).gif"
+  },
+  {
+    "id": "patchouli-electric-fan-1",
+    "character": "patchouli",
+    "name": "Electric Fan (1)",
+    "action": "Electric Fan",
+    "variant": "1",
+    "tags": [
+      "electric",
+      "fan",
+      "1",
+      "cool"
+    ],
+    "filename": "Electric Fan 1.gif",
+    "url": "/emotes/patchouli/Electric%20Fan%201.gif",
+    "localUrl": "/emotes/patchouli/Electric%20Fan%201.gif"
+  },
+  {
+    "id": "patchouli-electric-fan-2",
+    "character": "patchouli",
+    "name": "Electric Fan (2)",
+    "action": "Electric Fan",
+    "variant": "2",
+    "tags": [
+      "electric",
+      "fan",
+      "2",
+      "cool"
+    ],
+    "filename": "Electric Fan 2.gif",
+    "url": "/emotes/patchouli/Electric%20Fan%202.gif",
+    "localUrl": "/emotes/patchouli/Electric%20Fan%202.gif"
+  },
+  {
+    "id": "patchouli-exclamation",
+    "character": "patchouli",
+    "name": "Exclamation",
+    "action": "Exclamation",
+    "variant": "",
+    "tags": [
+      "exclamation",
+      "alert",
+      "surprise",
+      "notice"
+    ],
+    "filename": "Exclamation.gif",
+    "url": "/emotes/patchouli/Exclamation.gif",
+    "localUrl": "/emotes/patchouli/Exclamation.gif"
+  },
+  {
+    "id": "patchouli-fire-1",
+    "character": "patchouli",
+    "name": "Fire (1)",
+    "action": "Fire",
+    "variant": "1",
+    "tags": [
+      "fire",
+      "1",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 1.gif",
+    "url": "/emotes/patchouli/Fire%201.gif",
+    "localUrl": "/emotes/patchouli/Fire%201.gif"
+  },
+  {
+    "id": "patchouli-fire-2",
+    "character": "patchouli",
+    "name": "Fire (2)",
+    "action": "Fire",
+    "variant": "2",
+    "tags": [
+      "fire",
+      "2",
+      "hot",
+      "flame",
+      "lit"
+    ],
+    "filename": "Fire 2.gif",
+    "url": "/emotes/patchouli/Fire%202.gif",
+    "localUrl": "/emotes/patchouli/Fire%202.gif"
+  },
+  {
+    "id": "patchouli-folding-fans",
+    "character": "patchouli",
+    "name": "Folding Fans",
+    "action": "Folding Fans",
+    "variant": "",
+    "tags": [
+      "folding",
+      "fans",
+      "fan",
+      "traditional"
+    ],
+    "filename": "Folding Fans.gif",
+    "url": "/emotes/patchouli/Folding%20Fans.gif",
+    "localUrl": "/emotes/patchouli/Folding%20Fans.gif"
+  },
+  {
+    "id": "patchouli-game",
+    "character": "patchouli",
+    "name": "Game",
+    "action": "Game",
+    "variant": "",
+    "tags": [
+      "game",
+      "gaming",
+      "play"
+    ],
+    "filename": "Game.gif",
+    "url": "/emotes/patchouli/Game.gif",
+    "localUrl": "/emotes/patchouli/Game.gif"
+  },
+  {
+    "id": "patchouli-get-hit-bits",
+    "character": "patchouli",
+    "name": "Get Hit (Bits)",
+    "action": "Get Hit",
+    "variant": "Bits",
+    "tags": [
+      "get",
+      "hit",
+      "bits",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Bits).gif",
+    "url": "/emotes/patchouli/Get%20Hit%20(Bits).gif",
+    "localUrl": "/emotes/patchouli/Get%20Hit%20(Bits).gif"
+  },
+  {
+    "id": "patchouli-get-hit-coin",
+    "character": "patchouli",
+    "name": "Get Hit (Coin)",
+    "action": "Get Hit",
+    "variant": "Coin",
+    "tags": [
+      "get",
+      "hit",
+      "coin",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Coin).gif",
+    "url": "/emotes/patchouli/Get%20Hit%20(Coin).gif",
+    "localUrl": "/emotes/patchouli/Get%20Hit%20(Coin).gif"
+  },
+  {
+    "id": "patchouli-get-hit-custom",
+    "character": "patchouli",
+    "name": "Get Hit (Custom)",
+    "action": "Get Hit",
+    "variant": "Custom",
+    "tags": [
+      "get",
+      "hit",
+      "custom",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Custom).gif",
+    "url": "/emotes/patchouli/Get%20Hit%20(Custom).gif",
+    "localUrl": "/emotes/patchouli/Get%20Hit%20(Custom).gif"
+  },
+  {
+    "id": "patchouli-get-hit-heart",
+    "character": "patchouli",
+    "name": "Get Hit (Heart)",
+    "action": "Get Hit",
+    "variant": "Heart",
+    "tags": [
+      "get",
+      "hit",
+      "heart",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Heart).gif",
+    "url": "/emotes/patchouli/Get%20Hit%20(Heart).gif",
+    "localUrl": "/emotes/patchouli/Get%20Hit%20(Heart).gif"
+  },
+  {
+    "id": "patchouli-get-hit-slipper",
+    "character": "patchouli",
+    "name": "Get Hit (Slipper)",
+    "action": "Get Hit",
+    "variant": "Slipper",
+    "tags": [
+      "get",
+      "hit",
+      "slipper",
+      "ouch",
+      "bonk",
+      "hurt"
+    ],
+    "filename": "Get Hit (Slipper).gif",
+    "url": "/emotes/patchouli/Get%20Hit%20(Slipper).gif",
+    "localUrl": "/emotes/patchouli/Get%20Hit%20(Slipper).gif"
+  },
+  {
+    "id": "patchouli-gift-1",
+    "character": "patchouli",
+    "name": "Gift (1)",
+    "action": "Gift",
+    "variant": "1",
+    "tags": [
+      "gift",
+      "1",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 1.gif",
+    "url": "/emotes/patchouli/Gift%201.gif",
+    "localUrl": "/emotes/patchouli/Gift%201.gif"
+  },
+  {
+    "id": "patchouli-gift-2",
+    "character": "patchouli",
+    "name": "Gift (2)",
+    "action": "Gift",
+    "variant": "2",
+    "tags": [
+      "gift",
+      "2",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 2.gif",
+    "url": "/emotes/patchouli/Gift%202.gif",
+    "localUrl": "/emotes/patchouli/Gift%202.gif"
+  },
+  {
+    "id": "patchouli-gift-3",
+    "character": "patchouli",
+    "name": "Gift (3)",
+    "action": "Gift",
+    "variant": "3",
+    "tags": [
+      "gift",
+      "3",
+      "present",
+      "give"
+    ],
+    "filename": "Gift 3.gif",
+    "url": "/emotes/patchouli/Gift%203.gif",
+    "localUrl": "/emotes/patchouli/Gift%203.gif"
+  },
+  {
+    "id": "patchouli-greeting-1",
+    "character": "patchouli",
+    "name": "Greeting (1)",
+    "action": "Greeting",
+    "variant": "1",
+    "tags": [
+      "greeting",
+      "1",
+      "hello",
+      "wave",
+      "welcome"
+    ],
+    "filename": "Greeting 1.gif",
+    "url": "/emotes/patchouli/Greeting%201.gif",
+    "localUrl": "/emotes/patchouli/Greeting%201.gif"
+  },
+  {
+    "id": "patchouli-greeting-2",
+    "character": "patchouli",
+    "name": "Greeting (2)",
+    "action": "Greeting",
+    "variant": "2",
+    "tags": [
+      "greeting",
+      "2",
+      "hello",
+      "wave",
+      "welcome"
+    ],
+    "filename": "Greeting 2.gif",
+    "url": "/emotes/patchouli/Greeting%202.gif",
+    "localUrl": "/emotes/patchouli/Greeting%202.gif"
+  },
+  {
+    "id": "patchouli-guitar",
+    "character": "patchouli",
+    "name": "Guitar",
+    "action": "Guitar",
+    "variant": "",
+    "tags": [
+      "guitar",
+      "music",
+      "play"
+    ],
+    "filename": "Guitar.gif",
+    "url": "/emotes/patchouli/Guitar.gif",
+    "localUrl": "/emotes/patchouli/Guitar.gif"
+  },
+  {
+    "id": "patchouli-gun",
+    "character": "patchouli",
+    "name": "Gun",
+    "action": "Gun",
+    "variant": "",
+    "tags": [
+      "gun",
+      "shoot",
+      "weapon",
+      "pew"
+    ],
+    "filename": "Gun.gif",
+    "url": "/emotes/patchouli/Gun.gif",
+    "localUrl": "/emotes/patchouli/Gun.gif"
+  },
+  {
+    "id": "patchouli-head-nod",
+    "character": "patchouli",
+    "name": "Head Nod",
+    "action": "Head Nod",
+    "variant": "",
+    "tags": [
+      "head",
+      "nod",
+      "yes",
+      "agree"
+    ],
+    "filename": "Head Nod.gif",
+    "url": "/emotes/patchouli/Head%20Nod.gif",
+    "localUrl": "/emotes/patchouli/Head%20Nod.gif"
+  },
+  {
+    "id": "patchouli-head-shake",
+    "character": "patchouli",
+    "name": "Head Shake",
+    "action": "Head Shake",
+    "variant": "",
+    "tags": [
+      "head",
+      "shake",
+      "no",
+      "disagree",
+      "deny"
+    ],
+    "filename": "Head Shake.gif",
+    "url": "/emotes/patchouli/Head%20Shake.gif",
+    "localUrl": "/emotes/patchouli/Head%20Shake.gif"
+  },
+  {
+    "id": "patchouli-hypnosis",
+    "character": "patchouli",
+    "name": "Hypnosis",
+    "action": "Hypnosis",
+    "variant": "",
+    "tags": [
+      "hypnosis",
+      "hypnotize",
+      "spiral",
+      "mesmerize"
+    ],
+    "filename": "Hypnosis.gif",
+    "url": "/emotes/patchouli/Hypnosis.gif",
+    "localUrl": "/emotes/patchouli/Hypnosis.gif"
+  },
+  {
+    "id": "patchouli-idea",
+    "character": "patchouli",
+    "name": "Idea",
+    "action": "Idea",
+    "variant": "",
+    "tags": [
+      "idea",
+      "think",
+      "lightbulb",
+      "eureka"
+    ],
+    "filename": "Idea.gif",
+    "url": "/emotes/patchouli/Idea.gif",
+    "localUrl": "/emotes/patchouli/Idea.gif"
+  },
+  {
+    "id": "patchouli-jail-1",
+    "character": "patchouli",
+    "name": "Jail (1)",
+    "action": "Jail",
+    "variant": "1",
+    "tags": [
+      "jail",
+      "1",
+      "prison",
+      "locked",
+      "cell"
+    ],
+    "filename": "Jail 1.gif",
+    "url": "/emotes/patchouli/Jail%201.gif",
+    "localUrl": "/emotes/patchouli/Jail%201.gif"
+  },
+  {
+    "id": "patchouli-jail-2",
+    "character": "patchouli",
+    "name": "Jail (2)",
+    "action": "Jail",
+    "variant": "2",
+    "tags": [
+      "jail",
+      "2",
+      "prison",
+      "locked",
+      "cell"
+    ],
+    "filename": "Jail 2.gif",
+    "url": "/emotes/patchouli/Jail%202.gif",
+    "localUrl": "/emotes/patchouli/Jail%202.gif"
+  },
+  {
+    "id": "patchouli-knife-1",
+    "character": "patchouli",
+    "name": "Knife (1)",
+    "action": "Knife",
+    "variant": "1",
+    "tags": [
+      "knife",
+      "1",
+      "stab",
+      "weapon"
+    ],
+    "filename": "Knife 1.gif",
+    "url": "/emotes/patchouli/Knife%201.gif",
+    "localUrl": "/emotes/patchouli/Knife%201.gif"
+  },
+  {
+    "id": "patchouli-knife-2",
+    "character": "patchouli",
+    "name": "Knife (2)",
+    "action": "Knife",
+    "variant": "2",
+    "tags": [
+      "knife",
+      "2",
+      "stab",
+      "weapon"
+    ],
+    "filename": "Knife 2.gif",
+    "url": "/emotes/patchouli/Knife%202.gif",
+    "localUrl": "/emotes/patchouli/Knife%202.gif"
+  },
+  {
+    "id": "patchouli-laugh-point",
+    "character": "patchouli",
+    "name": "Laugh (Point)",
+    "action": "Laugh",
+    "variant": "Point",
+    "tags": [
+      "laugh",
+      "point",
+      "funny",
+      "haha",
+      "lol"
+    ],
+    "filename": "Laugh (Point).gif",
+    "url": "/emotes/patchouli/Laugh%20(Point).gif",
+    "localUrl": "/emotes/patchouli/Laugh%20(Point).gif"
+  },
+  {
+    "id": "patchouli-laugh",
+    "character": "patchouli",
+    "name": "Laugh",
+    "action": "Laugh",
+    "variant": "",
+    "tags": [
+      "laugh",
+      "funny",
+      "haha",
+      "lol"
+    ],
+    "filename": "Laugh.gif",
+    "url": "/emotes/patchouli/Laugh.gif",
+    "localUrl": "/emotes/patchouli/Laugh.gif"
+  },
+  {
+    "id": "patchouli-lick",
+    "character": "patchouli",
+    "name": "Lick",
+    "action": "Lick",
+    "variant": "",
+    "tags": [
+      "lick",
+      "taste",
+      "tongue"
+    ],
+    "filename": "Lick.gif",
+    "url": "/emotes/patchouli/Lick.gif",
+    "localUrl": "/emotes/patchouli/Lick.gif"
+  },
+  {
+    "id": "patchouli-lightstick-1",
+    "character": "patchouli",
+    "name": "Lightstick (1)",
+    "action": "Lightstick",
+    "variant": "1",
+    "tags": [
+      "lightstick",
+      "1",
+      "glow",
+      "concert",
+      "fan"
+    ],
+    "filename": "Lightstick 1.gif",
+    "url": "/emotes/patchouli/Lightstick%201.gif",
+    "localUrl": "/emotes/patchouli/Lightstick%201.gif"
+  },
+  {
+    "id": "patchouli-lightstick-2",
+    "character": "patchouli",
+    "name": "Lightstick (2)",
+    "action": "Lightstick",
+    "variant": "2",
+    "tags": [
+      "lightstick",
+      "2",
+      "glow",
+      "concert",
+      "fan"
+    ],
+    "filename": "Lightstick 2.gif",
+    "url": "/emotes/patchouli/Lightstick%202.gif",
+    "localUrl": "/emotes/patchouli/Lightstick%202.gif"
+  },
+  {
+    "id": "patchouli-loading-cup",
+    "character": "patchouli",
+    "name": "Loading (Cup)",
+    "action": "Loading",
+    "variant": "Cup",
+    "tags": [
+      "loading",
+      "cup",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Cup).gif",
+    "url": "/emotes/patchouli/Loading%20(Cup).gif",
+    "localUrl": "/emotes/patchouli/Loading%20(Cup).gif"
+  },
+  {
+    "id": "patchouli-loading-mug",
+    "character": "patchouli",
+    "name": "Loading (Mug)",
+    "action": "Loading",
+    "variant": "Mug",
+    "tags": [
+      "loading",
+      "mug",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Mug).gif",
+    "url": "/emotes/patchouli/Loading%20(Mug).gif",
+    "localUrl": "/emotes/patchouli/Loading%20(Mug).gif"
+  },
+  {
+    "id": "patchouli-loading-sleep",
+    "character": "patchouli",
+    "name": "Loading (Sleep)",
+    "action": "Loading",
+    "variant": "Sleep",
+    "tags": [
+      "loading",
+      "sleep",
+      "wait",
+      "buffer",
+      "progress"
+    ],
+    "filename": "Loading (Sleep).gif",
+    "url": "/emotes/patchouli/Loading%20(Sleep).gif",
+    "localUrl": "/emotes/patchouli/Loading%20(Sleep).gif"
+  },
+  {
+    "id": "patchouli-love-letter",
+    "character": "patchouli",
+    "name": "Love Letter",
+    "action": "Love Letter",
+    "variant": "",
+    "tags": [
+      "love",
+      "letter",
+      "romance",
+      "mail"
+    ],
+    "filename": "Love Letter.gif",
+    "url": "/emotes/patchouli/Love%20Letter.gif",
+    "localUrl": "/emotes/patchouli/Love%20Letter.gif"
+  },
+  {
+    "id": "patchouli-lurk-1",
+    "character": "patchouli",
+    "name": "Lurk (1)",
+    "action": "Lurk",
+    "variant": "1",
+    "tags": [
+      "lurk",
+      "1",
+      "watching",
+      "hide",
+      "peek"
+    ],
+    "filename": "Lurk 1.gif",
+    "url": "/emotes/patchouli/Lurk%201.gif",
+    "localUrl": "/emotes/patchouli/Lurk%201.gif"
+  },
+  {
+    "id": "patchouli-lurk-2",
+    "character": "patchouli",
+    "name": "Lurk (2)",
+    "action": "Lurk",
+    "variant": "2",
+    "tags": [
+      "lurk",
+      "2",
+      "watching",
+      "hide",
+      "peek"
+    ],
+    "filename": "Lurk 2.gif",
+    "url": "/emotes/patchouli/Lurk%202.gif",
+    "localUrl": "/emotes/patchouli/Lurk%202.gif"
+  },
+  {
+    "id": "patchouli-luv-1",
+    "character": "patchouli",
+    "name": "Luv (1)",
+    "action": "Luv",
+    "variant": "1",
+    "tags": [
+      "luv",
+      "1",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 1.gif",
+    "url": "/emotes/patchouli/Luv%201.gif",
+    "localUrl": "/emotes/patchouli/Luv%201.gif"
+  },
+  {
+    "id": "patchouli-luv-2",
+    "character": "patchouli",
+    "name": "Luv (2)",
+    "action": "Luv",
+    "variant": "2",
+    "tags": [
+      "luv",
+      "2",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 2.gif",
+    "url": "/emotes/patchouli/Luv%202.gif",
+    "localUrl": "/emotes/patchouli/Luv%202.gif"
+  },
+  {
+    "id": "patchouli-luv-3",
+    "character": "patchouli",
+    "name": "Luv (3)",
+    "action": "Luv",
+    "variant": "3",
+    "tags": [
+      "luv",
+      "3",
+      "love",
+      "heart",
+      "like"
+    ],
+    "filename": "Luv 3.gif",
+    "url": "/emotes/patchouli/Luv%203.gif",
+    "localUrl": "/emotes/patchouli/Luv%203.gif"
+  },
+  {
+    "id": "patchouli-magic",
+    "character": "patchouli",
+    "name": "Magic",
+    "action": "Magic",
+    "variant": "",
+    "tags": [
+      "magic",
+      "spell",
+      "wizard"
+    ],
+    "filename": "Magic.gif",
+    "url": "/emotes/patchouli/Magic.gif",
+    "localUrl": "/emotes/patchouli/Magic.gif"
+  },
+  {
+    "id": "patchouli-megaphone",
+    "character": "patchouli",
+    "name": "Megaphone",
+    "action": "Megaphone",
+    "variant": "",
+    "tags": [
+      "megaphone",
+      "shout",
+      "loud",
+      "announce"
+    ],
+    "filename": "Megaphone.gif",
+    "url": "/emotes/patchouli/Megaphone.gif",
+    "localUrl": "/emotes/patchouli/Megaphone.gif"
+  },
+  {
+    "id": "patchouli-money",
+    "character": "patchouli",
+    "name": "Money",
+    "action": "Money",
+    "variant": "",
+    "tags": [
+      "money",
+      "cash",
+      "rich",
+      "dollar"
+    ],
+    "filename": "Money.gif",
+    "url": "/emotes/patchouli/Money.gif",
+    "localUrl": "/emotes/patchouli/Money.gif"
+  },
+  {
+    "id": "patchouli-mute-1",
+    "character": "patchouli",
+    "name": "Mute (1)",
+    "action": "Mute",
+    "variant": "1",
+    "tags": [
+      "mute",
+      "1",
+      "quiet",
+      "silence",
+      "shh"
+    ],
+    "filename": "Mute 1.gif",
+    "url": "/emotes/patchouli/Mute%201.gif",
+    "localUrl": "/emotes/patchouli/Mute%201.gif"
+  },
+  {
+    "id": "patchouli-mute-2",
+    "character": "patchouli",
+    "name": "Mute (2)",
+    "action": "Mute",
+    "variant": "2",
+    "tags": [
+      "mute",
+      "2",
+      "quiet",
+      "silence",
+      "shh"
+    ],
+    "filename": "Mute 2.gif",
+    "url": "/emotes/patchouli/Mute%202.gif",
+    "localUrl": "/emotes/patchouli/Mute%202.gif"
+  },
+  {
+    "id": "patchouli-need-food",
+    "character": "patchouli",
+    "name": "Need Food",
+    "action": "Need Food",
+    "variant": "",
+    "tags": [
+      "need",
+      "food",
+      "hungry",
+      "starving"
+    ],
+    "filename": "Need Food.gif",
+    "url": "/emotes/patchouli/Need%20Food.gif",
+    "localUrl": "/emotes/patchouli/Need%20Food.gif"
+  },
+  {
+    "id": "patchouli-nervous-1",
+    "character": "patchouli",
+    "name": "Nervous (1)",
+    "action": "Nervous",
+    "variant": "1",
+    "tags": [
+      "nervous",
+      "1",
+      "anxious",
+      "sweat",
+      "worry"
+    ],
+    "filename": "Nervous 1.gif",
+    "url": "/emotes/patchouli/Nervous%201.gif",
+    "localUrl": "/emotes/patchouli/Nervous%201.gif"
+  },
+  {
+    "id": "patchouli-nervous-2",
+    "character": "patchouli",
+    "name": "Nervous (2)",
+    "action": "Nervous",
+    "variant": "2",
+    "tags": [
+      "nervous",
+      "2",
+      "anxious",
+      "sweat",
+      "worry"
+    ],
+    "filename": "Nervous 2.gif",
+    "url": "/emotes/patchouli/Nervous%202.gif",
+    "localUrl": "/emotes/patchouli/Nervous%202.gif"
+  },
+  {
+    "id": "patchouli-noted-1",
+    "character": "patchouli",
+    "name": "Noted (1)",
+    "action": "Noted",
+    "variant": "1",
+    "tags": [
+      "noted",
+      "1",
+      "write",
+      "note",
+      "ok"
+    ],
+    "filename": "Noted 1.gif",
+    "url": "/emotes/patchouli/Noted%201.gif",
+    "localUrl": "/emotes/patchouli/Noted%201.gif"
+  },
+  {
+    "id": "patchouli-noted-2",
+    "character": "patchouli",
+    "name": "Noted (2)",
+    "action": "Noted",
+    "variant": "2",
+    "tags": [
+      "noted",
+      "2",
+      "write",
+      "note",
+      "ok"
+    ],
+    "filename": "Noted 2.gif",
+    "url": "/emotes/patchouli/Noted%202.gif",
+    "localUrl": "/emotes/patchouli/Noted%202.gif"
+  },
+  {
+    "id": "patchouli-paid-break-easy-mode",
+    "character": "patchouli",
+    "name": "Paid Break (Easy Mode)",
+    "action": "Paid Break",
+    "variant": "Easy Mode",
+    "tags": [
+      "paid",
+      "break",
+      "easy",
+      "mode",
+      "rest",
+      "vacation"
+    ],
+    "filename": "Paid Break (Easy Mode).gif",
+    "url": "/emotes/patchouli/Paid%20Break%20(Easy%20Mode).gif",
+    "localUrl": "/emotes/patchouli/Paid%20Break%20(Easy%20Mode).gif"
+  },
+  {
+    "id": "patchouli-paid-break-hard-mode",
+    "character": "patchouli",
+    "name": "Paid Break (Hard Mode)",
+    "action": "Paid Break",
+    "variant": "Hard Mode",
+    "tags": [
+      "paid",
+      "break",
+      "hard",
+      "mode",
+      "rest",
+      "vacation"
+    ],
+    "filename": "Paid Break (Hard Mode).gif",
+    "url": "/emotes/patchouli/Paid%20Break%20(Hard%20Mode).gif",
+    "localUrl": "/emotes/patchouli/Paid%20Break%20(Hard%20Mode).gif"
+  },
+  {
+    "id": "patchouli-pat-2",
+    "character": "patchouli",
+    "name": "Pat (2)",
+    "action": "Pat",
+    "variant": "2",
+    "tags": [
+      "pat",
+      "2",
+      "pet",
+      "headpat",
+      "cute"
+    ],
+    "filename": "Pat 2.gif",
+    "url": "/emotes/patchouli/Pat%202.gif",
+    "localUrl": "/emotes/patchouli/Pat%202.gif"
+  },
+  {
+    "id": "patchouli-pat",
+    "character": "patchouli",
+    "name": "Pat",
+    "action": "Pat",
+    "variant": "",
+    "tags": [
+      "pat",
+      "pet",
+      "headpat",
+      "cute"
+    ],
+    "filename": "Pat.gif",
+    "url": "/emotes/patchouli/Pat.gif",
+    "localUrl": "/emotes/patchouli/Pat.gif"
+  },
+  {
+    "id": "patchouli-pngtuber-idle-2",
+    "character": "patchouli",
+    "name": "PNGTuber Idle (2)",
+    "action": "PNGTuber Idle",
+    "variant": "2",
+    "tags": [
+      "pngtuber",
+      "idle",
+      "2",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Idle 2.gif",
+    "url": "/emotes/patchouli/PNGTuber%20Idle%202.gif",
+    "localUrl": "/emotes/patchouli/PNGTuber%20Idle%202.gif"
+  },
+  {
+    "id": "patchouli-pngtuber-idle",
+    "character": "patchouli",
+    "name": "PNGTuber Idle",
+    "action": "PNGTuber Idle",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "idle",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Idle.gif",
+    "url": "/emotes/patchouli/PNGTuber%20Idle.gif",
+    "localUrl": "/emotes/patchouli/PNGTuber%20Idle.gif"
+  },
+  {
+    "id": "patchouli-pngtuber-loading",
+    "character": "patchouli",
+    "name": "PNGTuber Loading",
+    "action": "PNGTuber Loading",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "loading",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Loading.gif",
+    "url": "/emotes/patchouli/PNGTuber%20Loading.gif",
+    "localUrl": "/emotes/patchouli/PNGTuber%20Loading.gif"
+  },
+  {
+    "id": "patchouli-pngtuber-talk-2",
+    "character": "patchouli",
+    "name": "PNGTuber Talk (2)",
+    "action": "PNGTuber Talk",
+    "variant": "2",
+    "tags": [
+      "pngtuber",
+      "talk",
+      "2",
+      "speak",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Talk 2.gif",
+    "url": "/emotes/patchouli/PNGTuber%20Talk%202.gif",
+    "localUrl": "/emotes/patchouli/PNGTuber%20Talk%202.gif"
+  },
+  {
+    "id": "patchouli-pngtuber-talk",
+    "character": "patchouli",
+    "name": "PNGTuber Talk",
+    "action": "PNGTuber Talk",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "talk",
+      "speak",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Talk.gif",
+    "url": "/emotes/patchouli/PNGTuber%20Talk.gif",
+    "localUrl": "/emotes/patchouli/PNGTuber%20Talk.gif"
+  },
+  {
+    "id": "patchouli-pngtuber-yap",
+    "character": "patchouli",
+    "name": "PNGTuber Yap",
+    "action": "PNGTuber Yap",
+    "variant": "",
+    "tags": [
+      "pngtuber",
+      "yap",
+      "talk",
+      "vtuber"
+    ],
+    "filename": "PNGTuber Yap.gif",
+    "url": "/emotes/patchouli/PNGTuber%20Yap.gif",
+    "localUrl": "/emotes/patchouli/PNGTuber%20Yap.gif"
+  },
+  {
+    "id": "patchouli-point",
+    "character": "patchouli",
+    "name": "Point",
+    "action": "Point",
+    "variant": "",
+    "tags": [
+      "point",
+      "you",
+      "finger"
+    ],
+    "filename": "Point.gif",
+    "url": "/emotes/patchouli/Point.gif",
+    "localUrl": "/emotes/patchouli/Point.gif"
+  },
+  {
+    "id": "patchouli-popcat-frame",
+    "character": "patchouli",
+    "name": "Popcat Frame",
+    "action": "Popcat Frame",
+    "variant": "",
+    "tags": [
+      "popcat",
+      "frame"
+    ],
+    "filename": "Popcat Frame.gif",
+    "url": "/emotes/patchouli/Popcat%20Frame.gif",
+    "localUrl": "/emotes/patchouli/Popcat%20Frame.gif"
+  },
+  {
+    "id": "patchouli-popcat-smooth",
+    "character": "patchouli",
+    "name": "Popcat Smooth",
+    "action": "Popcat Smooth",
+    "variant": "",
+    "tags": [
+      "popcat",
+      "smooth"
+    ],
+    "filename": "Popcat Smooth.gif",
+    "url": "/emotes/patchouli/Popcat%20Smooth.gif",
+    "localUrl": "/emotes/patchouli/Popcat%20Smooth.gif"
+  },
+  {
+    "id": "patchouli-press",
+    "character": "patchouli",
+    "name": "Press",
+    "action": "Press",
+    "variant": "",
+    "tags": [
+      "press",
+      "push",
+      "squish",
+      "interact"
+    ],
+    "filename": "Press.gif",
+    "url": "/emotes/patchouli/Press.gif",
+    "localUrl": "/emotes/patchouli/Press.gif"
+  },
+  {
+    "id": "patchouli-question",
+    "character": "patchouli",
+    "name": "Question",
+    "action": "Question",
+    "variant": "",
+    "tags": [
+      "question",
+      "ask",
+      "what",
+      "confused"
+    ],
+    "filename": "Question.gif",
+    "url": "/emotes/patchouli/Question.gif",
+    "localUrl": "/emotes/patchouli/Question.gif"
+  },
+  {
+    "id": "patchouli-raid-1",
+    "character": "patchouli",
+    "name": "Raid (1)",
+    "action": "Raid",
+    "variant": "1",
+    "tags": [
+      "raid",
+      "1",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Raid 1.gif",
+    "url": "/emotes/patchouli/Raid%201.gif",
+    "localUrl": "/emotes/patchouli/Raid%201.gif"
+  },
+  {
+    "id": "patchouli-raid-2",
+    "character": "patchouli",
+    "name": "Raid (2)",
+    "action": "Raid",
+    "variant": "2",
+    "tags": [
+      "raid",
+      "2",
+      "twitch",
+      "streaming"
+    ],
+    "filename": "Raid 2.gif",
+    "url": "/emotes/patchouli/Raid%202.gif",
+    "localUrl": "/emotes/patchouli/Raid%202.gif"
+  },
+  {
+    "id": "patchouli-redpacket-1",
+    "character": "patchouli",
+    "name": "RedPacket (1)",
+    "action": "RedPacket",
+    "variant": "1",
+    "tags": [
+      "redpacket",
+      "1",
+      "red",
+      "packet",
+      "gift",
+      "money"
+    ],
+    "filename": "RedPacket 1.gif",
+    "url": "/emotes/patchouli/RedPacket%201.gif",
+    "localUrl": "/emotes/patchouli/RedPacket%201.gif"
+  },
+  {
+    "id": "patchouli-redpacket-2",
+    "character": "patchouli",
+    "name": "RedPacket (2)",
+    "action": "RedPacket",
+    "variant": "2",
+    "tags": [
+      "redpacket",
+      "2",
+      "red",
+      "packet",
+      "gift",
+      "money"
+    ],
+    "filename": "RedPacket 2.gif",
+    "url": "/emotes/patchouli/RedPacket%202.gif",
+    "localUrl": "/emotes/patchouli/RedPacket%202.gif"
+  },
+  {
+    "id": "patchouli-reverse",
+    "character": "patchouli",
+    "name": "Reverse",
+    "action": "Reverse",
+    "variant": "",
+    "tags": [
+      "reverse",
+      "backward",
+      "uno"
+    ],
+    "filename": "Reverse.gif",
+    "url": "/emotes/patchouli/Reverse.gif",
+    "localUrl": "/emotes/patchouli/Reverse.gif"
+  },
+  {
+    "id": "patchouli-rose",
+    "character": "patchouli",
+    "name": "Rose",
+    "action": "Rose",
+    "variant": "",
+    "tags": [
+      "rose",
+      "flower",
+      "love",
+      "romantic"
+    ],
+    "filename": "Rose.gif",
+    "url": "/emotes/patchouli/Rose.gif",
+    "localUrl": "/emotes/patchouli/Rose.gif"
+  },
+  {
+    "id": "patchouli-rub-1",
+    "character": "patchouli",
+    "name": "Rub (1)",
+    "action": "Rub",
+    "variant": "1",
+    "tags": [
+      "rub",
+      "1",
+      "pet",
+      "comfort",
+      "cute"
+    ],
+    "filename": "Rub 1.gif",
+    "url": "/emotes/patchouli/Rub%201.gif",
+    "localUrl": "/emotes/patchouli/Rub%201.gif"
+  },
+  {
+    "id": "patchouli-scared-1",
+    "character": "patchouli",
+    "name": "Scared (1)",
+    "action": "Scared",
+    "variant": "1",
+    "tags": [
+      "scared",
+      "1",
+      "fear",
+      "frightened",
+      "shock"
+    ],
+    "filename": "Scared 1.gif",
+    "url": "/emotes/patchouli/Scared%201.gif",
+    "localUrl": "/emotes/patchouli/Scared%201.gif"
+  },
+  {
+    "id": "patchouli-scared-2",
+    "character": "patchouli",
+    "name": "Scared (2)",
+    "action": "Scared",
+    "variant": "2",
+    "tags": [
+      "scared",
+      "2",
+      "fear",
+      "frightened",
+      "shock"
+    ],
+    "filename": "Scared 2.gif",
+    "url": "/emotes/patchouli/Scared%202.gif",
+    "localUrl": "/emotes/patchouli/Scared%202.gif"
+  },
+  {
+    "id": "patchouli-score-0-point",
+    "character": "patchouli",
+    "name": "Score (0 Point)",
+    "action": "Score",
+    "variant": "0 Point",
+    "tags": [
+      "score",
+      "0",
+      "point",
+      "game",
+      "number"
+    ],
+    "filename": "Score (0 Point).gif",
+    "url": "/emotes/patchouli/Score%20(0%20Point).gif",
+    "localUrl": "/emotes/patchouli/Score%20(0%20Point).gif"
+  },
+  {
+    "id": "patchouli-score-10-point",
+    "character": "patchouli",
+    "name": "Score (10 Point)",
+    "action": "Score",
+    "variant": "10 Point",
+    "tags": [
+      "score",
+      "10",
+      "point",
+      "game",
+      "number"
+    ],
+    "filename": "Score (10 Point).gif",
+    "url": "/emotes/patchouli/Score%20(10%20Point).gif",
+    "localUrl": "/emotes/patchouli/Score%20(10%20Point).gif"
+  },
+  {
+    "id": "patchouli-shy-1",
+    "character": "patchouli",
+    "name": "Shy (1)",
+    "action": "Shy",
+    "variant": "1",
+    "tags": [
+      "shy",
+      "1",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 1.gif",
+    "url": "/emotes/patchouli/Shy%201.gif",
+    "localUrl": "/emotes/patchouli/Shy%201.gif"
+  },
+  {
+    "id": "patchouli-shy-2",
+    "character": "patchouli",
+    "name": "Shy (2)",
+    "action": "Shy",
+    "variant": "2",
+    "tags": [
+      "shy",
+      "2",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 2.gif",
+    "url": "/emotes/patchouli/Shy%202.gif",
+    "localUrl": "/emotes/patchouli/Shy%202.gif"
+  },
+  {
+    "id": "patchouli-sing",
+    "character": "patchouli",
+    "name": "Sing",
+    "action": "Sing",
+    "variant": "",
+    "tags": [
+      "sing",
+      "song",
+      "music",
+      "karaoke"
+    ],
+    "filename": "Sing.gif",
+    "url": "/emotes/patchouli/Sing.gif",
+    "localUrl": "/emotes/patchouli/Sing.gif"
+  },
+  {
+    "id": "patchouli-six-seven-dum",
+    "character": "patchouli",
+    "name": "Six Seven (Dum)",
+    "action": "Six Seven",
+    "variant": "Dum",
+    "tags": [
+      "six",
+      "seven",
+      "dum",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven (Dum).gif",
+    "url": "/emotes/patchouli/Six%20Seven%20(Dum).gif",
+    "localUrl": "/emotes/patchouli/Six%20Seven%20(Dum).gif"
+  },
+  {
+    "id": "patchouli-six-seven",
+    "character": "patchouli",
+    "name": "Six Seven",
+    "action": "Six Seven",
+    "variant": "",
+    "tags": [
+      "six",
+      "seven",
+      "67",
+      "number",
+      "meme"
+    ],
+    "filename": "Six Seven.gif",
+    "url": "/emotes/patchouli/Six%20Seven.gif",
+    "localUrl": "/emotes/patchouli/Six%20Seven.gif"
+  },
+  {
+    "id": "patchouli-sleep-normal",
+    "character": "patchouli",
+    "name": "Sleep (Normal)",
+    "action": "Sleep",
+    "variant": "Normal",
+    "tags": [
+      "sleep",
+      "normal",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Normal).gif",
+    "url": "/emotes/patchouli/Sleep%20(Normal).gif",
+    "localUrl": "/emotes/patchouli/Sleep%20(Normal).gif"
+  },
+  {
+    "id": "patchouli-sleep-preparing-stage-1",
+    "character": "patchouli",
+    "name": "Sleep (Preparing Stage 1)",
+    "action": "Sleep",
+    "variant": "Preparing Stage 1",
+    "tags": [
+      "sleep",
+      "preparing",
+      "stage",
+      "1",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Preparing Stage 1).gif",
+    "url": "/emotes/patchouli/Sleep%20(Preparing%20Stage%201).gif",
+    "localUrl": "/emotes/patchouli/Sleep%20(Preparing%20Stage%201).gif"
+  },
+  {
+    "id": "patchouli-sleep-preparing-stage-2",
+    "character": "patchouli",
+    "name": "Sleep (Preparing Stage 2)",
+    "action": "Sleep",
+    "variant": "Preparing Stage 2",
+    "tags": [
+      "sleep",
+      "preparing",
+      "stage",
+      "2",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (Preparing Stage 2).gif",
+    "url": "/emotes/patchouli/Sleep%20(Preparing%20Stage%202).gif",
+    "localUrl": "/emotes/patchouli/Sleep%20(Preparing%20Stage%202).gif"
+  },
+  {
+    "id": "patchouli-sleep-uu",
+    "character": "patchouli",
+    "name": "Sleep (UU)",
+    "action": "Sleep",
+    "variant": "UU",
+    "tags": [
+      "sleep",
+      "uu",
+      "tired",
+      "zzz",
+      "nap"
+    ],
+    "filename": "Sleep (UU).gif",
+    "url": "/emotes/patchouli/Sleep%20(UU).gif",
+    "localUrl": "/emotes/patchouli/Sleep%20(UU).gif"
+  },
+  {
+    "id": "patchouli-slipper-1",
+    "character": "patchouli",
+    "name": "Slipper (1)",
+    "action": "Slipper",
+    "variant": "1",
+    "tags": [
+      "slipper",
+      "1",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 1.gif",
+    "url": "/emotes/patchouli/Slipper%201.gif",
+    "localUrl": "/emotes/patchouli/Slipper%201.gif"
+  },
+  {
+    "id": "patchouli-slipper-2",
+    "character": "patchouli",
+    "name": "Slipper (2)",
+    "action": "Slipper",
+    "variant": "2",
+    "tags": [
+      "slipper",
+      "2",
+      "hit",
+      "bonk",
+      "chancla"
+    ],
+    "filename": "Slipper 2.gif",
+    "url": "/emotes/patchouli/Slipper%202.gif",
+    "localUrl": "/emotes/patchouli/Slipper%202.gif"
+  },
+  {
+    "id": "patchouli-sparkling-1",
+    "character": "patchouli",
+    "name": "Sparkling (1)",
+    "action": "Sparkling",
+    "variant": "1",
+    "tags": [
+      "sparkling",
+      "1",
+      "sparkle",
+      "shine",
+      "glitter",
+      "pretty"
+    ],
+    "filename": "Sparkling 1.gif",
+    "url": "/emotes/patchouli/Sparkling%201.gif",
+    "localUrl": "/emotes/patchouli/Sparkling%201.gif"
+  },
+  {
+    "id": "patchouli-sparkling-2",
+    "character": "patchouli",
+    "name": "Sparkling (2)",
+    "action": "Sparkling",
+    "variant": "2",
+    "tags": [
+      "sparkling",
+      "2",
+      "sparkle",
+      "shine",
+      "glitter",
+      "pretty"
+    ],
+    "filename": "Sparkling 2.gif",
+    "url": "/emotes/patchouli/Sparkling%202.gif",
+    "localUrl": "/emotes/patchouli/Sparkling%202.gif"
+  },
+  {
+    "id": "patchouli-spray",
+    "character": "patchouli",
+    "name": "Spray",
+    "action": "Spray",
+    "variant": "",
+    "tags": [
+      "spray",
+      "clean",
+      "water"
+    ],
+    "filename": "Spray.gif",
+    "url": "/emotes/patchouli/Spray.gif",
+    "localUrl": "/emotes/patchouli/Spray.gif"
+  },
+  {
+    "id": "patchouli-stops-working",
+    "character": "patchouli",
+    "name": "Stops Working",
+    "action": "Stops Working",
+    "variant": "",
+    "tags": [
+      "stops",
+      "working",
+      "stop",
+      "error",
+      "broken",
+      "crash"
+    ],
+    "filename": "Stops Working.gif",
+    "url": "/emotes/patchouli/Stops%20Working.gif",
+    "localUrl": "/emotes/patchouli/Stops%20Working.gif"
+  },
+  {
+    "id": "patchouli-sunglasses-gleam",
+    "character": "patchouli",
+    "name": "Sunglasses Gleam",
+    "action": "Sunglasses Gleam",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "gleam"
+    ],
+    "filename": "Sunglasses Gleam.gif",
+    "url": "/emotes/patchouli/Sunglasses%20Gleam.gif",
+    "localUrl": "/emotes/patchouli/Sunglasses%20Gleam.gif"
+  },
+  {
+    "id": "patchouli-sunglasses-loop",
+    "character": "patchouli",
+    "name": "Sunglasses Loop",
+    "action": "Sunglasses Loop",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "loop"
+    ],
+    "filename": "Sunglasses Loop.gif",
+    "url": "/emotes/patchouli/Sunglasses%20Loop.gif",
+    "localUrl": "/emotes/patchouli/Sunglasses%20Loop.gif"
+  },
+  {
+    "id": "patchouli-sunglasses-pixel-gleam",
+    "character": "patchouli",
+    "name": "Sunglasses Pixel Gleam",
+    "action": "Sunglasses Pixel Gleam",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "pixel",
+      "gleam"
+    ],
+    "filename": "Sunglasses Pixel Gleam.gif",
+    "url": "/emotes/patchouli/Sunglasses%20Pixel%20Gleam.gif",
+    "localUrl": "/emotes/patchouli/Sunglasses%20Pixel%20Gleam.gif"
+  },
+  {
+    "id": "patchouli-sunglasses-remove",
+    "character": "patchouli",
+    "name": "Sunglasses Remove",
+    "action": "Sunglasses Remove",
+    "variant": "",
+    "tags": [
+      "sunglasses",
+      "remove"
+    ],
+    "filename": "Sunglasses Remove.gif",
+    "url": "/emotes/patchouli/Sunglasses%20Remove.gif",
+    "localUrl": "/emotes/patchouli/Sunglasses%20Remove.gif"
+  },
+  {
+    "id": "patchouli-surprise",
+    "character": "patchouli",
+    "name": "Surprise",
+    "action": "Surprise",
+    "variant": "",
+    "tags": [
+      "surprise",
+      "shock",
+      "wow",
+      "omg"
+    ],
+    "filename": "Surprise.gif",
+    "url": "/emotes/patchouli/Surprise.gif",
+    "localUrl": "/emotes/patchouli/Surprise.gif"
+  },
+  {
+    "id": "patchouli-swatter",
+    "character": "patchouli",
+    "name": "Swatter",
+    "action": "Swatter",
+    "variant": "",
+    "tags": [
+      "swatter",
+      "fly",
+      "hit"
+    ],
+    "filename": "Swatter.gif",
+    "url": "/emotes/patchouli/Swatter.gif",
+    "localUrl": "/emotes/patchouli/Swatter.gif"
+  },
+  {
+    "id": "patchouli-sweat",
+    "character": "patchouli",
+    "name": "Sweat",
+    "action": "Sweat",
+    "variant": "",
+    "tags": [
+      "sweat",
+      "nervous",
+      "hot",
+      "anxious"
+    ],
+    "filename": "Sweat.gif",
+    "url": "/emotes/patchouli/Sweat.gif",
+    "localUrl": "/emotes/patchouli/Sweat.gif"
+  },
+  {
+    "id": "patchouli-tablet",
+    "character": "patchouli",
+    "name": "Tablet",
+    "action": "Tablet",
+    "variant": "",
+    "tags": [
+      "tablet",
+      "ipad",
+      "draw",
+      "device"
+    ],
+    "filename": "Tablet.gif",
+    "url": "/emotes/patchouli/Tablet.gif",
+    "localUrl": "/emotes/patchouli/Tablet.gif"
+  },
+  {
+    "id": "patchouli-take-my-money",
+    "character": "patchouli",
+    "name": "Take My Money",
+    "action": "Take My Money",
+    "variant": "",
+    "tags": [
+      "take",
+      "my",
+      "money",
+      "shutup",
+      "buy"
+    ],
+    "filename": "Take My Money.gif",
+    "url": "/emotes/patchouli/Take%20My%20Money.gif",
+    "localUrl": "/emotes/patchouli/Take%20My%20Money.gif"
+  },
+  {
+    "id": "patchouli-tape",
+    "character": "patchouli",
+    "name": "Tape",
+    "action": "Tape",
+    "variant": "",
+    "tags": [
+      "tape",
+      "seal",
+      "sticky"
+    ],
+    "filename": "Tape.gif",
+    "url": "/emotes/patchouli/Tape.gif",
+    "localUrl": "/emotes/patchouli/Tape.gif"
+  },
+  {
+    "id": "patchouli-tea-1",
+    "character": "patchouli",
+    "name": "Tea (1)",
+    "action": "Tea",
+    "variant": "1",
+    "tags": [
+      "tea",
+      "1",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 1.gif",
+    "url": "/emotes/patchouli/Tea%201.gif",
+    "localUrl": "/emotes/patchouli/Tea%201.gif"
+  },
+  {
+    "id": "patchouli-tea-2",
+    "character": "patchouli",
+    "name": "Tea (2)",
+    "action": "Tea",
+    "variant": "2",
+    "tags": [
+      "tea",
+      "2",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 2.gif",
+    "url": "/emotes/patchouli/Tea%202.gif",
+    "localUrl": "/emotes/patchouli/Tea%202.gif"
+  },
+  {
+    "id": "patchouli-tea-3",
+    "character": "patchouli",
+    "name": "Tea (3)",
+    "action": "Tea",
+    "variant": "3",
+    "tags": [
+      "tea",
+      "3",
+      "drink",
+      "beverage",
+      "relax"
+    ],
+    "filename": "Tea 3.gif",
+    "url": "/emotes/patchouli/Tea%203.gif",
+    "localUrl": "/emotes/patchouli/Tea%203.gif"
+  },
+  {
+    "id": "patchouli-think-confident",
+    "character": "patchouli",
+    "name": "Think (Confident)",
+    "action": "Think",
+    "variant": "Confident",
+    "tags": [
+      "think",
+      "confident",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Confident).gif",
+    "url": "/emotes/patchouli/Think%20(Confident).gif",
+    "localUrl": "/emotes/patchouli/Think%20(Confident).gif"
+  },
+  {
+    "id": "patchouli-think-serious",
+    "character": "patchouli",
+    "name": "Think (Serious)",
+    "action": "Think",
+    "variant": "Serious",
+    "tags": [
+      "think",
+      "serious",
+      "ponder",
+      "hmm",
+      "consider"
+    ],
+    "filename": "Think (Serious).gif",
+    "url": "/emotes/patchouli/Think%20(Serious).gif",
+    "localUrl": "/emotes/patchouli/Think%20(Serious).gif"
+  },
+  {
+    "id": "patchouli-this-is-fine-1",
+    "character": "patchouli",
+    "name": "This Is Fine (1)",
+    "action": "This Is Fine",
+    "variant": "1",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "1",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 1.gif",
+    "url": "/emotes/patchouli/This%20Is%20Fine%201.gif",
+    "localUrl": "/emotes/patchouli/This%20Is%20Fine%201.gif"
+  },
+  {
+    "id": "patchouli-this-is-fine-2",
+    "character": "patchouli",
+    "name": "This Is Fine (2)",
+    "action": "This Is Fine",
+    "variant": "2",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "2",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 2.gif",
+    "url": "/emotes/patchouli/This%20Is%20Fine%202.gif",
+    "localUrl": "/emotes/patchouli/This%20Is%20Fine%202.gif"
+  },
+  {
+    "id": "patchouli-this-is-fine-3",
+    "character": "patchouli",
+    "name": "This Is Fine (3)",
+    "action": "This Is Fine",
+    "variant": "3",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "3",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 3.gif",
+    "url": "/emotes/patchouli/This%20Is%20Fine%203.gif",
+    "localUrl": "/emotes/patchouli/This%20Is%20Fine%203.gif"
+  },
+  {
+    "id": "patchouli-this-is-fine-4",
+    "character": "patchouli",
+    "name": "This Is Fine (4)",
+    "action": "This Is Fine",
+    "variant": "4",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "4",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 4.gif",
+    "url": "/emotes/patchouli/This%20Is%20Fine%204.gif",
+    "localUrl": "/emotes/patchouli/This%20Is%20Fine%204.gif"
+  },
+  {
+    "id": "patchouli-this-is-fine-5",
+    "character": "patchouli",
+    "name": "This Is Fine (5)",
+    "action": "This Is Fine",
+    "variant": "5",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "5",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 5.gif",
+    "url": "/emotes/patchouli/This%20Is%20Fine%205.gif",
+    "localUrl": "/emotes/patchouli/This%20Is%20Fine%205.gif"
+  },
+  {
+    "id": "patchouli-this-is-fine-6",
+    "character": "patchouli",
+    "name": "This Is Fine (6)",
+    "action": "This Is Fine",
+    "variant": "6",
+    "tags": [
+      "this",
+      "is",
+      "fine",
+      "6",
+      "fire",
+      "meme",
+      "cope",
+      "thisisfine"
+    ],
+    "filename": "This Is Fine 6.gif",
+    "url": "/emotes/patchouli/This%20Is%20Fine%206.gif",
+    "localUrl": "/emotes/patchouli/This%20Is%20Fine%206.gif"
+  },
+  {
+    "id": "patchouli-thumb-down",
+    "character": "patchouli",
+    "name": "Thumb Down",
+    "action": "Thumb Down",
+    "variant": "",
+    "tags": [
+      "thumb",
+      "down",
+      "dislike",
+      "no",
+      "bad"
+    ],
+    "filename": "Thumb Down.gif",
+    "url": "/emotes/patchouli/Thumb%20Down.gif",
+    "localUrl": "/emotes/patchouli/Thumb%20Down.gif"
+  },
+  {
+    "id": "patchouli-thumb-up",
+    "character": "patchouli",
+    "name": "Thumb Up",
+    "action": "Thumb Up",
+    "variant": "",
+    "tags": [
+      "thumb",
+      "up",
+      "like",
+      "yes",
+      "good"
+    ],
+    "filename": "Thumb Up.gif",
+    "url": "/emotes/patchouli/Thumb%20Up.gif",
+    "localUrl": "/emotes/patchouli/Thumb%20Up.gif"
+  },
+  {
+    "id": "patchouli-trash-bin",
+    "character": "patchouli",
+    "name": "Trash Bin",
+    "action": "Trash Bin",
+    "variant": "",
+    "tags": [
+      "trash",
+      "bin",
+      "delete",
+      "garbage"
+    ],
+    "filename": "Trash Bin.gif",
+    "url": "/emotes/patchouli/Trash%20Bin.gif",
+    "localUrl": "/emotes/patchouli/Trash%20Bin.gif"
+  },
+  {
+    "id": "patchouli-trashtuber-idle",
+    "character": "patchouli",
+    "name": "TrashTuber Idle",
+    "action": "TrashTuber Idle",
+    "variant": "",
+    "tags": [
+      "trashtuber",
+      "idle",
+      "vtuber",
+      "trash"
+    ],
+    "filename": "TrashTuber Idle.gif",
+    "url": "/emotes/patchouli/TrashTuber%20Idle.gif",
+    "localUrl": "/emotes/patchouli/TrashTuber%20Idle.gif"
+  },
+  {
+    "id": "patchouli-trashtuber-talk",
+    "character": "patchouli",
+    "name": "TrashTuber Talk",
+    "action": "TrashTuber Talk",
+    "variant": "",
+    "tags": [
+      "trashtuber",
+      "talk",
+      "vtuber",
+      "trash"
+    ],
+    "filename": "TrashTuber Talk.gif",
+    "url": "/emotes/patchouli/TrashTuber%20Talk.gif",
+    "localUrl": "/emotes/patchouli/TrashTuber%20Talk.gif"
+  },
+  {
+    "id": "patchouli-trashtuber-yap",
+    "character": "patchouli",
+    "name": "TrashTuber Yap",
+    "action": "TrashTuber Yap",
+    "variant": "",
+    "tags": [
+      "trashtuber",
+      "yap",
+      "vtuber",
+      "trash"
+    ],
+    "filename": "TrashTuber Yap.gif",
+    "url": "/emotes/patchouli/TrashTuber%20Yap.gif",
+    "localUrl": "/emotes/patchouli/TrashTuber%20Yap.gif"
+  },
+  {
+    "id": "patchouli-trophy-1",
+    "character": "patchouli",
+    "name": "Trophy (1)",
+    "action": "Trophy",
+    "variant": "1",
+    "tags": [
+      "trophy",
+      "1",
+      "winner",
+      "win",
+      "award",
+      "victory"
+    ],
+    "filename": "Trophy 1.gif",
+    "url": "/emotes/patchouli/Trophy%201.gif",
+    "localUrl": "/emotes/patchouli/Trophy%201.gif"
+  },
+  {
+    "id": "patchouli-type-angry",
+    "character": "patchouli",
+    "name": "Type Angry",
+    "action": "Type Angry",
+    "variant": "",
+    "tags": [
+      "type",
+      "angry"
+    ],
+    "filename": "Type Angry.gif",
+    "url": "/emotes/patchouli/Type%20Angry.gif",
+    "localUrl": "/emotes/patchouli/Type%20Angry.gif"
+  },
+  {
+    "id": "patchouli-type-annoyed",
+    "character": "patchouli",
+    "name": "Type Annoyed",
+    "action": "Type Annoyed",
+    "variant": "",
+    "tags": [
+      "type",
+      "annoyed"
+    ],
+    "filename": "Type Annoyed.gif",
+    "url": "/emotes/patchouli/Type%20Annoyed.gif",
+    "localUrl": "/emotes/patchouli/Type%20Annoyed.gif"
+  },
+  {
+    "id": "patchouli-type-normal",
+    "character": "patchouli",
+    "name": "Type Normal",
+    "action": "Type Normal",
+    "variant": "",
+    "tags": [
+      "type",
+      "normal"
+    ],
+    "filename": "Type Normal.gif",
+    "url": "/emotes/patchouli/Type%20Normal.gif",
+    "localUrl": "/emotes/patchouli/Type%20Normal.gif"
+  },
+  {
+    "id": "patchouli-wink",
+    "character": "patchouli",
+    "name": "Wink",
+    "action": "Wink",
+    "variant": "",
+    "tags": [
+      "wink",
+      "flirt",
+      "cute"
+    ],
+    "filename": "Wink.gif",
+    "url": "/emotes/patchouli/Wink.gif",
+    "localUrl": "/emotes/patchouli/Wink.gif"
+  },
+  {
+    "id": "patchouli-work-angry",
+    "character": "patchouli",
+    "name": "Work Angry",
+    "action": "Work Angry",
+    "variant": "",
+    "tags": [
+      "work",
+      "angry"
+    ],
+    "filename": "Work Angry.gif",
+    "url": "/emotes/patchouli/Work%20Angry.gif",
+    "localUrl": "/emotes/patchouli/Work%20Angry.gif"
+  },
+  {
+    "id": "patchouli-work-nap",
+    "character": "patchouli",
+    "name": "Work Nap",
+    "action": "Work Nap",
+    "variant": "",
+    "tags": [
+      "work",
+      "nap"
+    ],
+    "filename": "Work Nap.gif",
+    "url": "/emotes/patchouli/Work%20Nap.gif",
+    "localUrl": "/emotes/patchouli/Work%20Nap.gif"
+  },
+  {
+    "id": "patchouli-work-normal",
+    "character": "patchouli",
+    "name": "Work Normal",
+    "action": "Work Normal",
+    "variant": "",
+    "tags": [
+      "work",
+      "normal"
+    ],
+    "filename": "Work Normal.gif",
+    "url": "/emotes/patchouli/Work%20Normal.gif",
+    "localUrl": "/emotes/patchouli/Work%20Normal.gif"
+  },
+  {
+    "id": "patchouli-work-tired",
+    "character": "patchouli",
+    "name": "Work Tired",
+    "action": "Work Tired",
+    "variant": "",
+    "tags": [
+      "work",
+      "tired"
+    ],
+    "filename": "Work Tired.gif",
+    "url": "/emotes/patchouli/Work%20Tired.gif",
+    "localUrl": "/emotes/patchouli/Work%20Tired.gif"
+  },
+  {
+    "id": "patchouli-yay",
+    "character": "patchouli",
+    "name": "Yay",
+    "action": "Yay",
+    "variant": "",
+    "tags": [
+      "yay",
+      "cheer",
+      "celebrate",
+      "happy"
+    ],
+    "filename": "Yay.gif",
+    "url": "/emotes/patchouli/Yay.gif",
+    "localUrl": "/emotes/patchouli/Yay.gif"
+  },
+  {
     "id": "rin-2-0-cheers-2026-08-16-16-46-02",
     "character": "rin",
     "name": "镜音铃2.0_Cheers_2026-08-16-16-46-02",
