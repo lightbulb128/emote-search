@@ -9,7 +9,12 @@
 //   R2_BUCKET_NAME      - R2 bucket name (e.g. "emotes")
 //   R2_PUBLIC_URL        - Public base URL (e.g. "https://pub-xxx.r2.dev")
 //
-// Usage: node scripts/upload-to-r2.js
+// Usage:
+//   node scripts/upload-to-r2.js                 # upload every GIF
+//   node scripts/upload-to-r2.js 30              # only GIFs modified in the last 30 minutes
+//   node scripts/upload-to-r2.js --minutes=30    # same thing
+//
+// npm equivalent: `npm run upload -- 30`
 
 import { S3Client, PutObjectCommand, HeadObjectCommand } from "@aws-sdk/client-s3";
 import { readFileSync, readdirSync, statSync, existsSync } from "node:fs";
@@ -19,6 +24,48 @@ import { fileURLToPath } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const EMOTES_DIR = join(__dirname, "..", "public", "emotes");
+
+/**
+ * Parse the optional "minutes" argument.
+ *
+ * Accepts `--minutes=30`, `--minutes 30`, `-m 30`, or a bare positional number (`30`).
+ * @param {string[]} argv
+ * @returns {number | undefined} lookback window in minutes, or undefined for "no filter"
+ */
+function parseMinutesArg(argv) {
+  /** @type {string | undefined} */
+  let raw;
+
+  for (let i = 0; i < argv.length; i++) {
+    const arg = argv[i];
+    const eqMatch = /^--?minutes?=(.+)$/.exec(arg);
+    if (eqMatch) {
+      raw = eqMatch[1];
+      break;
+    }
+    if (arg === "--minutes" || arg === "-m") {
+      raw = argv[i + 1];
+      break;
+    }
+    if (/^\d+(\.\d+)?$/.test(arg)) {
+      raw = arg;
+      break;
+    }
+  }
+
+  if (raw === undefined) {
+    return undefined;
+  }
+
+  const minutes = Number(raw);
+  if (!Number.isFinite(minutes) || minutes <= 0) {
+    console.error(`❌ Invalid minutes value: "${raw}". Expected a positive number.`);
+    process.exit(1);
+  }
+  return minutes;
+}
+
+const minutesArg = parseMinutesArg(process.argv.slice(2));
 
 const required = ["R2_ACCOUNT_ID", "R2_ACCESS_KEY_ID", "R2_SECRET_ACCESS_KEY", "R2_BUCKET_NAME", "R2_PUBLIC_URL"];
 const missing = required.filter((k) => !process.env[k]);
@@ -106,8 +153,25 @@ async function main() {
     process.exit(1);
   }
 
-  const files = findGifs(EMOTES_DIR);
-  console.log(`📦 Found ${files.length} GIF files.`);
+  const allFiles = findGifs(EMOTES_DIR);
+  console.log(`📦 Found ${allFiles.length} GIF files.`);
+
+  // Optionally keep only files whose modification time is within the lookback window.
+  let files = allFiles;
+  if (minutesArg !== undefined) {
+    const cutoff = Date.now() - minutesArg * 60 * 1000;
+    files = allFiles.filter((filePath) => {
+      const mtime = statSync(filePath).mtimeMs;
+      return mtime >= cutoff;
+    });
+    console.log(
+      `🕒 Modified in the last ${minutesArg} minute(s): ${files.length} of ${allFiles.length} file(s).`
+    );
+    if (files.length === 0) {
+      console.log("\n✅ Nothing to upload — no files modified in that window.");
+      return;
+    }
+  }
 
   // Pre-compute metadata for all files
   const tasks = files.map((filePath) => {

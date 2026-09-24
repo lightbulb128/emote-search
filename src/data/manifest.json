@@ -241,6 +241,23 @@
     "localUrl": "/emotes/alice/Blep%204.gif"
   },
   {
+    "id": "alice-blink-1",
+    "character": "alice",
+    "name": "Blink (1)",
+    "action": "Blink",
+    "variant": "1",
+    "tags": [
+      "blink",
+      "1",
+      "eyes",
+      "sleepy",
+      "tired"
+    ],
+    "filename": "Blink 1.gif",
+    "url": "/emotes/alice/Blink%201.gif",
+    "localUrl": "/emotes/alice/Blink%201.gif"
+  },
+  {
     "id": "alice-bonk",
     "character": "alice",
     "name": "Bonk",
@@ -802,6 +819,38 @@
     "filename": "Dizzy.gif",
     "url": "/emotes/alice/Dizzy.gif",
     "localUrl": "/emotes/alice/Dizzy.gif"
+  },
+  {
+    "id": "alice-drink-energydrink1",
+    "character": "alice",
+    "name": "Drink (EnergyDrink1)",
+    "action": "Drink",
+    "variant": "EnergyDrink1",
+    "tags": [
+      "drink",
+      "energydrink1",
+      "beverage",
+      "thirsty"
+    ],
+    "filename": "Drink (EnergyDrink1).gif",
+    "url": "/emotes/alice/Drink%20(EnergyDrink1).gif",
+    "localUrl": "/emotes/alice/Drink%20(EnergyDrink1).gif"
+  },
+  {
+    "id": "alice-drink-energydrink2",
+    "character": "alice",
+    "name": "Drink (EnergyDrink2)",
+    "action": "Drink",
+    "variant": "EnergyDrink2",
+    "tags": [
+      "drink",
+      "energydrink2",
+      "beverage",
+      "thirsty"
+    ],
+    "filename": "Drink (EnergyDrink2).gif",
+    "url": "/emotes/alice/Drink%20(EnergyDrink2).gif",
+    "localUrl": "/emotes/alice/Drink%20(EnergyDrink2).gif"
   },
   {
     "id": "alice-drink-beverage-cup-coffee",
@@ -1417,6 +1466,22 @@
     "localUrl": "/emotes/alice/Head%20Shake.gif"
   },
   {
+    "id": "alice-hydrate",
+    "character": "alice",
+    "name": "Hydrate",
+    "action": "Hydrate",
+    "variant": "",
+    "tags": [
+      "hydrate",
+      "water",
+      "drink",
+      "thirsty"
+    ],
+    "filename": "Hydrate.gif",
+    "url": "/emotes/alice/Hydrate.gif",
+    "localUrl": "/emotes/alice/Hydrate.gif"
+  },
+  {
     "id": "alice-hypnosis-2",
     "character": "alice",
     "name": "Hypnosis (2)",
@@ -1563,6 +1628,38 @@
     "filename": "Laugh.gif",
     "url": "/emotes/alice/Laugh.gif",
     "localUrl": "/emotes/alice/Laugh.gif"
+  },
+  {
+    "id": "alice-lick-icecream",
+    "character": "alice",
+    "name": "Lick (IceCream)",
+    "action": "Lick",
+    "variant": "IceCream",
+    "tags": [
+      "lick",
+      "icecream",
+      "taste",
+      "tongue"
+    ],
+    "filename": "Lick (IceCream).gif",
+    "url": "/emotes/alice/Lick%20(IceCream).gif",
+    "localUrl": "/emotes/alice/Lick%20(IceCream).gif"
+  },
+  {
+    "id": "alice-lick-popsicle",
+    "character": "alice",
+    "name": "Lick (Popsicle)",
+    "action": "Lick",
+    "variant": "Popsicle",
+    "tags": [
+      "lick",
+      "popsicle",
+      "taste",
+      "tongue"
+    ],
+    "filename": "Lick (Popsicle).gif",
+    "url": "/emotes/alice/Lick%20(Popsicle).gif",
+    "localUrl": "/emotes/alice/Lick%20(Popsicle).gif"
   },
   {
     "id": "alice-lick",
@@ -1813,6 +1910,57 @@
     "localUrl": "/emotes/alice/Money.gif"
   },
   {
+    "id": "alice-music-1",
+    "character": "alice",
+    "name": "Music (1)",
+    "action": "Music",
+    "variant": "1",
+    "tags": [
+      "music",
+      "1",
+      "song",
+      "sing",
+      "listen"
+    ],
+    "filename": "Music 1.gif",
+    "url": "/emotes/alice/Music%201.gif",
+    "localUrl": "/emotes/alice/Music%201.gif"
+  },
+  {
+    "id": "alice-music-2",
+    "character": "alice",
+    "name": "Music (2)",
+    "action": "Music",
+    "variant": "2",
+    "tags": [
+      "music",
+      "2",
+      "song",
+      "sing",
+      "listen"
+    ],
+    "filename": "Music 2.gif",
+    "url": "/emotes/alice/Music%202.gif",
+    "localUrl": "/emotes/alice/Music%202.gif"
+  },
+  {
+    "id": "alice-music-3",
+    "character": "alice",
+    "name": "Music (3)",
+    "action": "Music",
+    "variant": "3",
+    "tags": [
+      "music",
+      "3",
+      "song",
+      "sing",
+      "listen"
+    ],
+    "filename": "Music 3.gif",
+    "url": "/emotes/alice/Music%203.gif",
+    "localUrl": "/emotes/alice/Music%203.gif"
+  },
+  {
     "id": "alice-mute-1",
     "character": "alice",
     "name": "Mute (1)",
@@ -1861,6 +2009,57 @@
     "filename": "Need Food.gif",
     "url": "/emotes/alice/Need%20Food.gif",
     "localUrl": "/emotes/alice/Need%20Food.gif"
+  },
+  {
+    "id": "alice-nerd-1",
+    "character": "alice",
+    "name": "Nerd (1)",
+    "action": "Nerd",
+    "variant": "1",
+    "tags": [
+      "nerd",
+      "1",
+      "geek",
+      "smart",
+      "glasses"
+    ],
+    "filename": "Nerd 1.gif",
+    "url": "/emotes/alice/Nerd%201.gif",
+    "localUrl": "/emotes/alice/Nerd%201.gif"
+  },
+  {
+    "id": "alice-nerd-2",
+    "character": "alice",
+    "name": "Nerd (2)",
+    "action": "Nerd",
+    "variant": "2",
+    "tags": [
+      "nerd",
+      "2",
+      "geek",
+      "smart",
+      "glasses"
+    ],
+    "filename": "Nerd 2.gif",
+    "url": "/emotes/alice/Nerd%202.gif",
+    "localUrl": "/emotes/alice/Nerd%202.gif"
+  },
+  {
+    "id": "alice-nerd-3",
+    "character": "alice",
+    "name": "Nerd (3)",
+    "action": "Nerd",
+    "variant": "3",
+    "tags": [
+      "nerd",
+      "3",
+      "geek",
+      "smart",
+      "glasses"
+    ],
+    "filename": "Nerd 3.gif",
+    "url": "/emotes/alice/Nerd%203.gif",
+    "localUrl": "/emotes/alice/Nerd%203.gif"
   },
   {
     "id": "alice-nervous-1",
@@ -1998,6 +2197,57 @@
     "filename": "Pat.gif",
     "url": "/emotes/alice/Pat.gif",
     "localUrl": "/emotes/alice/Pat.gif"
+  },
+  {
+    "id": "alice-pillow-lick",
+    "character": "alice",
+    "name": "Pillow (Lick)",
+    "action": "Pillow",
+    "variant": "Lick",
+    "tags": [
+      "pillow",
+      "lick",
+      "sleep",
+      "bed",
+      "soft"
+    ],
+    "filename": "Pillow (Lick).gif",
+    "url": "/emotes/alice/Pillow%20(Lick).gif",
+    "localUrl": "/emotes/alice/Pillow%20(Lick).gif"
+  },
+  {
+    "id": "alice-pillow-rub",
+    "character": "alice",
+    "name": "Pillow (Rub)",
+    "action": "Pillow",
+    "variant": "Rub",
+    "tags": [
+      "pillow",
+      "rub",
+      "sleep",
+      "bed",
+      "soft"
+    ],
+    "filename": "Pillow (Rub).gif",
+    "url": "/emotes/alice/Pillow%20(Rub).gif",
+    "localUrl": "/emotes/alice/Pillow%20(Rub).gif"
+  },
+  {
+    "id": "alice-pillow-rub2",
+    "character": "alice",
+    "name": "Pillow (Rub2)",
+    "action": "Pillow",
+    "variant": "Rub2",
+    "tags": [
+      "pillow",
+      "rub2",
+      "sleep",
+      "bed",
+      "soft"
+    ],
+    "filename": "Pillow (Rub2).gif",
+    "url": "/emotes/alice/Pillow%20(Rub2).gif",
+    "localUrl": "/emotes/alice/Pillow%20(Rub2).gif"
   },
   {
     "id": "alice-pngtuber-idle-2",
@@ -2418,6 +2668,23 @@
     "localUrl": "/emotes/alice/Shy%202.gif"
   },
   {
+    "id": "alice-shy-3",
+    "character": "alice",
+    "name": "Shy (3)",
+    "action": "Shy",
+    "variant": "3",
+    "tags": [
+      "shy",
+      "3",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 3.gif",
+    "url": "/emotes/alice/Shy%203.gif",
+    "localUrl": "/emotes/alice/Shy%203.gif"
+  },
+  {
     "id": "alice-sing",
     "character": "alice",
     "name": "Sing",
@@ -2593,6 +2860,24 @@
     "localUrl": "/emotes/alice/Sparkling%202.gif"
   },
   {
+    "id": "alice-sparkling-3",
+    "character": "alice",
+    "name": "Sparkling (3)",
+    "action": "Sparkling",
+    "variant": "3",
+    "tags": [
+      "sparkling",
+      "3",
+      "sparkle",
+      "shine",
+      "glitter",
+      "pretty"
+    ],
+    "filename": "Sparkling 3.gif",
+    "url": "/emotes/alice/Sparkling%203.gif",
+    "localUrl": "/emotes/alice/Sparkling%203.gif"
+  },
+  {
     "id": "alice-sparkling",
     "character": "alice",
     "name": "Sparkling",
@@ -2623,6 +2908,22 @@
     "filename": "Spray.gif",
     "url": "/emotes/alice/Spray.gif",
     "localUrl": "/emotes/alice/Spray.gif"
+  },
+  {
+    "id": "alice-stop",
+    "character": "alice",
+    "name": "Stop",
+    "action": "Stop",
+    "variant": "",
+    "tags": [
+      "stop",
+      "halt",
+      "no",
+      "wait"
+    ],
+    "filename": "Stop.gif",
+    "url": "/emotes/alice/Stop.gif",
+    "localUrl": "/emotes/alice/Stop.gif"
   },
   {
     "id": "alice-stops-working",
@@ -3156,6 +3457,40 @@
     "filename": "Type Normal.gif",
     "url": "/emotes/alice/Type%20Normal.gif",
     "localUrl": "/emotes/alice/Type%20Normal.gif"
+  },
+  {
+    "id": "alice-wiggle-1",
+    "character": "alice",
+    "name": "Wiggle (1)",
+    "action": "Wiggle",
+    "variant": "1",
+    "tags": [
+      "wiggle",
+      "1",
+      "shake",
+      "dance",
+      "excited"
+    ],
+    "filename": "Wiggle 1.gif",
+    "url": "/emotes/alice/Wiggle%201.gif",
+    "localUrl": "/emotes/alice/Wiggle%201.gif"
+  },
+  {
+    "id": "alice-wiggle-2",
+    "character": "alice",
+    "name": "Wiggle (2)",
+    "action": "Wiggle",
+    "variant": "2",
+    "tags": [
+      "wiggle",
+      "2",
+      "shake",
+      "dance",
+      "excited"
+    ],
+    "filename": "Wiggle 2.gif",
+    "url": "/emotes/alice/Wiggle%202.gif",
+    "localUrl": "/emotes/alice/Wiggle%202.gif"
   },
   {
     "id": "alice-wink",
@@ -15224,6 +15559,23 @@
     "localUrl": "/emotes/shinki/Blep%204.gif"
   },
   {
+    "id": "shinki-blink-1",
+    "character": "shinki",
+    "name": "Blink (1)",
+    "action": "Blink",
+    "variant": "1",
+    "tags": [
+      "blink",
+      "1",
+      "eyes",
+      "sleepy",
+      "tired"
+    ],
+    "filename": "Blink 1.gif",
+    "url": "/emotes/shinki/Blink%201.gif",
+    "localUrl": "/emotes/shinki/Blink%201.gif"
+  },
+  {
     "id": "shinki-bonk",
     "character": "shinki",
     "name": "Bonk",
@@ -15770,6 +16122,38 @@
     "filename": "Drink (Beverage Cup).gif",
     "url": "/emotes/shinki/Drink%20(Beverage%20Cup).gif",
     "localUrl": "/emotes/shinki/Drink%20(Beverage%20Cup).gif"
+  },
+  {
+    "id": "shinki-drink-energydrink1",
+    "character": "shinki",
+    "name": "Drink (EnergyDrink1)",
+    "action": "Drink",
+    "variant": "EnergyDrink1",
+    "tags": [
+      "drink",
+      "energydrink1",
+      "beverage",
+      "thirsty"
+    ],
+    "filename": "Drink (EnergyDrink1).gif",
+    "url": "/emotes/shinki/Drink%20(EnergyDrink1).gif",
+    "localUrl": "/emotes/shinki/Drink%20(EnergyDrink1).gif"
+  },
+  {
+    "id": "shinki-drink-energydrink2",
+    "character": "shinki",
+    "name": "Drink (EnergyDrink2)",
+    "action": "Drink",
+    "variant": "EnergyDrink2",
+    "tags": [
+      "drink",
+      "energydrink2",
+      "beverage",
+      "thirsty"
+    ],
+    "filename": "Drink (EnergyDrink2).gif",
+    "url": "/emotes/shinki/Drink%20(EnergyDrink2).gif",
+    "localUrl": "/emotes/shinki/Drink%20(EnergyDrink2).gif"
   },
   {
     "id": "shinki-drink-beverage-cup-blood",
@@ -16357,6 +16741,38 @@
     "localUrl": "/emotes/shinki/Knife%202.gif"
   },
   {
+    "id": "shinki-lick-icecream",
+    "character": "shinki",
+    "name": "Lick (IceCream)",
+    "action": "Lick",
+    "variant": "IceCream",
+    "tags": [
+      "lick",
+      "icecream",
+      "taste",
+      "tongue"
+    ],
+    "filename": "Lick (IceCream).gif",
+    "url": "/emotes/shinki/Lick%20(IceCream).gif",
+    "localUrl": "/emotes/shinki/Lick%20(IceCream).gif"
+  },
+  {
+    "id": "shinki-lick-popsicle",
+    "character": "shinki",
+    "name": "Lick (Popsicle)",
+    "action": "Lick",
+    "variant": "Popsicle",
+    "tags": [
+      "lick",
+      "popsicle",
+      "taste",
+      "tongue"
+    ],
+    "filename": "Lick (Popsicle).gif",
+    "url": "/emotes/shinki/Lick%20(Popsicle).gif",
+    "localUrl": "/emotes/shinki/Lick%20(Popsicle).gif"
+  },
+  {
     "id": "shinki-lightstick-1",
     "character": "shinki",
     "name": "Lightstick (1)",
@@ -16590,6 +17006,57 @@
     "localUrl": "/emotes/shinki/Money.gif"
   },
   {
+    "id": "shinki-music-1",
+    "character": "shinki",
+    "name": "Music (1)",
+    "action": "Music",
+    "variant": "1",
+    "tags": [
+      "music",
+      "1",
+      "song",
+      "sing",
+      "listen"
+    ],
+    "filename": "Music 1.gif",
+    "url": "/emotes/shinki/Music%201.gif",
+    "localUrl": "/emotes/shinki/Music%201.gif"
+  },
+  {
+    "id": "shinki-music-2",
+    "character": "shinki",
+    "name": "Music (2)",
+    "action": "Music",
+    "variant": "2",
+    "tags": [
+      "music",
+      "2",
+      "song",
+      "sing",
+      "listen"
+    ],
+    "filename": "Music 2.gif",
+    "url": "/emotes/shinki/Music%202.gif",
+    "localUrl": "/emotes/shinki/Music%202.gif"
+  },
+  {
+    "id": "shinki-music-3",
+    "character": "shinki",
+    "name": "Music (3)",
+    "action": "Music",
+    "variant": "3",
+    "tags": [
+      "music",
+      "3",
+      "song",
+      "sing",
+      "listen"
+    ],
+    "filename": "Music 3.gif",
+    "url": "/emotes/shinki/Music%203.gif",
+    "localUrl": "/emotes/shinki/Music%203.gif"
+  },
+  {
     "id": "shinki-mute-1",
     "character": "shinki",
     "name": "Mute (1)",
@@ -16638,6 +17105,57 @@
     "filename": "Need Food.gif",
     "url": "/emotes/shinki/Need%20Food.gif",
     "localUrl": "/emotes/shinki/Need%20Food.gif"
+  },
+  {
+    "id": "shinki-nerd-1",
+    "character": "shinki",
+    "name": "Nerd (1)",
+    "action": "Nerd",
+    "variant": "1",
+    "tags": [
+      "nerd",
+      "1",
+      "geek",
+      "smart",
+      "glasses"
+    ],
+    "filename": "Nerd 1.gif",
+    "url": "/emotes/shinki/Nerd%201.gif",
+    "localUrl": "/emotes/shinki/Nerd%201.gif"
+  },
+  {
+    "id": "shinki-nerd-2",
+    "character": "shinki",
+    "name": "Nerd (2)",
+    "action": "Nerd",
+    "variant": "2",
+    "tags": [
+      "nerd",
+      "2",
+      "geek",
+      "smart",
+      "glasses"
+    ],
+    "filename": "Nerd 2.gif",
+    "url": "/emotes/shinki/Nerd%202.gif",
+    "localUrl": "/emotes/shinki/Nerd%202.gif"
+  },
+  {
+    "id": "shinki-nerd-3",
+    "character": "shinki",
+    "name": "Nerd (3)",
+    "action": "Nerd",
+    "variant": "3",
+    "tags": [
+      "nerd",
+      "3",
+      "geek",
+      "smart",
+      "glasses"
+    ],
+    "filename": "Nerd 3.gif",
+    "url": "/emotes/shinki/Nerd%203.gif",
+    "localUrl": "/emotes/shinki/Nerd%203.gif"
   },
   {
     "id": "shinki-nervous-1",
@@ -16775,6 +17293,57 @@
     "filename": "Pat.gif",
     "url": "/emotes/shinki/Pat.gif",
     "localUrl": "/emotes/shinki/Pat.gif"
+  },
+  {
+    "id": "shinki-pillow-lick",
+    "character": "shinki",
+    "name": "Pillow (Lick)",
+    "action": "Pillow",
+    "variant": "Lick",
+    "tags": [
+      "pillow",
+      "lick",
+      "sleep",
+      "bed",
+      "soft"
+    ],
+    "filename": "Pillow (Lick).gif",
+    "url": "/emotes/shinki/Pillow%20(Lick).gif",
+    "localUrl": "/emotes/shinki/Pillow%20(Lick).gif"
+  },
+  {
+    "id": "shinki-pillow-rub",
+    "character": "shinki",
+    "name": "Pillow (Rub)",
+    "action": "Pillow",
+    "variant": "Rub",
+    "tags": [
+      "pillow",
+      "rub",
+      "sleep",
+      "bed",
+      "soft"
+    ],
+    "filename": "Pillow (Rub).gif",
+    "url": "/emotes/shinki/Pillow%20(Rub).gif",
+    "localUrl": "/emotes/shinki/Pillow%20(Rub).gif"
+  },
+  {
+    "id": "shinki-pillow-rub2",
+    "character": "shinki",
+    "name": "Pillow (Rub2)",
+    "action": "Pillow",
+    "variant": "Rub2",
+    "tags": [
+      "pillow",
+      "rub2",
+      "sleep",
+      "bed",
+      "soft"
+    ],
+    "filename": "Pillow (Rub2).gif",
+    "url": "/emotes/shinki/Pillow%20(Rub2).gif",
+    "localUrl": "/emotes/shinki/Pillow%20(Rub2).gif"
   },
   {
     "id": "shinki-pngtuber-idle-2",
@@ -17116,6 +17685,23 @@
     "localUrl": "/emotes/shinki/Shy%202.gif"
   },
   {
+    "id": "shinki-shy-3",
+    "character": "shinki",
+    "name": "Shy (3)",
+    "action": "Shy",
+    "variant": "3",
+    "tags": [
+      "shy",
+      "3",
+      "blush",
+      "embarrassed",
+      "cute"
+    ],
+    "filename": "Shy 3.gif",
+    "url": "/emotes/shinki/Shy%203.gif",
+    "localUrl": "/emotes/shinki/Shy%203.gif"
+  },
+  {
     "id": "shinki-sing",
     "character": "shinki",
     "name": "Sing",
@@ -17273,6 +17859,24 @@
     "localUrl": "/emotes/shinki/Slipper%202.gif"
   },
   {
+    "id": "shinki-sparkling-3",
+    "character": "shinki",
+    "name": "Sparkling (3)",
+    "action": "Sparkling",
+    "variant": "3",
+    "tags": [
+      "sparkling",
+      "3",
+      "sparkle",
+      "shine",
+      "glitter",
+      "pretty"
+    ],
+    "filename": "Sparkling 3.gif",
+    "url": "/emotes/shinki/Sparkling%203.gif",
+    "localUrl": "/emotes/shinki/Sparkling%203.gif"
+  },
+  {
     "id": "shinki-sparkling",
     "character": "shinki",
     "name": "Sparkling",
@@ -17303,6 +17907,22 @@
     "filename": "Spray.gif",
     "url": "/emotes/shinki/Spray.gif",
     "localUrl": "/emotes/shinki/Spray.gif"
+  },
+  {
+    "id": "shinki-stop",
+    "character": "shinki",
+    "name": "Stop",
+    "action": "Stop",
+    "variant": "",
+    "tags": [
+      "stop",
+      "halt",
+      "no",
+      "wait"
+    ],
+    "filename": "Stop.gif",
+    "url": "/emotes/shinki/Stop.gif",
+    "localUrl": "/emotes/shinki/Stop.gif"
   },
   {
     "id": "shinki-stops-working",
@@ -17836,6 +18456,40 @@
     "filename": "Type Normal.gif",
     "url": "/emotes/shinki/Type%20Normal.gif",
     "localUrl": "/emotes/shinki/Type%20Normal.gif"
+  },
+  {
+    "id": "shinki-wiggle-1",
+    "character": "shinki",
+    "name": "Wiggle (1)",
+    "action": "Wiggle",
+    "variant": "1",
+    "tags": [
+      "wiggle",
+      "1",
+      "shake",
+      "dance",
+      "excited"
+    ],
+    "filename": "Wiggle 1.gif",
+    "url": "/emotes/shinki/Wiggle%201.gif",
+    "localUrl": "/emotes/shinki/Wiggle%201.gif"
+  },
+  {
+    "id": "shinki-wiggle-2",
+    "character": "shinki",
+    "name": "Wiggle (2)",
+    "action": "Wiggle",
+    "variant": "2",
+    "tags": [
+      "wiggle",
+      "2",
+      "shake",
+      "dance",
+      "excited"
+    ],
+    "filename": "Wiggle 2.gif",
+    "url": "/emotes/shinki/Wiggle%202.gif",
+    "localUrl": "/emotes/shinki/Wiggle%202.gif"
   },
   {
     "id": "shinki-wink",

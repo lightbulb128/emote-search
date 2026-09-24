@@ -115,6 +115,18 @@ npm run upload
 
 This uploads all GIFs from `public/emotes/` to R2 with `Cache-Control: public, max-age=31536000, immutable`.
 
+#### Upload only recently modified GIFs
+
+Pass a number of **minutes** to upload only files whose modification time falls within that window (handy right after adding a few emotes):
+
+```bash
+npm run upload -- 30          # GIFs modified in the last 30 minutes
+npm run upload -- --minutes=30  # same thing
+npm run upload -- -m 30       # short form
+```
+
+`npm run upload -- 30` passes `30` through to the script (note the `--`). When the flag is omitted, every GIF is scanned as before.
+
 ### 3. Configure GitHub
 
 Add these secrets in your repo → **Settings** → **Secrets and variables** → **Actions**:
@@ -171,3 +183,12 @@ emotelab-query/
 - [Sharp](https://sharp.pixelplumbing.com/) — PWA icon generation
 - GitHub Pages + GitHub Actions — free hosting & CI/CD
 - Cloudflare R2 — GIF CDN storage (10 GB free tier)
+
+# Using .env
+```
+Get-Content .env | ForEach-Object {
+  if ($_ -match '^\s*([^#][^=]*)=(.*)$') {
+    [Environment]::SetEnvironmentVariable($matches[1].Trim(), $matches[2].Trim().Trim('"').Trim("'"), 'Process')
+  }
+}
+```
