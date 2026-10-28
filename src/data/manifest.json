@@ -154,6 +154,45 @@
     "localUrl": "/emotes/alice/Arrive.gif"
   },
   {
+    "id": "alice-battery-charge",
+    "character": "alice",
+    "name": "Battery (Charge)",
+    "action": "Battery",
+    "variant": "Charge",
+    "tags": [
+      "battery",
+      "charge",
+      "power",
+      "energy",
+      "phone",
+      "drained",
+      "juice",
+      "low"
+    ],
+    "filename": "Battery (Charge).gif",
+    "url": "/emotes/alice/Battery%20(Charge).gif",
+    "localUrl": "/emotes/alice/Battery%20(Charge).gif"
+  },
+  {
+    "id": "alice-battery-low",
+    "character": "alice",
+    "name": "Battery (Low)",
+    "action": "Battery",
+    "variant": "Low",
+    "tags": [
+      "battery",
+      "low",
+      "power",
+      "energy",
+      "phone",
+      "drained",
+      "juice"
+    ],
+    "filename": "Battery (Low).gif",
+    "url": "/emotes/alice/Battery%20(Low).gif",
+    "localUrl": "/emotes/alice/Battery%20(Low).gif"
+  },
+  {
     "id": "alice-bell",
     "character": "alice",
     "name": "Bell",
@@ -167,6 +206,44 @@
     "filename": "Bell.gif",
     "url": "/emotes/alice/Bell.gif",
     "localUrl": "/emotes/alice/Bell.gif"
+  },
+  {
+    "id": "alice-bite-1",
+    "character": "alice",
+    "name": "Bite (1)",
+    "action": "Bite",
+    "variant": "1",
+    "tags": [
+      "bite",
+      "1",
+      "chomp",
+      "monch",
+      "nom",
+      "eat",
+      "hungry"
+    ],
+    "filename": "Bite 1.gif",
+    "url": "/emotes/alice/Bite%201.gif",
+    "localUrl": "/emotes/alice/Bite%201.gif"
+  },
+  {
+    "id": "alice-bite-2",
+    "character": "alice",
+    "name": "Bite (2)",
+    "action": "Bite",
+    "variant": "2",
+    "tags": [
+      "bite",
+      "2",
+      "chomp",
+      "monch",
+      "nom",
+      "eat",
+      "hungry"
+    ],
+    "filename": "Bite 2.gif",
+    "url": "/emotes/alice/Bite%202.gif",
+    "localUrl": "/emotes/alice/Bite%202.gif"
   },
   {
     "id": "alice-blep-1",
@@ -258,6 +335,144 @@
     "localUrl": "/emotes/alice/Blink%201.gif"
   },
   {
+    "id": "alice-blow-nose",
+    "character": "alice",
+    "name": "Blow Nose",
+    "action": "Blow Nose",
+    "variant": "",
+    "tags": [
+      "blow",
+      "nose",
+      "tissue",
+      "sick",
+      "cold",
+      "sneeze",
+      "allergy",
+      "hygiene"
+    ],
+    "filename": "Blow Nose.gif",
+    "url": "/emotes/alice/Blow%20Nose.gif",
+    "localUrl": "/emotes/alice/Blow%20Nose.gif"
+  },
+  {
+    "id": "alice-blushing-1",
+    "character": "alice",
+    "name": "Blushing (1)",
+    "action": "Blushing",
+    "variant": "1",
+    "tags": [
+      "blushing",
+      "1",
+      "blush",
+      "shy",
+      "embarrassed",
+      "flustered",
+      "cute",
+      "red"
+    ],
+    "filename": "Blushing 1.gif",
+    "url": "/emotes/alice/Blushing%201.gif",
+    "localUrl": "/emotes/alice/Blushing%201.gif"
+  },
+  {
+    "id": "alice-blushing-2",
+    "character": "alice",
+    "name": "Blushing (2)",
+    "action": "Blushing",
+    "variant": "2",
+    "tags": [
+      "blushing",
+      "2",
+      "blush",
+      "shy",
+      "embarrassed",
+      "flustered",
+      "cute",
+      "red"
+    ],
+    "filename": "Blushing 2.gif",
+    "url": "/emotes/alice/Blushing%202.gif",
+    "localUrl": "/emotes/alice/Blushing%202.gif"
+  },
+  {
+    "id": "alice-bongo-frame-lefthand",
+    "character": "alice",
+    "name": "Bongo (Frame LeftHand)",
+    "action": "Bongo",
+    "variant": "Frame LeftHand",
+    "tags": [
+      "bongo",
+      "frame",
+      "lefthand",
+      "drum",
+      "music",
+      "beat",
+      "rhythm",
+      "percussion"
+    ],
+    "filename": "Bongo (Frame LeftHand).gif",
+    "url": "/emotes/alice/Bongo%20(Frame%20LeftHand).gif",
+    "localUrl": "/emotes/alice/Bongo%20(Frame%20LeftHand).gif"
+  },
+  {
+    "id": "alice-bongo-frame-righthand",
+    "character": "alice",
+    "name": "Bongo (Frame RightHand)",
+    "action": "Bongo",
+    "variant": "Frame RightHand",
+    "tags": [
+      "bongo",
+      "frame",
+      "righthand",
+      "drum",
+      "music",
+      "beat",
+      "rhythm",
+      "percussion"
+    ],
+    "filename": "Bongo (Frame RightHand).gif",
+    "url": "/emotes/alice/Bongo%20(Frame%20RightHand).gif",
+    "localUrl": "/emotes/alice/Bongo%20(Frame%20RightHand).gif"
+  },
+  {
+    "id": "alice-bongo-frame",
+    "character": "alice",
+    "name": "Bongo (Frame)",
+    "action": "Bongo",
+    "variant": "Frame",
+    "tags": [
+      "bongo",
+      "frame",
+      "drum",
+      "music",
+      "beat",
+      "rhythm",
+      "percussion"
+    ],
+    "filename": "Bongo (Frame).gif",
+    "url": "/emotes/alice/Bongo%20(Frame).gif",
+    "localUrl": "/emotes/alice/Bongo%20(Frame).gif"
+  },
+  {
+    "id": "alice-bongo-smooth",
+    "character": "alice",
+    "name": "Bongo (Smooth)",
+    "action": "Bongo",
+    "variant": "Smooth",
+    "tags": [
+      "bongo",
+      "smooth",
+      "drum",
+      "music",
+      "beat",
+      "rhythm",
+      "percussion"
+    ],
+    "filename": "Bongo (Smooth).gif",
+    "url": "/emotes/alice/Bongo%20(Smooth).gif",
+    "localUrl": "/emotes/alice/Bongo%20(Smooth).gif"
+  },
+  {
     "id": "alice-bonk",
     "character": "alice",
     "name": "Bonk",
@@ -271,6 +486,45 @@
     "filename": "Bonk.gif",
     "url": "/emotes/alice/Bonk.gif",
     "localUrl": "/emotes/alice/Bonk.gif"
+  },
+  {
+    "id": "alice-book-blush",
+    "character": "alice",
+    "name": "Book (Blush)",
+    "action": "Book",
+    "variant": "Blush",
+    "tags": [
+      "book",
+      "blush",
+      "read",
+      "reading",
+      "study",
+      "learn",
+      "novel",
+      "story"
+    ],
+    "filename": "Book (Blush).gif",
+    "url": "/emotes/alice/Book%20(Blush).gif",
+    "localUrl": "/emotes/alice/Book%20(Blush).gif"
+  },
+  {
+    "id": "alice-book-read",
+    "character": "alice",
+    "name": "Book (Read)",
+    "action": "Book",
+    "variant": "Read",
+    "tags": [
+      "book",
+      "read",
+      "reading",
+      "study",
+      "learn",
+      "novel",
+      "story"
+    ],
+    "filename": "Book (Read).gif",
+    "url": "/emotes/alice/Book%20(Read).gif",
+    "localUrl": "/emotes/alice/Book%20(Read).gif"
   },
   {
     "id": "alice-boop",
@@ -420,6 +674,86 @@
     "filename": "Caught in 4K (Video Camera).gif",
     "url": "/emotes/alice/Caught%20in%204K%20(Video%20Camera).gif",
     "localUrl": "/emotes/alice/Caught%20in%204K%20(Video%20Camera).gif"
+  },
+  {
+    "id": "alice-cauldron-magic1",
+    "character": "alice",
+    "name": "Cauldron (Magic1)",
+    "action": "Cauldron",
+    "variant": "Magic1",
+    "tags": [
+      "cauldron",
+      "magic1",
+      "potion",
+      "magic",
+      "witch",
+      "brew",
+      "halloween",
+      "cook"
+    ],
+    "filename": "Cauldron (Magic1).gif",
+    "url": "/emotes/alice/Cauldron%20(Magic1).gif",
+    "localUrl": "/emotes/alice/Cauldron%20(Magic1).gif"
+  },
+  {
+    "id": "alice-cauldron-magic2",
+    "character": "alice",
+    "name": "Cauldron (Magic2)",
+    "action": "Cauldron",
+    "variant": "Magic2",
+    "tags": [
+      "cauldron",
+      "magic2",
+      "potion",
+      "magic",
+      "witch",
+      "brew",
+      "halloween",
+      "cook"
+    ],
+    "filename": "Cauldron (Magic2).gif",
+    "url": "/emotes/alice/Cauldron%20(Magic2).gif",
+    "localUrl": "/emotes/alice/Cauldron%20(Magic2).gif"
+  },
+  {
+    "id": "alice-cauldron-stir1",
+    "character": "alice",
+    "name": "Cauldron (Stir1)",
+    "action": "Cauldron",
+    "variant": "Stir1",
+    "tags": [
+      "cauldron",
+      "stir1",
+      "potion",
+      "magic",
+      "witch",
+      "brew",
+      "halloween",
+      "cook"
+    ],
+    "filename": "Cauldron (Stir1).gif",
+    "url": "/emotes/alice/Cauldron%20(Stir1).gif",
+    "localUrl": "/emotes/alice/Cauldron%20(Stir1).gif"
+  },
+  {
+    "id": "alice-cauldron-stir2",
+    "character": "alice",
+    "name": "Cauldron (Stir2)",
+    "action": "Cauldron",
+    "variant": "Stir2",
+    "tags": [
+      "cauldron",
+      "stir2",
+      "potion",
+      "magic",
+      "witch",
+      "brew",
+      "halloween",
+      "cook"
+    ],
+    "filename": "Cauldron (Stir2).gif",
+    "url": "/emotes/alice/Cauldron%20(Stir2).gif",
+    "localUrl": "/emotes/alice/Cauldron%20(Stir2).gif"
   },
   {
     "id": "alice-celebration",
@@ -819,6 +1153,66 @@
     "filename": "Dizzy.gif",
     "url": "/emotes/alice/Dizzy.gif",
     "localUrl": "/emotes/alice/Dizzy.gif"
+  },
+  {
+    "id": "alice-draw-angry",
+    "character": "alice",
+    "name": "Draw (Angry)",
+    "action": "Draw",
+    "variant": "Angry",
+    "tags": [
+      "draw",
+      "angry",
+      "drawing",
+      "art",
+      "paint",
+      "sketch",
+      "tablet",
+      "create"
+    ],
+    "filename": "Draw (Angry).gif",
+    "url": "/emotes/alice/Draw%20(Angry).gif",
+    "localUrl": "/emotes/alice/Draw%20(Angry).gif"
+  },
+  {
+    "id": "alice-draw-normal",
+    "character": "alice",
+    "name": "Draw (Normal)",
+    "action": "Draw",
+    "variant": "Normal",
+    "tags": [
+      "draw",
+      "normal",
+      "drawing",
+      "art",
+      "paint",
+      "sketch",
+      "tablet",
+      "create"
+    ],
+    "filename": "Draw (Normal).gif",
+    "url": "/emotes/alice/Draw%20(Normal).gif",
+    "localUrl": "/emotes/alice/Draw%20(Normal).gif"
+  },
+  {
+    "id": "alice-draw-tired",
+    "character": "alice",
+    "name": "Draw (Tired)",
+    "action": "Draw",
+    "variant": "Tired",
+    "tags": [
+      "draw",
+      "tired",
+      "drawing",
+      "art",
+      "paint",
+      "sketch",
+      "tablet",
+      "create"
+    ],
+    "filename": "Draw (Tired).gif",
+    "url": "/emotes/alice/Draw%20(Tired).gif",
+    "localUrl": "/emotes/alice/Draw%20(Tired).gif"
   },
   {
     "id": "alice-drink-energydrink1",
@@ -1466,6 +1860,24 @@
     "localUrl": "/emotes/alice/Head%20Shake.gif"
   },
   {
+    "id": "alice-hurt",
+    "character": "alice",
+    "name": "Hurt",
+    "action": "Hurt",
+    "variant": "",
+    "tags": [
+      "hurt",
+      "pain",
+      "ouch",
+      "injury",
+      "damage",
+      "sad"
+    ],
+    "filename": "Hurt.gif",
+    "url": "/emotes/alice/Hurt.gif",
+    "localUrl": "/emotes/alice/Hurt.gif"
+  },
+  {
     "id": "alice-hydrate",
     "character": "alice",
     "name": "Hydrate",
@@ -2096,6 +2508,23 @@
     "localUrl": "/emotes/alice/Nervous%202.gif"
   },
   {
+    "id": "alice-nervous-3",
+    "character": "alice",
+    "name": "Nervous (3)",
+    "action": "Nervous",
+    "variant": "3",
+    "tags": [
+      "nervous",
+      "3",
+      "anxious",
+      "sweat",
+      "worry"
+    ],
+    "filename": "Nervous 3.gif",
+    "url": "/emotes/alice/Nervous%203.gif",
+    "localUrl": "/emotes/alice/Nervous%203.gif"
+  },
+  {
     "id": "alice-noted-1",
     "character": "alice",
     "name": "Noted (1)",
@@ -2404,6 +2833,25 @@
     "localUrl": "/emotes/alice/Press.gif"
   },
   {
+    "id": "alice-pumpkin",
+    "character": "alice",
+    "name": "Pumpkin",
+    "action": "Pumpkin",
+    "variant": "",
+    "tags": [
+      "pumpkin",
+      "halloween",
+      "autumn",
+      "fall",
+      "jack-o-lantern",
+      "spooky",
+      "gourd"
+    ],
+    "filename": "Pumpkin.gif",
+    "url": "/emotes/alice/Pumpkin.gif",
+    "localUrl": "/emotes/alice/Pumpkin.gif"
+  },
+  {
     "id": "alice-question",
     "character": "alice",
     "name": "Question",
@@ -2566,6 +3014,23 @@
     "localUrl": "/emotes/alice/Rub%201.gif"
   },
   {
+    "id": "alice-scared-cross",
+    "character": "alice",
+    "name": "Scared (Cross)",
+    "action": "Scared",
+    "variant": "Cross",
+    "tags": [
+      "scared",
+      "cross",
+      "fear",
+      "frightened",
+      "shock"
+    ],
+    "filename": "Scared (Cross).gif",
+    "url": "/emotes/alice/Scared%20(Cross).gif",
+    "localUrl": "/emotes/alice/Scared%20(Cross).gif"
+  },
+  {
     "id": "alice-scared-1",
     "character": "alice",
     "name": "Scared (1)",
@@ -2683,6 +3148,47 @@
     "filename": "Shy 3.gif",
     "url": "/emotes/alice/Shy%203.gif",
     "localUrl": "/emotes/alice/Shy%203.gif"
+  },
+  {
+    "id": "alice-sick-bed",
+    "character": "alice",
+    "name": "Sick (Bed)",
+    "action": "Sick",
+    "variant": "Bed",
+    "tags": [
+      "sick",
+      "bed",
+      "ill",
+      "illness",
+      "unwell",
+      "cold",
+      "flu",
+      "fever",
+      "bedrest"
+    ],
+    "filename": "Sick (Bed).gif",
+    "url": "/emotes/alice/Sick%20(Bed).gif",
+    "localUrl": "/emotes/alice/Sick%20(Bed).gif"
+  },
+  {
+    "id": "alice-sick",
+    "character": "alice",
+    "name": "Sick",
+    "action": "Sick",
+    "variant": "",
+    "tags": [
+      "sick",
+      "ill",
+      "illness",
+      "unwell",
+      "cold",
+      "flu",
+      "fever",
+      "bedrest"
+    ],
+    "filename": "Sick.gif",
+    "url": "/emotes/alice/Sick.gif",
+    "localUrl": "/emotes/alice/Sick.gif"
   },
   {
     "id": "alice-sing",
@@ -3030,6 +3536,40 @@
     "filename": "Swatter.gif",
     "url": "/emotes/alice/Swatter.gif",
     "localUrl": "/emotes/alice/Swatter.gif"
+  },
+  {
+    "id": "alice-sweat-wipe1",
+    "character": "alice",
+    "name": "Sweat (Wipe1)",
+    "action": "Sweat",
+    "variant": "Wipe1",
+    "tags": [
+      "sweat",
+      "wipe1",
+      "nervous",
+      "hot",
+      "anxious"
+    ],
+    "filename": "Sweat (Wipe1).gif",
+    "url": "/emotes/alice/Sweat%20(Wipe1).gif",
+    "localUrl": "/emotes/alice/Sweat%20(Wipe1).gif"
+  },
+  {
+    "id": "alice-sweat-wipe2",
+    "character": "alice",
+    "name": "Sweat (Wipe2)",
+    "action": "Sweat",
+    "variant": "Wipe2",
+    "tags": [
+      "sweat",
+      "wipe2",
+      "nervous",
+      "hot",
+      "anxious"
+    ],
+    "filename": "Sweat (Wipe2).gif",
+    "url": "/emotes/alice/Sweat%20(Wipe2).gif",
+    "localUrl": "/emotes/alice/Sweat%20(Wipe2).gif"
   },
   {
     "id": "alice-sweat",
